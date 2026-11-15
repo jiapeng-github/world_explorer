@@ -1,0 +1,72 @@
+{
+  "generatedAt": "2026-11-07",
+  "provider": "Stitch MCP",
+  "projectId": "13171212950021915224",
+  "projectUrl": "https://stitch.withgoogle.com/projects/13171212950021915224",
+  "designSystem": "assets/1a20267beb974f259e5e1102bf49d655",
+  "screens": [
+    {
+      "id": "11782434e9694ce2b2b1f8d1b75c1e9c",
+      "name": "projects/13171212950021915224/screens/11782434e9694ce2b2b1f8d1b75c1e9c",
+      "title": "中国 · 从高山到大海",
+      "width": 780,
+      "height": 3934,
+      "deviceType": "MOBILE",
+      "screenshot": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/13171212950021915224/files/433391c662a348659e8e52c3bd08e401:download",
+        "name": "projects/13171212950021915224/files/433391c662a348659e8e52c3bd08e401"
+      },
+      "htmlCode": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/13171212950021915224/files/3bd4887923d141cc8b7701508b372a84:download",
+        "mimeType": "text/html",
+        "name": "projects/13171212950021915224/files/3bd4887923d141cc8b7701508b372a84"
+      }
+    },
+    {
+      "id": "3e18546ee7024167884f101b39476e23",
+      "name": "projects/13171212950021915224/screens/3e18546ee7024167884f101b39476e23",
+      "title": "High quality scenic photograph of Jiuzhaigou National Park, Sichuan China, crystal clear turquoise emerald multi-tiered alpine lakes, lush autumn forest and distant mountain peaks, pristine natural landscape, documentary encyclopedia style, vibrant tranquil nature",
+      "width": 1376,
+      "height": 768,
+      "deviceType": "supporting-image",
+      "screenshot": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/13171212950021915224/files/d8c64f818272465eb771ce789bd8e345:download",
+        "name": "projects/13171212950021915224/files/d8c64f818272465eb771ce789bd8e345"
+      }
+    },
+    {
+      "id": "6de64f0b9b9747b7907addd290a4dbe5",
+      "name": "projects/13171212950021915224/screens/6de64f0b9b9747b7907addd290a4dbe5",
+      "title": "Relief topographic physical map background of East Asia and China, realistic satellite terrain elevation style, western Tibetan plateau brownish tan highland transitioning gradually to lush green eastern alluvial plains and deep coastal blue sea, subtle contour gradients, soft realistic natural geography map texture, clean educational background without artificial text lines",
+      "width": 1376,
+      "height": 768,
+      "deviceType": "supporting-image",
+      "screenshot": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/13171212950021915224/files/41e3ab056e8940a3ac293420955bc0b1:download",
+        "name": "projects/13171212950021915224/files/41e3ab056e8940a3ac293420955bc0b1"
+      }
+    },
+    {
+      "id": "4252d689bb2a42dc9bb6c9f656c057c8",
+      "name": "projects/13171212950021915224/screens/4252d689bb2a42dc9bb6c9f656c057c8",
+      "title": "中国探索地图",
+      "width": 2560,
+      "height": 2048,
+      "deviceType": "DESKTOP",
+      "screenshot": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/13171212950021915224/files/08de1b273e8944a39d033db4df70f3f4:download",
+        "name": "projects/13171212950021915224/files/08de1b273e8944a39d033db4df70f3f4"
+      },
+      "htmlCode": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/13171212950021915224/files/160d3e7ea09d4c74b4398d52a5a447a6:download",
+        "mimeType": "text/html",
+        "name": "projects/13171212950021915224/files/160d3e7ea09d4c74b4398d52a5a447a6"
+      }
+    }
+  ],
+  "prompts": {
+    "home": "设计一个正式可实现的儿童世界百科 App 中国国家主页，手机 MOBILE，430px宽长页面，用户8岁。页面标题“中国 · 从高山到大海”。采用现代地理图鉴、清晰的地理杂志排版、大幅真实风景照片。中文Noto Sans SC，正文18px行高1.65，标题32px，次标题24px，最小点击区48×48，主按钮52px。颜色必须严格：canvas #F4F7FB、surface白、ink #12243A、navy #12395B、blue #265F91、orange #FF9A3D、muted #53677D、line #DDE5EE。不要森林绿/羊皮纸/幼儿卡通。橙色只作关键按钮点缀，橙底用深海蓝字。\n页面从上到下：\n1 长城山脊实景hero，高300px，左上圆形返回，右上收藏；照片上清楚写“中国”“CHINA”，副标题“从高山到大海”，底部独立短图注“长城 · 山脊上的线索”。不伪造摄影师许可。\n2 白色圆角内容层，24px边距，标题“先认识中国”，短介绍“沿着山河寻找线索，看看人们怎样生活，也听听过去留下的故事。”事实栏3格“首都 北京”“所在大洲 亚洲”“货币 人民币”。\n3 三个并排大图入口“山河”“生活”“文明”，各有地形实景、运河日常、传统建筑照片，说明分别“地势与江河”“身边的不同”“过去与今天”。\n4 大标题“你想了解什么？”；十栏目二列宽触控行：国家名片、地理与气候、人们与语言、日常生活、饮食与物产、艺术与节日、城市与地标、动物与生态、历史故事、有趣问题。线性图标、深海蓝字、简单边线，不把所有内容塞进满屏小卡片。\n5 横向图集标题“从这些地方出发”，照片卡“金山岭长城”“九寨沟”“大运河 · 杭州段”。每卡真实大图、一句观察问题。\n6 大地图入口条“在地图上找一找”，副标题“把照片里的风景，放回真实的位置”，右箭头。下方低调文字链接“资料来源与图片许可”。\n7 固定底部一枚橙底深海蓝大按钮“从山河开始”，和小图标“听简介”。国家详情是子页面，不显示四主导航。\n没有离线百科/完整百科标签，没有金币、排行榜、硬编码完成百分比、人工智能聊天入口、自动轮播。这个页面是设计目标，所有导航可以留出结构但不假称内容已开发。保持内容舒展、视觉精致、照片主角，真实可触控。",
+    "map": "为同一中国儿童百科设计一张横屏平板地图探索页，TABLET 1194×834，标题“中国探索地图”。复用“中国 · 从高山到大海”设计系统，但以此规格的确切颜色和布局为准：#F4F7FB底、#FFFFFF面板、#12395B结构、#12243A正文、#FF9A3D关键点、#265F91河流与链接、#DDE5EE边线。中文Noto Sans SC，主标题32px、正文18px、说明16px，最小48px触控。\n左右双栏，左地图约70%，右侧内容栏约30%；左侧窄导航栏四入口发现/地图（选中）/百科/我的。顶部返回中国、标题、搜索“搜索中国的山河与地点”。地形/河流/地标三种可切换图层，选中河流。地图呈真实地形图风格、东亚全境自然地貌，地图中中国大陆及完整近海区域不裁切，使用可信地图占位，不手绘错误国界。地势色彩由西部棕灰高原过渡到东部绿色平原、蓝色海洋。少量清楚地名：北京、长江、黄河、九寨沟；河流是顺地形延伸的蓝色线，地点是橙点，不要把所有点连成一条虚假旅行路线。不把示意地图说成正式可用于导航的地图。\n右侧白色详情栏选中“九寨沟”，上方位置四川、自然景观分类，宽幅蓝绿湖泊与森林实景，下方“为什么这里有这么多不同的环境？”短说明“观察山谷、湖泊与森林，看看它们怎样相互联系。”两条可操作行“在地图上定位”“读一读它的故事”，主按钮“认识九寨沟”。下方并列微型入口长城/大运河。\n地图左下清楚图例“河流”“已收录地点”“准备中的内容”，颜色同时配线/实心点/空心点等形状。地图右下放大、缩小、回到中国三个48px按钮。选中点有高对比外环、名称标牌与引线，不与其他标签重叠。设计角落可以展示一个非主选中的小型灰色示例信息条“更多地点 · 即将上线”，按钮置灰、无箭头且不可点击；不能把当前已收录的中国或九寨沟做成即将上线。不要离线百科/完整百科标签、分数/金币/等级/百分比。保留大量地图空间，整体是现代地理图鉴，不是旅行预订或游戏。UI结构可编辑，地图和图片本身仍是设计示意，正式地理资产由Flutter工程接入。"
+  }
+}
+

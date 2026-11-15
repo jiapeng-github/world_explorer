@@ -1,0 +1,58 @@
+[
+  {
+    "name": "01-deu-overview",
+    "prompt": "Use case ui-mockup. Design 世界大百科 Chinese educational geography app for age 8. Modern photographic atlas, white and #F4F7FB, navy #12395B, orange #FF9A3D. Elegant readable Chinese, rounded16dp cards, generous spacing, NOT cartoon, no mascot, no device frames. Two complete flat portrait mobile screens side by side, each 390x844 proportions, high resolution. Short precise Chinese labels. Header 世界大百科 / 儿童地理百科 with search and menu. Documentary-style concept photos, not illustrations. Small footer 德国模块·界面概念设计. Only article readers have bottom toolbar 目录 / 听讲解 / 收藏 / 笔记. Other screens no reader toolbar. Maps clearly marked 地图示意. LEFT Germany overview hero daylight Rhine valley with real-looking river bend and castle hillside, title 德国 / GERMANY / 沿着河流发现世界. White panel 先认识德国. Facts 柏林 首都 / 欧洲中部 位置 / 德语 官方语言. Three photo cards 河流与城市 / 森林与海岸 / 物件里的时间. Questions 河流会跨过国界吗？ / 活字为什么能重复使用？. Orange CTA 从莱茵河开始. RIGHT 德国·探索目录 with mosaic Rhine, beech forest, Berlin. Ten photo tiles 国家名片 地理与气候 人们与语言 日常生活 饮食与物产 艺术与活动 城市与地标 动物与生态 历史线索 有趣问题. Navy 打开德国地图.",
+    "file": "images/01-deu-overview.png",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-c9285960-9dad-4ee4-9965-6180f2ecb965.png",
+    "mode": "built-in image_gen",
+    "status": "概念效果图，待确认"
+  },
+  {
+    "name": "02-deu-map",
+    "prompt": "Use case ui-mockup. Design 世界大百科 Chinese educational geography app for age 8. Modern photographic atlas, white and #F4F7FB, navy #12395B, orange #FF9A3D. Elegant readable Chinese, rounded16dp cards, generous spacing, NOT cartoon, no mascot, no device frames. Two complete flat portrait mobile screens side by side, each 390x844 proportions, high resolution. Short precise Chinese labels. Header 世界大百科 / 儿童地理百科 with search and menu. Documentary-style concept photos, not illustrations. Small footer 德国模块·界面概念设计. Only article readers have bottom toolbar 目录 / 听讲解 / 收藏 / 笔记. Other screens no reader toolbar. Maps clearly marked 地图示意. Override layout: large landscape tablet left and phone right. 德国探索地图. Tablet left global rail 发现 地图 百科 我的. Accurate north-up Germany relief outline, neighbours context, Rhine west, Elbe east, Danube south. Berlin NE, Hamburg north, Cologne west, Munich south. Three tabs 地形 水系 地点. Selected 莱茵河·科布伦茨 with river confluence photo and 查看地点. Phone same map with bottom sheet 瓦登海·德国北海岸 photo mudflats, 查看地点. Phone global nav 发现 地图 百科 我的. Country extent includes islands, lake borders not national ownership. Label 地图示意, no fake coordinates.",
+    "file": "images/02-deu-map.png",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-22368941-ef00-476a-8199-dc8b62df2006.png",
+    "mode": "built-in image_gen",
+    "status": "概念效果图，待确认"
+  },
+  {
+    "name": "03-deu-river",
+    "prompt": "Use case ui-mockup. Design 世界大百科 Chinese educational geography app for age 8. Modern photographic atlas, white and #F4F7FB, navy #12395B, orange #FF9A3D. Elegant readable Chinese, rounded16dp cards, generous spacing, NOT cartoon, no mascot, no device frames. Two complete flat portrait mobile screens side by side, each 390x844 proportions, high resolution. Short precise Chinese labels. Header 世界大百科 / 儿童地理百科 with search and menu. Documentary-style concept photos, not illustrations. Small footer 德国模块·界面概念设计. Only article readers have bottom toolbar 目录 / 听讲解 / 收藏 / 笔记. Other screens no reader toolbar. Maps clearly marked 地图示意. LEFT article 莱茵河只流经德国吗？ wide Rhine confluence photo, short intro 一条河，可以连接不同国家。. Original simple river diagram blue river crossing two dashed boundaries, labels 河流 国界 入海方向, explicit 关系示意，不是导航图. Inline question 河流一定停在国界吗？ options 不一定 / 一定, orange 确认. Reader bottom bar. RIGHT place 莱茵河·科布伦茨 large confluence photo hotspots 莱茵河 摩泽尔河 with caption 两条河在这里相遇. Three thumbnails. 找一找汇合处. Navy 在地图上看看 orange 记下我的发现. No reader toolbar on place.",
+    "file": "images/03-deu-river.png",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-61888478-cf0b-4706-ba96-3789a6c277b6.png",
+    "mode": "built-in image_gen",
+    "status": "概念效果图，待确认"
+  },
+  {
+    "name": "04-deu-history",
+    "prompt": "Use case ui-mockup. Design 世界大百科 Chinese educational geography app for age 8. Modern photographic atlas, white and #F4F7FB, navy #12395B, orange #FF9A3D. Elegant readable Chinese, rounded16dp cards, generous spacing, NOT cartoon, no mascot, no device frames. Two complete flat portrait mobile screens side by side, each 390x844 proportions, high resolution. Short precise Chinese labels. Header 世界大百科 / 儿童地理百科 with search and menu. Documentary-style concept photos, not illustrations. Small footer 德国模块·界面概念设计. Only article readers have bottom toolbar 目录 / 听讲解 / 收藏 / 笔记. Other screens no reader toolbar. Maps clearly marked 地图示意. LEFT 德国·历史线索. Restrained archival layout, three cards 约1450年代 活字与印刷 / 1933—1945 记住迫害与战争 / 1989—1990 从开放边界到统一. Human-rights centered non-graphic archival objects, no Nazi insignia, no celebratory war imagery. Each 查看证据. Caption 卡片间距不代表时间长度. RIGHT article 活字为什么能重复使用？ photograph metal type blocks, original numbered diagram 排字 上墨 压印 再组合, text 古腾堡改进了欧洲印刷系统，东亚更早已有印刷与活字技术。. Inline question 哪一步可以重新排列字？选字与排字 / 把纸撕碎. Reader bar only right.",
+    "file": "images/04-deu-history.png",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-4dc30ff3-9b55-4780-a5a4-e59452c0804b.png",
+    "mode": "built-in image_gen",
+    "status": "概念效果图，待确认"
+  },
+  {
+    "name": "05-deu-daily-nature",
+    "prompt": "Use case ui-mockup. Design 世界大百科 Chinese educational geography app for age 8. Modern photographic atlas, white and #F4F7FB, navy #12395B, orange #FF9A3D. Elegant readable Chinese, rounded16dp cards, generous spacing, NOT cartoon, no mascot, no device frames. Two complete flat portrait mobile screens side by side, each 390x844 proportions, high resolution. Short precise Chinese labels. Header 世界大百科 / 儿童地理百科 with search and menu. Documentary-style concept photos, not illustrations. Small footer 德国模块·界面概念设计. Only article readers have bottom toolbar 目录 / 听讲解 / 收藏 / 笔记. Other screens no reader toolbar. Maps clearly marked 地图示意. LEFT 德国·日常生活. Big daylight Leipzig street and tram photo, heading 城市里的一天, three horizontal photo cards 电车怎样换乘 / 标签上的信息 / 自行车与步行空间. Navy 在地图上找莱比锡. RIGHT article 森林里的枯木有用吗？ large natural German beech forest photograph with fallen wood, no wildlife fakery. Original ecology diagram 倒木 → 真菌与小动物 → 养分循环 marked 过程示意. Question 枯木只是没有用的垃圾吗？ 不是 / 是. Orange 确认 and reader toolbar.",
+    "file": "images/05-deu-daily-nature.png",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-c5e9ec37-47c1-4996-a443-7166c36139ac.png",
+    "mode": "built-in image_gen",
+    "status": "概念效果图，待确认"
+  },
+  {
+    "name": "06-deu-explore-discoveries",
+    "prompt": "Use case ui-mockup. Design 世界大百科 Chinese educational geography app for age 8. Modern photographic atlas, white and #F4F7FB, navy #12395B, orange #FF9A3D. Elegant readable Chinese, rounded16dp cards, generous spacing, NOT cartoon, no mascot, no device frames. Two complete flat portrait mobile screens side by side, each 390x844 proportions, high resolution. Short precise Chinese labels. Header 世界大百科 / 儿童地理百科 with search and menu. Documentary-style concept photos, not illustrations. Small footer 德国模块·界面概念设计. Only article readers have bottom toolbar 目录 / 听讲解 / 收藏 / 笔记. Other screens no reader toolbar. Maps clearly marked 地图示意. LEFT 德国·探索任务. Photo banner castle hillside river. Four category tiles 找地图 看照片 找证据 写观察. Recommended cards 找到柏林 / 看清潮滩纹理 / 看见与猜想 with image thumb and arrow. RIGHT 我的德国发现. Real empty state numbers 0 读过文章 / 0 看过地点 / 0 观察记录. Empty notebook illustration restrained line icon, 尚未留下观察记录. Two photo recommendations 去看瓦登海 / 森林里找线索, CTA 开始一次探索. No fabricated completed badges, no reader toolbar.",
+    "file": "images/06-deu-explore-discoveries.png",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-6a3ef742-c78b-49f7-80be-5d6f4fdc2684.png",
+    "mode": "built-in image_gen",
+    "status": "概念效果图，待确认"
+  },
+  {
+    "name": "07-deu-journey-note",
+    "prompt": "Use case ui-mockup. Design 世界大百科 Chinese educational geography app for age 8. Modern photographic atlas, white and #F4F7FB, navy #12395B, orange #FF9A3D. Elegant readable Chinese, rounded16dp cards, generous spacing, NOT cartoon, no mascot, no device frames. Two complete flat portrait mobile screens side by side, each 390x844 proportions, high resolution. Short precise Chinese labels. Header 世界大百科 / 儿童地理百科 with search and menu. Documentary-style concept photos, not illustrations. Small footer 德国模块·界面概念设计. Only article readers have bottom toolbar 目录 / 听讲解 / 收藏 / 笔记. Other screens no reader toolbar. Maps clearly marked 地图示意. LEFT 森林与海岸 reading journey. Hero beech forest, explicit 三站·阅读顺序，不是交通路线. Three connected vertical cards 01 枯木的新角色 / 02 潮滩里的生命 / 03 山地与湖泊, thumbnail each. Orange 从第一站开始. RIGHT 我的观察笔记. Wadden mudflat landscape source material thumbnail labeled 材料来源, three EMPTY fields 我看见 / 我猜想 / 我还想知道, subtle placeholders not actual answers. Disabled gray 保存我的发现, caption 草稿保存在本机. No reader toolbar.",
+    "file": "images/07-deu-journey-note.png",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-cf543f0d-a1c2-4816-827d-49cc392862b7.png",
+    "mode": "built-in image_gen",
+    "status": "概念效果图，待确认"
+  }
+]

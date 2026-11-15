@@ -1,0 +1,3 @@
+Content schema, references, timeline fields and bundled media: PASS
+{"countries": 177, "articles": 297, "places": 117, "topics": 8, "exercises": 228, "media": 281}
+Countries with editorial articles: 12

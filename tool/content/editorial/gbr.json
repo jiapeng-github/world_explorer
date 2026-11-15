@@ -1,0 +1,3384 @@
+{
+  "country": {
+    "id": "gbr",
+    "name": "英国",
+    "code": "GB",
+    "englishName": "United Kingdom",
+    "coverage": "editorial",
+    "revision": 1,
+    "capital": "伦敦",
+    "mediaId": "gbr-m01",
+    "intro": "沿着泰晤士河出发，看看桥怎样连接两岸。再走向石柱海岸、威尔士山地和苏格兰山谷，从照片、地图和档案里找到自己的发现。",
+    "tagline": "沿着泰晤士河出发",
+    "facts": [
+      {
+        "label": "位置",
+        "value": "欧洲西北"
+      },
+      {
+        "label": "首都",
+        "value": "伦敦"
+      },
+      {
+        "label": "组成",
+        "value": "四个部分"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "gbr-timeline-stonehenge",
+        "period": "约公元前2500年",
+        "title": "石圈留下的线索",
+        "body": "巨石阵分阶段建造，它的全部用途仍有尚未确定的问题。",
+        "mediaId": "gbr-m21",
+        "articleIds": [
+          "gbr-stonehenge"
+        ]
+      },
+      {
+        "id": "gbr-timeline-railway",
+        "period": "1825年",
+        "title": "铁路带来的变化",
+        "body": "用机车实物和历史插图，区分不同种类的证据。",
+        "mediaId": "gbr-m23",
+        "articleIds": [
+          "gbr-railway-change"
+        ]
+      },
+      {
+        "id": "gbr-timeline-votes",
+        "period": "1928年",
+        "title": "投票资格的变化",
+        "body": "女性获得与男性相同的21岁投票年龄资格；查法案了解条件。",
+        "mediaId": "gbr-m34",
+        "articleIds": [
+          "gbr-voting-rights"
+        ]
+      }
+    ],
+    "takeaways": [
+      "英国有英格兰、苏格兰、威尔士和北爱尔兰四个组成部分。",
+      "英国、大不列颠岛和爱尔兰岛指不同的范围。",
+      "照片、地图与档案，可以一起帮助我们查证想法。"
+    ],
+    "sources": [
+      {
+        "title": "英国国家统计局 · 国家分类",
+        "url": "https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/nationalstatisticscountryclassification/explanatorynotesandcodingguidelines",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "Thames21 · 潮汐泰晤士河",
+        "url": "https://www.thames21.org.uk/what-is-the-tidal-thames/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "National Trust · 巨人堤",
+        "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "英国气象局 · 区域气候",
+        "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data/regional-climates",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "威尔士语言专员 · 卡迪夫地名",
+        "url": "https://www.welshlanguagecommissioner.wales/standard-welsh-place-names/caerdydd",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "国家公园 · 盖尔语地名",
+        "url": "https://www.lochlomond-trossachs.org/discover-the-park/our-heritage-culture/our-gaelic-culture/lochs-glens-straths/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "伦敦交通局 · 地铁地图",
+        "url": "https://tfl.gov.uk/maps/track/tube",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "伦敦塔桥 · 运行原理",
+        "url": "https://www.towerbridge.org.uk/stories/how-does-tower-bridge-work",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "皇家公园 · 圣詹姆斯公园生态",
+        "url": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/wildlife",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "苏格兰食品标准局 · 燕麦食品",
+        "url": "https://www.foodstandards.gov.scot/downloads/FSS_Report_Analysis_Oat_Products_FR002547.pdf",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "威尔士博物馆 · 果干面包",
+        "url": "https://museum.wales/collections/welsh-foods/?id=178",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "邱园 · 茶树",
+        "url": "https://www.kew.org/plants/tea-plant",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "苏格兰乡村舞协会 · 凯利舞",
+        "url": "https://rscds.org/what-is-a-ceilidh/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "莎士比亚环球剧场 · 建筑与历史",
+        "url": "https://www.shakespearesglobe.com/discover/about-us/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "英足总 · 英国四地足球协会",
+        "url": "https://www.thefa.com/news/2026/feb/09/four-uk-football-associations-welcome-fifa-womens-world-cup-2035-inspection-visit-20260902",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "英国议会 · 钟楼",
+        "url": "https://www.parliament.uk/about/living-heritage/building/palace/architecture/palacestructure/towers-of-parliament/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "爱丁堡城堡 · 历史",
+        "url": "https://www.edinburghcastle.scot/the-castle/history/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "Eryri 国家公园 · 地名",
+        "url": "https://eryri.gov.wales/discover/culture-language-and-community/place-names/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "威尔士野生动物信托 · 斯科默岛",
+        "url": "https://www.welshwildlife.org/visit/skomer-island",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "英国地质学会 · 莱姆里吉斯",
+        "url": "https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/educational/lyme-regis-beaches/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "英国地质学会 · 格伦科",
+        "url": "https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/fire-and-ice/glencoe/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "English Heritage · 巨石阵",
+        "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "科学博物馆集团 · Locomotion No.1",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co205767",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "title": "英国议会 · 1928年法案",
+        "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/unesco/equal-franchise-act-1928/",
+        "checkedAt": "2026-11-09"
+      }
+    ],
+    "sections": {
+      "overview": [
+        "gbr-find-on-map",
+        "gbr-four-parts",
+        "gbr-capital-london"
+      ],
+      "geography": [
+        "gbr-thames-city",
+        "gbr-causeway-columns",
+        "gbr-changeable-weather"
+      ],
+      "people": [
+        "gbr-welsh-signs",
+        "gbr-scottish-place-names",
+        "gbr-belfast-neighborhood"
+      ],
+      "daily": [
+        "gbr-tube-diagram",
+        "gbr-bridge-banks",
+        "gbr-city-park"
+      ],
+      "food": [
+        "gbr-oats",
+        "gbr-bara-brith",
+        "gbr-tea-journey"
+      ],
+      "culture": [
+        "gbr-ceilidh",
+        "gbr-story-stage",
+        "gbr-football-teams"
+      ],
+      "landmarks": [
+        "gbr-bell-tower",
+        "gbr-edinburgh",
+        "gbr-eryri"
+      ],
+      "nature": [
+        "gbr-puffin-coast",
+        "gbr-jurassic-coast",
+        "gbr-glencoe-valley"
+      ],
+      "history": [
+        "gbr-stonehenge",
+        "gbr-railway-change",
+        "gbr-voting-rights"
+      ],
+      "questions": [
+        "gbr-island-country",
+        "gbr-seen-guessed",
+        "gbr-two-coasts"
+      ]
+    },
+    "editorial": {
+      "subtitle": "沿着泰晤士河出发",
+      "introduction": "沿着泰晤士河出发，看看桥怎样连接两岸。再走向石柱海岸、威尔士山地和苏格兰山谷，从照片、地图和档案里找到自己的发现。",
+      "startLabel": "从泰晤士河开始",
+      "startJourneyId": "river-city",
+      "questionArticleIds": [
+        "gbr-four-parts",
+        "gbr-causeway-columns"
+      ],
+      "factOverrides": [
+        {
+          "label": "位置",
+          "value": "欧洲西北"
+        },
+        {
+          "label": "首都",
+          "value": "伦敦"
+        },
+        {
+          "label": "组成",
+          "value": "四个部分"
+        }
+      ],
+      "directoryTitle": "英国 · 探索目录",
+      "directory": {
+        "mediaIds": [
+          "gbr-m02",
+          "gbr-m05",
+          "gbr-m15"
+        ]
+      },
+      "featuredDirectoryPlaceId": "gbr-giants-causeway",
+      "featuredDirectoryTitle": "下一站，去石柱海岸",
+      "timelineTitle": "英国 · 历史线索",
+      "timeline": [
+        {
+          "id": "gbr-timeline-stonehenge",
+          "period": "约公元前2500年",
+          "title": "石圈留下的线索",
+          "body": "巨石阵分阶段建造，它的全部用途仍有尚未确定的问题。",
+          "mediaId": "gbr-m21",
+          "articleIds": [
+            "gbr-stonehenge"
+          ]
+        },
+        {
+          "id": "gbr-timeline-railway",
+          "period": "1825年",
+          "title": "铁路带来的变化",
+          "body": "用机车实物和历史插图，区分不同种类的证据。",
+          "mediaId": "gbr-m23",
+          "articleIds": [
+            "gbr-railway-change"
+          ]
+        },
+        {
+          "id": "gbr-timeline-votes",
+          "period": "1928年",
+          "title": "投票资格的变化",
+          "body": "女性获得与男性相同的21岁投票年龄资格；查法案了解条件。",
+          "mediaId": "gbr-m34",
+          "articleIds": [
+            "gbr-voting-rights"
+          ]
+        }
+      ],
+      "explore": {
+        "mediaId": "gbr-m06",
+        "featuredTaskIds": [
+          "gbr-l03",
+          "gbr-p01",
+          "gbr-c10"
+        ],
+        "categories": [
+          {
+            "id": "location",
+            "title": "找地图",
+            "mediaId": "gbr-m12"
+          },
+          {
+            "id": "observation",
+            "title": "看照片",
+            "mediaId": "gbr-m05"
+          },
+          {
+            "id": "choice",
+            "title": "找证据",
+            "mediaId": "gbr-m23"
+          },
+          {
+            "id": "open",
+            "title": "写观察",
+            "mediaId": "gbr-m19"
+          }
+        ]
+      },
+      "discoveries": {
+        "mediaId": "gbr-m02",
+        "recommendedPlaceIds": [
+          "gbr-giants-causeway",
+          "gbr-skomer"
+        ],
+        "recommendationTitles": [
+          "再看石柱海岸",
+          "去找海鹦的家"
+        ]
+      },
+      "journeys": [
+        {
+          "id": "river-city",
+          "title": "沿着河流进城",
+          "subtitle": "从河岸走向桥，再辨认钟与钟楼。",
+          "coverTitle": "沿着河流进城",
+          "mediaId": "gbr-m02",
+          "articleIds": [
+            "gbr-thames-city",
+            "gbr-bridge-banks",
+            "gbr-bell-tower"
+          ],
+          "stopTitles": [
+            "河流穿城",
+            "连接两岸",
+            "钟与钟楼"
+          ]
+        },
+        {
+          "id": "coast",
+          "title": "去海岸找线索",
+          "subtitle": "看岩层、石柱与海鹦，把照片和资料放在一起。",
+          "coverTitle": "去海岸找线索",
+          "mediaId": "gbr-m06",
+          "articleIds": [
+            "gbr-jurassic-coast",
+            "gbr-causeway-columns",
+            "gbr-puffin-coast"
+          ],
+          "stopTitles": [
+            "层层岩石",
+            "石柱裂缝",
+            "海鹦的家"
+          ]
+        },
+        {
+          "id": "time",
+          "title": "顺着时间找证据",
+          "subtitle": "从石圈、机车到一份改变投票资格的法案。",
+          "coverTitle": "顺着时间找证据",
+          "mediaId": "gbr-m21",
+          "articleIds": [
+            "gbr-stonehenge",
+            "gbr-railway-change",
+            "gbr-voting-rights"
+          ],
+          "stopTitles": [
+            "巨石阵",
+            "铁路的变化",
+            "投票的故事"
+          ]
+        }
+      ],
+      "sections": {
+        "overview": {
+          "title": "国家名片",
+          "summary": "把世界地图缩小，找到欧洲。",
+          "mediaId": "gbr-m01"
+        },
+        "geography": {
+          "title": "地理与气候",
+          "summary": "泰晤士河流经英格兰，穿过伦敦，最后通向北海。",
+          "mediaId": "gbr-m02"
+        },
+        "people": {
+          "title": "人们与语言",
+          "summary": "在威尔士的城市和车站，你可能遇到同时使用威尔士语和英语的标识。",
+          "mediaId": "gbr-m11"
+        },
+        "daily": {
+          "title": "城市里的一天",
+          "summary": "伦敦地铁把城市里的许多地方连接起来。",
+          "mediaId": "gbr-m02",
+          "primaryMapPlaceId": "gbr-thames-london",
+          "primaryLabel": "看看伦敦在地图哪里"
+        },
+        "food": {
+          "title": "饮食与物产",
+          "summary": "燕麦是一种谷物。",
+          "mediaId": "gbr-m28"
+        },
+        "culture": {
+          "title": "艺术与活动",
+          "summary": "凯利舞常被称作ceilidh dancing，是人们一起参与的舞蹈活动。",
+          "mediaId": "gbr-m31"
+        },
+        "landmarks": {
+          "title": "城市与地标",
+          "summary": "伦敦威斯敏斯特宫旁的钟楼很醒目。",
+          "mediaId": "gbr-m03"
+        },
+        "nature": {
+          "title": "海岸与自然",
+          "summary": "大西洋海鹦是一种海鸟。",
+          "mediaId": "gbr-m16"
+        },
+        "history": {
+          "title": "历史线索",
+          "summary": "巨石阵在英格兰威尔特郡。",
+          "mediaId": "gbr-m21"
+        },
+        "questions": {
+          "title": "有趣的问题",
+          "summary": "岛是一片被水围绕的陆地，国家是具有政治地理范围的单位。",
+          "mediaId": "gbr-m14"
+        }
+      },
+      "featuredPlaceIds": [
+        "gbr-giants-causeway",
+        "gbr-edinburgh",
+        "gbr-skomer"
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "gbr-find-on-map",
+      "countryId": "gbr",
+      "sectionId": "overview",
+      "title": "怎样在世界地图上找到英国？",
+      "summary": "把世界地图缩小，找到欧洲。",
+      "mediaId": "gbr-m01",
+      "blocks": [
+        {
+          "id": "gbr-find-on-map-b1",
+          "title": "先从欧洲找起",
+          "text": "把世界地图缩小，找到欧洲。英国在欧洲大陆西北岸外的海上，附近有大大小小的岛屿。先看大陆，再看海岸，最后寻找岛群，这样就不必记住一个孤零零的小点。国家名称写在图上，真正的海岸也能帮你找到位置。"
+        },
+        {
+          "id": "gbr-find-on-map-b2",
+          "title": "海洋围在四周",
+          "text": "英国西侧面向大西洋，东侧有北海，南边隔着英吉利海峡与法国相望。在地图上从英国向东移动，先经过水面，才会到欧洲大陆。沿着岸边观察，你会发现海岸曲曲折折，有海湾，也有向海里伸出的陆地。"
+        },
+        {
+          "id": "gbr-find-on-map-b3",
+          "title": "别漏掉北爱尔兰",
+          "text": "英国有英格兰、苏格兰、威尔士和北爱尔兰四个组成部分。前三者的主要陆地位于大不列颠岛，北爱尔兰在爱尔兰岛东北部。爱尔兰是另一个国家。看清界线和图例，才能知道哪一种颜色表示哪个范围。"
+        },
+        {
+          "id": "gbr-find-on-map-b4",
+          "title": "岛群也在地图里",
+          "text": "苏格兰北面还有奥克尼和设得兰群岛，西侧有外赫布里底群岛。它们分散在海上，所以全国图需要留出足够空间。放大一个城市后，这些岛可能暂时离开屏幕；按全图可以重新看见，不能把屏幕外的地方当成不存在。"
+        },
+        {
+          "id": "gbr-find-on-map-b5",
+          "title": "从大图走到小图",
+          "text": "现在试着完成一次寻找：在世界图点英国，打开区域地图，再找到首都伦敦。世界图帮助你理解国家在哪里，区域图帮助你寻找河流、城市和风景。把「欧洲西北」「周围有海」「四个组成部分」说给家人听，再让他用这三个线索找一次。"
+        }
+      ],
+      "term": "海岸",
+      "definition": "陆地与海水相接的地带。",
+      "glossary": [
+        {
+          "term": "海岸",
+          "definition": "陆地与海水相接的地带。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/nationalstatisticscountryclassification/explanatorynotesandcodingguidelines",
+        "https://commons.wikimedia.org/wiki/File:London,_Palace_of_Westminster_--_2016_--_4800.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "exerciseId": "gbr-l01"
+    },
+    {
+      "id": "gbr-four-parts",
+      "countryId": "gbr",
+      "sectionId": "overview",
+      "title": "英国和英格兰有什么不同？",
+      "summary": "地图上的英国、英格兰、大不列颠看起来很像，却指不同的范围。",
+      "mediaId": "gbr-m01",
+      "blocks": [
+        {
+          "id": "gbr-four-parts-b1",
+          "title": "名字像套在一起的盒子",
+          "text": "地图上的英国、英格兰、大不列颠看起来很像，却指不同的范围。英国的全名是大不列颠及北爱尔兰联合王国。你可以先把「英国」写在纸上，下面留出四个格子，分别放进四个组成部分的名字，再拿地图核对位置。"
+        },
+        {
+          "id": "gbr-four-parts-b2",
+          "title": "四个部分各有名字",
+          "text": "英格兰位于大不列颠岛南部和东部，苏格兰在北部，威尔士在西部，北爱尔兰在另一座岛的东北部。这些组成部分有各自的历史和文化，也共同构成英国。英格兰只是其中之一，介绍整个英国时不能只说英格兰。"
+        },
+        {
+          "id": "gbr-four-parts-b3",
+          "title": "岛是地理名称",
+          "text": "大不列颠岛描述的是一片被海水围绕的陆地。英格兰、苏格兰和威尔士的主要陆地在这座岛上，周边还有许多小岛。北爱尔兰不在大不列颠岛上。国家范围和岛屿范围回答两个问题，所以我们在地图里分别显示它们。"
+        },
+        {
+          "id": "gbr-four-parts-b4",
+          "title": "再看爱尔兰岛",
+          "text": "把地图向西移，能看到爱尔兰岛。岛的大部分属于爱尔兰，东北部是英国的北爱尔兰。岛可以被不同国家共享，而一个国家也可以包含多座岛。不要只沿着整座岛的海岸画线，就以为画出了英国在这里的边界。"
+        },
+        {
+          "id": "gbr-four-parts-b5",
+          "title": "换一种方式复述",
+          "text": "试着分别点一下英格兰、英国的四个部分和大不列颠岛。每点一次，说出你正在寻找的是组成部分、国家还是岛。地图旁的文字会告诉你范围。马恩岛、泽西岛和根西岛等王室属地，也不能直接算进英国这四个组成部分。"
+        }
+      ],
+      "term": "组成部分",
+      "definition": "这里指英格兰、苏格兰、威尔士和北爱尔兰。",
+      "glossary": [
+        {
+          "term": "组成部分",
+          "definition": "这里指英格兰、苏格兰、威尔士和北爱尔兰。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/nationalstatisticscountryclassification/explanatorynotesandcodingguidelines",
+        "https://commons.wikimedia.org/wiki/File:London,_Palace_of_Westminster_--_2016_--_4800.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "diagram": "gbr-islands-parts",
+      "exerciseId": "gbr-c01"
+    },
+    {
+      "id": "gbr-capital-london",
+      "countryId": "gbr",
+      "sectionId": "overview",
+      "title": "伦敦为什么在国家名片上？",
+      "summary": "打开英国地图，先找英格兰，再向东南部看。",
+      "mediaId": "gbr-m02",
+      "blocks": [
+        {
+          "id": "gbr-capital-london-b1",
+          "title": "在东南部找到城市",
+          "text": "打开英国地图，先找英格兰，再向东南部看。伦敦就在这一带，泰晤士河穿过城市。全国图里的一个小圆点能标出城市的大致位置，却不能表示城市真实的面积。放大后，才更容易看见河流和不同建筑的关系。"
+        },
+        {
+          "id": "gbr-capital-london-b2",
+          "title": "首都是什么意思",
+          "text": "伦敦是英国的首都。国家的许多重要公共机构在这里，包括议会和政府机构。首都也是一座有人居住、上学、工作和休息的城市。只看一座有名的建筑，你会漏掉很多普通人的生活，因此我们还要去看桥、街道和公园。"
+        },
+        {
+          "id": "gbr-capital-london-b3",
+          "title": "顺着河去认方向",
+          "text": "泰晤士河在伦敦并不笔直，它在城市中绕出一些弯。桥连接两岸，船在水面上通行。你可以先找一个明显的河湾，再找附近的桥，这比在一排相似的屋顶中寻找小建筑容易。地图里蓝色的线帮助你跟着河继续往前看。"
+        },
+        {
+          "id": "gbr-capital-london-b4",
+          "title": "建筑不等于整座城",
+          "text": "威斯敏斯特宫和伊丽莎白塔常出现在伦敦照片里。它们是城市里的地标，不能代表整个伦敦，也不能代表英国所有地方。像看自己熟悉的城市一样，试着想一想照片边缘以外，还有哪些街道、住宅或学校没有拍进去。"
+        },
+        {
+          "id": "gbr-capital-london-b5",
+          "title": "做一张城市位置卡",
+          "text": "在纸上写下「英国—英格兰—伦敦—泰晤士河岸」。这几个名字从大的范围走向具体的观察位置。打开伦敦地点页，读图注，看看拍摄者站在哪一岸。再返回全国地图，找找伦敦和卡迪夫、爱丁堡、贝尔法斯特的位置有什么不同。"
+        }
+      ],
+      "term": "首都",
+      "definition": "国家主要中央机构所在的城市。",
+      "glossary": [
+        {
+          "term": "首都",
+          "definition": "国家主要中央机构所在的城市。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.thames21.org.uk/what-is-the-tidal-thames/",
+        "https://commons.wikimedia.org/wiki/File:Thames_Panorama,_London_-_June_2009.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "exerciseId": "gbr-l02"
+    },
+    {
+      "id": "gbr-thames-city",
+      "countryId": "gbr",
+      "sectionId": "geography",
+      "title": "一条河怎样穿过伦敦？",
+      "summary": "泰晤士河流经英格兰，穿过伦敦，最后通向北海。",
+      "mediaId": "gbr-m02",
+      "blocks": [
+        {
+          "id": "gbr-thames-city-b1",
+          "title": "从河流的远处开始",
+          "text": "泰晤士河流经英格兰，穿过伦敦，最后通向北海。伦敦只是整条河的一段。先在水系图层找到河流，再沿蓝线从上游向下游移动，你会发现它经过城市以前，也经过别的地方。河道的转弯和长度不能由一张城市照片全部说明。"
+        },
+        {
+          "id": "gbr-thames-city-b2",
+          "title": "河湾把城市分成不同视角",
+          "text": "在照片里，近处的水面可能很宽，远处却像细线。这与观察位置有关。地图从上方看，能帮助我们识别河湾，而河岸照片能看见建筑立面、船和桥。把两种材料放在一起，城市与河流的关系就比单看一张图更清楚。",
+          "mediaId": "gbr-m04"
+        },
+        {
+          "id": "gbr-thames-city-b3",
+          "title": "桥把两岸连起来",
+          "text": "找到一座桥，先用手指指它的一端，再指另一端。两端位于河流两岸，桥让人和交通能够跨过水面。桥上可能有不同用途的空间，具体要看这座桥的说明。我们的小图只表示桥与两岸的关系，不是精确的伦敦交通地图。"
+        },
+        {
+          "id": "gbr-thames-city-b4",
+          "title": "河水也受海洋影响",
+          "text": "伦敦的泰晤士河段受到潮汐影响，水位会随涨潮和退潮变化。因此，一张照片中的水面高度不是永远不变的。要比较两张河岸照片，可以先核对拍摄时间，再观察台阶、岸墙或桥墩露出的部分。只靠照片不能确定某天的潮汐时间。"
+        },
+        {
+          "id": "gbr-thames-city-b5",
+          "title": "带着一个问题继续走",
+          "text": "你可以先读威斯敏斯特河岸，再打开塔桥地点页，看看不同桥梁怎样跨河。地图上选中河流不会算成已经看过地点，打开地点介绍才会记入自己的足迹。最后写下一个问题：如果没有这座桥，去对岸的人可能需要怎样绕行？"
+        }
+      ],
+      "term": "河口",
+      "definition": "河流流入海洋或其它水体的地方。",
+      "glossary": [
+        {
+          "term": "河口",
+          "definition": "河流流入海洋或其它水体的地方。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.thames21.org.uk/what-is-the-tidal-thames/",
+        "https://commons.wikimedia.org/wiki/File:Thames_Panorama,_London_-_June_2009.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "diagram": "gbr-river-city",
+      "exerciseId": "gbr-c02"
+    },
+    {
+      "id": "gbr-causeway-columns",
+      "countryId": "gbr",
+      "sectionId": "geography",
+      "title": "石柱真的是巨人铺的吗？",
+      "summary": "北爱尔兰的巨人堤有许多挨在一起的玄武岩石柱。",
+      "mediaId": "gbr-m05",
+      "blocks": [
+        {
+          "id": "gbr-causeway-columns-b1",
+          "title": "海边像铺了一层石头台阶",
+          "text": "北爱尔兰的巨人堤有许多挨在一起的玄武岩石柱。从上方看，柱顶像大小不一的多边形；从侧面看，可以发现向下延伸的柱体。先数一块柱顶的边，再换另一块。它们并不全是六边形，也不是每根柱子都一样高。"
+        },
+        {
+          "id": "gbr-causeway-columns-b2",
+          "title": "裂缝也是线索",
+          "text": "看近景照片，石柱之间有一道道缝。一些缝把岩石分成相邻的块，侧面还能看到竖向的纹理。这些是可以在照片中指出来的观察。石头何时形成、内部怎样变化，则需要结合地质研究，不能只凭颜色或一根柱子的样子判断。"
+        },
+        {
+          "id": "gbr-causeway-columns-b3",
+          "title": "冷却时发生了什么",
+          "text": "这里的玄武岩与古代火山活动有关。熔岩冷却、凝固并收缩，岩体中形成裂缝，逐渐发展出柱状节理。图解把过程分成几步，帮助理解裂缝怎样分隔岩体。真实过程经历很长时间，后来的侵蚀又让更多石柱显露出来。",
+          "mediaId": "gbr-m06"
+        },
+        {
+          "id": "gbr-causeway-columns-b4",
+          "title": "另有一个巨人的故事",
+          "text": "当地传说把石柱说成巨人修建的道路。故事可以帮助人们讲述家乡，也能带来想象的乐趣。读传说时，我们把它放在故事栏；解释岩石形成时，要回到冷却、收缩和节理这些证据。两种阅读可以相邻，但不能把传说当作地质结论。"
+        },
+        {
+          "id": "gbr-causeway-columns-b5",
+          "title": "试着当一次观察员",
+          "text": "把图放大，找到一个清楚的柱顶和一处柱间裂缝。先说「我看见石柱之间有缝」，再说「我想知道这些缝怎样形成」。最后回读冷却的解释。你也可以保存自己的发现，下一次看到其它地方的柱状岩石，再比较它们有哪些相同和不同。"
+        }
+      ],
+      "term": "节理",
+      "definition": "岩石中形成的裂缝。",
+      "glossary": [
+        {
+          "term": "节理",
+          "definition": "岩石中形成的裂缝。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway",
+        "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway_(2)_-_geograph.org.uk_-_817041.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-giants-causeway",
+      "diagram": "gbr-column-cooling",
+      "exerciseId": "gbr-p01"
+    },
+    {
+      "id": "gbr-changeable-weather",
+      "countryId": "gbr",
+      "sectionId": "geography",
+      "title": "为什么出太阳后还可能下雨？",
+      "summary": "同一天的伦敦，早上可能有阳光，过一会儿又有云和雨。",
+      "mediaId": "gbr-m36",
+      "blocks": [
+        {
+          "id": "gbr-changeable-weather-b1",
+          "title": "天气是一段正在发生的故事",
+          "text": "同一天的伦敦，早上可能有阳光，过一会儿又有云和雨。天气说的是某个地方在某个时刻的状况，包括温度、风、云和降水。带雨伞的街景只能说明拍摄时的情形，不能证明英国每天都下雨，也不能代表全国同一时刻的天气。"
+        },
+        {
+          "id": "gbr-changeable-weather-b2",
+          "title": "海洋就在旁边",
+          "text": "英国位于大西洋边缘，处在中纬度西风带。空气从海洋一侧移动过来，会带来不同的温度和水汽。天气系统不断移动，人们感受到的风和云也会变化。理解这些条件，比把一个国家简单叫作「总是阴天的地方」更有帮助。"
+        },
+        {
+          "id": "gbr-changeable-weather-b3",
+          "title": "山地也会影响降水",
+          "text": "潮湿空气遇到山地时，抬升和冷却会影响降水。英国西部与北部一些山地通常比东部和南部更湿，但这只是长期比较中的总体特点。某一天哪里下雨，仍然要看当天的观测和预报；同一区域内部也会因为地形而不同。"
+        },
+        {
+          "id": "gbr-changeable-weather-b4",
+          "title": "气候要看许多年",
+          "text": "气候讲的是多年里常见的天气特点。比较两地降水时，应选同一统计时期、同一种单位的数据，并看看记录来自哪里。把某年的一次暴雨和另一个地方几十年的平均值放在一起，会把不同的问题混在一起，也难以得出可靠结论。"
+        },
+        {
+          "id": "gbr-changeable-weather-b5",
+          "title": "给照片加上限制条件",
+          "text": "看本页的雨天照片，试着写「在这张照片里，我看见……」。如果想知道这个地方一年有多少雨，就另找长期记录。地图能够帮助你找出海岸与山地，记录能够帮助你比较时间。把不同资料放在适合的位置，问题会变得更容易回答。"
+        }
+      ],
+      "term": "气候",
+      "definition": "一个地方在较长时期内的天气特征。",
+      "glossary": [
+        {
+          "term": "气候",
+          "definition": "一个地方在较长时期内的天气特征。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.metoffice.gov.uk/research/climate/maps-and-data/regional-climates",
+        "https://commons.wikimedia.org/wiki/File:Rain_-_London_Eye_(7116886215).jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "exerciseId": "gbr-c03"
+    },
+    {
+      "id": "gbr-welsh-signs",
+      "countryId": "gbr",
+      "sectionId": "people",
+      "title": "一块路牌为什么有两种文字？",
+      "summary": "在威尔士的城市和车站，你可能遇到同时使用威尔士语和英语的标识。",
+      "mediaId": "gbr-m11",
+      "blocks": [
+        {
+          "id": "gbr-welsh-signs-b1",
+          "title": "先认出同一个地方",
+          "text": "在威尔士的城市和车站，你可能遇到同时使用威尔士语和英语的标识。Caerdydd是卡迪夫的威尔士语名称，Cardiff是英语名称。两种文字指向同一座城市。先看完整标识的图注，再看每一行，别把两行误当成两个目的地。"
+        },
+        {
+          "id": "gbr-welsh-signs-b2",
+          "title": "比较字母和顺序",
+          "text": "两种名称的拼写并不相同。你可以先找到开头的字母，再看看长度和重复的部分。本页对照卡把语言名写在文字旁边，帮助辨认。卡片是根据地名资料制作的教学文字，真实标识还可能有方向、站名或其它词语，需要连在一起读。",
+          "mediaId": "gbr-m10"
+        },
+        {
+          "id": "gbr-welsh-signs-b3",
+          "title": "文字也属于生活",
+          "text": "地名会出现在路牌、车站、地图和日常交流里。使用不同语言的人可以通过这些名字认识同一处地方。威尔士语是今天仍在使用的语言，有自己的声音、文字和文化。读到一个不熟悉的名字，可以先尊重原来的拼写，再了解它怎样发音。"
+        },
+        {
+          "id": "gbr-welsh-signs-b4",
+          "title": "英国不止两种语言",
+          "text": "英国不同地方和社群使用多种语言。苏格兰的盖尔语与Scots、北爱尔兰的爱尔兰语，以及移居社群带来的语言，都提醒我们生活具有多样性。一块双语标识展示的是这处地方的一个例子，不能用它推断每个人都会说同样的语言。"
+        },
+        {
+          "id": "gbr-welsh-signs-b5",
+          "title": "把名字带回地图",
+          "text": "在英国地图搜索Caerdydd或Cardiff，都可以找到卡迪夫。再看看它在威尔士的什么位置。试着给自己的城市也制作一张名称卡，只写你确认过的名字和来源。遇到不确定的译名时先留下问题，比编一个听起来像的词更可靠。"
+        }
+      ],
+      "term": "双语",
+      "definition": "使用两种语言。",
+      "glossary": [
+        {
+          "term": "双语",
+          "definition": "使用两种语言。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.welshlanguagecommissioner.wales/standard-welsh-place-names/caerdydd",
+        "https://commons.wikimedia.org/wiki/File:Bae_Caerdydd_-_Cardiff_Bay_railway_station_name_sign_(geograph_6897680).jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-cardiff",
+      "diagram": "gbr-bilingual",
+      "exerciseId": "gbr-p02"
+    },
+    {
+      "id": "gbr-scottish-place-names",
+      "countryId": "gbr",
+      "sectionId": "people",
+      "title": "山谷的名字藏着什么线索？",
+      "summary": "格伦科位于苏格兰。",
+      "mediaId": "gbr-m19",
+      "blocks": [
+        {
+          "id": "gbr-scottish-place-names-b1",
+          "title": "在山谷里遇到一个名字",
+          "text": "格伦科位于苏格兰。打开山谷照片，可以看到高耸的山坡和低处的通道；打开地图，又能找到它与周围海岸、湖泊的关系。同一个地点的名称可能出现不同语言的形式。查名字时，要先确认资料说的是山谷、村庄还是更大的区域。"
+        },
+        {
+          "id": "gbr-scottish-place-names-b2",
+          "title": "地名需要自己的资料",
+          "text": "英语里常见的glen与苏格兰盖尔语gleann有关，意思是山谷。像这样的词能给我们一条线索，但完整地名的来源可能更复杂。不能把听起来相似的词随意拼在一起，就断定一个名字的意思。地名辞书和当地机构资料更适合帮助核对。"
+        },
+        {
+          "id": "gbr-scottish-place-names-b3",
+          "title": "先看土地，再读故事",
+          "text": "格伦科的地质资料介绍了古老的火山岩和后来冰川塑造的地形。照片能让我们看见山谷的形状，地名资料则帮助了解人们怎样称呼它。这两种资料的用途不同。一个古老名称不能单独证明岩石的年代，一幅山景也不能告诉我们所有语言历史。"
+        },
+        {
+          "id": "gbr-scottish-place-names-b4",
+          "title": "名字不规定人的身份",
+          "text": "今天住在同一座山谷或城市里的人，可能使用不同语言，有不同的家庭经历。看见一个盖尔语地名，不等于这里每个人都只说盖尔语。介绍一个地方时，可以保留本地名字，也给出便于寻找的别名，让更多人有机会了解它。",
+          "mediaId": "gbr-m20"
+        },
+        {
+          "id": "gbr-scottish-place-names-b5",
+          "title": "给山谷做一张索引",
+          "text": "先在地图上点苏格兰，再找格伦科，把地点收藏起来。在笔记里写下一个已经确认的词和一个还想知道的问题，例如「为什么这个山谷还有另一种拼写？」以后找到新的来源，可以回来补充。名字像进入地方故事的门，后面还有许多内容。"
+        }
+      ],
+      "term": "地名",
+      "definition": "人们给地点使用的名称。",
+      "glossary": [
+        {
+          "term": "地名",
+          "definition": "人们给地点使用的名称。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.lochlomond-trossachs.org/discover-the-park/our-heritage-culture/our-gaelic-culture/lochs-glens-straths/",
+        "https://commons.wikimedia.org/wiki/File:The_Three_Sisters,_Glencoe,_Scotland.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-glencoe",
+      "exerciseId": "gbr-l03"
+    },
+    {
+      "id": "gbr-belfast-neighborhood",
+      "countryId": "gbr",
+      "sectionId": "people",
+      "title": "贝尔法斯特街区的一天是什么样？",
+      "summary": "这次我们来到北爱尔兰的贝尔法斯特。",
+      "mediaId": "gbr-m09",
+      "blocks": [
+        {
+          "id": "gbr-belfast-neighborhood-b1",
+          "title": "先说清楚在哪里",
+          "text": "这次我们来到北爱尔兰的贝尔法斯特。先读街景的图注，确认它拍的是哪一处街道，再观察道路旁的建筑和公共空间。市政厅附近与住宅街区的样子可能不同，一张照片只能让我们认识城市的一个角落，不能当作整座城市的全貌。"
+        },
+        {
+          "id": "gbr-belfast-neighborhood-b2",
+          "title": "找一件大家会用的设施",
+          "text": "从画面近处开始，找人行道、路口、出入口或等候的空间。选其中一件，说说它在画面的哪边。你不需要知道所有建筑叫什么，也可以做认真观察。能够指出具体位置，比只说「这里很漂亮」更方便别人理解你的发现。"
+        },
+        {
+          "id": "gbr-belfast-neighborhood-b3",
+          "title": "想象一段普通的路",
+          "text": "设想有人从街道一头走到另一头，他可能会经过商店、工作场所或公共建筑。照片中的设施能提供一些线索，但路人的目的地需要他们自己告诉我们。我们可以提出猜想，也要在记录里注明猜想，不能替陌生人编出确定的生活故事。"
+        },
+        {
+          "id": "gbr-belfast-neighborhood-b4",
+          "title": "同一条街会变化",
+          "text": "早晨、傍晚、工作日和节日，街上的人流与交通可能不同。建筑也会被修缮，商店会更换。因此，图注中的拍摄日期很有用。比较新旧街景时，要先确认它们确实拍摄同一位置，再看哪些东西仍在、哪些东西已经发生变化。"
+        },
+        {
+          "id": "gbr-belfast-neighborhood-b5",
+          "title": "写下你自己的问题",
+          "text": "先写一个可见的事实，再写一条想查的事。例如「我看见路边有行人空间」「我想知道附近的人怎样去学校」。你也可以拿自己的街区来比较，找两地共有的一种设施。观察不同地方的日常，会让地图上的名字慢慢变成具体的生活空间。"
+        }
+      ],
+      "term": "公共空间",
+      "definition": "供人们共同使用的地方。",
+      "glossary": [
+        {
+          "term": "公共空间",
+          "definition": "供人们共同使用的地方。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/nationalstatisticscountryclassification/explanatorynotesandcodingguidelines",
+        "https://commons.wikimedia.org/wiki/File:The_Castle_Court_shopping_centre,_Belfast_-_geograph.org.uk_-_973416.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-belfast",
+      "activity": {
+        "id": "gbr-o01",
+        "type": "open",
+        "title": "街区里的一天",
+        "prompt": "你看到了什么公共设施？照片还不能告诉你谁的一天？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "gbr-m09",
+          "gbr-m08"
+        ],
+        "suggestedArticleIds": [
+          "gbr-belfast-neighborhood"
+        ]
+      }
+    },
+    {
+      "id": "gbr-tube-diagram",
+      "countryId": "gbr",
+      "sectionId": "daily",
+      "title": "地铁线路图怎样读？",
+      "summary": "伦敦地铁把城市里的许多地方连接起来。",
+      "mediaId": "gbr-m02",
+      "blocks": [
+        {
+          "id": "gbr-tube-diagram-b1",
+          "title": "从站点开始读",
+          "text": "伦敦地铁把城市里的许多地方连接起来。阅读线路示意图时，先找站名和表示站点的记号，再沿着同一条线看相邻站点。图上的线条颜色帮助区分路线，但只记颜色还不够；读文字和图例，才能知道自己正在看哪条线。"
+        },
+        {
+          "id": "gbr-tube-diagram-b2",
+          "title": "线条表示连接关系",
+          "text": "本页用原创的甲站、乙站、丙站练习，画出的站名是虚构的。蓝线连接甲站和乙站，橙线连接乙站和丙站。两条线都经过乙站，所以在这个例子中，乙站是换乘点。你可以用手指沿线走，也可以直接读下面的文字路径。"
+        },
+        {
+          "id": "gbr-tube-diagram-b3",
+          "title": "换乘不是随便跨一条线",
+          "text": "在线路图里，两条线交叉不一定表示能够换乘，必须看站点符号和说明。我们的例图在乙站画了共同的站点记号，才表示这里相连。真正出行还要看运营方提供的最新信息，包括线路变化和车站设施，不能拿教学例图当乘车指南。"
+        },
+        {
+          "id": "gbr-tube-diagram-b4",
+          "title": "示意图不等于地理图",
+          "text": "为了让连接关系清楚，线路图常把弯曲的路线画得简洁，站点间距也不一定与地面距离相同。两站在图上靠得近，并不能证明走路也很近。想了解河流、街道和真实距离，应再看地理地图，而不是用示意图上的直尺量路程。"
+        },
+        {
+          "id": "gbr-tube-diagram-b5",
+          "title": "试着解释给同伴听",
+          "text": "请同伴从甲站出发去丙站，你来说明先沿哪条线、在哪里换乘、再到哪里。然后交换角色，看看是否能只用站名说清楚。最后把伦敦放回英国地图。线路示意图帮助理解城市里的连接，国家地图帮助理解这座城市在更大范围的位置。"
+        }
+      ],
+      "term": "换乘",
+      "definition": "从一条交通线路转到另一条。",
+      "glossary": [
+        {
+          "term": "换乘",
+          "definition": "从一条交通线路转到另一条。"
+        }
+      ],
+      "sourceUrls": [
+        "https://tfl.gov.uk/maps/track/tube",
+        "https://commons.wikimedia.org/wiki/File:Thames_Panorama,_London_-_June_2009.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "diagram": "gbr-interchange",
+      "exerciseId": "gbr-c04"
+    },
+    {
+      "id": "gbr-bridge-banks",
+      "countryId": "gbr",
+      "sectionId": "daily",
+      "title": "一座桥怎样连接两岸？",
+      "summary": "在伦敦河岸的照片里，一座桥横跨水面。",
+      "mediaId": "gbr-m04",
+      "blocks": [
+        {
+          "id": "gbr-bridge-banks-b1",
+          "title": "先找到水和两端",
+          "text": "在伦敦河岸的照片里，一座桥横跨水面。先找到水，再沿着桥面向两边看，看看它分别落在哪里。桥把两岸连接起来，这是理解桥最简单的起点。高大的塔、拱形的桥洞和装饰也很醒目，但可以放在找到两端之后再慢慢观察。"
+        },
+        {
+          "id": "gbr-bridge-banks-b2",
+          "title": "两座桥可能很不一样",
+          "text": "塔桥和威斯敏斯特桥都跨过泰晤士河，外形却不同。塔桥有明显的塔楼和可开启的桥面部分，威斯敏斯特桥有一排桥拱。比较时先核对名称，不要把Tower Bridge和London Bridge当成同一座桥；它们是伦敦不同的桥梁。",
+          "mediaId": "gbr-m02"
+        },
+        {
+          "id": "gbr-bridge-banks-b3",
+          "title": "观察结构提供的线索",
+          "text": "你可以比较桥面、支撑和河面之间的位置关系。照片能说明某些部件的形状，却不能告诉你所有材料、承重能力或内部机械。想知道塔桥怎样开启，可以查桥梁管理方的说明。观察提出问题，资料帮助解释，两者可以一前一后配合。"
+        },
+        {
+          "id": "gbr-bridge-banks-b4",
+          "title": "同一座桥也有不同样子",
+          "text": "站在岸边拍、从水上拍或从高处拍，看到的桥会不一样。桥面开启和关闭时，照片也不同。比较两幅图以前，先看拍摄方向、日期和图注。如果一幅只拍到一座塔，不能因此说这座桥只有一座塔；也许另一座在画面之外。"
+        },
+        {
+          "id": "gbr-bridge-banks-b5",
+          "title": "画一张连接小图",
+          "text": "在纸上画水面、两岸和一条桥，把真实世界简化成三个要素。再写下一个想研究的问题，例如「桥为什么要让一部分升起来？」把这条发现保存到自己的英国笔记里。以后看见别处跨河或跨海的桥，也可以用同样的方法开始观察。"
+        }
+      ],
+      "term": "桥面",
+      "definition": "供人和车辆通行的桥上部分。",
+      "glossary": [
+        {
+          "term": "桥面",
+          "definition": "供人和车辆通行的桥上部分。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.towerbridge.org.uk/stories/how-does-tower-bridge-work",
+        "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Feb_2006.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-tower-bridge",
+      "activity": {
+        "id": "gbr-o02",
+        "type": "open",
+        "title": "桥怎样连接两岸",
+        "prompt": "两座桥的形状和两端有哪些不同？用途需要查什么？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "gbr-m02",
+          "gbr-m04"
+        ],
+        "suggestedArticleIds": [
+          "gbr-bridge-banks"
+        ]
+      }
+    },
+    {
+      "id": "gbr-city-park",
+      "countryId": "gbr",
+      "sectionId": "daily",
+      "title": "城市公园里有哪些邻居？",
+      "summary": "伦敦有许多公园。",
+      "mediaId": "gbr-m27",
+      "blocks": [
+        {
+          "id": "gbr-city-park-b1",
+          "title": "在城市里找一块绿色",
+          "text": "伦敦有许多公园。这里选择圣詹姆斯公园作为一个例子，先看树木、草地和湖面的位置，再看它们与道路和建筑怎样相邻。城市照片不一定只有房子和车。把视线放低一点、放慢一点，也能发现为植物和动物提供空间的地方。"
+        },
+        {
+          "id": "gbr-city-park-b2",
+          "title": "从树冠认出一棵树",
+          "text": "照片里的树冠由枝条和叶片组成。先找到一团与天空相接的绿色轮廓，再往下寻找树干。远景里看不清叶形时，不要急着猜树种。你可以先说「湖边有树」，以后找到清楚的近景和植物资料，再进一步确认它叫什么名字。"
+        },
+        {
+          "id": "gbr-city-park-b3",
+          "title": "水边住着谁",
+          "text": "皇家公园的资料介绍了圣詹姆斯公园的鸟类和其它生物。湖面、岸边植被和树木提供不同的生活条件。照片里偶尔看见一只鸟，只能说明它当时在那里；要了解它是否长期栖息，还需要连续观察或管理机构的记录。"
+        },
+        {
+          "id": "gbr-city-park-b4",
+          "title": "人也是公园使用者",
+          "text": "人们会在公园散步、停留和观察自然，维护人员也要照顾植物、水域和设施。道路引导人走动，较安静的空间可能让动物少受打扰。观察时保持距离，不追逐或随意投喂，更容易看到动物本来的活动，也能减少对它们的影响。"
+        },
+        {
+          "id": "gbr-city-park-b5",
+          "title": "把自己的附近也放进来",
+          "text": "想一想家附近的公园或绿地，是否也有树、水、草和供人走的路。选一种共同的要素，比较它在两处地方的位置。你的发现可以很小，例如「两边的湖岸都有树」。再留一个问题，下一次散步时就有了继续观察的方向。"
+        }
+      ],
+      "term": "树冠",
+      "definition": "一棵树上部枝叶形成的整体。",
+      "glossary": [
+        {
+          "term": "树冠",
+          "definition": "一棵树上部枝叶形成的整体。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.royalparks.org.uk/visit/parks/st-jamess-park/wildlife",
+        "https://commons.wikimedia.org/wiki/File:St_James%27s_Park_Lake_%E2%80%93_East_from_the_Blue_Bridge_-_2012-10-06.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "exerciseId": "gbr-p03"
+    },
+    {
+      "id": "gbr-oats",
+      "countryId": "gbr",
+      "sectionId": "food",
+      "title": "燕麦怎样变成一碗粥？",
+      "summary": "燕麦是一种谷物。",
+      "mediaId": "gbr-m28",
+      "blocks": [
+        {
+          "id": "gbr-oats-b1",
+          "title": "先看看谷粒的样子",
+          "text": "燕麦是一种谷物。照片里的燕麦片经过加工，被压成较扁的形状；田里的燕麦和碗里的粥并不是同一种外观。先比较颗粒、薄片和加水后的食物，能帮助我们理解食物从原料到餐桌会经历变化，而不是一开始就长成早餐的样子。"
+        },
+        {
+          "id": "gbr-oats-b2",
+          "title": "加工让它更容易使用",
+          "text": "不同燕麦产品有不同加工方法，压片、切碎等处理会影响外形和烹煮时间。图中的扁片是一个具体例子，不能代表所有产品。想知道买到的是什么，应读包装名称、配料和制作说明，单凭照片中的颜色很难区分所有谷物。"
+        },
+        {
+          "id": "gbr-oats-b3",
+          "title": "水和热改变口感",
+          "text": "做燕麦粥时，谷物吸收水分，在加热过程中逐渐变软，整碗食物会变稠。不同产品和配方需要的水量、时间可能不同。本页只解释变化，不要求你独自操作热锅。也可以在家人准备早餐时，用观察和提问了解发生了什么。"
+        },
+        {
+          "id": "gbr-oats-b4",
+          "title": "一碗粥有多种做法",
+          "text": "燕麦粥与苏格兰饮食传统有关，今天也在许多地方食用。有人用水，有人用奶，也有人加入果物或其它配料。它不是所有英国人每天必吃的早餐。比较两碗粥时，把配方写下来，才知道差别来自原料、液体还是额外加入的东西。"
+        },
+        {
+          "id": "gbr-oats-b5",
+          "title": "证据藏在文字里",
+          "text": "如果想确认一碗粥用了什么，最有帮助的是配料说明或制作者提供的配方。图片能告诉你表面的样子，却不能可靠地说明全部成分。试着把「我看到的扁片」和「配方写着燕麦」分开记录，再讲一讲这两条线索怎样互相帮助。"
+        }
+      ],
+      "term": "谷物",
+      "definition": "可收获籽粒用作食物的一类作物。",
+      "glossary": [
+        {
+          "term": "谷物",
+          "definition": "可收获籽粒用作食物的一类作物。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.foodstandards.gov.scot/downloads/FSS_Report_Analysis_Oat_Products_FR002547.pdf",
+        "https://commons.wikimedia.org/wiki/File:Rolled_oats_2.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "gbr-c05"
+    },
+    {
+      "id": "gbr-bara-brith",
+      "countryId": "gbr",
+      "sectionId": "food",
+      "title": "果干面包里的小点是什么？",
+      "summary": "Bara brith是威尔士的一种果干面包或糕点，做法有不同版本。",
+      "mediaId": "gbr-m29",
+      "blocks": [
+        {
+          "id": "gbr-bara-brith-b1",
+          "title": "看看切面里的小点",
+          "text": "Bara brith是威尔士的一种果干面包或糕点，做法有不同版本。先看照片中的切面，找深浅不同的小块。你能描述颜色、大小和分布，却不能仅凭外表确认每一种果干。看完图片，再读相应配方，会更接近这份食物的真实材料。"
+        },
+        {
+          "id": "gbr-bara-brith-b2",
+          "title": "食谱记录地方生活",
+          "text": "威尔士博物馆保存了地方食物和食谱资料，帮助人们了解不同家庭的做法。一个食谱是一个有出处的例子，并不规定整个地区只能这样做。原料是否容易获得、家人的习惯和时代变化，都可能影响一份面包最后呈现的样子。"
+        },
+        {
+          "id": "gbr-bara-brith-b3",
+          "title": "从原料走到切片",
+          "text": "面粉、果干和配方中的其它材料经过混合与烘烤，形成可以切开的整体。配方有些使用酵母，有些使用其它膨松方式。我们的观察从已经做好的切片开始，不安排孩子单独开烤箱。重点是追踪原料在成品中留下了哪些线索。"
+        },
+        {
+          "id": "gbr-bara-brith-b4",
+          "title": "给观察加上出处",
+          "text": "如果照片作者只写了食物名称，没有给出配方，就不能替他补写某种果干或香料。可以写「切面有深色小块」，再提出「这些小块是什么」的问题。带着问题查博物馆食谱时，还要记得那份食谱未必就是照片中这一份食物的做法。"
+        },
+        {
+          "id": "gbr-bara-brith-b5",
+          "title": "留下自己的比较",
+          "text": "把切片与一份你熟悉的面包放在一起想一想：外形、纹理、切面里可见的小块有什么不同？记录一条观察，留下一个想问制作者的问题。认识地方食物既可以从名字开始，也可以从食材和制作过程开始，不必先决定哪一种更好吃。"
+        }
+      ],
+      "term": "配方",
+      "definition": "说明食物材料与制作方法的记录。",
+      "glossary": [
+        {
+          "term": "配方",
+          "definition": "说明食物材料与制作方法的记录。"
+        }
+      ],
+      "sourceUrls": [
+        "https://museum.wales/collections/welsh-foods/?id=178",
+        "https://commons.wikimedia.org/wiki/File:Bara_Brith_(3320696816).jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "activity": {
+        "id": "gbr-o03",
+        "type": "open",
+        "title": "面包里的小点",
+        "prompt": "哪些是图中看见的，哪些只能从配方知道？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "gbr-m29"
+        ],
+        "suggestedArticleIds": [
+          "gbr-bara-brith"
+        ]
+      }
+    },
+    {
+      "id": "gbr-tea-journey",
+      "countryId": "gbr",
+      "sectionId": "food",
+      "title": "一杯茶的叶子从哪里来？",
+      "summary": "红茶、绿茶等茶叶来自茶树，植物学名称是Camellia sinensis。",
+      "mediaId": "gbr-m30",
+      "blocks": [
+        {
+          "id": "gbr-tea-journey-b1",
+          "title": "杯子里的叶子也有来处",
+          "text": "红茶、绿茶等茶叶来自茶树，植物学名称是Camellia sinensis。茶叶经过采摘和不同加工，呈现不同的香气、颜色和形状。英国的饮茶习惯很有名，但一杯在英国喝到的茶，叶子可能来自其它地方，需要查具体的产地说明。"
+        },
+        {
+          "id": "gbr-tea-journey-b2",
+          "title": "先看产地信息",
+          "text": "如果想追踪一包茶，先找包装上关于种植地、加工和混合的说明。品牌所在的城市不一定是茶叶生长的地方。混合茶还可能包含来自多个产区的叶子。没有明确资料时，可以记为尚不清楚，不必根据包装图案猜出一个国家。"
+        },
+        {
+          "id": "gbr-tea-journey-b3",
+          "title": "植物和气候有关",
+          "text": "茶树的生长与环境条件有关。Kew的植物资料介绍了茶树及其用途，可以帮助我们把干燥茶叶和活着的植物联系起来。本页的茶树照片是一个明确地点的观察例子，不能把照片的拍摄地自动当作英国茶叶的唯一来源。"
+        },
+        {
+          "id": "gbr-tea-journey-b4",
+          "title": "贸易也留下复杂历史",
+          "text": "茶叶经过种植、加工、运输和销售，连接许多地方的人。英国饮茶历史与海外贸易和帝国扩张交织，也伴随殖民统治和不平等的劳动关系。了解一件商品时，既可以问它怎样到来，也可以问谁种植、谁获利、谁承受了困难。"
+        },
+        {
+          "id": "gbr-tea-journey-b5",
+          "title": "把一杯茶变成一个问题",
+          "text": "拿一张纸画出叶子、船或货运、商店和杯子，给它们之间留出空格，写下已经查到的产地。孩子也可以用不含茶的熟悉饮品做相同练习。重点是学会寻找来源，不是要求每个人都饮茶，也不是把一种饮品当作所有人的生活方式。"
+        }
+      ],
+      "term": "产地",
+      "definition": "一种物品种植、生产或加工的地方，要看标签具体指什么。",
+      "glossary": [
+        {
+          "term": "产地",
+          "definition": "一种物品种植、生产或加工的地方，要看标签具体指什么。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.kew.org/plants/tea-plant",
+        "https://commons.wikimedia.org/wiki/File:Camellia_sinensis_-_Flower_and_leaves_-_Wayanad_2021_(1).jpg",
+        "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/indian-indentured-labourers/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "gbr-c06"
+    },
+    {
+      "id": "gbr-ceilidh",
+      "countryId": "gbr",
+      "sectionId": "culture",
+      "title": "跳一支舞为什么要听同伴？",
+      "summary": "凯利舞常被称作ceilidh dancing，是人们一起参与的舞蹈活动。",
+      "mediaId": "gbr-m31",
+      "blocks": [
+        {
+          "id": "gbr-ceilidh-b1",
+          "title": "先认识一种共同活动",
+          "text": "凯利舞常被称作ceilidh dancing，是人们一起参与的舞蹈活动。不同地方和场合会有不同的舞步与音乐。照片只记录一次具体聚会，先读地点和时间，再观察参与者的位置。衣服和场地能提供线索，但不能用它们判断每个人的身份。"
+        },
+        {
+          "id": "gbr-ceilidh-b2",
+          "title": "听提示，也看同伴",
+          "text": "活动中常有人解释或提示舞步，帮助初学者参与。大家跟着音乐和提示移动，也要注意同伴在哪里。你不需要立刻记住一整支舞。先理解「共同听一段节奏、在合适的时刻回应」，就能明白为什么配合与独自随意移动有所不同。"
+        },
+        {
+          "id": "gbr-ceilidh-b3",
+          "title": "从四拍开始练习",
+          "text": "本页提供原创的四拍练习，数字一、二、三、四以相同间隔出现。你可以轻轻拍手，也可以只看数字在心里数。示范结束后，用同样的间隔回应。这个小练习帮助理解共同拍子，并不宣称它就是某支传统舞蹈的完整节奏或舞步。"
+        },
+        {
+          "id": "gbr-ceilidh-b4",
+          "title": "传统会走向许多地方",
+          "text": "凯利舞可以在苏格兰，也可以在其它地方的文化活动中看到。本页照片拍摄地点以图注为准，不能因为活动具有苏格兰文化联系，就把所有照片都标成苏格兰。传统由人们参与、学习和传递，在不同场合也会出现新的做法。"
+        },
+        {
+          "id": "gbr-ceilidh-b5",
+          "title": "一起活动需要留空间",
+          "text": "如果和家人试着跟拍，可以先坐着或站在空旷位置，只做小幅度动作。听不到声音也能通过数字完成练习。观察同伴何时开始、何时停下，再说说你们怎样配合。这比评价谁跳得漂亮，更能帮助我们理解共同活动中的交流。"
+        }
+      ],
+      "term": "节拍",
+      "definition": "音乐或动作中有规律的时间单位。",
+      "glossary": [
+        {
+          "term": "节拍",
+          "definition": "音乐或动作中有规律的时间单位。"
+        }
+      ],
+      "sourceUrls": [
+        "https://rscds.org/what-is-a-ceilidh/",
+        "https://commons.wikimedia.org/wiki/File:C%C3%A8ilidh_in_the_Square_at_the_2026_Wimborne_Minster_Folk_Festival_-_55336555749.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "diagram": "gbr-rhythm",
+      "exerciseId": "gbr-p04"
+    },
+    {
+      "id": "gbr-story-stage",
+      "countryId": "gbr",
+      "sectionId": "culture",
+      "title": "一个故事怎样变成一场戏？",
+      "summary": "舞台上的故事往往从剧本开始。",
+      "mediaId": "gbr-m32",
+      "blocks": [
+        {
+          "id": "gbr-story-stage-b1",
+          "title": "故事先变成可表演的文字",
+          "text": "舞台上的故事往往从剧本开始。剧本里可以写人物说的话，也可以写动作和场景提示。台词不是演员随便念出来的所有声音，而是表演内容的一部分。打开一段适合儿童的剧本，先找人物名字，再看他接下来要说什么。"
+        },
+        {
+          "id": "gbr-story-stage-b2",
+          "title": "演员把文字带到现场",
+          "text": "同一句话，用不同的声音、停顿和动作表达，会带给观众不同感受。例如我们的原创句子「桥的另一边有什么？」可以带着好奇，也可以带着犹豫。练习时不必模仿某位名人，试着让同伴听懂你想表达的意思就够了。"
+        },
+        {
+          "id": "gbr-story-stage-b3",
+          "title": "舞台和观众在哪里",
+          "text": "伦敦的莎士比亚环球剧院是一处表演和教育场所。看内部照片，先区分演出的位置与观众所在的空间。建筑形状影响人们怎样观看和听见表演。照片若没有正在演出的演员，也仍然可以帮助我们观察舞台与周围空间的关系。"
+        },
+        {
+          "id": "gbr-story-stage-b4",
+          "title": "今天的剧院与过去相连",
+          "text": "今天看到的环球剧院建筑与历史上的剧院传统有关，但不能直接当成莎士比亚时代保留下来的原建筑。阅读遗产时，要看清重建、修复和原址等词。它们描述不同的关系，能帮助我们理解一处地方怎样连接过去与现在。"
+        },
+        {
+          "id": "gbr-story-stage-b5",
+          "title": "演一个很短的发现",
+          "text": "选一条你已经确认的英国知识，给两个人各写一句话。一个人提问，另一个人解释，再交换角色。保持事实准确，也可以在表达中加入自己的语气。最后请观众说出听懂了什么。剧本、表演和观众反馈，会帮助你发现哪些内容还可以讲得更清楚。"
+        }
+      ],
+      "term": "剧本",
+      "definition": "记录角色、台词和舞台动作的文字。",
+      "glossary": [
+        {
+          "term": "剧本",
+          "definition": "记录角色、台词和舞台动作的文字。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.shakespearesglobe.com/discover/about-us/",
+        "https://commons.wikimedia.org/wiki/File:Inside_the_Globe_Theatre_-_geograph.org.uk_-_4967055.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "exerciseId": "gbr-c07"
+    },
+    {
+      "id": "gbr-football-teams",
+      "countryId": "gbr",
+      "sectionId": "culture",
+      "title": "为什么比赛里会出现英格兰队？",
+      "summary": "在英国地图里，我们看到四个组成部分；看足球赛事时，可能看到英格兰、苏格兰、威尔士和北爱尔兰分别出现。",
+      "mediaId": "gbr-m33",
+      "blocks": [
+        {
+          "id": "gbr-football-teams-b1",
+          "title": "地图与比赛回答不同问题",
+          "text": "在英国地图里，我们看到四个组成部分；看足球赛事时，可能看到英格兰、苏格兰、威尔士和北爱尔兰分别出现。国家地图说明政治地理范围，参赛队名单说明一项赛事怎样组织。它们都可以有用，但不能把两张表简单当成同一种分类。"
+        },
+        {
+          "id": "gbr-football-teams-b2",
+          "title": "四地有各自的足球协会",
+          "text": "英国四地分别有足球协会，与各自的代表队和足球活动有关。这些组织有各自的发展历史。认识队名时，可以先在地图找到它对应的地方，再到赛事或协会资料中确认队伍名称。不要因为看到队名，就自行改变国家地图上的边界。"
+        },
+        {
+          "id": "gbr-football-teams-b3",
+          "title": "同一地方也有许多队伍",
+          "text": "一座城市可能有不同俱乐部，也有学校、社区和不同年龄段的队伍。俱乐部、地区代表队与国家或协会代表队不是同一个概念。照片中的球场能帮助我们观察看台、草坪和球门，却不一定告诉我们当时是哪两支队在比赛。"
+        },
+        {
+          "id": "gbr-football-teams-b4",
+          "title": "换一项赛事要重新核对",
+          "text": "不同运动、不同赛事可能采用不同的参赛组织方式。想知道某次比赛有哪些队，最可靠的办法是查看该赛事官方公布的名单和规则。不要把在一次足球赛里学到的队伍划分，直接套到奥运会或其它项目上，也不要把旧赛季当成现在。"
+        },
+        {
+          "id": "gbr-football-teams-b5",
+          "title": "做一张比赛信息卡",
+          "text": "写下运动名称、赛事名称、年份和队伍名称，再写一个可核对的来源。这样，即使以后队伍或比赛安排发生变化，你也知道这张卡记录的是哪一次。看比赛可以欣赏运动本身，做观察员则多问一步：这条信息说的是哪个范围、哪个时间？"
+        }
+      ],
+      "term": "代表队",
+      "definition": "依某项赛事的规则组成的参赛队伍。",
+      "glossary": [
+        {
+          "term": "代表队",
+          "definition": "依某项赛事的规则组成的参赛队伍。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.thefa.com/news/2026/feb/09/four-uk-football-associations-welcome-fifa-womens-world-cup-2035-inspection-visit-20260902",
+        "https://commons.wikimedia.org/wiki/File:Hampden_Park_(Glasgow)_aerial_view_cropped.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "gbr-c08"
+    },
+    {
+      "id": "gbr-bell-tower",
+      "countryId": "gbr",
+      "sectionId": "landmarks",
+      "title": "大本钟是钟，还是钟楼？",
+      "summary": "伦敦威斯敏斯特宫旁的钟楼很醒目。",
+      "mediaId": "gbr-m03",
+      "blocks": [
+        {
+          "id": "gbr-bell-tower-b1",
+          "title": "先看整座高塔",
+          "text": "伦敦威斯敏斯特宫旁的钟楼很醒目。照片上能看见塔身和钟面，很多人日常把这一整处地标叫作Big Ben。学习具体名称时，我们把视线分成几层：外面是一座塔，塔上有钟面，塔内还有发声的大钟。三个对象并不是同一件东西。"
+        },
+        {
+          "id": "gbr-bell-tower-b2",
+          "title": "大本钟是大钟的名字",
+          "text": "严格说，Big Ben是塔内大钟的昵称，中文常叫大本钟。钟面显示时间，大钟通过敲击发声。站在河对岸能看到钟楼与钟面，却通常看不到里面的大钟。想知道内部的样子，需要阅读议会机构的介绍或经过确认的内部影像。",
+          "mediaId": "gbr-m35"
+        },
+        {
+          "id": "gbr-bell-tower-b3",
+          "title": "钟楼也有自己的名称",
+          "text": "这座塔的正式名称是伊丽莎白塔。日常称呼有时会把一个特别著名的部分扩展到整个建筑，但在解释结构时，我们仍要说清楚正在指哪一部分。就像不能把学校里的铃直接当作整座教学楼一样，名称的范围值得仔细辨认。"
+        },
+        {
+          "id": "gbr-bell-tower-b4",
+          "title": "照片中的细节各有用途",
+          "text": "放大钟面，你可能看到指针、数字和窗格般的结构。它们能帮助你观察外观，却不能仅靠静态照片确认某一刻钟是否准确运行。修缮前后的颜色也可能不同。读图注中的拍摄日期，可以避免把旧照片当作建筑今天每个细节的样子。"
+        },
+        {
+          "id": "gbr-bell-tower-b5",
+          "title": "把三个词分别放好",
+          "text": "在纸上画一个简单塔形，在上面画钟面，再用一个小钟符号表示塔内的大钟。给它们分别写名称，并注明这是教学示意。最后回答「Big Ben严格指什么」。当你能把建筑、显示时间的钟面和发声的钟分清，熟悉的地标也会变得更有层次。"
+        }
+      ],
+      "term": "钟楼",
+      "definition": "用于安放钟的建筑。",
+      "glossary": [
+        {
+          "term": "钟楼",
+          "definition": "用于安放钟的建筑。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.parliament.uk/about/living-heritage/building/palace/architecture/palacestructure/towers-of-parliament/",
+        "https://commons.wikimedia.org/wiki/File:Big_Ben_Elizabeth_Tower_London_2023_01.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-thames-london",
+      "exerciseId": "gbr-c09"
+    },
+    {
+      "id": "gbr-edinburgh",
+      "countryId": "gbr",
+      "sectionId": "landmarks",
+      "title": "爱丁堡城堡为什么显得很高？",
+      "summary": "爱丁堡位于苏格兰。",
+      "mediaId": "gbr-m17",
+      "blocks": [
+        {
+          "id": "gbr-edinburgh-b1",
+          "title": "从城市街道抬头看",
+          "text": "爱丁堡位于苏格兰。城堡站在高处，下面可以看到城市建筑。先找城堡轮廓，再找它下面露出的岩石与坡地。建筑显得高，不只是因为墙修得高，也与它所在的地形有关。从较低的街道看上去，这种关系尤其容易观察。"
+        },
+        {
+          "id": "gbr-edinburgh-b2",
+          "title": "岩丘提供了位置",
+          "text": "城堡所在的岩丘与古老火山活动有关，后来又受到地形演变的影响。我们看到的是经过很长时间形成的地貌，不是正在喷发的火山。把地质说明和照片放在一起，能理解岩石为什么值得关注，而不只是把它当成建筑下的一块背景。"
+        },
+        {
+          "id": "gbr-edinburgh-b3",
+          "title": "人们利用已有地形",
+          "text": "高处能够提供较开阔的视野，也会影响通往建筑的道路。历史上的建设者在已有土地上安排城堡、围墙和入口。具体布局还与不同时代的需要有关，不能只凭一张照片猜出所有军事或生活用途。建筑资料可以补充地形观察无法回答的内容。",
+          "mediaId": "gbr-m18"
+        },
+        {
+          "id": "gbr-edinburgh-b4",
+          "title": "角度会改变印象",
+          "text": "从街道、广场或更远的高处拍摄，城堡与城市的比例看起来可能不同。先确认照片方向，再比较山坡和建筑。一个近景把墙拍得很大，并不表示墙真的比山还高。地图和全景可以帮助我们恢复周围环境，不被单个镜头限制。"
+        },
+        {
+          "id": "gbr-edinburgh-b5",
+          "title": "把城堡放回苏格兰",
+          "text": "在区域图上找到爱丁堡，再看它与格伦科的位置。它们都在苏格兰，却呈现不同的城市和自然景观。写一句包含「地形」和「建筑」的观察，例如城堡建在岩丘上。然后留一个问题，下一次可以继续查这座城市怎样沿着地形发展。"
+        }
+      ],
+      "term": "岩丘",
+      "definition": "由岩石构成的隆起地形。",
+      "glossary": [
+        {
+          "term": "岩丘",
+          "definition": "由岩石构成的隆起地形。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.edinburghcastle.scot/the-castle/history/",
+        "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_Grass_Market.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-edinburgh",
+      "exerciseId": "gbr-l04"
+    },
+    {
+      "id": "gbr-eryri",
+      "countryId": "gbr",
+      "sectionId": "landmarks",
+      "title": "威尔士的山地怎样画在地图上？",
+      "summary": "Eryri是威尔士山地与国家公园使用的威尔士语名称，旧资料中也常见Snowdonia。",
+      "mediaId": "gbr-m13",
+      "blocks": [
+        {
+          "id": "gbr-eryri-b1",
+          "title": "先读山地的名字",
+          "text": "Eryri是威尔士山地与国家公园使用的威尔士语名称，旧资料中也常见Snowdonia。这里有山峰、湖泊与山谷，不是一座单独的山。搜索两个名称可以帮助你找到同一片地区，但具体照片仍要读图注，确认拍的是哪个湖或山坡。"
+        },
+        {
+          "id": "gbr-eryri-b2",
+          "title": "照片让我们看见起伏",
+          "text": "在伊德瓦尔湖一带的照片里，山坡包围着较低的水面。远景能展示整体形状，近景能看见岩石、草地和坡面的细节。照片中看起来很陡的地方，也会受到镜头方向影响。要进一步理解高度变化，可以把地形图放在旁边一起读。"
+        },
+        {
+          "id": "gbr-eryri-b3",
+          "title": "等高线是什么",
+          "text": "地形图里，等高线连接高度相同的点。可以想象把山在不同高度轻轻切一圈，再从上方看每一圈的位置。这个比喻帮助理解线条含义，实际山体并没有被切开。地图的图例还会告诉你相邻等高线相差多少高度。",
+          "mediaId": "gbr-m13"
+        },
+        {
+          "id": "gbr-eryri-b4",
+          "title": "线疏线密有线索",
+          "text": "同一幅等高线图中，如果相邻线靠得很近，通常表示短距离内高度变化较大，坡较陡；线较疏时，变化较缓。比较时必须使用同一套等高距和比例。不能把两张比例完全不同的图放在一起，只看线条密度就断定哪座山更陡。"
+        },
+        {
+          "id": "gbr-eryri-b5",
+          "title": "在地图上找威尔士",
+          "text": "先在全英地图点威尔士，再找山地观察点，看看它在威尔士北部的位置。本页概念图用于练习读线，并不是登山导航。你可以给照片中的湖面、山坡和山脊各写一个名称，再用自己的话说明照片与等高线图分别帮助你了解了什么。"
+        }
+      ],
+      "term": "等高线",
+      "definition": "地图上连接海拔相同地点的线。",
+      "glossary": [
+        {
+          "term": "等高线",
+          "definition": "地图上连接海拔相同地点的线。"
+        }
+      ],
+      "sourceUrls": [
+        "https://eryri.gov.wales/discover/culture-language-and-community/place-names/",
+        "https://commons.wikimedia.org/wiki/File:Llyn_Idwal_o_Y_Garn.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-eryri",
+      "diagram": "gbr-contour",
+      "exerciseId": "gbr-l05"
+    },
+    {
+      "id": "gbr-puffin-coast",
+      "countryId": "gbr",
+      "sectionId": "nature",
+      "title": "海鹦为什么把家安在海岸？",
+      "summary": "大西洋海鹦是一种海鸟。",
+      "mediaId": "gbr-m16",
+      "blocks": [
+        {
+          "id": "gbr-puffin-coast-b1",
+          "title": "在海岸认识海鹦",
+          "text": "大西洋海鹦是一种海鸟。照片里的海鹦拍摄于威尔士斯科默岛，它有醒目的喙和黑白相间的羽色。先观察它站的位置，再看身后的草地或海面。一个动物的故事不只在身体上，也藏在它生活的环境里，因此我们把岛屿和海水一起看。"
+        },
+        {
+          "id": "gbr-puffin-coast-b2",
+          "title": "食物来自海里",
+          "text": "海鹦会到海中捕食鱼类，再把食物带回繁殖地。叼着鱼的实拍能让我们看到喙中的食物；它如何在水下活动，则要结合保护机构的观察资料。不能因为一只鸟站在草地上，就猜它主要吃草，也不能仅凭脚的照片证明全部游泳行为。",
+          "mediaId": "gbr-m15"
+        },
+        {
+          "id": "gbr-puffin-coast-b3",
+          "title": "岸边还有另一处空间",
+          "text": "斯科默岛的海鹦会使用草地中的洞穴繁殖。洞穴与附近海域提供不同条件，一个是育雏空间，一个与觅食有关。保护它们时，需要同时关心陆地栖息地和海洋食物来源。只有一张漂亮的鸟照片，还不足以介绍它需要的全部生活条件。"
+        },
+        {
+          "id": "gbr-puffin-coast-b4",
+          "title": "季节会改变活动",
+          "text": "繁殖季和其它时期，海鹦出现的位置与活动会变化。海岸照片记录某个时刻，不能说明它全年都待在同一个洞口。想了解季节规律，可以查保护机构的长期记录。我们不在地图上标出巢穴的精确位置，让孩子通过公开的岛屿观察点认识环境。"
+        },
+        {
+          "id": "gbr-puffin-coast-b5",
+          "title": "把两种空间连起来",
+          "text": "在图解中找到「海里找食物」和「岸边育雏」，试着用一句话把它们连起来。观察真实动物时保持距离，不靠近洞口、不追逐。最后写下一条发现：同一种动物可能依赖几种相连的环境。这个问题也可以带回家附近的鸟类观察里。"
+        }
+      ],
+      "term": "栖息地",
+      "definition": "生物生活、觅食或繁殖的环境。",
+      "glossary": [
+        {
+          "term": "栖息地",
+          "definition": "生物生活、觅食或繁殖的环境。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.welshwildlife.org/visit/skomer-island",
+        "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica)_with_lesser_sand_eels_(Ammodytes_tobianus).jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-skomer",
+      "diagram": "gbr-puffin-habitat",
+      "exerciseId": "gbr-c10"
+    },
+    {
+      "id": "gbr-jurassic-coast",
+      "countryId": "gbr",
+      "sectionId": "nature",
+      "title": "海边岩层怎样留下过去的线索？",
+      "summary": "英国南部的侏罗纪海岸包括多种地质年代的岩石。",
+      "mediaId": "gbr-m25",
+      "blocks": [
+        {
+          "id": "gbr-jurassic-coast-b1",
+          "title": "岩层像露出来的书页",
+          "text": "英国南部的侏罗纪海岸包括多种地质年代的岩石。本页选择多塞特郡莱姆里吉斯附近的蓝里阿斯岩层作为例子。先看照片中深浅相间的条带，它们记录了不同层次。不能因为这片海岸有同一个名称，就把沿线所有岩石都说成同样的年龄。"
+        },
+        {
+          "id": "gbr-jurassic-coast-b2",
+          "title": "一层层材料怎样留下来",
+          "text": "沉积物在很长时间里积累，后来形成岩石。莱姆里吉斯的蓝里阿斯地层中可以看到石灰岩与较暗岩层交替。观察时先沿一条清楚的层线看过去，再寻找上下相邻的层。层的颜色和厚度是线索，具体成分还需要地质资料来确认。",
+          "mediaId": "gbr-m26"
+        },
+        {
+          "id": "gbr-jurassic-coast-b3",
+          "title": "化石提供生命线索",
+          "text": "化石是古代生物遗体或活动留下的痕迹，能够帮助研究过去的环境。莱姆里吉斯因化石而著名，玛丽·安宁的发现也与这里有关。像贝壳的石纹不一定就是化石，辨认需要材料和研究。遇到不确定的形状，可以先拍照记录并提出问题。"
+        },
+        {
+          "id": "gbr-jurassic-coast-b4",
+          "title": "海岸一直在变化",
+          "text": "海浪、雨水和重力会改变海岸，让岩层显露，也会造成崩落。我们通过照片和机构资料学习，不鼓励靠近不稳定崖壁或敲打岩层。现场活动应遵循当地规定并由成人安排。地图能显示海岸位置，却不能告诉你今天哪一段岸边适合走近。"
+        },
+        {
+          "id": "gbr-jurassic-coast-b5",
+          "title": "让照片回答适合的问题",
+          "text": "本页读图题只请你找出可见的岩层条带，不要求你仅凭照片判断精确年代。先指出条带在哪里，再读图注和地质解释。把它与巨人堤的石柱比较，你会发现两种岩石留下的形状线索不同，也会更明白为什么科学家需要多种证据。"
+        }
+      ],
+      "term": "岩层",
+      "definition": "一层层形成的岩石。",
+      "glossary": [
+        {
+          "term": "岩层",
+          "definition": "一层层形成的岩石。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/educational/lyme-regis-beaches/",
+        "https://commons.wikimedia.org/wiki/File:Wave_Cut_Platform,_west_of_Lyme_Regis_-_geograph.org.uk_-_771482.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-jurassic-coast",
+      "exerciseId": "gbr-p05"
+    },
+    {
+      "id": "gbr-glencoe-valley",
+      "countryId": "gbr",
+      "sectionId": "nature",
+      "title": "山谷的形状能告诉我们什么？",
+      "summary": "格伦科位于苏格兰高地。",
+      "mediaId": "gbr-m19",
+      "blocks": [
+        {
+          "id": "gbr-glencoe-valley-b1",
+          "title": "山坡之间有一条通道",
+          "text": "格伦科位于苏格兰高地。看全景时，先找两边的山坡，再看中间较低的山谷。山谷里可能有道路、溪流或植被，远处的山也可能被云遮住。你可以先描述看得清的形状，不必一次认出所有山峰和岩石的名字。"
+        },
+        {
+          "id": "gbr-glencoe-valley-b2",
+          "title": "冰川曾经塑造土地",
+          "text": "格伦科的山谷形态与过去的冰川作用有关。冰体移动时会磨蚀和搬运材料，经过很长时间改变谷地。图与文字把过程讲得简单，真实地貌还受岩石性质、原来地形和后来流水等因素影响。不能把每一道坡都归给单独一种力量。"
+        },
+        {
+          "id": "gbr-glencoe-valley-b3",
+          "title": "岩石的历史更长",
+          "text": "这里的地质还与更古老的火山活动有关。冰川雕刻的是已经存在的岩石，岩石形成和山谷塑造不是同一件事，也不一定发生在同一时代。阅读地质故事时，把「材料从哪里来」和「后来形状怎样改变」分开问，会更容易理解。",
+          "mediaId": "gbr-m20"
+        },
+        {
+          "id": "gbr-glencoe-valley-b4",
+          "title": "照片只能看见一个时刻",
+          "text": "晴天和阴天的山谷颜色可能很不同，积雪、光照和拍摄方向也会改变观感。比较两张照片时，先看图注，再找相同的山坡轮廓。不要只凭某张照片较绿，就判断它比另一张更暖或更潮湿；这些结论需要长期环境资料支持。"
+        },
+        {
+          "id": "gbr-glencoe-valley-b5",
+          "title": "记录一条形状线索",
+          "text": "写下你看见的山坡与谷底关系，接着写一个还想知道的问题。你可以问冰川曾经往哪里移动，也可以问谷底的河怎样流。地图里的尼斯湖是苏格兰高地另一处狭长水域，找一找它的位置，再想想水、冰和岩石怎样共同塑造景观。"
+        }
+      ],
+      "term": "冰川",
+      "definition": "在重力作用下缓慢移动的大量冰。",
+      "glossary": [
+        {
+          "term": "冰川",
+          "definition": "在重力作用下缓慢移动的大量冰。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/fire-and-ice/glencoe/",
+        "https://commons.wikimedia.org/wiki/File:The_Three_Sisters,_Glencoe,_Scotland.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-glencoe",
+      "activity": {
+        "id": "gbr-o04",
+        "type": "open",
+        "title": "山谷的形状",
+        "prompt": "山谷有什么形状？你还想知道它怎样形成？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "gbr-m19",
+          "gbr-m20"
+        ],
+        "suggestedArticleIds": [
+          "gbr-glencoe-valley"
+        ]
+      }
+    },
+    {
+      "id": "gbr-stonehenge",
+      "countryId": "gbr",
+      "sectionId": "history",
+      "title": "巨石阵的用途已经知道了吗？",
+      "summary": "巨石阵在英格兰威尔特郡。",
+      "mediaId": "gbr-m21",
+      "blocks": [
+        {
+          "id": "gbr-stonehenge-b1",
+          "title": "先看一圈石头",
+          "text": "巨石阵在英格兰威尔特郡。远景里可以看到高大的立石，有些石头上方还有横石。今天的遗址并不完整，部分位置只留下痕迹。先看真实照片，再看带说明的平面图，可以帮助理解哪些石头仍在、哪些位置需要通过考古研究认识。"
+        },
+        {
+          "id": "gbr-stonehenge-b2",
+          "title": "它不是一天建好的",
+          "text": "巨石阵经过多个阶段建造，石圈的年代大约在公元前2500年。更早的活动与后来变化也属于遗址的故事。因此，时间卡写的是一个重要阶段，而不是声称所有东西都在同一年完成。读古老遗址时，约数和阶段常常比一个精确生日更合适。",
+          "mediaId": "gbr-m22"
+        },
+        {
+          "id": "gbr-stonehenge-b3",
+          "title": "太阳方向提供线索",
+          "text": "遗址中某些排列与太阳在特定季节的方向有关，这为研究用途提供了线索。考古学家还会看埋藏物、地面痕迹和周围景观。一个方向关系能支持某些解释，却不一定回答建造者的所有想法；同一处地方在不同阶段也可能有不同用途。"
+        },
+        {
+          "id": "gbr-stonehenge-b4",
+          "title": "还有许多问题",
+          "text": "石头怎样运输、不同活动怎样进行，仍有需要研究的细节。讲解巨石阵时，我们可以把已经发现的证据和仍在讨论的解释分开。说「还不知道全部用途」并不是学习失败，反而准确地表达了现有知识的边界，也给新的研究留下空间。"
+        },
+        {
+          "id": "gbr-stonehenge-b5",
+          "title": "试着问一个考古问题",
+          "text": "看平面图，先找一处仍有立石的位置，再找图例中表示缺失或遗迹的记号。然后写下你想查的问题，例如一块石头来自哪里。不要因为图案很像某种东西，就把它当作确定答案。照片、测量、材料分析与文献需要互相支持。"
+        }
+      ],
+      "term": "考古证据",
+      "definition": "帮助研究过去的人类活动的遗物、遗迹和相关材料。",
+      "glossary": [
+        {
+          "term": "考古证据",
+          "definition": "帮助研究过去的人类活动的遗物、遗迹和相关材料。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/",
+        "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-stonehenge",
+      "exerciseId": "gbr-c11"
+    },
+    {
+      "id": "gbr-railway-change",
+      "countryId": "gbr",
+      "sectionId": "history",
+      "title": "火车怎样改变人们的出行？",
+      "summary": "Locomotion No.1是一台与英国早期铁路历史有关的蒸汽机车。",
+      "mediaId": "gbr-m23",
+      "blocks": [
+        {
+          "id": "gbr-railway-change-b1",
+          "title": "先认识一件真实机器",
+          "text": "Locomotion No.1是一台与英国早期铁路历史有关的蒸汽机车。它参加了1825年斯托克顿—达灵顿铁路开通时的运行。我们先看它的车轮和车体，再读藏品说明。照片中机器的样子可以观察，建造和使用年代则要由档案帮助确认。"
+        },
+        {
+          "id": "gbr-railway-change-b2",
+          "title": "蒸汽怎样参与工作",
+          "text": "蒸汽机利用加热产生的蒸汽推动机械，再通过连接部件带动车轮。完整内部结构比照片里看到的复杂。本页先辨认车轮，不要求孩子把所有管道和连杆都背下来。图中看到烟也不能单独证明每个机械部件怎样运动，还需要剖面或说明。"
+        },
+        {
+          "id": "gbr-railway-change-b3",
+          "title": "铁路改变连接方式",
+          "text": "铁路让货物和人员能够沿固定轨道运输，逐渐改变城镇之间的联系。1825年的这条线路是重要案例，但不是人类历史上所有意义的「第一条铁路」。此前已经存在轨道和蒸汽机，新的变化常常由许多人长期试验、建造与改进共同促成。"
+        },
+        {
+          "id": "gbr-railway-change-b4",
+          "title": "变化也有代价",
+          "text": "工业和运输发展带来便利，也伴随劳动条件、煤烟污染和社会不平等的问题。历史上的工人和家庭经历并不相同，不能只讲机器速度变快。看机器以外，也可以问谁建造轨道、谁维护车辆、谁住在工厂附近，以及他们怎样生活。",
+          "mediaId": "gbr-m24"
+        },
+        {
+          "id": "gbr-railway-change-b5",
+          "title": "分清实物、复制品和画作",
+          "text": "本页机车照片记录的是拍摄时的陈列，历史插图则是画者对铁路场景的表现。复制机车也可能出现在今天的活动中。图注会分开说明这些类型与时间。希尔登地点页帮助找到博物馆，旧照片的拍摄地不应被改写成今天的陈列地点。"
+        }
+      ],
+      "term": "蒸汽动力",
+      "definition": "利用受热产生的蒸汽推动机械。",
+      "glossary": [
+        {
+          "term": "蒸汽动力",
+          "definition": "利用受热产生的蒸汽推动机械。"
+        }
+      ],
+      "sourceUrls": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co205767",
+        "https://commons.wikimedia.org/wiki/File:Stockton_%26_Darlington_Railway_0-4-0_No._1_%27Locomotion%27_(1825)_Head_of_Steam,_Darlington_30.06.2009_P6300119_(10192855826).jpg",
+        "https://www.railwaymuseum.org.uk/sites/default/files/2023-10/Pages%20from%20LOCOMOTION%20report%20part%201.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-shildon",
+      "exerciseId": "gbr-p06"
+    },
+    {
+      "id": "gbr-voting-rights",
+      "countryId": "gbr",
+      "sectionId": "history",
+      "title": "谁曾经不能参与投票？",
+      "summary": "公共事务影响许多人的生活，投票是人们参与决定代表或议题的一种方式。",
+      "mediaId": "gbr-m34",
+      "blocks": [
+        {
+          "id": "gbr-voting-rights-b1",
+          "title": "投票是一种参与方式",
+          "text": "公共事务影响许多人的生活，投票是人们参与决定代表或议题的一种方式。今天读到选举时，很容易以为资格从来都一样。历史资料却告诉我们，不同时代有不同限制，许多人曾经被排除在外，也有人长期努力争取改变。"
+        },
+        {
+          "id": "gbr-voting-rights-b2",
+          "title": "1918年发生了什么",
+          "text": "英国1918年的法律变化让一部分符合条件的女性获得投票权，但条件与男性并不相同。当时女性还受到年龄和财产等资格限制。不能把这一年简单写成「所有女性都能投票」。准确理解变化，需要同时看新增了什么和仍然保留了什么限制。"
+        },
+        {
+          "id": "gbr-voting-rights-b3",
+          "title": "1928年继续扩大",
+          "text": "1928年的相关法案让女性与男性在同等年龄条件下取得投票资格，当时的门槛是21岁。这是权利变化的重要一步。它也不等于「世界上所有人从此都有投票权」，更不能把当时年龄直接当成今天每一种选举的规定；时间和适用范围都要读清。"
+        },
+        {
+          "id": "gbr-voting-rights-b4",
+          "title": "档案里的名字与声音",
+          "text": "争取投票权的人采用过不同方式，留下照片、信件、演讲和组织记录。我们看到的历史照片有自己的拍摄日期，不能拿1911年的活动照片冒充1928年的现场。照片帮助认识参与者，法律和档案解释帮助了解制度究竟怎样变化。"
+        },
+        {
+          "id": "gbr-voting-rights-b5",
+          "title": "怎样核对一句话",
+          "text": "如果有人说「这部法案规定了什么」，可以先找法案文本和议会的历史说明，而不是只看一张游行照片。本页的小题请你选择适合的证据。认识历史也可以问普通人的生活怎样受到影响，让法律日期与人们争取参与的经历连接起来。"
+        }
+      ],
+      "term": "档案",
+      "definition": "保存下来、用于查考过去活动的记录。",
+      "glossary": [
+        {
+          "term": "档案",
+          "definition": "保存下来、用于查考过去活动的记录。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/unesco/equal-franchise-act-1928/",
+        "https://commons.wikimedia.org/wiki/File:Millicent_Garrett_Fawcett_and_Lady_Frances_Balfour_at_Women%27s_Coronation_Procession.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "gbr-c12"
+    },
+    {
+      "id": "gbr-island-country",
+      "countryId": "gbr",
+      "sectionId": "questions",
+      "title": "一座岛和一个国家有什么不同？",
+      "summary": "岛是一片被水围绕的陆地，国家是具有政治地理范围的单位。",
+      "mediaId": "gbr-m14",
+      "blocks": [
+        {
+          "id": "gbr-island-country-b1",
+          "title": "先问是在看土地还是边界",
+          "text": "岛是一片被水围绕的陆地，国家是具有政治地理范围的单位。这两个词可以一起出现在地图上，却不是同一意思。一座岛可能属于一个国家，也可能分属不同国家；一个国家也可能包括多座岛，或同时拥有大陆与岛屿。"
+        },
+        {
+          "id": "gbr-island-country-b2",
+          "title": "先点大不列颠岛",
+          "text": "在岛屿视图里，大不列颠岛的主要陆地被连在一起显示。英格兰、苏格兰和威尔士的主要陆地在这座岛上。周围小岛与这座主岛有地理联系，却不是主岛本身。切回组成部分视图，可以看见人们用另一种范围认识同一片地方。"
+        },
+        {
+          "id": "gbr-island-country-b3",
+          "title": "再点爱尔兰岛",
+          "text": "向西看，爱尔兰岛大部分属于爱尔兰，东北部是英国的北爱尔兰。岛的轮廓由海岸说明，两者之间的国家边界则需要另一种线条。沿着海岸绕一圈能够找到整个岛，但不能因此把整座岛都说成英国的一部分。"
+        },
+        {
+          "id": "gbr-island-country-b4",
+          "title": "小范围也需要完整名字",
+          "text": "「爱尔兰」在不同语境中可能让人想到国家或岛屿，所以搜索结果会写明类别。「北爱尔兰」则是英国的组成部分。先读名称后面的说明，再打开对应范围。这个习惯也能帮助你理解世界上许多同名城市、地区与自然地理名称。"
+        },
+        {
+          "id": "gbr-island-country-b5",
+          "title": "用两种颜色解释",
+          "text": "在纸上画一个简化岛形，再用另一种颜色画内部边界，说明两种线条各回答什么。纸上的图只用于理解概念，精确位置要回到真实地图。最后在App找到北爱尔兰，说清它在哪座岛上、属于哪个国家，这比只记住一个颜色更牢靠。"
+        }
+      ],
+      "term": "岛屿",
+      "definition": "四面被水围绕的陆地。",
+      "glossary": [
+        {
+          "term": "岛屿",
+          "definition": "四面被水围绕的陆地。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/nationalstatisticscountryclassification/explanatorynotesandcodingguidelines",
+        "https://commons.wikimedia.org/wiki/File:South-east_coast_of_The_Neck,_Skomer_-_geograph.org.uk_-_1444832.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-belfast",
+      "diagram": "gbr-islands-parts",
+      "exerciseId": "gbr-l06"
+    },
+    {
+      "id": "gbr-seen-guessed",
+      "countryId": "gbr",
+      "sectionId": "questions",
+      "title": "哪一句是我看见的，哪一句是猜的？",
+      "summary": "打开巨人堤近景，先读照片的名称、作者和拍摄时间信息。",
+      "mediaId": "gbr-m05",
+      "blocks": [
+        {
+          "id": "gbr-seen-guessed-b1",
+          "title": "先读材料的小标签",
+          "text": "打开巨人堤近景，先读照片的名称、作者和拍摄时间信息。它告诉我们材料来自哪里，哪些时间细节已知。没有日期的照片应注明未知，不能替作者编一个年份。看图以前做这一步，能帮助你避免把不同地点或时期的画面混在一起。"
+        },
+        {
+          "id": "gbr-seen-guessed-b2",
+          "title": "观察要能指出位置",
+          "text": "「石柱之间有一道缝」是一句可以回到照片里寻找的观察。你可以指向具体位置，让同伴也看见。如果只写「这里很神奇」，别人很难知道你注意到什么。试着描述形状、颜色、相邻关系或可见动作，让句子更具体。"
+        },
+        {
+          "id": "gbr-seen-guessed-b3",
+          "title": "解释需要额外的支持",
+          "text": "「裂缝与冷却收缩有关」是一种解释，需要地质资料支持。照片显示裂缝的样子，研究帮助说明形成过程。两者可以互相配合，但不能把解释装成眼睛直接看到了过去。你的猜想也有价值，只要把它写在猜想栏并愿意继续核对。"
+        },
+        {
+          "id": "gbr-seen-guessed-b4",
+          "title": "还可以换一种材料",
+          "text": "如果想知道整片石柱分布在哪里，可以看地图和全景；如果想数柱顶的边，可以看清楚的近景。不同材料适合不同问题。把一张模糊远景无限放大，不一定会得到真正的新细节，必要时应该寻找另一张有明确出处的图片。"
+        },
+        {
+          "id": "gbr-seen-guessed-b5",
+          "title": "写一条属于你的发现",
+          "text": "观察表单有「我看见」「我猜想」「我还想知道」三栏，不要求每栏都填，也没有标准答案。只写一条清楚的观察就可以保存。以后找到新资料，再回来补充或修改。记录的价值是保留你怎样理解世界的过程，而不是一次把所有问题答完。"
+        }
+      ],
+      "term": "猜想",
+      "definition": "还需要证据检验的解释。",
+      "glossary": [
+        {
+          "term": "猜想",
+          "definition": "还需要证据检验的解释。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway",
+        "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway_(2)_-_geograph.org.uk_-_817041.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-giants-causeway",
+      "activity": {
+        "id": "gbr-o05",
+        "type": "open",
+        "title": "看见与猜想",
+        "prompt": "写下一条看见的线索，再写一个需要验证的猜想。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "gbr-m05",
+          "gbr-m06"
+        ],
+        "suggestedArticleIds": [
+          "gbr-seen-guessed"
+        ]
+      }
+    },
+    {
+      "id": "gbr-two-coasts",
+      "countryId": "gbr",
+      "sectionId": "questions",
+      "title": "两处海岸，能只凭颜色判断岩石吗？",
+      "summary": "一张照片来自北爱尔兰巨人堤，另一张来自英格兰莱姆里吉斯附近。",
+      "mediaId": "gbr-m26",
+      "blocks": [
+        {
+          "id": "gbr-two-coasts-b1",
+          "title": "先把地点名摆在一起",
+          "text": "一张照片来自北爱尔兰巨人堤，另一张来自英格兰莱姆里吉斯附近。它们都是海岸，但岩石的来历与形状不同。先核对图注，再看两处各有哪些线索。不要因为两张图都有海水，就把它们当成同一种地质景观。"
+        },
+        {
+          "id": "gbr-two-coasts-b2",
+          "title": "比较可以从形状开始",
+          "text": "巨人堤的石柱有柱顶和柱间裂缝，莱姆里吉斯的岩壁可以看到层状条带。你可以先写「一张有多边形柱顶，另一张有横向层线」。这是对所选材料的描述，并不说明两处每一块岩石都长得相同，也不替代完整的地质调查。"
+        },
+        {
+          "id": "gbr-two-coasts-b3",
+          "title": "颜色会被许多事情改变",
+          "text": "阳光、阴影、潮湿程度和相机设置都可能改变照片里的颜色。湿石头常显得更深，一张阴天图与一张晴天图也可能不同。因此，颜色可以作为观察内容，却不适合独自承担判断岩石类型或年代的任务，还要看结构和来源资料。",
+          "mediaId": "gbr-m05"
+        },
+        {
+          "id": "gbr-two-coasts-b4",
+          "title": "把形成故事分别读清",
+          "text": "巨人堤的玄武岩石柱与熔岩冷却和节理有关，莱姆里吉斯的层状岩石则与沉积历史有关。先分别读两篇文章，再比较过程。不要只把两个复杂故事概括为「都是石头，所以一样」；同一种地表材料可以保存很不同的时间线索。"
+        },
+        {
+          "id": "gbr-two-coasts-b5",
+          "title": "留下一条可继续查的问题",
+          "text": "选一项你最想比较的内容，例如裂缝的方向、岩层的厚薄或海水与岩石的位置。写一条观察，再写还缺哪种资料。你也可以把自己的近处海岸或河岸加入比较，只要明确地点与来源。这样，一次看照片就能变成一条持续探索的线索。"
+        }
+      ],
+      "term": "对照",
+      "definition": "把不同材料放在一起比较。",
+      "glossary": [
+        {
+          "term": "对照",
+          "definition": "把不同材料放在一起比较。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/educational/lyme-regis-beaches/",
+        "https://commons.wikimedia.org/wiki/File:Blue_lias_cliffs_at_Lyme_Regis.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-09",
+      "reviewStatus": "sourceChecked",
+      "placeId": "gbr-jurassic-coast",
+      "activity": {
+        "id": "gbr-o06",
+        "type": "open",
+        "title": "两处不同的海岸",
+        "prompt": "除了颜色，你还能比较哪些线索？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "gbr-m05",
+          "gbr-m26"
+        ],
+        "suggestedArticleIds": [
+          "gbr-two-coasts"
+        ]
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "gbr-thames-london",
+      "countryId": "gbr",
+      "name": "泰晤士河 · 伦敦",
+      "category": "城市",
+      "latitude": 51.5009,
+      "longitude": -0.1195,
+      "region": "英格兰 · 威斯敏斯特南岸",
+      "summary": "从南岸看河湾、桥与钟楼。",
+      "description": "地图点表示威斯敏斯特南岸的一处观察区域，并不代表整条泰晤士河。河水从这里继续向东，流向河口。",
+      "observation": "先找水面，再找桥的两端。",
+      "mediaIds": [
+        "gbr-m01",
+        "gbr-m02",
+        "gbr-m03"
+      ],
+      "sourceUrl": "https://www.thames21.org.uk/what-is-the-tidal-thames/",
+      "aliases": [
+        "Thames",
+        "London",
+        "伦敦",
+        "泰晤士河"
+      ],
+      "articleIds": [
+        "gbr-find-on-map",
+        "gbr-four-parts",
+        "gbr-capital-london",
+        "gbr-thames-city",
+        "gbr-changeable-weather",
+        "gbr-tube-diagram",
+        "gbr-city-park",
+        "gbr-story-stage",
+        "gbr-bell-tower"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m01",
+          "x": 0.87,
+          "y": 0.4,
+          "label": "钟楼",
+          "explanation": "伊丽莎白塔高于旁边的议会建筑。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-tower-bridge",
+      "countryId": "gbr",
+      "name": "伦敦塔桥",
+      "category": "自然",
+      "latitude": 51.5055,
+      "longitude": -0.0754,
+      "region": "英格兰 · 伦敦",
+      "summary": "有两座塔楼、跨越泰晤士河的桥。",
+      "description": "Tower Bridge 与西边的 London Bridge 是不同桥梁。桥面可开启，让合适的船只通过；照片展示桥面关闭的时刻。",
+      "observation": "看看桥面、塔楼和水面怎样排列。",
+      "mediaIds": [
+        "gbr-m04"
+      ],
+      "sourceUrl": "https://www.towerbridge.org.uk/stories/how-does-tower-bridge-work",
+      "aliases": [
+        "Tower Bridge",
+        "塔桥"
+      ],
+      "articleIds": [
+        "gbr-bridge-banks"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m04",
+          "x": 0.38,
+          "y": 0.4,
+          "label": "塔楼",
+          "explanation": "塔楼立在桥面上方。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-giants-causeway",
+      "countryId": "gbr",
+      "name": "巨人堤",
+      "category": "自然",
+      "latitude": 55.2408,
+      "longitude": -6.5116,
+      "region": "北爱尔兰 · 安特里姆海岸",
+      "summary": "玄武岩石柱排列在海岸。",
+      "description": "熔岩冷却后收缩，形成裂缝和柱状节理。石柱的边数并非全部相同。巨人故事属于传说，不能代替地质证据。",
+      "observation": "比较柱顶的边和柱子之间的裂缝。",
+      "mediaIds": [
+        "gbr-m05",
+        "gbr-m06",
+        "gbr-m07"
+      ],
+      "sourceUrl": "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway",
+      "aliases": [
+        "Giant’s Causeway",
+        "Giants Causeway",
+        "巨人之路"
+      ],
+      "articleIds": [
+        "gbr-causeway-columns",
+        "gbr-seen-guessed"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m05",
+          "x": 0.56,
+          "y": 0.5,
+          "label": "柱间裂缝",
+          "explanation": "相邻石柱之间的暗线形成纵向裂缝。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-belfast",
+      "countryId": "gbr",
+      "name": "贝尔法斯特",
+      "category": "城市",
+      "latitude": 54.5965,
+      "longitude": -5.9301,
+      "region": "北爱尔兰 · 市中心",
+      "summary": "从市政厅与商场附近认识城市。",
+      "description": "锚点是市政厅附近的公共空间。两张照片来自不同位置与时间，可观察建筑和行人空间，不能代表所有居民的生活。",
+      "observation": "找一种大家共同使用的设施。",
+      "mediaIds": [
+        "gbr-m08",
+        "gbr-m09"
+      ],
+      "sourceUrl": "https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/nationalstatisticscountryclassification/explanatorynotesandcodingguidelines",
+      "aliases": [
+        "Belfast"
+      ],
+      "articleIds": [
+        "gbr-belfast-neighborhood",
+        "gbr-island-country"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m09",
+          "x": 0.6,
+          "y": 0.75,
+          "label": "街道空间",
+          "explanation": "建筑前方留有行人使用的道路。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-cardiff",
+      "countryId": "gbr",
+      "name": "卡迪夫",
+      "category": "城市",
+      "latitude": 51.4814,
+      "longitude": -3.1811,
+      "region": "威尔士 · 市中心",
+      "summary": "看城堡，也看一块双语站牌。",
+      "description": "城市点在卡迪夫中心。站牌照片拍于 Cardiff Bay 站，其中 Bae／Bay 表示海湾；Caerdydd／Cardiff 都指卡迪夫。",
+      "observation": "把两行文字中表示同一地点的词找出来。",
+      "mediaIds": [
+        "gbr-m10",
+        "gbr-m11"
+      ],
+      "sourceUrl": "https://www.welshlanguagecommissioner.wales/standard-welsh-place-names/caerdydd",
+      "aliases": [
+        "Cardiff",
+        "Caerdydd"
+      ],
+      "articleIds": [
+        "gbr-welsh-signs"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m10",
+          "x": 0.76,
+          "y": 0.74,
+          "label": "城堡建筑",
+          "explanation": "石砌建筑位于草地后方。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-eryri",
+      "countryId": "gbr",
+      "name": "Eryri 山地 · Llyn Idwal",
+      "category": "自然",
+      "latitude": 53.1154,
+      "longitude": -4.0253,
+      "region": "威尔士 · 伊德瓦尔湖区域",
+      "summary": "湖面与山坡共同组成山地景观。",
+      "description": "锚点是 Eryri 山地中的伊德瓦尔湖区域。两幅照片从不同方向看湖和山坡，不能只凭照片估计海拔。",
+      "observation": "先找湖岸，再沿山坡轮廓向上看。",
+      "mediaIds": [
+        "gbr-m12",
+        "gbr-m13"
+      ],
+      "sourceUrl": "https://eryri.gov.wales/discover/culture-language-and-community/place-names/",
+      "aliases": [
+        "Snowdonia",
+        "斯诺登尼亚",
+        "Llyn Idwal"
+      ],
+      "articleIds": [
+        "gbr-eryri"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m13",
+          "x": 0.53,
+          "y": 0.35,
+          "label": "湖面",
+          "explanation": "水面被山坡环绕。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-skomer",
+      "countryId": "gbr",
+      "name": "斯科默岛",
+      "category": "自然",
+      "latitude": 51.737,
+      "longitude": -5.293,
+      "region": "威尔士 · 彭布罗克郡海岸外",
+      "summary": "海岸与海洋连接着海鹦的生活。",
+      "description": "地图使用岛屿代表点，不标出巢穴位置。海鹦在海中找鱼，繁殖季回到岸边育雏；照片不是全年活动的完整记录。",
+      "observation": "看看衔鱼的海鹦，再想想食物从哪里来。",
+      "mediaIds": [
+        "gbr-m14",
+        "gbr-m15",
+        "gbr-m16"
+      ],
+      "sourceUrl": "https://www.welshwildlife.org/visit/skomer-island",
+      "aliases": [
+        "Skomer",
+        "海鹦"
+      ],
+      "articleIds": [
+        "gbr-puffin-coast"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m16",
+          "x": 0.7,
+          "y": 0.45,
+          "label": "衔着的小鱼",
+          "explanation": "鱼从喙边垂下，正文解释它来自海中。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-edinburgh",
+      "countryId": "gbr",
+      "name": "爱丁堡城堡",
+      "category": "历史",
+      "latitude": 55.9486,
+      "longitude": -3.1999,
+      "region": "苏格兰 · 城堡岩",
+      "summary": "城堡立在高于周围街道的岩丘上。",
+      "description": "地图标记城堡位置，草市广场照片从下方望向城堡。岩丘与建筑共同构成城市轮廓，照片角度会影响高度感。",
+      "observation": "分开辨认岩坡和建筑墙体。",
+      "mediaIds": [
+        "gbr-m17",
+        "gbr-m18"
+      ],
+      "sourceUrl": "https://www.edinburghcastle.scot/the-castle/history/",
+      "aliases": [
+        "Edinburgh",
+        "Edinburgh Castle"
+      ],
+      "articleIds": [
+        "gbr-edinburgh"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m17",
+          "x": 0.62,
+          "y": 0.25,
+          "label": "城堡轮廓",
+          "explanation": "城堡的石墙在岩丘之上。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-glencoe",
+      "countryId": "gbr",
+      "name": "格伦科山谷",
+      "category": "自然",
+      "latitude": 56.667,
+      "longitude": -4.986,
+      "region": "苏格兰 · 高地",
+      "summary": "在山坡之间观察宽阔的谷地。",
+      "description": "锚点是公开的三姊妹山观景区域。这里有古老火山岩，也受后来的冰川塑造；一张照片不能独自证明全部形成过程。",
+      "observation": "用手指沿山坡与谷底的连接处画一条线。",
+      "mediaIds": [
+        "gbr-m19",
+        "gbr-m20"
+      ],
+      "sourceUrl": "https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/fire-and-ice/glencoe/",
+      "aliases": [
+        "Glencoe",
+        "Glen Coe",
+        "Gleann Comhann"
+      ],
+      "articleIds": [
+        "gbr-scottish-place-names",
+        "gbr-glencoe-valley"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m19",
+          "x": 0.65,
+          "y": 0.63,
+          "label": "谷底",
+          "explanation": "两侧山坡之间是较低的谷地。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-stonehenge",
+      "countryId": "gbr",
+      "name": "巨石阵",
+      "category": "历史",
+      "latitude": 51.1789,
+      "longitude": -1.8262,
+      "region": "英格兰 · 威尔特郡",
+      "summary": "石圈与遗址平面留下考古线索。",
+      "description": "石圈约在公元前2500年建成，遗址经历多个阶段。平面图表示遗存与位置，并不是今天现场每一块石头都完整竖立。",
+      "observation": "对照照片与平面图，看见什么、还缺什么？",
+      "mediaIds": [
+        "gbr-m21",
+        "gbr-m22"
+      ],
+      "sourceUrl": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/",
+      "aliases": [
+        "Stonehenge"
+      ],
+      "articleIds": [
+        "gbr-stonehenge"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m21",
+          "x": 0.56,
+          "y": 0.43,
+          "label": "横放的石头",
+          "explanation": "横石跨在竖石上方。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-shildon",
+      "countryId": "gbr",
+      "name": "希尔登 · Locomotion 博物馆",
+      "category": "历史",
+      "latitude": 54.6213,
+      "longitude": -1.6428,
+      "region": "英格兰 · 达勒姆郡",
+      "summary": "从一台早期机车读铁路故事。",
+      "description": "此处标记今天的博物馆。机车照片摄于2009年的达灵顿旧陈列地；另一张是后来出版的1825年铁路开通题材插图，不是当日照片。",
+      "observation": "在真实机车图里找车轮，再比较历史插图。",
+      "mediaIds": [
+        "gbr-m23",
+        "gbr-m24"
+      ],
+      "sourceUrl": "https://collection.sciencemuseumgroup.org.uk/objects/co205767",
+      "aliases": [
+        "Shildon",
+        "Locomotion",
+        "希尔登"
+      ],
+      "articleIds": [
+        "gbr-railway-change"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m23",
+          "x": 0.55,
+          "y": 0.84,
+          "label": "车轮",
+          "explanation": "车身下方可见轮缘与辐条。"
+        }
+      ]
+    },
+    {
+      "id": "gbr-jurassic-coast",
+      "countryId": "gbr",
+      "name": "侏罗纪海岸 · 莱姆里吉斯",
+      "category": "自然",
+      "latitude": 50.724,
+      "longitude": -2.948,
+      "region": "英格兰 · 多塞特",
+      "summary": "海边岩层保留着漫长变化的线索。",
+      "description": "这里选择莱姆里吉斯附近的蓝里阿斯岩层与海蚀平台。整段侏罗纪海岸跨越不同地质年代，不能把所有白色海崖当成同一层岩石。",
+      "observation": "比较崖壁的条带与海边平台的形状。",
+      "mediaIds": [
+        "gbr-m25",
+        "gbr-m26"
+      ],
+      "sourceUrl": "https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/educational/lyme-regis-beaches/",
+      "aliases": [
+        "Jurassic Coast",
+        "Lyme Regis",
+        "多塞特"
+      ],
+      "articleIds": [
+        "gbr-jurassic-coast",
+        "gbr-two-coasts"
+      ],
+      "coordinateSource": "WGS84 公共地点／景观代表锚点；与作品拍摄点分开说明",
+      "hotspots": [
+        {
+          "mediaId": "gbr-m26",
+          "x": 0.65,
+          "y": 0.5,
+          "label": "岩层条带",
+          "explanation": "深浅相间的纹理沿崖壁延伸。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "gbr-l01",
+      "countryId": "gbr",
+      "articleId": "gbr-find-on-map",
+      "type": "location",
+      "question": "在世界地图上找到英国。",
+      "hint": "读一读「先从欧洲找起」，再找对应的线索。",
+      "explanation": "把世界地图缩小，找到欧洲。英国在欧洲大陆西北岸外的海上，附近有大大小小的岛屿。先看大陆，再看海岸，最后寻找岛群，这样就不必记住一个孤零零的小点。国家名称写在图上，真正的海岸也能帮你找到位置。",
+      "options": [
+        {
+          "id": "gbr",
+          "text": "英国"
+        },
+        {
+          "id": "egypt",
+          "text": "埃及"
+        },
+        {
+          "id": "usa",
+          "text": "美国"
+        }
+      ],
+      "answerId": "gbr",
+      "evidenceBlockIds": [
+        "gbr-find-on-map-b1",
+        "gbr-find-on-map-b2",
+        "gbr-find-on-map-b3"
+      ],
+      "mapScope": "world"
+    },
+    {
+      "id": "gbr-c01",
+      "countryId": "gbr",
+      "articleId": "gbr-four-parts",
+      "type": "choice",
+      "question": "英格兰属于哪个范围？",
+      "hint": "读一读「四个部分各有名字」，再找对应的线索。",
+      "explanation": "英格兰位于大不列颠岛南部和东部，苏格兰在北部，威尔士在西部，北爱尔兰在另一座岛的东北部。这些组成部分有各自的历史和文化，也共同构成英国。英格兰只是其中之一，介绍整个英国时不能只说英格兰。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "英国的一个组成部分"
+        },
+        {
+          "id": "option-2",
+          "text": "整个英国"
+        },
+        {
+          "id": "option-3",
+          "text": "整个爱尔兰岛"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-four-parts-b2",
+        "gbr-four-parts-b3",
+        "gbr-four-parts-b4"
+      ],
+      "diagram": "gbr-islands-parts"
+    },
+    {
+      "id": "gbr-l02",
+      "countryId": "gbr",
+      "articleId": "gbr-capital-london",
+      "type": "location",
+      "question": "在英国地图上找到伦敦河岸。",
+      "hint": "读一读「在东南部找到城市」，再找对应的线索。",
+      "explanation": "打开英国地图，先找英格兰，再向东南部看。伦敦就在这一带，泰晤士河穿过城市。全国图里的一个小圆点能标出城市的大致位置，却不能表示城市真实的面积。放大后，才更容易看见河流和不同建筑的关系。",
+      "options": [
+        {
+          "id": "gbr-edinburgh",
+          "text": "爱丁堡"
+        },
+        {
+          "id": "gbr-belfast",
+          "text": "贝尔法斯特"
+        },
+        {
+          "id": "gbr-thames-london",
+          "text": "伦敦河岸"
+        }
+      ],
+      "answerId": "gbr-thames-london",
+      "evidenceBlockIds": [
+        "gbr-capital-london-b1",
+        "gbr-capital-london-b2",
+        "gbr-capital-london-b3"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "gbr-c02",
+      "countryId": "gbr",
+      "articleId": "gbr-thames-city",
+      "type": "choice",
+      "question": "例图中，桥把什么连接起来？",
+      "hint": "读一读「桥把两岸连起来」，再找对应的线索。",
+      "explanation": "找到一座桥，先用手指指它的一端，再指另一端。两端位于河流两岸，桥让人和交通能够跨过水面。桥上可能有不同用途的空间，具体要看这座桥的说明。我们的小图只表示桥与两岸的关系，不是精确的伦敦交通地图。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "两片天空"
+        },
+        {
+          "id": "option-3",
+          "text": "两个河口"
+        },
+        {
+          "id": "option-1",
+          "text": "河流两岸"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-thames-city-b3"
+      ],
+      "diagram": "gbr-river-city"
+    },
+    {
+      "id": "gbr-p01",
+      "countryId": "gbr",
+      "articleId": "gbr-causeway-columns",
+      "type": "observation",
+      "question": "哪条可见线索符合石柱开裂？",
+      "hint": "读一读「裂缝也是线索」，再找对应的线索。",
+      "explanation": "看近景照片，石柱之间有一道道缝。一些缝把岩石分成相邻的块，侧面还能看到竖向的纹理。这些是可以在照片中指出来的观察。石头何时形成、内部怎样变化，则需要结合地质研究，不能只凭颜色或一根柱子的样子判断。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "柱间的裂缝"
+        },
+        {
+          "id": "option-2",
+          "text": "想象的巨人脚印"
+        },
+        {
+          "id": "option-3",
+          "text": "天空里的云"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-causeway-columns-b2",
+        "gbr-causeway-columns-b3"
+      ],
+      "mediaId": "gbr-m05",
+      "diagram": "gbr-column-cooling"
+    },
+    {
+      "id": "gbr-c03",
+      "countryId": "gbr",
+      "articleId": "gbr-changeable-weather",
+      "type": "choice",
+      "question": "了解一个地方的气候，应看哪类资料？",
+      "hint": "读一读「海洋就在旁边」，再找对应的线索。",
+      "explanation": "英国位于大西洋边缘，处在中纬度西风带。空气从海洋一侧移动过来，会带来不同的温度和水汽。天气系统不断移动，人们感受到的风和云也会变化。理解这些条件，比把一个国家简单叫作「总是阴天的地方」更有帮助。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "明天的一次天气预报"
+        },
+        {
+          "id": "option-1",
+          "text": "同地点多年的天气记录"
+        },
+        {
+          "id": "option-2",
+          "text": "今天的一张雨景照片"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-changeable-weather-b2",
+        "gbr-changeable-weather-b3",
+        "gbr-changeable-weather-b4"
+      ]
+    },
+    {
+      "id": "gbr-p02",
+      "countryId": "gbr",
+      "articleId": "gbr-welsh-signs",
+      "type": "observation",
+      "question": "文字卡中的 Caerdydd 和 Cardiff 指同一个城市吗？",
+      "hint": "读一读「比较字母和顺序」，再找对应的线索。",
+      "explanation": "两种名称的拼写并不相同。你可以先找到开头的字母，再看看长度和重复的部分。本页对照卡把语言名写在文字旁边，帮助辨认。卡片是根据地名资料制作的教学文字，真实标识还可能有方向、站名或其它词语，需要连在一起读。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "不是，是两个国家"
+        },
+        {
+          "id": "option-3",
+          "text": "只表示一种语言"
+        },
+        {
+          "id": "option-1",
+          "text": "是，都是卡迪夫"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-welsh-signs-b2",
+        "gbr-welsh-signs-b3"
+      ],
+      "mediaId": "gbr-m11",
+      "diagram": "gbr-bilingual"
+    },
+    {
+      "id": "gbr-l03",
+      "countryId": "gbr",
+      "articleId": "gbr-scottish-place-names",
+      "type": "location",
+      "question": "格伦科属于哪个组成部分？",
+      "hint": "读一读「在山谷里遇到一个名字」，再找对应的线索。",
+      "explanation": "格伦科位于苏格兰。打开山谷照片，可以看到高耸的山坡和低处的通道；打开地图，又能找到它与周围海岸、湖泊的关系。同一个地点的名称可能出现不同语言的形式。查名字时，要先确认资料说的是山谷、村庄还是更大的区域。",
+      "options": [
+        {
+          "id": "gbr-part-wales",
+          "text": "威尔士"
+        },
+        {
+          "id": "gbr-part-northern-ireland",
+          "text": "北爱尔兰"
+        },
+        {
+          "id": "gbr-part-scotland",
+          "text": "苏格兰"
+        },
+        {
+          "id": "gbr-part-england",
+          "text": "英格兰"
+        }
+      ],
+      "answerId": "gbr-part-scotland",
+      "evidenceBlockIds": [
+        "gbr-scottish-place-names-b1",
+        "gbr-scottish-place-names-b5"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "gbr-c04",
+      "countryId": "gbr",
+      "articleId": "gbr-tube-diagram",
+      "type": "choice",
+      "question": "例图中的换乘点在哪里？",
+      "hint": "读一读「线条表示连接关系」，再找对应的线索。",
+      "explanation": "本页用原创的甲站、乙站、丙站练习，画出的站名是虚构的。蓝线连接甲站和乙站，橙线连接乙站和丙站。两条线都经过乙站，所以在这个例子中，乙站是换乘点。你可以用手指沿线走，也可以直接读下面的文字路径。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "乙站：两条线共同的站点"
+        },
+        {
+          "id": "option-2",
+          "text": "甲站"
+        },
+        {
+          "id": "option-3",
+          "text": "丙站"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-tube-diagram-b2",
+        "gbr-tube-diagram-b3"
+      ],
+      "diagram": "gbr-interchange"
+    },
+    {
+      "id": "gbr-p03",
+      "countryId": "gbr",
+      "articleId": "gbr-city-park",
+      "type": "observation",
+      "question": "照片中的哪一处可见树冠？",
+      "hint": "读一读「从树冠认出一棵树」，再找对应的线索。",
+      "explanation": "照片里的树冠由枝条和叶片组成。先找到一团与天空相接的绿色轮廓，再往下寻找树干。远景里看不清叶形时，不要急着猜树种。你可以先说「湖边有树」，以后找到清楚的近景和植物资料，再进一步确认它叫什么名字。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "中央远处的天空",
+          "x": 0.5,
+          "y": 0.14
+        },
+        {
+          "id": "option-1",
+          "text": "湖岸上方的枝叶轮廓",
+          "x": 0.17,
+          "y": 0.49
+        },
+        {
+          "id": "option-2",
+          "text": "画面下方的湖水",
+          "x": 0.5,
+          "y": 0.86
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-city-park-b2"
+      ],
+      "mediaId": "gbr-m27",
+      "diagram": "",
+      "mediaIds": [
+        "gbr-m27"
+      ]
+    },
+    {
+      "id": "gbr-c05",
+      "countryId": "gbr",
+      "articleId": "gbr-oats",
+      "type": "choice",
+      "question": "哪份材料可确认一碗粥的成分？",
+      "hint": "读一读「一碗粥有多种做法」，再找对应的线索。",
+      "explanation": "燕麦粥与苏格兰饮食传统有关，今天也在许多地方食用。有人用水，有人用奶，也有人加入果物或其它配料。它不是所有英国人每天必吃的早餐。比较两碗粥时，把配方写下来，才知道差别来自原料、液体还是额外加入的东西。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "粥表面的颜色"
+        },
+        {
+          "id": "option-3",
+          "text": "碗的形状"
+        },
+        {
+          "id": "option-1",
+          "text": "包装或配方中的配料说明"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-oats-b4",
+        "gbr-oats-b5"
+      ]
+    },
+    {
+      "id": "gbr-c06",
+      "countryId": "gbr",
+      "articleId": "gbr-tea-journey",
+      "type": "choice",
+      "question": "想查茶叶产地，先看什么？",
+      "hint": "读一读「先看产地信息」，再找对应的线索。",
+      "explanation": "如果想追踪一包茶，先找包装上关于种植地、加工和混合的说明。品牌所在的城市不一定是茶叶生长的地方。混合茶还可能包含来自多个产区的叶子。没有明确资料时，可以记为尚不清楚，不必根据包装图案猜出一个国家。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "茶杯上的图案"
+        },
+        {
+          "id": "option-1",
+          "text": "产地标签或供应方来源资料"
+        },
+        {
+          "id": "option-2",
+          "text": "在哪里喝到这杯茶"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-tea-journey-b2"
+      ]
+    },
+    {
+      "id": "gbr-p04",
+      "countryId": "gbr",
+      "articleId": "gbr-ceilidh",
+      "type": "observation",
+      "question": "哪一组和四拍示范有同样的拍数与均匀间隔？",
+      "hint": "读一读「听提示，也看同伴」，再找对应的线索。",
+      "explanation": "活动中常有人解释或提示舞步，帮助初学者参与。大家跟着音乐和提示移动，也要注意同伴在哪里。你不需要立刻记住一整支舞。先理解「共同听一段节奏、在合适的时刻回应」，就能明白为什么配合与独自随意移动有所不同。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "1—2—3—4，每拍间隔相同"
+        },
+        {
+          "id": "option-2",
+          "text": "1—2，只有两拍"
+        },
+        {
+          "id": "option-3",
+          "text": "1—2——3—4，间隔不同"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-ceilidh-b2",
+        "gbr-ceilidh-b3"
+      ],
+      "mediaId": "gbr-m31",
+      "diagram": "gbr-rhythm"
+    },
+    {
+      "id": "gbr-c07",
+      "countryId": "gbr",
+      "articleId": "gbr-story-stage",
+      "type": "choice",
+      "question": "台词通常先写在哪份材料中？",
+      "hint": "读一读「故事先变成可表演的文字」，再找对应的线索。",
+      "explanation": "舞台上的故事往往从剧本开始。剧本里可以写人物说的话，也可以写动作和场景提示。台词不是演员随便念出来的所有声音，而是表演内容的一部分。打开一段适合儿童的剧本，先找人物名字，再看他接下来要说什么。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "剧本"
+        },
+        {
+          "id": "option-2",
+          "text": "天气记录"
+        },
+        {
+          "id": "option-3",
+          "text": "地铁线路图"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-story-stage-b1",
+        "gbr-story-stage-b2"
+      ]
+    },
+    {
+      "id": "gbr-c08",
+      "countryId": "gbr",
+      "articleId": "gbr-football-teams",
+      "type": "choice",
+      "question": "想知道某场赛事有哪些代表队，应看什么？",
+      "hint": "读一读「同一地方也有许多队伍」，再找对应的线索。",
+      "explanation": "一座城市可能有不同俱乐部，也有学校、社区和不同年龄段的队伍。俱乐部、地区代表队与国家或协会代表队不是同一个概念。照片中的球场能帮助我们观察看台、草坪和球门，却不一定告诉我们当时是哪两支队在比赛。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "只看一张国家地图"
+        },
+        {
+          "id": "option-3",
+          "text": "猜球衣的颜色"
+        },
+        {
+          "id": "option-1",
+          "text": "该赛事官方参赛名单"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-football-teams-b3",
+        "gbr-football-teams-b4",
+        "gbr-football-teams-b5"
+      ]
+    },
+    {
+      "id": "gbr-c09",
+      "countryId": "gbr",
+      "articleId": "gbr-bell-tower",
+      "type": "choice",
+      "question": "严格说，Big Ben 的名称指什么？",
+      "hint": "读一读「大本钟是大钟的名字」，再找对应的线索。",
+      "explanation": "严格说，Big Ben是塔内大钟的昵称，中文常叫大本钟。钟面显示时间，大钟通过敲击发声。站在河对岸能看到钟楼与钟面，却通常看不到里面的大钟。想知道内部的样子，需要阅读议会机构的介绍或经过确认的内部影像。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "整座议会建筑"
+        },
+        {
+          "id": "option-1",
+          "text": "塔中的大钟"
+        },
+        {
+          "id": "option-2",
+          "text": "整座钟楼"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-bell-tower-b2",
+        "gbr-bell-tower-b3"
+      ]
+    },
+    {
+      "id": "gbr-l04",
+      "countryId": "gbr",
+      "articleId": "gbr-edinburgh",
+      "type": "location",
+      "question": "在地图上找到爱丁堡。",
+      "hint": "读一读「把城堡放回苏格兰」，再找对应的线索。",
+      "explanation": "在区域图上找到爱丁堡，再看它与格伦科的位置。它们都在苏格兰，却呈现不同的城市和自然景观。写一句包含「地形」和「建筑」的观察，例如城堡建在岩丘上。然后留一个问题，下一次可以继续查这座城市怎样沿着地形发展。",
+      "options": [
+        {
+          "id": "gbr-edinburgh",
+          "text": "爱丁堡"
+        },
+        {
+          "id": "gbr-cardiff",
+          "text": "卡迪夫"
+        },
+        {
+          "id": "gbr-belfast",
+          "text": "贝尔法斯特"
+        }
+      ],
+      "answerId": "gbr-edinburgh",
+      "evidenceBlockIds": [
+        "gbr-edinburgh-b5"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "gbr-l05",
+      "countryId": "gbr",
+      "articleId": "gbr-eryri",
+      "type": "location",
+      "question": "找到威尔士的 Eryri 山地。",
+      "hint": "读一读「在地图上找威尔士」，再找对应的线索。",
+      "explanation": "先在全英地图点威尔士，再找山地观察点，看看它在威尔士北部的位置。本页概念图用于练习读线，并不是登山导航。你可以给照片中的湖面、山坡和山脊各写一个名称，再用自己的话说明照片与等高线图分别帮助你了解了什么。",
+      "options": [
+        {
+          "id": "gbr-glencoe",
+          "text": "格伦科"
+        },
+        {
+          "id": "gbr-giants-causeway",
+          "text": "巨人堤"
+        },
+        {
+          "id": "gbr-eryri",
+          "text": "Eryri 山地"
+        }
+      ],
+      "answerId": "gbr-eryri",
+      "evidenceBlockIds": [
+        "gbr-eryri-b5"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "gbr-c10",
+      "countryId": "gbr",
+      "articleId": "gbr-puffin-coast",
+      "type": "choice",
+      "question": "海鹦在哪儿获得鱼类食物？",
+      "hint": "读一读「食物来自海里」，再找对应的线索。",
+      "explanation": "海鹦会到海中捕食鱼类，再把食物带回繁殖地。叼着鱼的实拍能让我们看到喙中的食物；它如何在水下活动，则要结合保护机构的观察资料。不能因为一只鸟站在草地上，就猜它主要吃草，也不能仅凭脚的照片证明全部游泳行为。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "草地上"
+        },
+        {
+          "id": "option-1",
+          "text": "海里"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-puffin-coast-b2",
+        "gbr-puffin-coast-b3"
+      ],
+      "diagram": "gbr-puffin-habitat"
+    },
+    {
+      "id": "gbr-p05",
+      "countryId": "gbr",
+      "articleId": "gbr-jurassic-coast",
+      "type": "observation",
+      "question": "哪一处可以观察岩层条带？",
+      "hint": "读一读「一层层材料怎样留下来」，再找对应的线索。",
+      "explanation": "沉积物在很长时间里积累，后来形成岩石。莱姆里吉斯的蓝里阿斯地层中可以看到石灰岩与较暗岩层交替。观察时先沿一条清楚的层线看过去，再寻找上下相邻的层。层的颜色和厚度是线索，具体成分还需要地质资料来确认。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "画面上的天空",
+          "x": 0.12,
+          "y": 0.12
+        },
+        {
+          "id": "option-3",
+          "text": "崖脚的碎石",
+          "x": 0.08,
+          "y": 0.85
+        },
+        {
+          "id": "option-1",
+          "text": "崖壁上深浅相间的横向纹理",
+          "x": 0.65,
+          "y": 0.5
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-jurassic-coast-b2"
+      ],
+      "mediaId": "gbr-m26",
+      "diagram": "",
+      "mediaIds": [
+        "gbr-m26"
+      ]
+    },
+    {
+      "id": "gbr-c11",
+      "countryId": "gbr",
+      "articleId": "gbr-stonehenge",
+      "type": "choice",
+      "question": "巨石阵的所有用途都确定了吗？",
+      "hint": "读一读「太阳方向提供线索」，再找对应的线索。",
+      "explanation": "遗址中某些排列与太阳在特定季节的方向有关，这为研究用途提供了线索。考古学家还会看埋藏物、地面痕迹和周围景观。一个方向关系能支持某些解释，却不一定回答建造者的所有想法；同一处地方在不同阶段也可能有不同用途。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "所有用途都已经确定"
+        },
+        {
+          "id": "option-3",
+          "text": "没有任何考古线索"
+        },
+        {
+          "id": "option-1",
+          "text": "还有尚未确定的问题"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-stonehenge-b3",
+        "gbr-stonehenge-b4"
+      ]
+    },
+    {
+      "id": "gbr-p06",
+      "countryId": "gbr",
+      "articleId": "gbr-railway-change",
+      "type": "observation",
+      "question": "机车照片中，哪个部位是车轮？",
+      "hint": "读一读「先认识一件真实机器」，再找对应的线索。",
+      "explanation": "Locomotion No.1是一台与英国早期铁路历史有关的蒸汽机车。它参加了1825年斯托克顿—达灵顿铁路开通时的运行。我们先看它的车轮和车体，再读藏品说明。照片中机器的样子可以观察，建造和使用年代则要由档案帮助确认。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "背景建筑的窗户",
+          "x": 0.055,
+          "y": 0.55
+        },
+        {
+          "id": "option-1",
+          "text": "车身下方的圆形部件",
+          "x": 0.55,
+          "y": 0.84
+        },
+        {
+          "id": "option-2",
+          "text": "车身上方的烟囱",
+          "x": 0.29,
+          "y": 0.25
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-railway-change-b1",
+        "gbr-railway-change-b2"
+      ],
+      "mediaId": "gbr-m23",
+      "diagram": "",
+      "mediaIds": [
+        "gbr-m23"
+      ]
+    },
+    {
+      "id": "gbr-c12",
+      "countryId": "gbr",
+      "articleId": "gbr-voting-rights",
+      "type": "choice",
+      "question": "判断 1928 年规定的内容，应看什么？",
+      "hint": "读一读「1928年继续扩大」，再找对应的线索。",
+      "explanation": "1928年的相关法案让女性与男性在同等年龄条件下取得投票资格，当时的门槛是21岁。这是权利变化的重要一步。它也不等于「世界上所有人从此都有投票权」，更不能把当时年龄直接当成今天每一种选举的规定；时间和适用范围都要读清。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "城堡的高度"
+        },
+        {
+          "id": "option-1",
+          "text": "相关法案及档案解释"
+        },
+        {
+          "id": "option-2",
+          "text": "一张没有日期的照片"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "gbr-voting-rights-b3",
+        "gbr-voting-rights-b4",
+        "gbr-voting-rights-b5"
+      ]
+    },
+    {
+      "id": "gbr-l06",
+      "countryId": "gbr",
+      "articleId": "gbr-island-country",
+      "type": "location",
+      "question": "哪一部分位于爱尔兰岛东北部并属于英国？",
+      "hint": "读一读「再点爱尔兰岛」，再找对应的线索。",
+      "explanation": "向西看，爱尔兰岛大部分属于爱尔兰，东北部是英国的北爱尔兰。岛的轮廓由海岸说明，两者之间的国家边界则需要另一种线条。沿着海岸绕一圈能够找到整个岛，但不能因此把整座岛都说成英国的一部分。",
+      "options": [
+        {
+          "id": "gbr-part-scotland",
+          "text": "苏格兰"
+        },
+        {
+          "id": "gbr-part-northern-ireland",
+          "text": "北爱尔兰"
+        },
+        {
+          "id": "gbr-part-wales",
+          "text": "威尔士"
+        }
+      ],
+      "answerId": "gbr-part-northern-ireland",
+      "evidenceBlockIds": [
+        "gbr-island-country-b3",
+        "gbr-island-country-b4",
+        "gbr-island-country-b5"
+      ],
+      "mapScope": "country"
+    }
+  ]
+}

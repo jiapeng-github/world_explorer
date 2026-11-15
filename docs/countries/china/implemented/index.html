@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>中国 · 实际 Flutter 运行截图</title>
+  <style>
+    :root{--navy:#12395b;--ink:#12243a;--muted:#53677d;--orange:#ff9a3d;--line:#dde5ee;--canvas:#f4f7fb}
+    *{box-sizing:border-box}body{margin:0;background:var(--canvas);color:var(--ink);font:16px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}button,a{-webkit-tap-highlight-color:transparent}button{font:inherit;cursor:pointer}a{color:var(--navy);text-underline-offset:4px}button:focus-visible,a:focus-visible{outline:3px solid #2674a9;outline-offset:4px}button:disabled{opacity:.45;cursor:default}.wrap{max-width:1440px;margin:auto;padding:0 32px}header{background:white;border-bottom:1px solid var(--line)}.header-inner{display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:76px}.brand{font-weight:750}.back-link{font-size:14px}.intro{padding:44px 0 26px}.eyebrow{color:#8a4812;background:#fff0df;display:inline-block;padding:4px 12px;border-radius:40px;font-size:13px;font-weight:650}.intro h1{font-size:clamp(30px,4vw,48px);line-height:1.25;letter-spacing:-1px;margin:16px 0}.intro p{color:var(--muted);max-width:800px;margin:8px 0}.controls{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:18px 0 24px;flex-wrap:wrap}.switcher{display:flex;padding:5px;background:#e8eef5;border-radius:14px;gap:5px}.switcher button{border:0;color:var(--muted);background:transparent;padding:10px 20px;min-height:48px;border-radius:10px;font-weight:650}.switcher button[aria-pressed="true"]{background:var(--navy);color:white;box-shadow:0 3px 8px #12395b18}.count{font-size:14px;color:var(--muted);margin:0}.gallery{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}.gallery[data-device="1194"]{grid-template-columns:repeat(2,minmax(0,1fr))}.card{min-width:0;background:white;border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:0 6px 24px #12395b05}.preview{display:grid;place-items:center;position:relative;height:420px;width:100%;padding:20px;border:0;border-bottom:1px solid var(--line);background:linear-gradient(145deg,#e9f0f7,#f7fafc);overflow:hidden}.preview img{display:block;max-height:100%;max-width:100%;width:auto;height:auto;object-fit:contain;box-shadow:0 6px 20px #12395b18}.gallery[data-device="1194"] .preview{height:350px;padding:16px}.zoom-label{position:absolute;right:10px;bottom:10px;border:1px solid #dde5ee;background:#fffffff2;color:var(--navy);font-size:11px;padding:3px 8px;border-radius:6px}.card-info{padding:18px 20px 20px}.number{font:650 12px/1.4 ui-monospace,monospace;color:#9b581d;letter-spacing:1px}.card h2{font-size:21px;line-height:1.35;margin:7px 0}.card p{color:var(--muted);font-size:14px;margin:8px 0 12px;min-height:44px}.card code{display:block;font:11px/1.6 ui-monospace,monospace;overflow-wrap:anywhere;color:#66798a;margin-bottom:12px}.original{font-size:13px}.note{background:#e8f0f7;color:var(--muted);border-radius:14px;padding:18px 22px;margin:30px 0;font-size:14px}.note p{margin:4px 0}footer{border-top:1px solid var(--line);padding:24px 0 40px;margin-top:40px;display:flex;justify-content:space-between;gap:18px;color:var(--muted);font-size:13px}dialog{border:1px solid #d4e0ec;border-radius:16px;padding:0;background:var(--canvas);width:min(1400px,96vw);height:94vh;height:94dvh;max-width:96vw;max-height:94vh;max-height:94dvh;overflow:hidden}dialog::backdrop{background:#091d32d9}.viewer-shell{height:100%;display:flex;flex-direction:column}.viewer-bar{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:12px 16px;background:white;border-bottom:1px solid var(--line)}.viewer-title{min-width:0}.viewer-title strong{font-size:17px}.viewer-title small{display:block;font-size:12px;color:var(--muted)}.close,.viewer-actions button{min-height:44px;min-width:44px;border:1px solid var(--line);border-radius:10px;background:white;color:var(--navy);padding:7px 12px}.close{font-size:23px;flex-shrink:0}.viewer-image{flex:1;min-height:0;overflow:auto;background:#e9eff5;padding:18px;text-align:center}.viewer-image img{display:block;width:auto;height:100%;max-width:100%;object-fit:contain;margin:auto}.viewer-image.actual img{height:auto;max-width:none;object-fit:initial;margin:0 auto}.viewer-actions{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 16px;background:white;border-top:1px solid var(--line)}.viewer-nav{display:flex;gap:8px}.viewer-actions a{font-size:13px}.hint{font-size:12px;color:var(--muted)}body.modal-open{overflow:hidden}
+    @media(max-width:1100px){.gallery{grid-template-columns:repeat(3,minmax(0,1fr))}.preview{height:400px}.gallery[data-device="1194"] .preview{height:290px}}
+    @media(max-width:820px){.gallery{grid-template-columns:repeat(2,minmax(0,1fr))}.wrap{padding:0 22px}.intro{padding-top:30px}.gallery[data-device="1194"]{grid-template-columns:1fr}.gallery[data-device="1194"] .preview{height:auto;min-height:200px}.gallery[data-device="1194"] .preview img{width:100%;height:auto}.viewer-actions{flex-wrap:wrap}.hint{display:none}}
+    @media(max-width:500px){.wrap{padding:0 16px}.header-inner{min-height:68px;gap:12px}.back-link{font-size:12px}.gallery{gap:14px}.preview{height:300px;padding:12px}.card-info{padding:14px}.card h2{font-size:18px}.card p{font-size:13px;min-height:62px}.card code{font-size:10px}.switcher{width:100%}.switcher button{flex:1;padding:10px 8px;font-size:14px}.controls{gap:10px}.intro h1{font-size:32px}.viewer-actions a{display:none}.viewer-title strong{font-size:15px}.viewer-image{padding:8px}footer{display:block}footer span{display:block;margin-top:8px}}
+    @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+  </style>
+</head>
+<body>
+  <header><div class="wrap header-inner"><div class="brand">世界大百科 · 中国</div><a class="back-link" href="../index.html">← 返回原设计稿</a></div></header>
+  <main class="wrap">
+    <section class="intro" aria-labelledby="page-title">
+      <span class="eyebrow">Flutter 实际测试截图</span>
+      <h1 id="page-title">中国模块，运行中的界面</h1>
+      <p>以下为 Flutter 应用在界面测试中渲染的真实页面截图，非原概念稿。每种尺寸收录 14 个页面，可切换手机和平板布局，点击图片放大查看。</p>
+    </section>
+    <div class="controls">
+      <div class="switcher" role="group" aria-label="选择截图布局"><button type="button" data-device="390" aria-pressed="true" aria-controls="gallery">手机 · 390 × 844</button><button type="button" data-device="1194" aria-pressed="false" aria-controls="gallery">平板 · 1194 × 834</button></div>
+      <p class="count" id="layout-status" role="status" aria-live="polite">手机布局 · 14 个页面</p>
+    </div>
+    <section class="gallery" id="gallery" data-device="390" aria-label="实际 Flutter 运行截图">
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn01-overview.png" data-tablet="1194/cn01-overview.png" data-title="中国概览" aria-label="放大中国概览运行截图">
+          <img src="390/cn01-overview.png" width="780" height="1688" loading="eager" decoding="async" alt="中国概览，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">01 / 14</span><h2>中国概览</h2><p>国家名片、探索主线与完整目录入口</p><code>/countries/china</code><a class="original" href="390/cn01-overview.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn02-directory.png" data-tablet="1194/cn02-directory.png" data-title="探索目录" aria-label="放大探索目录运行截图">
+          <img src="390/cn02-directory.png" width="780" height="1688" loading="eager" decoding="async" alt="探索目录，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">02 / 14</span><h2>探索目录</h2><p>按栏目浏览中国内容</p><code>/countries/china/contents</code><a class="original" href="390/cn02-directory.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn03-map.png" data-tablet="1194/cn03-map.png" data-title="中国探索地图" aria-label="放大中国探索地图运行截图">
+          <img src="390/cn03-map.png" width="780" height="1688" loading="eager" decoding="async" alt="中国探索地图，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">03 / 14</span><h2>中国探索地图</h2><p>真实地理底图、河流与地点详情</p><code>/atlas?country=china&amp;place=jiuzhaigou</code><a class="original" href="390/cn03-map.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn04-journey.png" data-tablet="1194/cn04-journey.png" data-title="山河主线" aria-label="放大山河主线运行截图">
+          <img src="390/cn04-journey.png" width="780" height="1688" loading="eager" decoding="async" alt="山河主线，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">04 / 14</span><h2>山河主线</h2><p>沿着地势、河流与自然景观阅读</p><code>/countries/china/journeys/mountains</code><a class="original" href="390/cn04-journey.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn05-geography.png" data-tablet="1194/cn05-geography.png" data-title="地理阅读" aria-label="放大地理阅读运行截图">
+          <img src="390/cn05-geography.png" width="780" height="1688" loading="lazy" decoding="async" alt="地理阅读，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">05 / 14</span><h2>地理阅读</h2><p>地势示意与分段阅读</p><code>/articles/china-geography</code><a class="original" href="390/cn05-geography.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn06-landmark.png" data-tablet="1194/cn06-landmark.png" data-title="长城观察" aria-label="放大长城观察运行截图">
+          <img src="390/cn06-landmark.png" width="780" height="1688" loading="lazy" decoding="async" alt="长城观察，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">06 / 14</span><h2>长城观察</h2><p>地点介绍、照片观察与地图入口</p><code>/places/great-wall</code><a class="original" href="390/cn06-landmark.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn07-timeline.png" data-tablet="1194/cn07-timeline.png" data-title="历史线索" aria-label="放大历史线索运行截图">
+          <img src="390/cn07-timeline.png" width="780" height="1688" loading="lazy" decoding="async" alt="历史线索，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">07 / 14</span><h2>历史线索</h2><p>从留下的物件认识历史</p><code>/countries/china/timeline</code><a class="original" href="390/cn07-timeline.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn08-culture.png" data-tablet="1194/cn08-culture.png" data-title="文化手艺" aria-label="放大文化手艺运行截图">
+          <img src="390/cn08-culture.png" width="780" height="1688" loading="lazy" decoding="async" alt="文化手艺，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">08 / 14</span><h2>文化手艺</h2><p>剪纸阅读与思考线索</p><code>/articles/china-culture</code><a class="original" href="390/cn08-culture.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn09-daily.png" data-tablet="1194/cn09-daily.png" data-title="地方生活" aria-label="放大地方生活运行截图">
+          <img src="390/cn09-daily.png" width="780" height="1688" loading="lazy" decoding="async" alt="地方生活，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">09 / 14</span><h2>地方生活</h2><p>日常生活栏目与文章入口</p><code>/countries/china/sections/daily</code><a class="original" href="390/cn09-daily.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn10-nature.png" data-tablet="1194/cn10-nature.png" data-title="动物与生态" aria-label="放大动物与生态运行截图">
+          <img src="390/cn10-nature.png" width="780" height="1688" loading="lazy" decoding="async" alt="动物与生态，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">10 / 14</span><h2>动物与生态</h2><p>大熊猫与栖息地阅读</p><code>/articles/china-nature</code><a class="original" href="390/cn10-nature.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn11-explore.png" data-tablet="1194/cn11-explore.png" data-title="探索任务" aria-label="放大探索任务运行截图">
+          <img src="390/cn11-explore.png" width="780" height="1688" loading="lazy" decoding="async" alt="探索任务，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">11 / 14</span><h2>探索任务</h2><p>观察任务与理解题</p><code>/countries/china/explore</code><a class="original" href="390/cn11-explore.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn12-discoveries.png" data-tablet="1194/cn12-discoveries.png" data-title="我的中国发现" aria-label="放大我的中国发现运行截图">
+          <img src="390/cn12-discoveries.png" width="780" height="1688" loading="lazy" decoding="async" alt="我的中国发现，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">12 / 14</span><h2>我的中国发现</h2><p>阅读足迹、笔记与真实空状态</p><code>/me/countries/china</code><a class="original" href="390/cn12-discoveries.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn13-observation.png" data-tablet="1194/cn13-observation.png" data-title="记下发现" aria-label="放大记下发现运行截图">
+          <img src="390/cn13-observation.png" width="780" height="1688" loading="lazy" decoding="async" alt="记下发现，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">13 / 14</span><h2>记下发现</h2><p>记录看见的线索、猜想与问题</p><code>/countries/china/observe/china-explore</code><a class="original" href="390/cn13-observation.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+      <article class="card">
+        <button class="preview" type="button" data-phone="390/cn14-map-question.png" data-tablet="1194/cn14-map-question.png" data-title="地图定位题" aria-label="放大地图定位题运行截图">
+          <img src="390/cn14-map-question.png" width="780" height="1688" loading="lazy" decoding="async" alt="地图定位题，手机布局的实际 Flutter 运行截图">
+          <span class="zoom-label" aria-hidden="true">查看大图 ↗</span>
+        </button>
+        <div class="card-info"><span class="number">14 / 14</span><h2>地图定位题</h2><p>在地图或选项列表中选择答案</p><code>/exercises/china-location</code><a class="original" href="390/cn14-map-question.png" target="_blank" rel="noopener">单独打开截图 ↗</a></div>
+      </article>
+    </section>
+    <aside class="note"><p>尺寸为测试使用的逻辑视口；图片按更高像素密度导出，便于查看文字与细节。</p><p>每张截图记录相应页面的可见区域。截图画廊用于检查实际布局，完整滚动内容和点击行为请在 App 中体验。</p></aside>
+    <noscript><p>当前展示手机截图。切换尺寸和放大查看需要启用 JavaScript；仍可通过各卡片的“单独打开截图”查看原图。</p></noscript>
+    <footer><span>世界大百科 · 中国模块运行截图</span><a href="../index.html">查看六组原概念设计 ↗</a></footer>
+  </main>
+  <dialog id="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-shell">
+      <div class="viewer-bar"><div class="viewer-title"><strong id="viewer-title">运行截图</strong><small id="viewer-meta"></small></div><button class="close" type="button" aria-label="关闭大图">×</button></div>
+      <div class="viewer-image" id="viewer-image"><img id="viewer-img" alt=""></div>
+      <div class="viewer-actions"><div class="viewer-nav"><button type="button" id="previous" aria-label="上一张截图">← 上一张</button><button type="button" id="next" aria-label="下一张截图">下一张 →</button></div><button type="button" id="zoom" aria-pressed="false">原始像素</button><span class="hint">方向键切换 · Esc 关闭</span><a id="viewer-original" target="_blank" rel="noopener">单独打开原图 ↗</a></div>
+    </div>
+  </dialog>
+  <script>
+    'use strict';
+    const gallery = document.getElementById('gallery');
+    const cards = Array.from(gallery.querySelectorAll('.preview'));
+    const deviceButtons = Array.from(document.querySelectorAll('.switcher button'));
+    const viewer = document.getElementById('viewer');
+    const viewerImage = document.getElementById('viewer-img');
+    const imageArea = document.getElementById('viewer-image');
+    const zoomButton = document.getElementById('zoom');
+    let device = '390', current = 0, opener = null;
+    const deviceLabel = () => device === '390' ? '手机 · 390 × 844' : '平板 · 1194 × 834';
+    const imageSource = card => device === '390' ? card.dataset.phone : card.dataset.tablet;
+    function setDevice(value) {
+      if (!['390', '1194'].includes(value)) return;
+      device = value;
+      gallery.dataset.device = value;
+      deviceButtons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.device === value)));
+      cards.forEach(card => {
+        const image = card.querySelector('img');
+        image.src = imageSource(card);
+        image.width = value === '390' ? 780 : 2388;
+        image.height = value === '390' ? 1688 : 1668;
+        image.alt = card.dataset.title + '，' + (value === '390' ? '手机' : '平板') + '布局的实际 Flutter 运行截图';
+        card.closest('.card').querySelector('.original').href = imageSource(card);
+      });
+      document.getElementById('layout-status').textContent = (value === '390' ? '手机' : '平板') + '布局 · 14 个页面';
+    }
+    function showImage(index) {
+      current = Math.max(0, Math.min(cards.length - 1, index));
+      const card = cards[current];
+      viewerImage.src = imageSource(card);
+      viewerImage.alt = card.dataset.title + '，' + deviceLabel() + '实际 Flutter 运行截图';
+      document.getElementById('viewer-title').textContent = card.dataset.title;
+      document.getElementById('viewer-meta').textContent = deviceLabel() + ' · ' + (current + 1) + ' / ' + cards.length;
+      document.getElementById('viewer-original').href = imageSource(card);
+      document.getElementById('previous').disabled = current === 0;
+      document.getElementById('next').disabled = current === cards.length - 1;
+      imageArea.scrollTop = 0;
+      imageArea.scrollLeft = 0;
+    }
+    function resetZoom() {
+      imageArea.classList.remove('actual');
+      zoomButton.setAttribute('aria-pressed', 'false');
+      zoomButton.textContent = '原始像素';
+    }
+    deviceButtons.forEach(button => button.addEventListener('click', () => setDevice(button.dataset.device)));
+    cards.forEach((card, index) => card.addEventListener('click', () => {
+      opener = card;
+      resetZoom();
+      showImage(index);
+      viewer.showModal();
+      document.body.classList.add('modal-open');
+    }));
+    viewer.querySelector('.close').addEventListener('click', () => viewer.close());
+    viewer.addEventListener('close', () => {
+      document.body.classList.remove('modal-open');
+      if (opener) opener.focus();
+    });
+    viewer.addEventListener('click', event => {
+      if (event.target !== viewer) return;
+      const bounds = viewer.getBoundingClientRect();
+      if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) viewer.close();
+    });
+    document.getElementById('previous').addEventListener('click', () => showImage(current - 1));
+    document.getElementById('next').addEventListener('click', () => showImage(current + 1));
+    zoomButton.addEventListener('click', () => {
+      const actual = imageArea.classList.toggle('actual');
+      zoomButton.setAttribute('aria-pressed', String(actual));
+      zoomButton.textContent = actual ? '适合窗口' : '原始像素';
+    });
+    viewer.addEventListener('keydown', event => {
+      if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+        event.preventDefault();
+        showImage(current + (event.key === 'ArrowRight' ? 1 : -1));
+      }
+    });
+  </script>
+</body>
+</html>
+

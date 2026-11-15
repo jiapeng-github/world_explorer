@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-11",
+  "flutterTests": 164,
+  "pythonTests": 23,
+  "analyze": "No issues found",
+  "android": "ARM64 debug build and bundled Germany asset verification passed",
+  "web": "JavaScript release build and bundled Germany asset verification passed",
+  "physicalDeviceTest": false,
+  "germany": {
+    "articles": 30,
+    "places": 12,
+    "exercises": 24,
+    "openObservations": 6,
+    "media": 36,
+    "diagrams": 8,
+    "journeys": 3
+  },
+  "screenshots": [
+    "docs/countries/deu/implemented/de01-overview.png",
+    "docs/countries/deu/implemented/de02-contents.png",
+    "docs/countries/deu/implemented/de03-map-tablet.png",
+    "docs/countries/deu/implemented/de04-map-phone.png",
+    "docs/countries/deu/implemented/de05-river-reader.png",
+    "docs/countries/deu/implemented/de06-koblenz.png",
+    "docs/countries/deu/implemented/de07-timeline.png",
+    "docs/countries/deu/implemented/de08-printing.png",
+    "docs/countries/deu/implemented/de09-daily.png",
+    "docs/countries/deu/implemented/de10-deadwood.png",
+    "docs/countries/deu/implemented/de11-explore.png",
+    "docs/countries/deu/implemented/de12-discoveries.png",
+    "docs/countries/deu/implemented/de13-journey.png",
+    "docs/countries/deu/implemented/de14-observation.png"
+  ]
+}

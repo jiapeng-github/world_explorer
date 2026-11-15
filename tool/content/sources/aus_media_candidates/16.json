@@ -1,0 +1,556 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "808485": {
+        "pageid": 808485,
+        "ns": 6,
+        "title": "File:Koala clinging onto a Eucalyptus tree.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 25937,
+            "width": 320,
+            "height": 240,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Koala_clinging_onto_a_Eucalyptus_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1200,
+            "thumbheight": 900,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Koala_clinging_onto_a_Eucalyptus_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 900
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Koala_clinging_onto_a_Eucalyptus_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koala_clinging_onto_a_Eucalyptus_tree.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=808485",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2006-05-24 21:01:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Koala clinging onto a Eucalyptus tree",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|User-created GFDL images|License migration completed|Self-published work|Prehensility|Koalas in trees|Mammals of Kangaroo Island",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Koala in einem Eukalyptusbaum auf Kangaroo Island",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2000-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<p>Originally from <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>; description page is (was) <a href=\"https://de.wikipedia.org/wiki/Image:koala.jpg\" class=\"extiw\" title=\"de:Image:koala.jpg\">here</a>\n</p>\n<ul><li>13:38, 24. Jul 2003 <a href=\"https://de.wikipedia.org/wiki/User:Thomasgl\" class=\"extiw\" title=\"de:User:Thomasgl\">Thomasgl</a> 320 x 240 (25.937 Byte) <i>(Koala in einem Eukalyptusbaum auf Kangaroo Island)</i></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "User <a href=\"https://de.wikipedia.org/wiki/User:Thomasgl\" class=\"extiw\" title=\"de:User:Thomasgl\">Thomasgl</a> on <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/User:Thomasgl\" class=\"extiw\" title=\"de:User:Thomasgl\">Thomasgl</a> at the <a href=\"https://de.wikipedia.org/wiki/\" class=\"extiw\" title=\"de:\">German-language Wikipedia</a>, the copyright holder of this work, hereby publishes it under the following license:",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<a href=\"https://de.wikipedia.org/wiki/User:Thomasgl\" class=\"extiw\" title=\"de:User:Thomasgl\">Thomasgl</a>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "11626326": {
+        "pageid": 11626326,
+        "ns": 6,
+        "title": "File:Koala eucalyptus.JPG",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1059055,
+            "width": 1153,
+            "height": 1575,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Koala_eucalyptus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1200,
+            "thumbheight": 1639,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Koala_eucalyptus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 1639
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Koala_eucalyptus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koala_eucalyptus.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11626326",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-09-28 21:54:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Koala eucalyptus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|Taken with Nikon D50|Lismore, New South Wales|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Self-published work|Unidentified Eucalyptus|Animals looking down|Files with coordinates missing SDC location of creation|Koalas in trees|Mammals facing left|Mammals looking at viewer",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-28.809483",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "153.239708",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Koala sitting in an eucalyptus near Lismore (australia, new south wales)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2008-04-29",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pouts31\" title=\"User:Pouts31\">Pouts31</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "48551910": {
+        "pageid": 48551910,
+        "ns": 6,
+        "title": "File:Koala in eucalyptus.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4271337,
+            "width": 5312,
+            "height": 2988,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Koala_in_eucalyptus.jpg/1280px-Koala_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 675,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Koala_in_eucalyptus.jpg/3840px-Koala_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Koala_in_eucalyptus.jpg/1280px-Koala_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 675,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Koala_in_eucalyptus.jpg/3840px-Koala_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Koala_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koala_in_eucalyptus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48551910",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-05-04 12:13:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Koala in eucalyptus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Great Otway National Park|Kennett River, Victoria|Self-published work|Unidentified Eucalyptus|Images from Wiki Loves Earth 2016 in Australia|Images from Wiki Loves Earth 2016|Australia photographs taken on 2016-04-30|Koalas in trees|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Uploaded via Campaign:wle-au",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Koala in eucalyptus tree at Kennett River, Great Otway National Park, Victoria.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-04-30 15:01:54",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KobiWiki&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KobiWiki (page does not exist)\">KobiWiki</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "89041505": {
+        "pageid": 89041505,
+        "ns": 6,
+        "title": "File:Koala mâchonnant une feuille d'eucalyptus, Queensland, Australie, 2014.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9010148,
+            "width": 5472,
+            "height": 3648,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg/1280px-Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 800,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg/3840px-Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg/1280px-Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 800,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg/3840px-Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus%2C_Queensland%2C_Australie%2C_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koala_m%C3%A2chonnant_une_feuille_d%27eucalyptus,_Queensland,_Australie,_2014.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89041505",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-04-10 18:06:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Koala mâchonnant une feuille d'eucalyptus, Queensland, Australie, 2014",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Mammals of Queensland|Eucalyptus in Australia|Flickr images reviewed by FlickreviewR 2|Koalas in trees|Animals with Eucalyptus",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Un koala se nourrit sur un eucalyptus dans l'État du Queensland, en Australie, en 2014.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2014-05-02 15:47:31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/cuatrok77/14352568473\">https://www.flickr.com/photos/cuatrok77/14352568473</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "cuatrok77",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "48551911": {
+        "pageid": 48551911,
+        "ns": 6,
+        "title": "File:Koala resting in eucalyptus.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3291211,
+            "width": 2988,
+            "height": 5312,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Koala_resting_in_eucalyptus.jpg/1280px-Koala_resting_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 2133,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Koala_resting_in_eucalyptus.jpg/1920px-Koala_resting_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Koala_resting_in_eucalyptus.jpg/1280px-Koala_resting_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 2133,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Koala_resting_in_eucalyptus.jpg/1920px-Koala_resting_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Koala_resting_in_eucalyptus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koala_resting_in_eucalyptus.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48551911",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-05-04 12:13:20",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Koala resting in eucalyptus",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Great Otway National Park|Kennett River, Victoria|Self-published work|Unidentified Eucalyptus|Images from Wiki Loves Earth 2016 in Australia|Images from Wiki Loves Earth 2016|Australia photographs taken on 2016-04-30|Koalas in trees|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Uploaded via Campaign:wle-au",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Koala in eucalyptus tree at Kennett River, Great Otway National Park, Victoria.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-04-30 15:01:01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KobiWiki&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KobiWiki (page does not exist)\">KobiWiki</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "version": "1.0",
+  "createdAt": "2026-11-01",
+  "mode": "built-in image_gen",
+  "visualDirection": "现代地理图鉴：浅色、深海蓝与橙色、大幅实景",
+  "commonPrompt": "Use case: ui-mockup.\nCreate a polished, implementation-ready high-fidelity UI concept for a Chinese children's world encyclopedia app named exactly “世界大百科”, for a curious eight-year-old. User-selected visual direction: modern geographic atlas, light backgrounds, deep ocean navy and orange accents, large documentary-style landscape imagery. NOT a preschool game. Sophisticated editorial hierarchy, readable large Simplified Chinese, generous breathing room, obvious tap targets, refined line icons with text labels, moderate 16px corner radii, restrained shadows. Colors: canvas #F4F7FB, white surfaces, ink #12243A, navy #12395B, link blue #265F91, orange #FF9A3D; orange buttons use dark navy text. Consistent Noto Sans SC-like Chinese typography. Photo-led composition with short paragraphs and tasteful dividers. No mascot, no stickers, no rewards or points, no decorative fake analytics, no oversized bubbles, no purple gradients, no device hardware, no perspective mockup, no hands, no desktop scenery. These are screen design concepts; geographic and photographic imagery will be replaced with verified assets during implementation.\nComposition: a very high-resolution square design board with TWO complete upright mobile app canvases side-by-side, same size and aligned, logical 430x932 each, narrow gutter, subtle neutral outer background. Each canvas must show its entire top and bottom, with safe padding. Minimal small board labels outside canvases, not a marketing poster. Fill most of board with the two screens. Large crisp legible Chinese labels. Root pages have exactly four bottom navigation items “发现” “地图” “百科” “我的”, navy selected item. Detail pages instead have back navigation and contextual tools. Never invent additional bottom tabs. Avoid tiny illegible paragraphs; use the exact short copy supplied below.",
+  "referencePolicy": "Module 01 is generated first. Other modules use its image only as a design-system reference, not as an edit target; each receives a separate generation call.",
+  "modules": [
+    {
+      "id": "01-discover",
+      "name": "发现与兴趣引导",
+      "screens": [
+        "S01",
+        "S00"
+      ],
+      "prompt": "Module 01 — discovery and onboarding.\nLEFT screen: discovery homepage. Top wordmark “世界大百科” and search icon. Large welcoming headline “世界这么大，今天去哪儿？” with generous spacing. A large documentary-style Egyptian Nile river landscape photograph occupies the central editorial hero; small tag “今日目的地 · 埃及”, title “沿着尼罗河，发现埃及”, dark navy button “开始探索” with small orange arrow. Below, elegant compact continue-reading row with tiny Great Wall photo, label “继续阅读”, title “长城为什么这么长？”, small progress line without scores. Section “从一个问题出发” with two image tiles titled “雨林里住着谁？” and “世界各地怎么上学？”. Bottom nav selected “发现”.\nRIGHT screen: first-use interests, airy and tactile. Back top left, text action “跳过” top right. Headline “你对什么最好奇？” subline “选几个喜欢的，也可以直接出发”. Six large 2-column interest tiles with tasteful cropped documentary images or simple geographic diagram details, labels exactly “动物” “山川” “城市” “历史” “生活” “文化”. “动物” and “山川” selected via navy borders and orange check dots. Bottom full-width navy CTA “开始探索世界”. No bottom navigation on onboarding."
+    },
+    {
+      "id": "02-atlas",
+      "name": "世界地图",
+      "screens": [
+        "S02"
+      ],
+      "prompt": "Module 02 — richly designed WORLD ATLAS. Override board composition: high-resolution LANDSCAPE 3:2 board, a large landscape tablet canvas on the left, a tall phone canvas on the right. Same product styles as reference.\nTABLET: Slim left navigation rail with exactly “发现” “地图” “百科” “我的”, “地图” selected. Header “世界地图”, search field “搜索国家、城市或地标”. Main area is an elegant detailed 2D educational atlas centered on Africa and Mediterranean, recognizable realistic coastlines, pale blue seas, subtle green/tan terrain, visible Nile river in northeastern Africa, restrained country outlines, sparse clear labels “非洲” “欧洲” “地中海” “埃及”. Egypt highlighted with navy outline and translucent orange fill at correct northeast-African position. A small accurate-looking selection dot for Giza near Cairo. Top compact layer chips “国家” “自然” “地标”. Bottom-left neat legend; right-edge + and − zoom controls. Right sidebar within tablet shows “埃及” with a pyramid landscape thumbnail, “首都 · 开罗”, “沿着尼罗河认识这个国家”, navy CTA “进入国家百科”, row “吉萨金字塔” and locate button. Map remains the dominant visual, no invented fantasy islands.\nPHONE: same selected Egypt atlas, top search icon and title “世界地图”, broad clear map, clean bottom sheet titled “埃及” with small flag, subtitle “非洲 · 首都开罗”, a landscape thumbnail and navy “探索埃及” button. Four bottom nav items with 地图 selected. Legible, simple enough for a child."
+    },
+    {
+      "id": "03-encyclopedia",
+      "name": "国家百科",
+      "screens": [
+        "S03",
+        "S04"
+      ],
+      "prompt": "Module 03 — country encyclopedia browse and country overview.\nLEFT root screen: title “国家百科” with search icon. Segmented “国家 / 专题”, 国家 selected. Filter chips “全部” “亚洲” “欧洲” “非洲” with horizontal continuation hint. Editorial two-column country photo grid with exactly six visible cards: “中国” Great Wall, “埃及” Giza pyramids, “巴西” Iguazu Falls, “日本” Mount Fuji, “肯尼亚” savanna, “挪威” fjord. Each has a short secondary label like “山川与文明” or “尼罗河畔”, and a small outlined availability label “完整百科” on China/Egypt/Brazil, “基础资料” on another one. Photos dominate cards, clear navy names. Four bottom nav with 百科 selected.\nRIGHT detail screen: back and bookmark controls; large true-to-life Giza pyramid scene at top, dramatic but clear title “埃及” and small “EGYPT”. Below white editorial content: “先认识这个国家” and a small neat fact strip “首都 开罗 / 语言 阿拉伯语 / 非洲”. Three short feature labels “尼罗河” “沙漠” “古老文明”. Section “你想了解什么？” with a compact two-column menu of large text-and-line-icon items “地理与气候” “人们与语言” “日常生活” “饮食与物产” “艺术与节日” “城市与地标” and a final visible “查看全部 10 个栏目” link. Bottom small photo row titled “地标与风景” shows pyramid and river thumbnail. Sticky primary action “从国家概览开始”. No bottom global nav on detail. Don't crowd all country content onto one screen."
+    },
+    {
+      "id": "04-landmarks",
+      "name": "地标与风景",
+      "screens": [
+        "S07",
+        "S08"
+      ],
+      "prompt": "Module 04 — landmark details and full-photo gallery.\nLEFT: detail screen with back arrow and bookmark. Large beautifully composed documentary-style photo of Giza's three pyramids in a sandy plateau, occupying upper 40%. Caption tab “埃及 · 吉萨”. Main title “吉萨金字塔”. Short subtitle “在沙漠边缘，读一段古老的历史”. Two small actions “在地图上看” and “听介绍”. White reading area with heading “它在哪里？” and one short readable sentence “它们位于尼罗河西岸，靠近开罗。” Next heading “仔细看一看” with a small pale orange observation block “照片里的三座金字塔，有什么不同？”. Lower thumbnail strip of three views and link “查看图集”. Restrained clear diagram/map thumbnail. No global navigation.\nRIGHT: immersive photo viewer with large pyramid photograph, dark navy surround used only for this media viewer. Clear close button top left, index “1 / 3” top right, photo fills main area with natural proportions. Bottom translucent navy caption area: “吉萨金字塔群” and short caption “从远处观察它们的大小与排列”. A clear small “图片说明与来源” expandable row, tiny source icon. Swipe indicator dots and unobtrusive zoom icon; no fake camera controls. The viewer feels part of the same atlas app despite a darker media stage."
+    },
+    {
+      "id": "05-topics",
+      "name": "跨国专题",
+      "screens": [
+        "S09",
+        "S10"
+      ],
+      "prompt": "Module 05 — thematic exploration across countries.\nLEFT: title “沿着好奇心看世界”, subtitle “一个问题，连接不同的地方”. Search icon, segmented small chips “地理” “自然” “生活” “文化”. Tall photo-led editorial topic cards, first broad river aerial image titled “江河与文明”, question “人们为什么住在河边？”; second lush canopy photo “雨林世界”, question “雨林里住着谁？”; third two small photo tiles “各地餐桌” and “学校的一天”. Four bottom nav with 百科 selected.\nRIGHT: topic detail, back and bookmark. Hero is photographic aerial river, label “跨国专题”, title “江河与文明”, one sentence “沿着河流，看看人们的生活”. A restrained mini world-map diagram marks Egypt/China/Brazil in plausible positions, thin orange association connectors not transport roads. Under heading “从这里开始”, three clean numbered reading nodes: “01 尼罗河 · 埃及” subtitle “沙漠旁的绿色长廊”, “02 长江 · 中国” subtitle “河流连接的生活”, “03 亚马孙河 · 巴西” subtitle “走进雨林水世界”. Each has a different matching photo thumbnail, open chevron, first subtle read state. Full navy CTA “阅读第一站”. No locks, no quest rewards, no global bottom navigation on detail."
+    },
+    {
+      "id": "06-search",
+      "name": "全局搜索",
+      "screens": [
+        "S11",
+        "S12"
+      ],
+      "prompt": "Module 06 — global search, clean and readable.\nLEFT: search entry with back arrow, active spacious search input placeholder exactly “想了解哪个地方或问题？” and clear cancel action. No keyboard covering the design. Title “从一个好奇的问题开始”. Section “试着搜一搜” with large soft outlined chips “尼罗河” “长城” “雨林” “世界各地的学校”. Section “最近看过” with two quiet photo rows “埃及” and “长城为什么这么长？”. Airy lower area with a tasteful small flat map fragment as secondary illustration; no mascot and no analytics.\nRIGHT: search results with query exactly “尼罗河” in top field and clear X. Filter tabs exactly “全部” “国家” “地点” “文章” “专题”, 全部 selected. List of four realistically distinct result rows separated by thin dividers: “尼罗河” with type 地点 and small river-map thumbnail; “尼罗河为什么重要？” with type 文章 and farmland photo; “埃及” with type 国家 and pyramid photo; “江河与文明” with type 专题 and river thumbnail. Every result has a short 1-line description; first three show small “可离线阅读” label, final one “需下载”. Use spacious rows, visible category badges and consistent navy link hierarchy. No keyboard, no invented microphone button, no global bottom navigation."
+    },
+    {
+      "id": "07-reader",
+      "name": "阅读与聆听",
+      "screens": [
+        "S06"
+      ],
+      "prompt": "Module 07 — carefully typeset encyclopedia reader and listening/definition state.\nLEFT article screen: top back arrow, small breadcrumb “埃及 · 地理”, overflow icon. Large title “尼罗河为什么重要？” short lead “在沙漠之间，一条河流带来了水与生机。” A wide photo of green Nile farmland bordered by desert, small caption “河流两岸的农田”. Section title “河水带来了什么？” followed by exactly two easy-to-read short paragraphs: “人们需要水来饮用，也需要水来灌溉农田。” and “沿着河流，村庄和城市逐渐形成。” Underline the term “灌溉” as an interactive glossary link. Below, a second small heading “人们怎样生活？” and a brief paragraph preview. Clean article typography with comfortable line spacing. Sticky bottom contextual tools exactly “目录” “听讲解” “收藏” “笔记”, no global nav.\nRIGHT: same article layout scrolled to text, a pale blue highlighted current reading paragraph. Compact navy audio strip “正在朗读 · 第 2 段” with pause icon and speed “0.9×”. A white rounded bottom sheet at lower half with title “灌溉”, large clear definition “把水引到田地里，帮助庄稼生长。” and an elegant small diagram of water flowing from a river channel toward crops. Dismiss action “我明白了” as a large navy button. Behind sheet keep article visible. Do not include a fake second-by-second audio waveform or progress duration."
+    },
+    {
+      "id": "08-understanding",
+      "name": "互动理解",
+      "screens": [
+        "S13",
+        "S14"
+      ],
+      "prompt": "Module 08 — optional comprehension activity, calm inviting education.\nLEFT: top back and text “第 1 / 3 题”, top-right “跳过”. Title “找找河流带来的变化”. Wide documentary-style aerial crop showing green fertile Nile riverbanks beside beige desert. Prompt “为什么河流两岸常常有农田？”. Three large spaced selectable answer cards exactly “A 这里更容易获得水” “B 这里离太阳更近” “C 这里总是没有风”. First selected with navy border, pale blue fill and clear check circle; other two neutral. Bottom navy button “看看解释”. No countdown, no points, no confetti, no mascots.\nRIGHT: answer explanation screen, top back and heading “你发现了关键线索”. Simple blue/green line diagram: river → irrigation canal → fields, clean small orange arrows and labels “河流” “水渠” “农田”. White explanatory area titled “水帮助庄稼生长”, body “人们把河水引到田地里，让庄稼得到需要的水。这叫灌溉。” A gentle callout “在地图上，也能找找河流与城市的关系。” Two buttons: navy “继续探索”, outlined “回到文章看一看”. Quiet optional small “再想一道题” link. Same modern atlas visual identity, no global bottom nav."
+    },
+    {
+      "id": "09-journal",
+      "name": "我的探索",
+      "screens": [
+        "S15",
+        "S19"
+      ],
+      "prompt": "Module 09 — personal exploration and notebook.\nLEFT root screen: header “我的探索”, small settings icon. Subhead “把好奇心留下来”. A tasteful small initials/avatar disc without cartoon mascot. “继续阅读” row with river photo and “尼罗河为什么重要？” plus modest progress indicator. Three easy navigation rows with line icons and labels “我的收藏” “阅读足迹” “探索笔记”. Section “最近收藏” with two photographic compact tiles labeled “吉萨金字塔” and “雨林世界”. Small “家长入口” at bottom of content. Four bottom nav with 我的 selected. Do not show level, coins, streaks or fake counts.\nRIGHT: notebook editing screen, back at top, title “记下一个发现”, small action “完成”. Two-segment control “我的发现” / “还想知道”, first selected. Simple white ruled-but-very-subtle writing surface with large text exactly “我发现，河流不仅给人们带来水，也连接着不同的地方。” Under it a linked-content chip with small river thumbnail “关联：尼罗河为什么重要？”. Below a small section “还想问一句” with prompt “你还有什么想知道的？”. Bottom unobtrusive status “已保存到这台设备”. A generous navy “保存笔记” button and visible safe padding. No keyboard, no decorative badges, no global nav on editor."
+    },
+    {
+      "id": "10-family-offline",
+      "name": "家长与离线",
+      "screens": [
+        "S22",
+        "S23"
+      ],
+      "prompt": "Module 10 — family settings and offline content.\nLEFT: calm parent center screen using same navy/white/orange theme. Back arrow, title “家长中心”. Intro “让探索更适合孩子”. Well-spaced grouped settings: “阅读设置” with rows “默认字号” value “标准”, “朗读语速” value “0.9×”; “休息提醒” with a blue enabled switch, row “提醒间隔” value “20 分钟”, helper “提醒可以稍后处理”; “内容与记录” with clear chevrons for “离线内容包” “备份与恢复” “内容来源与许可”. Lower small factual note “记录保存在这台设备”. No fake PIN keypad, no subscription offer, no cloud-sync claim.\nRIGHT: offline content management screen, back arrow, title “离线内容包”, subtitle “下载后，没网络也能探索”. Three spacious photo-led package rows: “埃及” pyramid thumbnail, status “已安装”, subline “8 篇文章 · 5 处地标”, outlined “查看”; “中国” Great Wall thumbnail, status “正在下载”, blue progress bar around 55%, clear cancel icon and illustrative “18 MB / 32 MB”; “巴西” waterfall thumbnail, status “尚未下载”, subline “8 篇文章 · 5 处地标”, navy button “下载”. Small notice near bottom “移除内容包会保留收藏与笔记”. Bottom grouped link “管理已下载内容”. These numbers are design sample values. Avoid unsupported OS controls and any claims all countries are already complete. No global bottom nav on these detail screens."
+    }
+  ]
+}

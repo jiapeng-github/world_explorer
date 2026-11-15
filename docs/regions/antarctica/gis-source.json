@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "id": "1eeb0e8ca29a47c7ad64510463bdf738",
+    "owner": "BritishAntarcticSurvey",
+    "ownerId": "a2f6f92e4d654937a36fef7f03fb42de",
+    "orgId": "tPxy1hrFDhJfZ0Mf",
+    "created": 1652450064000,
+    "modified": 1794485808000,
+    "guid": null,
+    "name": "Medium_resolution_vector_polygons_of_the_Antarctic_coastline",
+    "title": "Medium resolution vector polygons of the Antarctic coastline",
+    "type": "Feature Service",
+    "typeKeywords": [
+      "ArcGIS API for JavaScript",
+      "ArcGIS Server",
+      "Data",
+      "Feature Access",
+      "Feature Service",
+      "Metadata",
+      "Service",
+      "Singlelayer",
+      "Hosted Service"
+    ],
+    "description": "<div><strong>Abstract</strong><br />&nbsp;</div><div><p>Coastline for Antarctica created from various mapping and remote sensing sources, provided as polygons with surface values for 'land', 'ice shelf', 'ice tongue', or 'rumple'. Covering all land and ice shelves south of 60°S. Suitable for topographic mapping and analysis. This dataset has been generalised from the high resolution vector polygons. Medium resolution versions of ADD data are suitable for scales smaller than 1:1,000,000, although certain regions will appear more detailed than others due to variable data availability and coastline characteristics.</p><p>Changes in v7.13 include updates to the ice shelf front of Ronne-Filchner Ice Shelf, Brunt Ice Shelf, Stange Ice Shelf and the northern extent of the George VI Ice Shelf. The extent of Shirase Glacier was also updated as well as smaller glaciers, ice shelves and islands in the surrounding region.</p><p>Data compiled, managed and distributed by the Mapping and Geographic Information Centre and the UK Polar Data Centre, British Antarctic Survey on behalf of the Scientific Committee on Antarctic Research.</p></div><div>&nbsp;</div><div><strong>Further information and useful links</strong></div><div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Map projection: WGS84 Antarctic Polar Stereographic, EPSG 3031. Note: by default, opening this layer in the Map Viewer will display the data in Web Mercator.&nbsp; To display this layer in its native projection use an Antarctic basemap.</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>&nbsp;</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>The currency of this dataset is November 2026 and will be reviewed every 6 months. This feature layer will always reflect the most recent version.</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>&nbsp;</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>For more information on, and access to other Antarctic Digital Database (ADD) datasets, refer to the&nbsp;<a style='color:rgb(0, 121, 193); font-family:inherit; text-decoration-line:none;' target='_blank' href='https://data.bas.ac.uk/collections/e74543c0-4c4e-4b41-aa33-5bb2f67df389/' rel='nofollow ugc noopener noreferrer'>SCAR ADD data catalogue</a>.</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>&nbsp;</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>A related&nbsp;<a target='_blank' href='https://arcgis.com/home/item.html?id=f030d958beb6482f9fd1bb47847ac3f9' rel='nofollow ugc noopener noreferrer'>high resolution dataset</a>&nbsp;is&nbsp;also published via Living Atlas, as well&nbsp;<a target='_blank' href='https://arcgis.com/home/item.html?id=09173a4364cc4636928833b71cfb7021' rel='nofollow ugc noopener noreferrer'>medium</a>&nbsp;and&nbsp;<a target='_blank' href='https://arcgis.com/home/item.html?id=2fd2fc9955324cfda50f39dc083b811d' rel='nofollow ugc noopener noreferrer'>high resolution</a>&nbsp;line datasets.</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>&nbsp;</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>For background information on the ADD project, please see the British Antarctic Survey&nbsp;<a style='color:rgb(0, 121, 193); font-family:inherit; text-decoration-line:none;' target='_blank' href='https://www.bas.ac.uk/project/add/' rel='nofollow ugc noopener noreferrer'>ADD project page</a>.</div></div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>&nbsp;</div><div style='font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><strong>Lineage</strong></div><div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif; font-size:16px;'>Dataset compiled from a variety of Antarctic map and satellite image sources. The dataset was created using ArcGIS and QGIS GIS software programmes and has been checked for basic topography and geometry errors, but does not contain strict topology. Quality varies across the dataset - certain areas where high resolution source data were available are suitable for large scale maps, whereas other areas are only suitable for smaller scales.&nbsp;</span></div><div>&nbsp;</div><div><span style='font-family:Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif; font-size:16px;'>Each polygon contains a surface attribute with either 'land', 'ice shelf', 'ice tongue' or 'rumple'. Details of when and how each line was created can be found in the attributes of the high or medium resolution polyline coastline dataset. Data sources range in time from the 1990s to 2026. This medium resolution version has been generalised from the high resolution version. All polygons &lt;0.1km² not intersecting anything else were deleted and the simplify tool was used in ArcGIS with the retain critical points algorithm and a smoothing tolerance of 50m.</span><br />&nbsp;</div><div><br />&nbsp;</div><div><strong>Citation</strong><br />&nbsp;</div><p>Gerrish, L., Ireland, L., Fretwell, P., Cooper, P., &amp; Skachkova, A. (2026). Medium resolution vector polygons of the Antarctic coastline (Version 7.13) [Data set]. NERC EDS UK Polar Data Centre. <a target='_blank' href='https://doi.org/10.5285/96ffb7ba-69a9-4ec3-aede-07e746f1555a' rel='nofollow ugc noopener noreferrer'>https://doi.org/10.5285/96ffb7ba-69a9-4ec3-aede-07e746f1555a</a></p><p>If using for a graphic or if short on space, please cite as 'Data from the SCAR Antarctic Digital Database, 2026'.</p>",
+    "tags": [
+      "antarctica",
+      "coastline",
+      "land",
+      "add",
+      "antarctic digital database"
+    ],
+    "snippet": "Medium resolution vector polygons of the Antarctic coastline, from the SCAR Antarctic Digital Database. Last updated in November 2026.",
+    "thumbnail": "thumbnail/thumbnail.png",
+    "documentation": null,
+    "extent": [
+      [
+        -180,
+        -90
+      ],
+      [
+        180,
+        -56.75185449295317
+      ]
+    ],
+    "categories": [],
+    "spatialReference": "3031",
+    "accessInformation": "SCAR Antarctic Digital Database",
+    "classification": null,
+    "licenseInfo": "<dt style='font-weight:700; margin-top:0px; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Item licence</dt><dd style='margin-left:0.75rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><a href='https://creativecommons.org/licenses/by/4.0/' style='color:rgb(0, 121, 193); text-decoration-line:none;' rel='nofollow ugc'>Creative Commons Attribution 4.0 International (CC BY 4.0)</a></dd><dt style='font-weight:700; margin-top:0.75rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'>Licence summary</dt><dd style='margin-left:0.75rem; font-family:&quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size:16px;'><p style='margin-top:0px; margin-bottom:1.5rem;'><strong>You are free to:</strong></p><div style='padding:15px; margin-bottom:20px; border-top:none rgb(55, 146, 69); border-right:none rgb(55, 146, 69); border-bottom:none rgb(55, 146, 69); border-left:5px solid rgb(55, 146, 69); border-radius:0px;'><ul><li><strong>Share</strong> — copy and redistribute this item in any medium or format</li><li><strong>Adapt</strong> — remix, transform, and build upon this item for any purpose, including commercial</li></ul></div><p style='margin-top:0px; margin-bottom:1.5rem;'><strong>Providing that you:</strong></p><div style='padding:15px; margin-bottom:20px; border-top:none rgb(255, 191, 71); border-right:none rgb(255, 191, 71); border-bottom:none rgb(255, 191, 71); border-left:5px solid rgb(255, 191, 71); border-image:initial; border-radius:0px; background-color:transparent;'><ul><li><strong>Include attribution</strong> — by including a citation, which must not suggest endorsement of you or your use</li><li><strong>Don't include additional restrictions</strong> — you may not legally restrict others from doing things this license permits</li></ul></div><p style='margin-top:0px; margin-bottom:1.5rem;'><strong>Important notes:</strong></p><div style='padding:15px; margin-bottom:20px; border-top:none rgb(177, 14, 30); border-right:none rgb(177, 14, 30); border-bottom:none rgb(177, 14, 30); border-left:5px solid rgb(177, 14, 30); border-image:initial; border-radius:0px; background-color:transparent;'><ul><li><strong>Inaccuracies and mistakes</strong> — may be included unintentionally due to limited data availability or quality</li><li><strong>No warranty, liability or fitness for any purpose</strong> — you must not rely on this information for navigation</li></ul></div><p style='margin-top:0px; margin-bottom:1.5rem;'>This is a short licence summary, see the <a href='https://creativecommons.org/licenses/by/4.0/' style='color:rgb(0, 121, 193); text-decoration-line:none;' rel='nofollow ugc'>full summary</a> for more information and legal text.</p></dd>",
+    "culture": "en-gb",
+    "properties": {
+      "indexJobId": ""
+    },
+    "advancedSettings": null,
+    "url": "https://services7.arcgis.com/tPxy1hrFDhJfZ0Mf/arcgis/rest/services/Medium_resolution_vector_polygons_of_the_Antarctic_coastline/FeatureServer",
+    "proxyFilter": null,
+    "access": "public",
+    "size": 5849088,
+    "subInfo": 0,
+    "appCategories": [],
+    "industries": [],
+    "languages": [],
+    "largeThumbnail": null,
+    "banner": null,
+    "screenshots": [],
+    "listed": false,
+    "commentsEnabled": false,
+    "numComments": 0,
+    "numRatings": 0,
+    "avgRating": 0,
+    "numViews": 78656,
+    "contentStatus": "public_authoritative",
+    "scoreCompleteness": 100,
+    "groupDesignations": null,
+    "apiToken1ExpirationDate": -1,
+    "apiToken2ExpirationDate": -1,
+    "lastViewed": 1794661200000
+  },
+  "layer": {
+    "currentVersion": 12,
+    "id": 1,
+    "name": "add_coastline_med_res_polygon_v7_13",
+    "type": "Feature Layer",
+    "serviceItemId": "1eeb0e8ca29a47c7ad64510463bdf738",
+    "cacheMaxAge": 30,
+    "displayField": "surface",
+    "description": "",
+    "copyrightText": "",
+    "defaultVisibility": true,
+    "editingInfo": {
+      "lastEditDate": 1794480036354,
+      "schemaLastEditDate": 1794480036354,
+      "dataLastEditDate": 1794480036354
+    },
+    "relationships": [],
+    "isDataVersioned": false,
+    "hasContingentValuesDefinition": false,
+    "supportsAppend": true,
+    "supportsCalculate": true,
+    "supportsASyncCalculate": true,
+    "supportsTruncate": true,
+    "supportsAttachmentsByUploadId": true,
+    "supportsAttachmentsResizing": true,
+    "supportsRollbackOnFailureParameter": true,
+    "supportsStatistics": true,
+    "supportsExceedsLimitStatistics": true,
+    "supportsAdvancedQueries": true,
+    "supportsValidateSql": true,
+    "supportsCoordinatesQuantization": true,
+    "supportsLayerOverrides": true,
+    "supportsTilesAndBasicQueriesMode": true,
+    "supportsFieldDescriptionProperty": true,
+    "supportsQuantizationEditMode": true,
+    "supportsColumnStoreIndex": true,
+    "supportsApplyEditsWithGlobalIds": false,
+    "supportsMultiScaleGeometry": true,
+    "supportsReturningQueryGeometry": true,
+    "enableNullGeometry": false,
+    "hasGeometryProperties": true,
+    "geometryProperties": {
+      "shapeAreaFieldName": "Shape__Area",
+      "shapeLengthFieldName": "Shape__Length",
+      "units": "esriMeters"
+    },
+    "advancedQueryCapabilities": {
+      "supportsPagination": true,
+      "supportsPaginationOnAggregatedQueries": true,
+      "supportsQueryRelatedPagination": true,
+      "supportsQueryWithDistance": true,
+      "supportsOutDistance": true,
+      "supportsReturningQueryExtent": true,
+      "supportsStatistics": true,
+      "supportsOrderBy": true,
+      "supportsDistinct": true,
+      "supportsQueryWithResultType": true,
+      "supportsSqlExpression": true,
+      "supportsTimeRelation": true,
+      "supportsAdvancedQueryRelated": true,
+      "supportsCountDistinct": true,
+      "supportsPercentileStatistics": true,
+      "supportsApproxPercentileStatistics": true,
+      "supportsSpatialAggregationStatistics": true,
+      "supportsTrueCurve": true,
+      "supportedSpatialAggregationStatistics": [
+        "EnvelopeAggregate",
+        "CentroidAggregate",
+        "ConvexHullAggregate"
+      ],
+      "supportsLod": true,
+      "supportsQueryWithLodSR": false,
+      "supportedLodTypes": [
+        "geohash"
+      ],
+      "supportsReturningGeometryCentroid": true,
+      "supportsReturningGeometryEnvelope": true,
+      "supportsReturningGeometryProperties": true,
+      "supportsQueryWithDatumTransformation": true,
+      "supportsCurrentUserQueries": true,
+      "supportsHavingClause": true,
+      "supportsOutFieldSQLExpression": true,
+      "supportsMaxRecordCountFactor": true,
+      "supportsTopFeaturesQuery": true,
+      "supportsDisjointSpatialRel": true,
+      "supportsQueryWithCacheHint": true,
+      "supportedOperationsWithCacheHint": [
+        "query",
+        "queryTopFilter",
+        "queryAnalytics",
+        "queryAttachments",
+        "queryRelated",
+        "queryBins",
+        "queryPivot"
+      ],
+      "supportsQueryAnalytic": true,
+      "supportsQueryPivot": true,
+      "supportsQueryBins": true,
+      "supportsDefaultSR": true,
+      "supportsTranslations": false,
+      "supportsAggIds": true,
+      "supportsQueryWithCollation": true,
+      "supportsISODOW": true,
+      "supportsISOWeek": true,
+      "supportsFullTextSearch": true,
+      "fullTextSearchCapabilities": {
+        "supportsAccentSensitivity": true,
+        "supportsStopWords": true,
+        "supportsSearchOperator": true,
+        "supportsOperator": true
+      }
+    },
+    "advancedQueryAnalyticCapabilities": {
+      "supportsLinearRegression": true,
+      "supportsTrendlineRegression": true,
+      "supportsAsync": true,
+      "supportsPercentileAnalytic": true
+    },
+    "queryBinsCapabilities": {
+      "supportsAsync": true,
+      "supportsAutoIntervalBin": true,
+      "supportsFixedIntervalBin": true,
+      "supportsFixedBoundariesBin": true,
+      "supportsDateBin": true,
+      "supportsClassificationBin": true,
+      "supportsStackBy": true,
+      "supportsSplitBy": true,
+      "supportsFirstDayOfWeek": true,
+      "supportsSnapToData": true,
+      "supportsReturnFullIntervalBin": true,
+      "supportsReturnStackValueRange": true,
+      "supportsNormalization": true,
+      "supportedStatisticTypes": [
+        "COUNT",
+        "SUM",
+        "AVG",
+        "VAR",
+        "VAR_SAMP",
+        "VAR_POP",
+        "STDDEV",
+        "STDDEV_SAMP",
+        "STDDEV_POP",
+        "MIN",
+        "MAX",
+        "PERCENTILE_CONT",
+        "PERCENTILE_DISC",
+        "APPROX_PERCENTILE_CONT",
+        "APPROX_PERCENTILE_DISC",
+        "CentroidAggregate",
+        "EnvelopeAggregate",
+        "ConvexHullAggregate"
+      ],
+      "supportedNormalizationTypes": [
+        "boxCox",
+        "field",
+        "inverse",
+        "log",
+        "naturalLog",
+        "percentOfTotal",
+        "squareRoot"
+      ]
+    },
+    "supportedOperationsWithCollation": "query,addField,updateField",
+    "advancedEditingCapabilities": {
+      "supportedSqlFormatsInCalculate": [
+        "standard"
+      ],
+      "supportsAsyncApplyEdits": true,
+      "supportsReturnEditResults": true,
+      "supportsApplyEditsbyUploadID": true,
+      "supportedApplyEditsUploadIDFormats": "JSON,PBF",
+      "supportsTranslation": false,
+      "supportsMaxTranslations": 10
+    },
+    "infoInEstimates": [
+      "extent",
+      "count"
+    ],
+    "useStandardizedQueries": true,
+    "geometryType": "esriGeometryPolygon",
+    "minScale": 0,
+    "maxScale": 0,
+    "extent": {
+      "xmin": -2661584.8057999983,
+      "ymin": -2494398.4750000015,
+      "xmax": 2750744.4054000005,
+      "ymax": 2321802.9806000013,
+      "spatialReference": {
+        "wkid": 3031,
+        "latestWkid": 3031
+      }
+    },
+    "spatialReference": {
+      "wkid": 3031,
+      "latestWkid": 3031
+    },
+    "drawingInfo": {
+      "renderer": {
+        "type": "simple",
+        "symbol": {
+          "type": "esriSFS",
+          "style": "esriSFSSolid",
+          "color": [
+            223,
+            214,
+            252,
+            255
+          ],
+          "outline": {
+            "type": "esriSLS",
+            "style": "esriSLSSolid",
+            "color": [
+              110,
+              110,
+              110,
+              255
+            ],
+            "width": 0.7
+          }
+        }
+      },
+      "scaleSymbols": true,
+      "transparency": 0,
+      "labelingInfo": null
+    },
+    "allowGeometryUpdates": true,
+    "trueCurveSupportMode": "OGC",
+    "supportedCurveTypes": [
+      "esriGeometryCircularArc"
+    ],
+    "supportedTrueCurvePbfFeatureEncodings": [
+      "esriCompressedShapeBuffer",
+      "esriDefault"
+    ],
+    "allowTrueCurvesUpdates": true,
+    "onlyAllowTrueCurveUpdatesByTrueCurveClients": false,
+    "hasAttachments": false,
+    "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+    "hasMetadata": true,
+    "hasM": false,
+    "hasZ": false,
+    "objectIdField": "FID",
+    "uniqueIdField": {
+      "name": "FID",
+      "isSystemMaintained": true
+    },
+    "globalIdField": "",
+    "typeIdField": "",
+    "collation": {
+      "locale": "neutral",
+      "caseSensitive": false,
+      "accentSensitive": true
+    },
+    "fields": [
+      {
+        "name": "FID",
+        "type": "esriFieldTypeOID",
+        "alias": "FID",
+        "sqlType": "sqlTypeOther",
+        "nullable": false,
+        "editable": false,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "surface",
+        "type": "esriFieldTypeString",
+        "alias": "surface",
+        "sqlType": "sqlTypeOther",
+        "length": 254,
+        "nullable": true,
+        "editable": true,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Shape__Area",
+        "type": "esriFieldTypeDouble",
+        "alias": "Shape__Area",
+        "sqlType": "sqlTypeDouble",
+        "nullable": true,
+        "editable": false,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Shape__Length",
+        "type": "esriFieldTypeDouble",
+        "alias": "Shape__Length",
+        "sqlType": "sqlTypeDouble",
+        "nullable": true,
+        "editable": false,
+        "domain": null,
+        "defaultValue": null
+      }
+    ],
+    "indexes": [
+      {
+        "name": "PK__MEDIUM_R__C1BEA5A2BC4DE09B",
+        "fields": "FID",
+        "isAscending": true,
+        "isUnique": true,
+        "description": "",
+        "indexType": "Attribute"
+      },
+      {
+        "name": "user_19327.MEDIUM_RESOLUTION_VECTOR_POLYGONS_OF_THE_ANTARCTIC_COASTLINE_ADD_COASTLINE_MED_RES_POLYGON_V7_13_Shape_sidx",
+        "fields": "Shape",
+        "isAscending": true,
+        "isUnique": false,
+        "description": "",
+        "indexType": "Spatial"
+      },
+      {
+        "name": "Shape__Area_Index",
+        "fields": "Shape__Area",
+        "isAscending": true,
+        "isUnique": false,
+        "description": "",
+        "indexType": "Attribute"
+      },
+      {
+        "name": "Shape__Length_Index",
+        "fields": "Shape__Length",
+        "isAscending": true,
+        "isUnique": false,
+        "description": "",
+        "indexType": "Attribute"
+      }
+    ],
+    "dateFieldsTimeReference": {
+      "timeZone": "UTC",
+      "timeZoneIANA": "Etc/UTC",
+      "respectsDaylightSaving": false
+    },
+    "preferredTimeReference": null,
+    "types": [],
+    "templates": [
+      {
+        "name": "add_coastline_med_res_polygon_v7_13",
+        "description": "",
+        "drawingTool": "esriFeatureEditToolPolygon",
+        "prototype": {
+          "attributes": {
+            "surface": null
+          }
+        }
+      }
+    ],
+    "supportedQueryFormats": "JSON, geoJSON, PBF",
+    "supportedAppendFormats": "sqlite,geoPackage,shapefile,filegdb,featureCollection,geojson,csv,excel,jsonl,featureService,pbf",
+    "supportedAppendSourceFilterFormats": "sqlite,geoPackage,shapefile,filegdb,featureService",
+    "supportedExportFormats": "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel,parquet",
+    "supportedConvertFileFormats": "JSON,PBF,Parquet",
+    "supportedConvertContentFormats": "LayerEditCollection,FeatureCollection",
+    "supportedSpatialRelationships": [
+      "esriSpatialRelIntersects",
+      "esriSpatialRelContains",
+      "esriSpatialRelCrosses",
+      "esriSpatialRelEnvelopeIntersects",
+      "esriSpatialRelIndexIntersects",
+      "esriSpatialRelOverlaps",
+      "esriSpatialRelTouches",
+      "esriSpatialRelWithin",
+      "esriSpatialRelDisjoint",
+      "esriSpatialRelRelation"
+    ],
+    "guidFormat": "",
+    "supportsContingentValues": true,
+    "supportsEditingContingentValues": true,
+    "supportedContingentValuesFormats": "JSON, PBF",
+    "supportsFieldGroups": true,
+    "supportedSyncDataOptions": 49412,
+    "hasStaticData": false,
+    "maxRecordCount": 2000,
+    "standardMaxRecordCount": 2000,
+    "maxIdsCount": 1000000,
+    "standardMaxRecordCountNoGeometry": 32000,
+    "tileMaxRecordCount": 4000,
+    "maxRecordCountFactor": 1,
+    "capabilities": "Query"
+  },
+  "assetSha256": "0341958d496c5fa9def718956155eb726959afa2897390ee5aa57cc53fd4a0df",
+  "fetched": "2026-11-14",
+  "query": "https://services7.arcgis.com/tPxy1hrFDhJfZ0Mf/arcgis/rest/services/Medium_resolution_vector_polygons_of_the_Antarctic_coastline/FeatureServer/1/query?f=json&where=1%3D1&outFields=%2A&outSR=3031&maxAllowableOffset=1000&geometryPrecision=0&resultOffset=2000&resultRecordCount=1000&orderByFields=FID"
+}

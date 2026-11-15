@@ -1,0 +1,34 @@
+{
+  "version": "0.3.0+3",
+  "verifiedAt": "2026-11-06",
+  "flutterTests": 62,
+  "pythonTests": 10,
+  "analysis": "No issues found",
+  "screenStates": 28,
+  "screenshots": 56,
+  "layouts": [
+    "390x844",
+    "1024x768",
+    "320x740 textScale1.3"
+  ],
+  "content": {
+    "countriesAndRegions": 177,
+    "countriesWithArticles": 6,
+    "articles": 45,
+    "places": 15,
+    "topics": 8,
+    "exercises": 18,
+    "realPhotos": 10
+  },
+  "web": "build/web",
+  "android": {
+    "path": "build/app/outputs/flutter-apk/app-debug.apk",
+    "variant": "arm64 debug",
+    "bytes": 122140996,
+    "sha256": "3724218c67608d75181cb791e0924abc50a121626aab2e02c143fd39f11da914",
+    "emulator": "Android API 37 arm64",
+    "startup": "passed"
+  },
+  "applePlatforms": "not validated",
+  "releaseScopeComplete": false
+}

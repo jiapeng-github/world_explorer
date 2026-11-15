@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-14",
+  "type": "implementation-verification",
+  "status": "passed-with-device-validation-pending",
+  "coreStates": 16,
+  "screenshots": 64,
+  "viewports": [
+    "390x844",
+    "430x932",
+    "1194x834",
+    "320x568 textScale=1.5"
+  ],
+  "content": {
+    "sections": 8,
+    "articles": 24,
+    "paragraphsPerArticle": 5,
+    "chineseCharacters": [
+      507,
+      565
+    ],
+    "places": 12,
+    "closedTasks": 18,
+    "observations": 6,
+    "journeys": 3,
+    "diagramConcepts": 8,
+    "licensedPhotos": 20,
+    "countryCountUnchanged": 12
+  },
+  "checks": {
+    "fullRegression": "207 passed; before final Antarctica visual refinements",
+    "finalAntarcticaSuite": "9 passed",
+    "staticAnalysis": "no issues",
+    "galleryLinks": "42 local references verified",
+    "androidBuild": "debug APK succeeded",
+    "apkBundledData": "JSONs byte-identical to source; SQLite native library included",
+    "physicalDevice": "not connected; not tested"
+  },
+  "apk": {
+    "path": "build/app/outputs/flutter-apk/app-debug.apk",
+    "bytes": 318357351,
+    "sha256": "69fef488e277d14602ce95cab5849dec71bf40177efb62f44da09366d6a039b6"
+  },
+  "sources": {
+    "gisVersion": "SCAR ADD 7.13",
+    "gisFeatures": 2215,
+    "gisSha256": "0341958d496c5fa9def718956155eb726959afa2897390ee5aa57cc53fd4a0df",
+    "contentSha256": "f48b3e35a6412abbaddc2aced675725547483eae2e46cdbc1042c1fa02567c58"
+  },
+  "differences": [
+    "Real licensed photographs replace concept-image photography.",
+    "Dome A uses a real GIS location card without a falsely attributed photograph.",
+    "O01/O04 observe available weather equipment imagery, not invented weather measurements.",
+    "Scientific visuals are interactive, original principle diagrams; not photorealistic scientific evidence."
+  ]
+}

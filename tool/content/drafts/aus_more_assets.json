@@ -1,0 +1,58 @@
+{
+  "media": [
+    {
+      "id": "aus-joey",
+      "asset": "assets/atlas/aus-joey.jpg",
+      "caption": "袋鼠与育儿袋中露头的幼崽。",
+      "alt": "袋鼠与育儿袋中露头的幼崽。",
+      "credit": "Sheba_Also 43,000 photos",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kangaroo_with_Joey_in_pouch-01and_(3154242515).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 1623,
+      "sha256": "cbd4adb259ceceb761170f13373934b167b87531656e5e98c750662631dc1e7b",
+      "captureDate": "Taken on 23 December 2008, 16:06:09",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Kangaroo_with_Joey_in_pouch-01and_%283154242515%29.jpg/1280px-Kangaroo_with_Joey_in_pouch-01and_%283154242515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容"
+    },
+    {
+      "id": "aus-cradle",
+      "asset": "assets/atlas/aus-cradle.jpg",
+      "caption": "塔斯马尼亚摇篮山与鸽湖。",
+      "alt": "塔斯马尼亚摇篮山与鸽湖。",
+      "credit": "Bjørn Christian Tørrissen",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cradle_Mountain_Behind_Dove_Lake.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 960,
+      "sha256": "f005f4c043981bcfc221dbadd5b5f615d7760c2eb9648e28747e01d506d3baea",
+      "captureDate": "2008-12-23",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg/1280px-Cradle_Mountain_Behind_Dove_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容"
+    },
+    {
+      "id": "aus-kangaroo-island",
+      "asset": "assets/atlas/aus-kangaroo-island.jpg",
+      "caption": "袋鼠岛 Remarkable Rocks 的岩石景观。",
+      "alt": "袋鼠岛 Remarkable Rocks 的岩石景观。",
+      "credit": "Diceman at English Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks,_Kangaroo_Island.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "kind": "realPhoto",
+      "width": 640,
+      "height": 480,
+      "sha256": "f639732586e706d5c6a6a82ecc6715c8be53886c3c29e2e0f35c9a88d1e64fd1",
+      "captureDate": "27 January 2005 (original upload date)",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "processing": "来源缩略图，未改变内容"
+    }
+  ]
+}

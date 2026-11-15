@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>埃及 · 世界大百科设计画廊</title>
+  <style>
+    :root {
+      --canvas: #f4f7fb;
+      --ink: #12243a;
+      --navy: #12395b;
+      --blue: #265f91;
+      --muted: #53677d;
+      --orange: #ff9a3d;
+      --warm: #fff0df;
+      --line: #dde5ee;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-padding-top: 96px; }
+    body {
+      margin: 0;
+      background: var(--canvas);
+      color: var(--ink);
+      font: 16px/1.65 system-ui, "PingFang SC", "Noto Sans SC", sans-serif;
+    }
+    a { color: var(--navy); text-underline-offset: 4px; }
+    button { color: inherit; font: inherit; cursor: pointer; }
+    a:focus-visible, button:focus-visible { outline: 3px solid var(--blue); outline-offset: 4px; }
+    .wrap { width: min(1280px, 100%); margin: auto; padding: 0 28px; }
+    .top {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      border-bottom: 1px solid var(--line);
+      background: #fff;
+    }
+    .bar, .top nav, .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+    .bar { justify-content: space-between; gap: 4px 18px; padding-block: 8px; }
+    .brand { font-weight: 750; white-space: nowrap; }
+    .brand span { color: var(--muted); font-size: 14px; margin-left: 8px; font-weight: 500; }
+    .top nav a { display: flex; align-items: center; min-height: 44px; padding: 0 5px; text-decoration: none; }
+    .hero {
+      display: grid;
+      grid-template-columns: 0.75fr 1.25fr;
+      gap: clamp(24px, 5vw, 72px);
+      align-items: center;
+      padding: 48px 0 28px;
+    }
+    .eyebrow, .board-code { margin: 0 0 8px; color: var(--blue); font-size: 14px; font-weight: 720; }
+    .eyebrow { letter-spacing: .08em; }
+    h1 { margin: 8px 0 16px; font-size: clamp(42px, 5.6vw, 78px); line-height: 1.14; }
+    .hero .lead { max-width: 400px; color: var(--muted); font-size: 19px; margin: 0 0 24px; }
+    .actions a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 48px;
+      padding: 8px 17px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: white;
+      text-decoration: none;
+      font-weight: 650;
+    }
+    .actions .primary { background: var(--orange); color: var(--ink); border-color: var(--orange); }
+    .image-button { display: block; width: 100%; padding: 0; border: 0; background: transparent; }
+    .image-button img { width: 100%; height: auto; display: block; }
+    .hero .image-button { overflow: hidden; border-radius: 22px; box-shadow: 0 16px 45px #12395b18; }
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px 24px;
+      margin: 12px 0 0;
+      padding: 22px 0;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+    .metrics dd { margin: 0; font-size: 30px; font-weight: 750; color: var(--navy); }
+    .metrics dt { color: var(--muted); font-size: 14px; }
+    .section { margin-top: 46px; }
+    .section h2 { margin: 0; font-size: clamp(25px, 3vw, 35px); line-height: 1.2; }
+    .sub { color: var(--muted); margin: 10px 0 22px; }
+    .journeys, .boards, .docs { display: grid; gap: 20px; }
+    .journeys, .docs { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .journey {
+      background: #fff;
+      padding: 19px 20px;
+      border: 1px solid var(--line);
+      border-top: 3px solid var(--orange);
+      border-radius: 16px;
+    }
+    h3 { font-size: 22px; line-height: 1.35; margin: 0 0 6px; }
+    .journey p, .board-body p:not(.board-code) { color: var(--muted); margin: 0 0 10px; }
+    .journey p { margin-bottom: 0; }
+    .boards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .board {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      overflow: hidden;
+    }
+    .map-board { grid-column: 1 / -1; }
+    .map-board .image-button { max-width: 1100px; margin-inline: auto; }
+    .board-body { padding: 20px 22px; }
+    .board-body a { display: inline-flex; align-items: center; min-height: 44px; }
+    .doc {
+      display: block;
+      padding: 17px 20px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: #fff;
+      text-decoration: none;
+    }
+    .doc strong, .doc span { display: block; }
+    .doc span { color: var(--muted); margin-top: 4px; font-size: 15px; }
+    .note { background: var(--warm); padding: 16px 20px; border-radius: 14px; margin: 28px 0; }
+    .note p { margin: 0; }
+    footer { border-top: 1px solid var(--line); color: var(--muted); padding: 22px 0 34px; font-size: 14px; }
+    dialog {
+      width: min(1350px, 96vw);
+      max-width: 96vw;
+      max-height: 94dvh;
+      border: 0;
+      border-radius: 18px;
+      padding: 0;
+      background: var(--canvas);
+      color: var(--ink);
+    }
+    dialog::backdrop { background: #0a1c30d9; }
+    .viewer-bar {
+      position: sticky;
+      top: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 16px;
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+    }
+    .viewer-bar button {
+      min-height: 48px;
+      min-width: 48px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #fff;
+    }
+    #viewer-img { display: block; max-width: 100%; height: auto; margin: auto; }
+    @media (max-width: 900px) {
+      .hero { gap: 28px; }
+      .docs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 650px) {
+      html { scroll-padding-top: 120px; }
+      .wrap { padding-inline: 18px; }
+      .hero { grid-template-columns: 1fr; padding-top: 26px; }
+      .hero .lead { font-size: 17px; }
+      .metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .journeys, .boards, .docs { grid-template-columns: 1fr; }
+      .top nav { gap: 0 11px; }
+      .top nav a { padding-inline: 0; }
+      .section { margin-top: 32px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap bar">
+      <div class="brand">世界大百科 <span>埃及深度设计</span></div>
+      <nav aria-label="设计导航">
+        <a href="#journeys">探索主线</a>
+        <a href="#screens">界面原图</a>
+        <a href="#documents">设计文档</a>
+        <a href="https://stitch.withgoogle.com/projects/10710680993209569317">Stitch ↗</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="hero" aria-labelledby="intro-title">
+      <div>
+        <p class="eyebrow">EGYPT · 国家深度百科</p>
+        <h1 id="intro-title">从尼罗河<br>看埃及</h1>
+        <p class="lead">从一条河找到方向，在街景、餐桌和古迹里寻找线索，再写下自己的发现。</p>
+        <div class="actions">
+          <a class="primary" href="#screens">查看 7 组界面 ↓</a>
+          <a href="DESIGN.md">阅读详细设计</a>
+        </div>
+      </div>
+      <button class="image-button" type="button" data-image="01-egypt-overview.png" data-title="埃及概览与十栏目" aria-label="放大埃及概览与十栏目">
+          <img src="images/01-egypt-overview.png" width="1254" height="1254" fetchpriority="high" alt="长幅金字塔封面的埃及概览和十栏目目录">
+        </button>
+    </section>
+    <dl class="metrics" aria-label="设计范围">
+      <div><dt>独立文章规划</dt><dd>30</dd></div>
+      <div><dt>地点制作目标</dt><dd>12</dd></div>
+      <div><dt>闭合题 / 开放观察</dt><dd>24 + 6</dd></div>
+      <div><dt>主要界面状态</dt><dd>14</dd></div>
+    </dl>
+    <section class="section" id="journeys">
+      <h2>三条探索主线</h2>
+      <p class="sub">从任何一站开始，也可以从地图进入。</p>
+      <div class="journeys">
+        <article class="journey"><h3>沿着尼罗河</h3><p>沿河谷看农田和城市，最后在地中海边找到三角洲。</p></article>
+        <article class="journey"><h3>走进今天</h3><p>比较开罗街景、餐桌上的库沙里和象岛上的过河方式。</p></article>
+        <article class="journey"><h3>追寻文明</h3><p>看石头怎样留下线索，纸莎草怎样被使用，神庙怎样迁到高处。</p></article>
+      </div>
+    </section>
+    <section class="section" id="screens">
+      <h2>七组核心界面</h2>
+      <p class="sub">点击图片放大。各图对应的页面和验收要求见详细设计。</p>
+      <div class="boards">
+      <article class="board">
+        <button class="image-button" type="button" data-image="01-egypt-overview.png" data-title="埃及概览与十栏目" aria-label="放大埃及概览与十栏目">
+          <img src="images/01-egypt-overview.png" width="1254" height="1254" loading="lazy" alt="长幅金字塔封面的埃及概览和十栏目目录">
+        </button>
+        <div class="board-body">
+          <p class="board-code">EG01 / EG02</p>
+          <h3>埃及概览与十栏目</h3>
+          <p>吉萨封面、三条探索主线与十个栏目入口。</p>
+          <a href="images/01-egypt-overview.png">打开原图 ↗</a>
+        </div>
+      </article>
+      <article class="board map-board">
+        <button class="image-button" type="button" data-image="02-egypt-map.png" data-title="平板地图与手机地点面板" aria-label="放大平板地图与手机地点面板">
+          <img src="images/02-egypt-map.png" width="1536" height="1024" loading="lazy" alt="埃及地图构图示意，显示平板右栏与手机三角洲面板">
+        </button>
+        <div class="board-body">
+          <p class="board-code">EG03 / EG04</p>
+          <h3>平板地图与手机地点面板</h3>
+          <p>同一个三角洲选点，在平板侧栏和手机面板中呈现。</p>
+          <a href="images/02-egypt-map.png">打开原图 ↗</a>
+        </div>
+      </article>
+      <article class="board">
+        <button class="image-button" type="button" data-image="03-egypt-nile-giza.png" data-title="尼罗河阅读与吉萨照片观察" aria-label="放大尼罗河阅读与吉萨照片观察">
+          <img src="images/03-egypt-nile-giza.png" width="1254" height="1254" loading="lazy" alt="尼罗河水系读图阅读与吉萨金字塔照片热点">
+        </button>
+        <div class="board-body">
+          <p class="board-code">EG05 / EG06</p>
+          <h3>尼罗河阅读与吉萨照片观察</h3>
+          <p>沿北箭头找下游，再到照片里找石块和轮廓。</p>
+          <a href="images/03-egypt-nile-giza.png">打开原图 ↗</a>
+        </div>
+      </article>
+      <article class="board">
+        <button class="image-button" type="button" data-image="04-egypt-history-culture.png" data-title="历史线索与纸莎草阅读" aria-label="放大历史线索与纸莎草阅读">
+          <img src="images/04-egypt-history-culture.png" width="1254" height="1254" loading="lazy" alt="埃及历史线索和纸莎草制作图解阅读">
+        </button>
+        <div class="board-body">
+          <p class="board-code">EG07 / EG08</p>
+          <h3>历史线索与纸莎草阅读</h3>
+          <p>看留下的证据和年代，再看纸莎草的材料与工序。</p>
+          <a href="images/04-egypt-history-culture.png">打开原图 ↗</a>
+        </div>
+      </article>
+      <article class="board">
+        <button class="image-button" type="button" data-image="05-egypt-food-nature.png" data-title="今天的餐桌与红海生态" aria-label="放大今天的餐桌与红海生态">
+          <img src="images/05-egypt-food-nature.png" width="1254" height="1254" loading="lazy" alt="埃及现代城市和食物，及红海珊瑚礁栖息地观察">
+        </button>
+        <div class="board-body">
+          <p class="board-code">EG09 / EG10</p>
+          <h3>今天的餐桌与红海生态</h3>
+          <p>用开罗与一碗库沙里认识今天，用珊瑚礁认识海中栖息地。</p>
+          <a href="images/05-egypt-food-nature.png">打开原图 ↗</a>
+        </div>
+      </article>
+      <article class="board">
+        <button class="image-button" type="button" data-image="06-egypt-explore-discoveries.png" data-title="探索任务与发现笔记" aria-label="放大探索任务与发现笔记">
+          <img src="images/06-egypt-explore-discoveries.png" width="1254" height="1254" loading="lazy" alt="埃及探索任务与标为示例的发现笔记">
+        </button>
+        <div class="board-body">
+          <p class="board-code">EG11 / EG12</p>
+          <h3>探索任务与发现笔记</h3>
+          <p>把选答、照片观察和孩子自己的笔记放在清楚的入口。</p>
+          <a href="images/06-egypt-explore-discoveries.png">打开原图 ↗</a>
+        </div>
+      </article>
+      <article class="board">
+        <button class="image-button" type="button" data-image="07-egypt-journey-observation.png" data-title="探索路线与开放记录" aria-label="放大探索路线与开放记录">
+          <img src="images/07-egypt-journey-observation.png" width="1254" height="1254" loading="lazy" alt="沿着尼罗河三站路线和三格开放观察表单">
+        </button>
+        <div class="board-body">
+          <p class="board-code">EG13 / EG14</p>
+          <h3>探索路线与开放记录</h3>
+          <p>三站可自由阅读，开放观察的三个输入框从空白开始。</p>
+          <a href="images/07-egypt-journey-observation.png">打开原图 ↗</a>
+        </div>
+      </article>
+      </div>
+    </section>
+    <section class="section" id="documents">
+      <h2>开发交接</h2>
+      <p class="sub">页面、内容、数据与视觉依据。</p>
+      <div class="docs">
+        <a class="doc" href="DESIGN.md"><strong>详细设计 →</strong><span>地图、阅读、路由、交互与验收</span></a>
+        <a class="doc" href="CONTENT_PLAN.md"><strong>内容与素材清单 →</strong><span>30 篇、12 处地点、题目证据及来源</span></a>
+        <a class="doc" href="VISUAL_HANDOFF.md"><strong>视觉交接 →</strong><span>原图与开发时需校正的细节</span></a>
+        <a class="doc" href="imagegen-manifest.json"><strong>生图提示词 →</strong><span>七张原图的尺寸、生成模式与提示词</span></a>
+        <a class="doc" href="STITCH.md"><strong>Stitch 结构稿说明 →</strong><span>可编辑项目与画板记录</span></a>
+        <a class="doc" href="https://stitch.withgoogle.com/projects/10710680993209569317"><strong>打开 Stitch 项目 ↗</strong><span>埃及模块设计画布</span></a>
+      </div>
+    </section>
+    <aside class="note"><p>本次为设计交付。文章和地点为制作目标，图稿中的照片、河线和示意图用于表达界面构图。</p></aside>
+    <footer>世界大百科 · 埃及深度设计 v1.0 · 2026-11-07</footer>
+  </main>
+  <dialog id="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-bar">
+      <strong id="viewer-title">界面原图</strong>
+      <button type="button" id="close-viewer" aria-label="关闭原图">关闭</button>
+    </div>
+    <img id="viewer-img" alt="">
+  </dialog>
+  <script>
+    const viewer = document.getElementById('viewer');
+    const viewerImg = document.getElementById('viewer-img');
+    const viewerTitle = document.getElementById('viewer-title');
+    document.querySelectorAll('[data-image]').forEach((button) => {
+      button.addEventListener('click', () => {
+        viewerImg.src = 'images/' + button.dataset.image;
+        viewerImg.alt = button.querySelector('img').alt;
+        viewerTitle.textContent = button.dataset.title;
+        viewer.showModal();
+        viewer.scrollTop = 0;
+      });
+    });
+    document.getElementById('close-viewer').addEventListener('click', () => viewer.close());
+    viewer.addEventListener('click', (event) => {
+      if (event.target !== viewer) return;
+      const bounds = viewer.getBoundingClientRect();
+      if (event.clientX < bounds.left || event.clientX > bounds.right ||
+          event.clientY < bounds.top || event.clientY > bounds.bottom) {
+        viewer.close();
+      }
+    });
+  </script>
+</body>
+</html>

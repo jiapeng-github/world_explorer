@@ -1,0 +1,3642 @@
+{
+  "country": {
+    "id": "china",
+    "revision": 2,
+    "coverage": "editorial",
+    "tagline": "从高山到大海",
+    "intro": "从起伏的高原和山地，到河流、平原与海岸，中国的自然环境有许多不同模样。人们在具体地方生活、交流和创造，留下建筑、水道与手艺的故事。沿着山河、生活与文明三条主线，用照片、地图和问题一站一站认识它。",
+    "takeaways": [
+      "在地图和照片中，寻找山川、水流与生命的联系。",
+      "用具体的地方例子认识生活，不用一种习惯代表所有人。",
+      "把看见的证据与自己的猜想分开，留下值得继续调查的问题。"
+    ],
+    "sections": {
+      "overview": [
+        "china-find-on-map",
+        "china-landscape-postcards",
+        "china-first-journey"
+      ],
+      "geography": [
+        "china-geography",
+        "china-river-journey",
+        "china-weather-and-climate"
+      ],
+      "people": [
+        "china-people",
+        "china-languages",
+        "china-people-behind-a-craft"
+      ],
+      "daily": [
+        "china-a-school-morning",
+        "china-homes",
+        "china-moving-around"
+      ],
+      "food": [
+        "china-food",
+        "china-rice-and-fish",
+        "china-food-market"
+      ],
+      "culture": [
+        "china-culture",
+        "china-dragon-boat",
+        "china-spring-festival"
+      ],
+      "landmarks": [
+        "china-palace-courtyards",
+        "china-jiuzhaigou",
+        "china-canal-city"
+      ],
+      "nature": [
+        "china-nature",
+        "china-migratory-birds",
+        "china-forest-connections"
+      ],
+      "history": [
+        "china-history",
+        "china-canal-history",
+        "china-read-an-old-building"
+      ],
+      "questions": [
+        "china-explore",
+        "china-photo-evidence",
+        "china-my-own-question"
+      ]
+    },
+    "sources": [
+      {
+        "title": "中国国情与位置",
+        "url": "https://www.locpg.gov.cn/fwzn/zggq.htm",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "中科院：中国地貌",
+        "url": "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "中国自然条件",
+        "url": "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "NASA：长江河口泥沙影像",
+        "url": "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "教育部：中国语言文字概况",
+        "url": "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：传统制茶技艺",
+        "url": "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "国家图书馆：中国剪纸",
+        "url": "https://ich.nlc.cn/unesco/detail/8",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：福建土楼",
+        "url": "https://whc.unesco.org/en/list/1113/",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：中国大运河",
+        "url": "https://whc.unesco.org/en/list/1443/",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "FAO：青田稻鱼共生",
+        "url": "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：端午节审议资料",
+        "url": "https://ich.unesco.org/doc/src/ITH-09-4.COM-CONF.209-13-Rev.2-EN.pdf?t=1268152645",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：春节",
+        "url": "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-the-traditional-new-year-02126",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：北京和沈阳的明清皇宫",
+        "url": "https://whc.unesco.org/en/list/439/",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：九寨沟",
+        "url": "https://whc.unesco.org/en/list/637/",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "Smithsonian：大熊猫问答",
+        "url": "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：四川大熊猫栖息地",
+        "url": "https://whc.unesco.org/en/list/1213/",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：黄海—渤海沿岸候鸟栖息地",
+        "url": "https://whc.unesco.org/en/list/1606/",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "UNESCO：长城",
+        "url": "https://whc.unesco.org/en/list/438/",
+        "checkedAt": "2026-11-07"
+      },
+      {
+        "title": "NASA：天气与气候的区别",
+        "url": "https://science.nasa.gov/climate-change/faq/whats-the-difference-between-weather-and-climate/",
+        "checkedAt": "2026-11-07"
+      }
+    ],
+    "timeline": [
+      {
+        "period": "秦代及以后",
+        "title": "长城不断建设",
+        "body": "早期工事的连接与不同时期的修建，形成复杂的防御体系；每段年代仍需看具体资料。"
+      },
+      {
+        "period": "隋代以来",
+        "title": "水路联系远方",
+        "body": "大运河经过分期建设和长期维护，联系水系、运输与城镇生活。"
+      },
+      {
+        "period": "代代相传",
+        "title": "手艺走进日常",
+        "body": "剪纸、制茶与节庆实践由人学习、使用并继续传递；这里是主题线索，不是一段固定年代。"
+      },
+      {
+        "period": "今天",
+        "title": "研究、保护与提问",
+        "body": "通过资料和实物认识遗产，也把新的发现与问题留给下一次探索。"
+      }
+    ],
+    "editorial": {
+      "subtitle": "从高山到大海，发现中国",
+      "introduction": "沿着山川、生活与文明，读懂这片土地。",
+      "journeys": [
+        {
+          "id": "mountains",
+          "title": "山河",
+          "subtitle": "从高山到大海",
+          "mediaId": "china-three-gorges",
+          "articleIds": [
+            "china-geography",
+            "china-river-journey",
+            "china-jiuzhaigou"
+          ]
+        },
+        {
+          "id": "life",
+          "title": "生活",
+          "subtitle": "沿水路认识日常",
+          "mediaId": "china-canal",
+          "articleIds": [
+            "china-canal-history",
+            "china-people",
+            "china-food"
+          ]
+        },
+        {
+          "id": "civilization",
+          "title": "文明",
+          "subtitle": "让留下的线索说话",
+          "mediaId": "china-wall",
+          "articleIds": [
+            "china-history",
+            "china-read-an-old-building",
+            "china-culture"
+          ]
+        }
+      ],
+      "sections": {
+        "overview": {
+          "title": "国家名片",
+          "summary": "从世界找到中国，选择今天想追问的问题。",
+          "mediaId": "china-wall"
+        },
+        "geography": {
+          "title": "地理与气候",
+          "summary": "读懂高低、方向、水系与观察资料的时间范围。",
+          "mediaId": "china-three-gorges"
+        },
+        "people": {
+          "title": "人们与语言",
+          "summary": "通过具体例子认识生活，尊重不同声音与经验。",
+          "mediaId": "china-city"
+        },
+        "daily": {
+          "title": "日常生活",
+          "summary": "从房屋、出行和一个虚构的早晨练习观察。",
+          "mediaId": "china-tulou"
+        },
+        "food": {
+          "title": "饮食与物产",
+          "summary": "沿着原料、手艺和环境，寻找食物的来路。",
+          "mediaId": "china-tea"
+        },
+        "culture": {
+          "title": "艺术与节日",
+          "summary": "从一张纸与一场相聚，认识创造、合作与传承。",
+          "mediaId": "china-paper-cut"
+        },
+        "landmarks": {
+          "title": "城市与地标",
+          "summary": "看见布局、山谷与水道，把风景放回真实位置。",
+          "mediaId": "china-palace"
+        },
+        "nature": {
+          "title": "动物与生态",
+          "summary": "认识动物需要的食物、空间和相互联系的环境。",
+          "mediaId": "china-panda"
+        },
+        "history": {
+          "title": "历史故事",
+          "summary": "沿着建筑和水路，区分过去的证据与今天的猜想。",
+          "mediaId": "china-wall"
+        },
+        "questions": {
+          "title": "有趣问题",
+          "summary": "把看见的、猜想的和还想知道的清楚地记录下来。",
+          "mediaId": "china-jiuzhaigou"
+        }
+      },
+      "timeline": [
+        {
+          "id": "china-timeline-wall",
+          "period": "秦代及以后",
+          "title": "长城不断建设",
+          "body": "早期工事的连接与不同时期的修建，形成复杂的防御体系；每段年代仍需看具体资料。",
+          "mediaId": "china-wall",
+          "articleIds": [
+            "china-history",
+            "china-read-an-old-building"
+          ]
+        },
+        {
+          "id": "china-timeline-canal",
+          "period": "隋代以来",
+          "title": "水路联系远方",
+          "body": "大运河经过分期建设和长期维护，联系水系、运输与城镇生活。",
+          "mediaId": "china-canal",
+          "articleIds": [
+            "china-canal-history",
+            "china-canal-city"
+          ]
+        },
+        {
+          "id": "china-timeline-craft",
+          "period": "代代相传",
+          "title": "手艺走进日常",
+          "body": "剪纸、制茶与节庆实践由人学习、使用并继续传递；这里是主题线索，不是一段固定年代。",
+          "mediaId": "china-paper-cut",
+          "articleIds": [
+            "china-culture",
+            "china-food",
+            "china-spring-festival"
+          ]
+        },
+        {
+          "id": "china-timeline-today",
+          "period": "今天",
+          "title": "研究、保护与提问",
+          "body": "通过资料和实物认识遗产，也把新的发现与问题留给下一次探索。",
+          "mediaId": "china-forest",
+          "articleIds": [
+            "china-forest-connections",
+            "china-my-own-question"
+          ]
+        }
+      ],
+      "featuredPlaceIds": [
+        "great-wall",
+        "jiuzhaigou",
+        "grand-canal",
+        "china-forbidden-city",
+        "china-panda-habitat",
+        "china-fujian-tulou"
+      ],
+      "migration": {
+        "contentRevision": 2,
+        "restartArticleIds": [
+          "china-geography",
+          "china-nature",
+          "china-people",
+          "china-culture",
+          "china-history",
+          "china-explore",
+          "china-food"
+        ],
+        "archivedExerciseIds": [
+          "china-transport"
+        ],
+        "note": "正文修订使用新blockId；收藏ID保留，旧进度不能直接代表新版已读。"
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": "china-find-on-map",
+      "countryId": "china",
+      "sectionId": "overview",
+      "title": "从世界地图找到中国",
+      "summary": "先看海洋和大陆，再放大亚洲。学会用位置、方向与地名三种线索，在世界地图上认识中国。",
+      "mediaId": "china-wall",
+      "blocks": [
+        {
+          "id": "china-find-on-map-r2-b1",
+          "title": "先退远一点",
+          "text": "如果一开始就把地图放得很大，你可能看见许多地名，却不知道自己正在世界的哪里。先把画面退远，找一找大片的海洋与陆地。地图把很大的地球缩小到屏幕中，帮助我们比较位置。它不是从天空拍下的一张普通照片，颜色、线条和符号都需要配合图例阅读。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        },
+        {
+          "id": "china-find-on-map-r2-b2",
+          "title": "从亚洲开始",
+          "text": "中国位于亚洲东部、太平洋西岸。把亚洲看作一个大范围，再在它的东部寻找中国，比记住屏幕上的一个点更可靠。地图移动以后，屏幕位置会变，国家和海洋的地理关系不会跟着改变。你可以先指一指亚洲，再看看太平洋在中国的哪一侧。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        },
+        {
+          "id": "china-find-on-map-r2-b3",
+          "title": "方向需要依据",
+          "text": "观察地图上的方向标，找到北，再确认东、西、南。一般北朝上的地图中，东在右边；如果地图旋转，右边就不一定还是东。判断位置时要看方向标，不能只说“在右上角”。试着把“我点这里”换成“我在亚洲东部找”，别人便更容易理解你的发现。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        },
+        {
+          "id": "china-find-on-map-r2-b4",
+          "title": "一个点代表什么",
+          "text": "北京是中国的首都，地图可以用一个城市标记表示它的位置。这个点不等于整座城市的大小，国家中的一个代表点也不等于国家的全部范围。放大后再看轮廓和地名，你会发现点、线、面各有任务：点帮助定位，线表现联系或边界，面表示一片区域。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        },
+        {
+          "id": "china-find-on-map-r2-b5",
+          "title": "把三种线索连起来",
+          "text": "现在试着不用猜图形，说说你找到中国的过程：先看亚洲，再找东部，最后核对太平洋与北京等地名。遇到小字看不清可以放大，也能打开地点列表。找地图不是比谁点得最快，而是让位置线索互相印证。以后认识其他国家，也可以从所在大洲开始。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        }
+      ],
+      "term": "方位",
+      "definition": "用东、南、西、北等方向描述位置。",
+      "glossary": [
+        {
+          "term": "方位",
+          "definition": "用东、南、西、北等方向描述位置。"
+        },
+        {
+          "term": "图例",
+          "definition": "解释地图中颜色、线条与符号含义的说明。"
+        }
+      ],
+      "question": "在地图上找到中国的首都北京。",
+      "answer": "北京是中国首都。城市点帮助定位，不表示城市或国家的完整范围；可回看国家名片中的位置说明。",
+      "sourceUrls": [
+        "https://www.locpg.gov.cn/fwzn/zggq.htm"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "terrain",
+      "mapFeatureId": "beijing",
+      "exerciseId": "china-location",
+      "characterCount": 491,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-landscape-postcards",
+      "countryId": "china",
+      "sectionId": "overview",
+      "title": "六张照片，怎么会来自同一个国家？",
+      "summary": "山谷、海岸、森林、河流和建筑看起来很不一样。先找照片里的证据，再认识一个国家内部的多样性。",
+      "mediaId": "china-guilin",
+      "blocks": [
+        {
+          "id": "china-landscape-postcards-r2-b1",
+          "title": "先看见，再命名",
+          "text": "想象桌上摊开一组风景照片：有的有起伏的山，有的能看见水面，有的出现房屋和道路。先不要急着猜地名，试着说出确实看见的东西。把“很漂亮”换成“山坡上有一段墙”，你就留下了一条别人也能检查的观察记录。感受值得表达，观察则需要具体。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/1443/"
+          ],
+          "mediaId": "china-wall"
+        },
+        {
+          "id": "china-landscape-postcards-r2-b2",
+          "title": "地形不只有一种",
+          "text": "中国有高原、山地、盆地、平原和丘陵等不同地形。一个国家的范围内可以包含许多环境，所以两张景色不同的照片并不一定来自不同国家。地图能帮你查它们的位置，地形图能提供更大范围的线索。一张照片只能展示镜头看见的部分，不能替代整个地区。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/1443/"
+          ],
+          "mediaId": "china-jiuzhaigou"
+        },
+        {
+          "id": "china-landscape-postcards-r2-b3",
+          "title": "自然与人一起出现",
+          "text": "运河的照片里可以观察水道、桥和岸边建筑。它们让自然环境与人的活动同时出现在画面中。人工水道服务往来，桥与岸边空间也需要面对水的条件。先看清楚它们的相对位置，再查具体历史，比只把景物分成自然和人工两栏更深入。运河是一套系统，一张照片只打开一个观察窗口。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/1443/"
+          ],
+          "mediaId": "china-canal"
+        },
+        {
+          "id": "china-landscape-postcards-r2-b4",
+          "title": "照片也有边框",
+          "text": "拍摄者选择了位置、方向和时刻，照片外还有我们没有看见的地方。晴天照片不能证明那里天天晴朗，一段安静河岸也不能代表整座城市都安静。查看图注中的地点、对象和拍摄信息，能帮助我们缩小结论的范围。资料不足时，说“还不知道”比猜一个答案更准确。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/1443/"
+          ],
+          "mediaId": "china-city"
+        },
+        {
+          "id": "china-landscape-postcards-r2-b5",
+          "title": "做一张比较卡",
+          "text": "挑两张已经注明地点的照片，分别写下一条相同与不同。例如都出现水，但一张有山谷，另一张有城市建筑。接着在地图中找到它们，提出一个新问题：这些地方为什么有不同地形？比较不是选出谁最好看，而是把照片和位置联系起来，发现值得继续了解的事。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/1443/"
+          ],
+          "mediaId": "china-terraces"
+        }
+      ],
+      "term": "景观",
+      "definition": "一个地方呈现出来的自然环境和人类活动的样子。",
+      "glossary": [
+        {
+          "term": "景观",
+          "definition": "一个地方呈现出来的自然环境和人类活动的样子。"
+        }
+      ],
+      "question": "观察景观照片，哪一项适合作为能够指出位置的证据？",
+      "answer": "山坡是可以在图中指认的对象。美观评价是感受，一张照片也不能代表每天的天气。描述应与可见信息对应。",
+      "sourceUrls": [
+        "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+        "https://whc.unesco.org/en/list/637/",
+        "https://whc.unesco.org/en/list/438/",
+        "https://whc.unesco.org/en/list/1443/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-landscape-postcards-check",
+      "characterCount": 525,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-first-journey",
+      "countryId": "china",
+      "sectionId": "overview",
+      "title": "今天想跟着什么去认识中国？",
+      "summary": "跟着一个问题选三站阅读：山河、生活或文明。路线是建议，你随时可以换方向，也可以直接打开任何文章。",
+      "mediaId": "china-three-gorges",
+      "blocks": [
+        {
+          "id": "china-first-journey-r2-b1",
+          "title": "问题可以当向导",
+          "text": "百科里的内容很多，不必从第一篇一直读到最后一篇。先问自己今天好奇什么：水从哪里来，房屋为什么这样建，一张纸怎样变成图案？一个小问题就能成为向导。你可以从熟悉的事开始，也可以挑完全没见过的照片。选择兴趣没有标准答案，路线也不是必须完成的作业。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/1443/",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-first-journey-r2-b2",
+          "title": "沿着山河看联系",
+          "text": "如果好奇高山和河流，可以先读中国地势，再看一滴水怎样走向大海，最后认识九寨沟或熊猫栖息地。地形、水与生命会在不同文章中相遇。阅读时找一条联系比一下记住许多地名更有用，例如山谷里的森林、水面和动物，各自需要怎样的环境。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/1443/",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-first-journey-r2-b3",
+          "title": "沿着生活找原因",
+          "text": "如果想知道人们怎样往来，可以从大运河开始，再看看交通、住处和食物。大运河连接水系，也联系沿岸地方的生活。这里的文章会讲清楚具体案例，不把一种房屋或一份菜单当作全国标准。你也可以拿自己熟悉的生活做比较，留意相同之处和不同之处。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/1443/",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-first-journey-r2-b4",
+          "title": "沿着文明找证据",
+          "text": "如果喜欢建筑与手艺，可以先看长城留下的线索，再认识剪纸或端午。古建筑与今天的文化活动使用不同材料，认识它们的方法也有差别。研究建筑需要年代和记录，观察手艺还要看制作与传承。遇到传说时先看标签，分清故事表达与能够核对的历史资料。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/1443/",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-first-journey-r2-b5",
+          "title": "给下一站一个理由",
+          "text": "读完一篇后，想一想哪个新问题值得追下去。想了解河流，就选水系和河口的线索；想了解剪纸，就选作品与制作过程。为了兴趣选路不需要考试，辨认资料是否相关却可以练习。记下一句“我想知道……所以去看……”，让阅读成为你主动选择的探索。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/1443/",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        }
+      ],
+      "term": "线索",
+      "definition": "帮助我们继续查找、比较或解释问题的信息。",
+      "glossary": [
+        {
+          "term": "线索",
+          "definition": "帮助我们继续查找、比较或解释问题的信息。"
+        }
+      ],
+      "question": "想了解河流怎样到达海洋，哪组阅读线索最相关？",
+      "answer": "水系图帮助了解相连的河道，河口影像帮助观察水与海洋的连接。其他资料也有价值，但与这个具体问题的关系较远。",
+      "sourceUrls": [
+        "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+        "https://whc.unesco.org/en/list/1443/",
+        "https://ich.nlc.cn/unesco/detail/8"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-first-journey-check",
+      "characterCount": 509,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-geography",
+      "countryId": "china",
+      "sectionId": "geography",
+      "title": "中国的地势有什么不同？",
+      "summary": "用方向和地势示意读懂大体西高东低。三级阶梯是一种整体概括，真实地形远比整齐的台阶复杂。",
+      "mediaId": "china-three-gorges",
+      "blocks": [
+        {
+          "id": "china-geography-r2-b1",
+          "title": "把平面地图想成立体",
+          "text": "地图上看起来平平的一块陆地，实际有高有低。高原、盆地、山地、平原和丘陵，像一本展开后凹凸起伏的立体书。不过它们不会按同样大小整齐排队，同一地区也可能出现多种地形。先认识高低关系，再看具体山川，能帮助我们把许多分散的地名连在一起。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf"
+          ]
+        },
+        {
+          "id": "china-geography-r2-b2",
+          "title": "整体向东降低",
+          "text": "从整体上看，中国大陆地势大体西高东低，常用三级阶梯来帮助理解。西部的青藏高原属于较高的部分，往东会遇见其他高原与盆地，再到更多平原和丘陵。“大体”两个字很重要，它说的是总体趋势，不表示西边每个地点都比东边任意一点高。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf"
+          ]
+        },
+        {
+          "id": "china-geography-r2-b3",
+          "title": "示意图怎样读",
+          "text": "页面里的剖面画着从西到东的高低变化，旁边标有“地势示意”。它帮助理解方向与概念，不是沿某条道路量出的真实断面，也不能拿来读取一座山的精确高度。真实地形没有整齐的三道楼梯。观察时先找到西与东，再说出哪一侧总体更高，避免把示意当照片。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf"
+          ]
+        },
+        {
+          "id": "china-geography-r2-b4",
+          "title": "水会遇到不同地形",
+          "text": "河流的方向和局部地形有关，不能只凭“西高东低”断定每条河都从西向东笔直流。真实河道会转弯，经过山谷、盆地和平原，也存在不同的水系。要知道一条具体河流怎样走，需要打开它的地图。整体规律是认识世界的起点，局部证据能让解释更准确。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf"
+          ]
+        },
+        {
+          "id": "china-geography-r2-b5",
+          "title": "把观察说清楚",
+          "text": "试着分别完成两句话：“这幅示意表示总体……”“如果想知道某个地方，还需要……”。第一句可以描述西高东低，第二句可以说查看更详细的地形资料。地理学习既会用简化图，也会知道简化图省略了什么。这样遇到一座位于东部的高山，你就不会觉得它推翻了整个规律。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf"
+          ]
+        }
+      ],
+      "term": "地势",
+      "definition": "一片较大地区地表高低起伏的总体情况。",
+      "glossary": [
+        {
+          "term": "地势",
+          "definition": "一片较大地区地表高低起伏的总体情况。"
+        },
+        {
+          "term": "高原",
+          "definition": "海拔较高、面积较大的地区，表面仍可能起伏。"
+        },
+        {
+          "term": "盆地",
+          "definition": "周围较高、中间相对较低的地区。"
+        }
+      ],
+      "question": "本文介绍的西部较高地形，应该找到哪一个标注？",
+      "answer": "青藏高原是本文介绍的西部较高部分。“西高东低”是总体概括，不表示每一处地形都严格按三个台阶排列。",
+      "sourceUrls": [
+        "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+        "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "terrain",
+      "mapFeatureId": "tibetan-plateau",
+      "exerciseId": "china-geography-check",
+      "characterCount": 508,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-river-journey",
+      "countryId": "china",
+      "sectionId": "geography",
+      "title": "一滴水怎样走到大海？",
+      "summary": "沿长江寻找支流与河口，把地形、水流和泥沙联系起来。地图上的一条河，也是一张彼此相连的水系网。",
+      "mediaId": "china-three-gorges",
+      "blocks": [
+        {
+          "id": "china-river-journey-r2-b1",
+          "title": "这是一条想象的旅程",
+          "text": "让一滴想象中的水带我们读地图，并不表示能追踪现实中每一滴水。雨水、支流和不同地区的来水会汇入河道，水还可能蒸发或暂时停留。故事把复杂过程简化成一次旅行，帮助认识方向。真正的河流不是传送带，我们关注的是相连的地点与环境，而非一滴水的固定时间表。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        },
+        {
+          "id": "china-river-journey-r2-b2",
+          "title": "看干流，也看支流",
+          "text": "在长江水系图中，较长的主线表示干流，汇入它的河流是支流。它们组合成有联系的水路网络。沿图寻找时，先核对图例与箭头，再区分上游和下游。上游与下游是相对位置，不能只看屏幕上方和下方。地图旋转后，河流本身的上下游关系不会改变。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        },
+        {
+          "id": "china-river-journey-r2-b3",
+          "title": "河道不是直尺画的",
+          "text": "长江经过不同地形，水系图中会出现转折和汇合。不要用几个城市之间的直线代替真实河道，也不要以为每个转弯都是人挖出来的。观察三峡等地点时，可以先问水流附近有什么山势，再查具体形成过程。一张峡谷照片有助于提问，却不足以解释一条大河的全部历史。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        },
+        {
+          "id": "china-river-journey-r2-b4",
+          "title": "在入海处看见泥沙",
+          "text": "长江流入东海。NASA 在二〇〇二年四月的一幅卫星影像中，记录到河流携带泥沙进入海中，沿岸水面呈现浅褐色。这个说明告诉我们：河流运送的不只是水。影像来自特定日期，不能拿颜色直接判断今天的水质，也不能把那一天的景色当作河口全年不变的样子。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        },
+        {
+          "id": "china-river-journey-r2-b5",
+          "title": "找到最后一个连接点",
+          "text": "回到水系图，沿长江干流寻找与海洋相接的地方，这里就是本次关注的入海口。把支流、干流和河口连成一句话，能比背几个名称更清楚地解释水的联系。接着想一想，还需要怎样的资料才能知道沿途变化？不同地点的照片、拍摄日期与水文记录，都会提供新的线索。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        }
+      ],
+      "term": "河口",
+      "definition": "河流汇入海洋、湖泊或另一条河流的地方；本文指入海处。",
+      "glossary": [
+        {
+          "term": "河口",
+          "definition": "河流汇入海洋、湖泊或另一条河流的地方；本文指入海处。"
+        },
+        {
+          "term": "支流",
+          "definition": "汇入另一条河流的河流。"
+        }
+      ],
+      "question": "长江流到海边，先汇入本文介绍的哪片海域？",
+      "answer": "长江流入东海。河口是陆地水系与海洋相连的一处区域，正文中的泥沙影像也关注这个连接。",
+      "sourceUrls": [
+        "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/",
+        "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "waterway",
+      "placeId": "china-three-gorges",
+      "mapFeatureId": "east-china-sea",
+      "exerciseId": "china-river-journey-check",
+      "characterCount": 528,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-weather-and-climate",
+      "countryId": "china",
+      "sectionId": "geography",
+      "title": "同一天，各地会穿一样厚的衣服吗？",
+      "summary": "先学会区分天气、长期气候和个人选择。读一张照片时，别急着用衣服厚薄判断整个地方的气候。",
+      "mediaId": "china-huangshan",
+      "blocks": [
+        {
+          "id": "china-weather-and-climate-r2-b1",
+          "title": "衣服是线索，不是答案",
+          "text": "先做一个假设练习：如果看到某张照片里有人穿厚外套，你可能会想那里很冷。这不是对本页黄山封面的描述。衣服厚薄还与活动、个人感受和拍摄情境有关，未必告诉我们温度。可以先把“穿外套”记作观察，再把“这里经常冷”留作待查问题，不让一条线索承担全部解释。",
+          "sourceUrls": [
+            "https://science.nasa.gov/climate-change/faq/whats-the-difference-between-weather-and-climate/",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        },
+        {
+          "id": "china-weather-and-climate-r2-b2",
+          "title": "今天与长期不同",
+          "text": "今天下雨、下午起风，描述的是具体时间的天气。认识一个地方的长期气候，需要看较长时期的观测，而不是选一天最特别的照片。一场降雪值得观察，却不能独自说明那里全年都冷。区分时间范围，是比较不同地方前很重要的一步；资料写清日期，别人才能判断你比较的是什么。",
+          "sourceUrls": [
+            "https://science.nasa.gov/climate-change/faq/whats-the-difference-between-weather-and-climate/",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        },
+        {
+          "id": "china-weather-and-climate-r2-b3",
+          "title": "地点也要说清楚",
+          "text": "中国地形多样，同一个省内也可能有山地、盆地或平原。比较温度资料时，不能只看一个很大的地区名称，还应核对观测地点与海拔等条件。山脚和山上不是同一个环境，城市名称也不能替代全部地理背景。本篇不提供未经核对的实时温度，练习的是怎样阅读资料。",
+          "sourceUrls": [
+            "https://science.nasa.gov/climate-change/faq/whats-the-difference-between-weather-and-climate/",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        },
+        {
+          "id": "china-weather-and-climate-r2-b4",
+          "title": "怎样做公平的比较",
+          "text": "假设有三张天气卡，这里是阅读方法练习，不是实际天气预报。先查看它们是否来自同一天、使用相同单位、说明相近的观测时刻。如果一张是清晨，一张是午后，直接比较就可能遗漏时间因素。想讨论长期差异，还应继续查较长时间的数据，让问题与证据相互对应。",
+          "sourceUrls": [
+            "https://science.nasa.gov/climate-change/faq/whats-the-difference-between-weather-and-climate/",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        },
+        {
+          "id": "china-weather-and-climate-r2-b5",
+          "title": "给猜想留一个出口",
+          "text": "你可以把结论写成“这张照片里的人穿着厚衣服，我还想查拍摄日期和当地观测”。这样的说法没有少学东西，反而清楚地区分了已知和未知。下次再看到晴天、积雪或雨伞，试着先问它能代表哪一天、哪个地点。好的观察者愿意补充资料，也愿意调整原来的想法。",
+          "sourceUrls": [
+            "https://science.nasa.gov/climate-change/faq/whats-the-difference-between-weather-and-climate/",
+            "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf",
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+          ]
+        }
+      ],
+      "term": "证据范围",
+      "definition": "一份资料能够支持的时间、地点和对象范围。",
+      "glossary": [
+        {
+          "term": "证据范围",
+          "definition": "一份资料能够支持的时间、地点和对象范围。"
+        }
+      ],
+      "question": "一张下雪的照片，能够单独说明这个地方全年都冷吗？",
+      "answer": "照片记录具体时刻，长期气候需要更长时间的观测。衣服厚薄还受情境与个人感受影响，不能补足全年资料。",
+      "sourceUrls": [
+        "https://science.nasa.gov/climate-change/faq/whats-the-difference-between-weather-and-climate/",
+        "https://www.gov.cn/lianbo/bumen/202312/P020231230296808058475.pdf",
+        "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-weather-and-climate-check",
+      "characterCount": 538,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-people",
+      "countryId": "china",
+      "sectionId": "people",
+      "title": "广阔土地上的不同生活",
+      "summary": "从具体照片和地点认识生活。一个人的经历可以打开一扇窗，却不能代表一个国家所有人的日常。",
+      "mediaId": "china-city",
+      "blocks": [
+        {
+          "id": "china-people-r2-b1",
+          "title": "一张照片是一扇窗",
+          "text": "街道、村庄、商店和水边的景象，都可以成为认识生活的窗口。先看照片注明的地点和对象，再描述里面确实发生的事。例如可以说“这张照片中有骑车的人”，不能马上说“这里所有人都骑车”。照片让我们接近一个片段，却没有收集全国每个人的生活经历。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm",
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html",
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-people-r2-b2",
+          "title": "相同地方也有差异",
+          "text": "人们的日常与家庭安排、工作、学习和个人选择有关。在同一座城市中，不同人的早晨也不会完全相同。不要只凭房屋大小、衣着或出行方式猜一个人的收入与幸福。想认识他，需要更多真实介绍，也需要尊重他愿意分享的范围。比较生活的目的，是增进理解而不是给别人排名。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm",
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html",
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-people-r2-b3",
+          "title": "水路提供一个例子",
+          "text": "大运河的历史说明，交通可以把不同地方联系起来。粮食与货物曾沿水道运输，城镇也在这样的往来中建立联系。这是理解环境与生活关系的一个例子，不表示每座城市都因运河而生。认识一处地方时，可以先问附近有什么路与水，再查资料，看哪些联系有证据支持。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm",
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html",
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-people-r2-b4",
+          "title": "不同声音也能相互认识",
+          "text": "中国有多种语言、方言和文字。普通话与规范汉字是国家通用语言文字，很多人也熟悉自己家庭或地区的表达。听不懂时可以礼貌地请对方解释，不能因为口音不同就判断谁更聪明。语言能告诉我们一些交流方式，却不能替代一个人的完整故事。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm",
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html",
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-people-r2-b5",
+          "title": "练习限定你的结论",
+          "text": "试着为一张生活照片写说明，使用“这张图里”“这个地点”“这次记录中”等词。它们能提醒读者你的证据范围。再列出一件不知道的事，例如人物要去哪里、这条街平时是否热闹。把观察与猜想分开，你就能欣赏地方差异，也能避免用一个例子把许多人装进同一个模子。",
+          "sourceUrls": [
+            "https://www.locpg.gov.cn/fwzn/zggq.htm",
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html",
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        }
+      ],
+      "term": "个案",
+      "definition": "对某一个人、家庭、地方或事件的具体记录。",
+      "glossary": [
+        {
+          "term": "个案",
+          "definition": "对某一个人、家庭、地方或事件的具体记录。"
+        }
+      ],
+      "question": "照片中出现一个骑车的人，哪一句描述没有超出证据？",
+      "answer": "一张照片能支持这一次可见的情景，不能证明每个人或每一天都一样。限定对象和时间能让描述更准确。",
+      "sourceUrls": [
+        "https://www.locpg.gov.cn/fwzn/zggq.htm",
+        "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html",
+        "https://whc.unesco.org/en/list/1443/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-people-check",
+      "characterCount": 526,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-languages",
+      "countryId": "china",
+      "sectionId": "people",
+      "title": "同一句“你好”，为什么会有不同说法？",
+      "summary": "语言帮助人们交流，也连接家庭和地方记忆。听见陌生的表达，可以先询问意思，再认真了解它的使用情境。",
+      "mediaId": "china-city",
+      "blocks": [
+        {
+          "id": "china-languages-r2-b1",
+          "title": "声音不同，仍在交流",
+          "text": "你也许听过家人用熟悉的说法打招呼，又在课堂或广播中听到另一种表达。声音、词语与说话习惯可能不同，但人们都在努力传递意思。听见陌生的词时，不必急着模仿或评价。可以先问“这个词是什么意思，在什么场合使用”，把不理解变成一次礼貌的交流。",
+          "sourceUrls": [
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html"
+          ]
+        },
+        {
+          "id": "china-languages-r2-b2",
+          "title": "通用与多样可以同时存在",
+          "text": "普通话和规范汉字是国家通用语言文字，方便人们在许多场合交流。中国同时有多种语言、方言和文字。认识通用的表达，并不妨碍尊重其他表达。一个人也可能在不同场合使用自己熟悉的不同语言或方言；我们不能只凭一句话，就推断他的全部身份与生活经历。",
+          "sourceUrls": [
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html"
+          ]
+        },
+        {
+          "id": "china-languages-r2-b3",
+          "title": "录音需要自己的说明",
+          "text": "一段真实语言录音，应说明说的是什么、属于哪种语言或方言，以及如何获得和核对。没有这些信息，仅听一小段声音很难准确判断。页面中的普通话朗读是阅读辅助，不会冒充地方母语样音。真实样音尚未制作时，就先读文字说明，不显示能播放却没有内容的按钮。",
+          "sourceUrls": [
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html"
+          ]
+        },
+        {
+          "id": "china-languages-r2-b4",
+          "title": "不要把不同听成高低",
+          "text": "听懂自己熟悉的说法比较容易，听不懂的说法可能需要学习。这反映的是熟悉程度，并不说明一种声音更聪明、更好或更有价值。别人愿意教你时，可以先听、确认意思，再尝试重复。如果把口音当笑话，交流的门可能关上；认真提问则能让双方分享更多。",
+          "sourceUrls": [
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html"
+          ]
+        },
+        {
+          "id": "china-languages-r2-b5",
+          "title": "用一个好问题继续",
+          "text": "如果想了解某句话，可以问熟悉它的人：“谁会这样说？和普通话意思完全一样吗？”记录时写清信息来自谁、是否允许分享；不必收集个人住址或私密资料。语言学习可以从一句问候开始，但不以猜民族或评口音为游戏。真正的收获，是知道怎样更耐心地理解别人。",
+          "sourceUrls": [
+            "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html"
+          ]
+        }
+      ],
+      "term": "方言",
+      "definition": "一种语言在不同地区或群体中形成的不同表达方式。",
+      "glossary": [
+        {
+          "term": "方言",
+          "definition": "一种语言在不同地区或群体中形成的不同表达方式。"
+        }
+      ],
+      "question": "听到自己不熟悉的说法，怎样继续了解最合适？",
+      "answer": "不熟悉只说明我们还需要学习。询问意思与情境有助于交流，口音不能用来判断人的能力或全部身份。",
+      "sourceUrls": [
+        "https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/202610/t20261023_1455676.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-languages-check",
+      "characterCount": 523,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-people-behind-a-craft",
+      "countryId": "china",
+      "sectionId": "people",
+      "title": "一件手工作品，谁在一起完成？",
+      "summary": "把目光从成品移向制作的人。沿着原料、工序与分享，发现一件作品背后的合作，并提出你想追问的问题。",
+      "mediaId": "china-paper-cut",
+      "blocks": [
+        {
+          "id": "china-people-behind-a-craft-r2-b1",
+          "title": "成品不是故事的起点",
+          "text": "看到精巧的剪纸或一盒茶，眼睛容易先停在颜色与形状上。可是成品出现之前，还有原料的选择、工具的使用和许多次练习。把问题从“它好不好看”换成“它怎样做出来”，就能开始认识作品背后的人。本篇没有安排虚构采访，下面提供的是可以用于真实观察的线索。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-people-behind-a-craft-r2-b2",
+          "title": "沿着工序找人",
+          "text": "以茶为例，传统知识涉及种植管理、采摘、加工以及分享；不同制作过程需要相应技能。剪纸则让人通过剪刻与图案表达来装点生活。一个人可能承担多项工作，也可能与其他人合作。不能把示意中的三个角色当作每个作坊的固定分工，要以具体案例的资料为准。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-people-behind-a-craft-r2-b3",
+          "title": "手艺需要学习",
+          "text": "技能可以在家庭、师徒和其他学习场景中传递。学习不只是记住最后的样子，还包括观察材料、控制动作、判断结果和解决问题。我们欣赏成品时，也可以留意练习与修改。传统并不等于每一次都毫无变化，真正的制作由活生生的人在具体生活中继续完成。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-people-behind-a-craft-r2-b4",
+          "title": "观察时尊重作者",
+          "text": "看作品说明中的作者、地区和制作信息，有助于知道它是谁的表达。网页上能看到照片，不表示可以随意把它署成自己的作品；分享前应查看许可。采访时也先征得同意，不要求对方透露不愿分享的内容。尊重制作的人，和认识图案、工具一样，是学习手艺的一部分。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-people-behind-a-craft-r2-b5",
+          "title": "写一张采访问题卡",
+          "text": "选择剪纸或制茶的一项工作，写下你已经知道的事情，再问一个具体问题，例如“怎样判断这一步完成了”“最初练习哪里最难”。没有采访机会，也能先记录想查的资料。问题不需要有唯一答案；它的价值在于帮助你从一个漂亮成品，继续看见人的经验、合作与选择。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        }
+      ],
+      "term": "传承",
+      "definition": "知识、技能和做法由人学习、实践并继续传给后来的人。",
+      "glossary": [
+        {
+          "term": "传承",
+          "definition": "知识、技能和做法由人学习、实践并继续传给后来的人。"
+        },
+        {
+          "term": "工序",
+          "definition": "制作过程中依次进行的具体步骤。"
+        }
+      ],
+      "question": "记录一项作品背后的工作，再写一个想问制作人的问题；不需要真的采访才能保存。",
+      "answer": "这是开放观察，没有唯一答案。记录具体对象与自己的问题，任选一项填写即可；不把示例当作你的发现。",
+      "sourceUrls": [
+        "https://ich.nlc.cn/unesco/detail/8",
+        "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "paper",
+      "activity": {
+        "type": "open",
+        "id": "china-open-craft",
+        "title": "问问手艺人",
+        "prompt": "记录一项作品背后的工作，再写一个想问制作人的问题；不需要真的采访才能保存。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "suggestedArticleIds": [
+          "china-culture",
+          "china-food"
+        ]
+      },
+      "characterCount": 526,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-a-school-morning",
+      "countryId": "china",
+      "sectionId": "daily",
+      "title": "一位小朋友的上学路，会经过什么？",
+      "summary": "通过一段明确虚构的观察练习，学习区分故事中的事实与自己的猜测，再想想怎样描述不同孩子的日常。",
+      "mediaId": "china-city",
+      "blocks": [
+        {
+          "id": "china-a-school-morning-r2-b1",
+          "title": "先说明这是谁的故事",
+          "text": "下面是为练习观察编写的虚构故事，不是真实采访，也不代表任何学校的统一作息。小禾吃完早饭，和家人一起走出家门。他们经过一座桥，在路口等候信号灯，最后走到学校。故事没有提供家庭住址、学校名称和精确时间，因为这些信息不是练习的重点。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-a-school-morning-r2-b2",
+          "title": "先把发生的事排好",
+          "text": "现在可以按故事顺序排出图卡：出门、过桥、等候、到校。这里能够确定的是小禾在这个虚构的早晨步行，途中经过桥和路口。故事没有说他每天都走同一条路，也没有说其他同学怎样出行。把“这一次”与“每一天”分开，能避免让一句话超出已有证据。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-a-school-morning-r2-b3",
+          "title": "环境会带来问题",
+          "text": "桥为什么出现在这里，路口为什么需要等待？这些可以成为继续观察的问题。认识真实城市时，还需要地图、现场说明和有关资料。大运河的故事提醒我们，水路与城镇曾建立许多联系；但这不能证明故事里那座虚构桥就是运河上的桥，不同材料不能随意拼成真实经历。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-a-school-morning-r2-b4",
+          "title": "和自己的经验比较",
+          "text": "你可以想想熟悉的一次上学过程，比较是否经过水面、坡道或公共交通站点。可以只记录环境与交通方式，不写住址和每天出门的时刻。如果不想分享自己的经历，也能继续讨论故事。不同孩子的日常可以有相似和差异，比较不是评选谁的上学方式更好。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-a-school-morning-r2-b5",
+          "title": "写一句有边界的话",
+          "text": "试着完成：“在这个故事中，我能确定……；我还不能确定……。”例如能确定小禾经过桥，不能确定桥的建造年代。这样的练习看似简单，却能用于阅读很多生活报道。先辨认材料是真实记录还是虚构练习，再核对它说了什么，才能更可靠地认识别人的生活。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        }
+      ],
+      "term": "路线",
+      "definition": "从一个地方到另一个地方经过的道路或连接方式。",
+      "glossary": [
+        {
+          "term": "路线",
+          "definition": "从一个地方到另一个地方经过的道路或连接方式。"
+        }
+      ],
+      "question": "根据小禾的虚构故事，哪件事可以确定？",
+      "answer": "故事明确说小禾经过桥，却没有提供其他同学的情况或桥的年代。虚构观察练习也需要忠于给定信息。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1443/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-a-school-morning-check",
+      "characterCount": 510,
+      "readingMinutes": 4,
+      "contentKind": "fictionalPractice"
+    },
+    {
+      "id": "china-homes",
+      "countryId": "china",
+      "sectionId": "daily",
+      "title": "房子为什么有不同的模样？",
+      "summary": "以福建土楼为一个真实例子，从入口、院子和居住空间观察房屋。传统住宅展示一种生活经验，并不代表今天所有人的住处。",
+      "mediaId": "china-tulou",
+      "blocks": [
+        {
+          "id": "china-homes-r2-b1",
+          "title": "先看形状，再问功能",
+          "text": "从高处看一座建筑，可能看见圆形或方形的轮廓；站到地面，又会注意到入口、窗和屋檐。不同视角提供不同信息。先描述形状，再问这些空间怎样使用，比只给房子贴上“奇特”的标签更有收获。单张外观照片通常不能告诉我们每个房间的具体用途。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1113/"
+          ]
+        },
+        {
+          "id": "china-homes-r2-b2",
+          "title": "福建土楼提供一个例子",
+          "text": "福建土楼中有圆形与方形等建筑形式，围绕内部空间组织居住。它们体现了特定历史背景下共同生活和防御等需要。这个例子能帮助我们认识房屋与社区的关系，但不能推断福建今天所有人都住土楼，也不能把不同土楼的结构与历史一概当成相同。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1113/"
+          ]
+        },
+        {
+          "id": "china-homes-r2-b3",
+          "title": "从入口走进院子",
+          "text": "照片从较高位置展示土楼群，可以看见圆形或方形布局和内部开敞空间。先指认这些轮廓，再想想从地面走近会看到什么。如果另找到了经过核对的建筑平面图，还可以查入口、院子与房间的关系；本页没有提供这种平面图。照片帮助观察外形，不能用于测量每个房间的大小。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1113/"
+          ]
+        },
+        {
+          "id": "china-homes-r2-b4",
+          "title": "房屋需要具体比较",
+          "text": "如果要把传统住宅与现代住宅比较，应选择说明清楚的实际案例，而不是随意拼两张图片。可以比较材料、入口和公共空间，也要注明哪些信息来自照片、哪些来自文字。房屋的样子受到许多因素影响，不能仅凭外观判断住在里面的人幸福与否或生活水平高低。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1113/"
+          ]
+        },
+        {
+          "id": "china-homes-r2-b5",
+          "title": "把功能留在问题里",
+          "text": "你可以指认图中的院子，再提出“大家可能怎样使用这里”的猜想。要把猜想变成知识，需要居民记录、建筑说明或其他可靠资料。好的观察既会看形状，也会追问人的使用方式。下次看到不同的房子，先找入口与空间联系，你会发现建筑并不是只有一张外皮。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1113/"
+          ]
+        }
+      ],
+      "term": "院落",
+      "definition": "由建筑或围墙围合出来、供人活动的空间。",
+      "glossary": [
+        {
+          "term": "院落",
+          "definition": "由建筑或围墙围合出来、供人活动的空间。"
+        }
+      ],
+      "question": "观察这张田螺坑土楼群照片，哪一项可以直接看见？",
+      "answer": "照片中能够辨认不同形状的建筑轮廓。居民的感受与全省居住方式不能从这一张照片推断。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1113/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "placeId": "china-fujian-tulou",
+      "exerciseId": "china-homes-check",
+      "characterCount": 523,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-moving-around",
+      "countryId": "china",
+      "sectionId": "daily",
+      "title": "去同一个地方，为什么有人坐船、有人坐车？",
+      "summary": "先认识连接和换乘，再比较不同路线。教学示意图帮助练习选择条件，不提供现实中的出行导航。",
+      "mediaId": "china-canal",
+      "blocks": [
+        {
+          "id": "china-moving-around-r2-b1",
+          "title": "目的地相同，过程可能不同",
+          "text": "想去图书馆，可以先问从哪里出发、哪些道路能够连接、是否需要换乘。不同出发点和条件会形成不同选择，因此不能只看交通工具就判断哪条路线最好。今天能使用的线路，也不能直接套到过去。本篇用清楚标注的教学示意练习连接，不推荐真实班次和旅行路线。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-moving-around-r2-b2",
+          "title": "水路曾连接远方",
+          "text": "大运河是经过长期分段建设的水道系统，历史上承担运输粮食和其他物品等任务。人工水道与天然水系相联系，让不同地方建立往来。这个例子说明人们会根据环境创造连接方式。认识它时，应把整套水路与某一处观察点分开，不能把整个运河压缩成一个小圆点。地图练习选择大运河杭州段这一实际观察点，虚构路线只帮助理解换乘概念。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-moving-around-r2-b3",
+          "title": "认识一幅虚构路线图",
+          "text": "想象教学图上有家、码头、车站和图书馆，所有地点都是虚构的。蓝线代表水路，橙线代表陆上线路，图例会明确说明。假设题目说先坐船到码头，再坐车去图书馆，那么码头就是需要找到的换乘位置。这只检验是否读懂题设，不说明现实中哪里有这种交通安排。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-moving-around-r2-b4",
+          "title": "选择要配合条件",
+          "text": "如果题目没有给定必须坐船，可能存在多种合理路线。可以比较经过哪些点、是否换乘，而不要凭空补充票价和耗时。现实出行还需要最新运营信息，本篇没有这些资料。地图里的最短线也不必然是最方便的路，因为线路、通行条件和个人需要都可能影响选择。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-moving-around-r2-b5",
+          "title": "把理由说给别人听",
+          "text": "完成练习时，指一指换乘点，再用一句话说明：“因为题目让我从水路转到陆路，所以在这里换乘。”清楚的理由比只猜一个按钮更有用。接着可以回到大运河的照片，想想桥、水道和岸边道路怎样靠近。历史案例与教学模型各有作用，把它们分清，才能学得更扎实。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        }
+      ],
+      "term": "换乘",
+      "definition": "在一次出行中从一种车辆或线路转到另一种。",
+      "glossary": [
+        {
+          "term": "换乘",
+          "definition": "在一次出行中从一种车辆或线路转到另一种。"
+        }
+      ],
+      "question": "找到本文用来观察真实水路的杭州段。",
+      "answer": "大运河杭州段是本文的实际观察点。虚构换乘图只是学习模型，不能当作真实地图路线。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1443/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "waterway",
+      "placeId": "grand-canal",
+      "mapFeatureId": "grand-canal",
+      "exerciseId": "china-moving-around-check",
+      "characterCount": 560,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-food",
+      "countryId": "china",
+      "sectionId": "food",
+      "title": "一片茶叶怎样走上餐桌？",
+      "summary": "从鲜叶到制成的茶，认识采摘、加工与分享的联系。不同茶有不同工艺，我们观察手艺，不设置饮茶挑战。",
+      "mediaId": "china-tea",
+      "blocks": [
+        {
+          "id": "china-food-r2-b1",
+          "title": "叶子只是故事的开始",
+          "text": "看到杯子里的茶，不妨把目光往前移到茶树和制作场景。传统制茶知识包含种植管理、茶叶采摘和加工，也与饮用、分享的习俗相连。成品的样子并不只由一个名字决定，原料和做法都值得认识。孩子可以通过照片和说明观察这段过程，不需要通过喝茶完成学习。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-food-r2-b2",
+          "title": "同是茶，工艺并不相同",
+          "text": "传统制作形成绿茶、黄茶、黑茶、白茶、乌龙茶和红茶等类别。不同加工方式带来颜色、香气和形态等差别。这里列出类别，是提醒我们不要用一种工序解释所有茶，而不是要求一次背完名称。看见制作照片时，要先确认它展示哪一种茶、哪个具体步骤。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-food-r2-b3",
+          "title": "用三阶段读懂过程",
+          "text": "可以先用“采摘原料—进行加工—成为可分享的成品”理解大的顺序。这是帮助阅读的概括，不是一份可以直接照做的制茶配方。真正的加工中还会有不同操作，需要相应知识和判断。若要认识某种茶的细节，应继续查看该茶的工艺资料，不把教学图当作全部流程。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-food-r2-b4",
+          "title": "手艺也在人与人之间",
+          "text": "制茶知识可以通过家庭与师徒等方式传递，茶也参与待客和社会交流。人们分享的不只是一个饮品名字，还有制作经验与生活习惯。不同地方和家庭的做法可能不同，因此不能说每个家庭都以同一种方式待客。观察文化时，具体的人和场景与制作技术同样重要。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-food-r2-b5",
+          "title": "留下一个更好的问题",
+          "text": "看完照片，可以问“这一道工序怎样改变叶子”“谁教会制作者判断完成了没有”。这些问题比只问哪种茶最贵更接近手艺本身。理解题只需要把原料、加工与成品的关系排清楚；想继续探索时，可以写下某一种茶的名字和待查的问题，让下一次阅读有明确方向。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        }
+      ],
+      "term": "加工",
+      "definition": "为得到需要的成品，对原料进行处理。",
+      "glossary": [
+        {
+          "term": "加工",
+          "definition": "为得到需要的成品，对原料进行处理。"
+        },
+        {
+          "term": "工艺",
+          "definition": "制作某种物品时使用的方法与过程。"
+        }
+      ],
+      "question": "哪种顺序符合本文介绍的制茶大阶段？",
+      "answer": "本文用采摘、加工、成品帮助理解大阶段。它不是某种茶的完整配方，不同茶还会有各自的具体工序。",
+      "sourceUrls": [
+        "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "food",
+      "exerciseId": "china-food-check",
+      "characterCount": 521,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-rice-and-fish",
+      "countryId": "china",
+      "sectionId": "food",
+      "title": "稻田里为什么还会养鱼？",
+      "summary": "浙江青田的稻鱼共生提供一个观察农业的例子。顺着稻、鱼、水与人的联系，认识同一片田里的合作关系。",
+      "mediaId": "china-rice",
+      "blocks": [
+        {
+          "id": "china-rice-and-fish-r2-b1",
+          "title": "先从一个具体地方开始",
+          "text": "稻田里有水，也可能生活着鱼。浙江青田的稻鱼共生是联合国粮农组织介绍的农业遗产案例，把种稻与养鱼结合在水田中。这里说的是一套具体实践，不表示所有稻田都能或都应该这样安排。认识一种农业方法，先找地点与条件，才不会把一个例子当作普遍规则。封面照片拍摄于广西阳朔，用来观察一般水田景象，不是青田稻鱼案例的实拍证明。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en"
+          ]
+        },
+        {
+          "id": "china-rice-and-fish-r2-b2",
+          "title": "稻给鱼提供什么",
+          "text": "在这套系统中，稻株能提供遮阴，也与鱼的食物来源发生联系。田里不只是两样孤立的东西：水、土壤、其他生物和农人的工作都参与其中。本段用文字解释这些联系；页面的原料、制作、餐桌图标是通用食物流程，不是稻鱼生态图。认识关系时，要说清谁对谁产生什么作用。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en"
+          ]
+        },
+        {
+          "id": "china-rice-and-fish-r2-b3",
+          "title": "鱼也会影响稻田",
+          "text": "鱼的活动、排泄物以及对部分幼虫和杂草的取食，会与田里的养分和环境产生联系。不能把这句话夸大为有鱼就完全没有虫，也不能认为不再需要管理。一个生态联系通常有范围和条件，看到“能够帮助”时，要继续问帮助什么、在哪种安排中，而不是马上变成绝对保证。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en"
+          ]
+        },
+        {
+          "id": "china-rice-and-fish-r2-b4",
+          "title": "农人让条件相互配合",
+          "text": "种稻养鱼不是随意往一片水里放鱼。人们需要安排田间水和鱼可以活动的空间，照料稻与鱼的需要。传统知识与持续实践一起发挥作用。认识这类生产方式，可以同时关注食物、劳动和环境；不能只看收获照片，就省略背后管理与地方经验。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en"
+          ]
+        },
+        {
+          "id": "china-rice-and-fish-r2-b5",
+          "title": "把一条联系解释清楚",
+          "text": "试着选择“稻给鱼遮阴”这条关系，再指出正文里对应的说明。如果还想问鱼在不同季节怎样生活，可以把它记为下一步问题。理解共生不需要一下画出所有生态过程，先准确说清一条联系，再知道它属于哪个具体案例，就已经比只记住“稻田有鱼”更深入了。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en"
+          ]
+        }
+      ],
+      "term": "共生",
+      "definition": "本文指不同生物在同一环境中形成相互有利的联系。",
+      "glossary": [
+        {
+          "term": "共生",
+          "definition": "本文指不同生物在同一环境中形成相互有利的联系。"
+        },
+        {
+          "term": "养分",
+          "definition": "生物生长和维持生命所需要的一些物质。"
+        }
+      ],
+      "question": "青田稻鱼案例中，哪一项有正文支持？",
+      "answer": "正文介绍了稻对鱼的遮阴作用，也强调这是有条件的具体实践，需要农人管理，不能推广为所有稻田的统一安排。",
+      "sourceUrls": [
+        "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "food",
+      "exerciseId": "china-rice-and-fish-check",
+      "characterCount": 557,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-food-market",
+      "countryId": "china",
+      "sectionId": "food",
+      "title": "一顿饭的食物从哪里来？",
+      "summary": "从一种熟悉食物倒着追踪原料与加工。知道的写清楚，不知道的留作问题，不用菜名替整个地方的人贴标签。",
+      "mediaId": "china-market",
+      "blocks": [
+        {
+          "id": "china-food-market-r2-b1",
+          "title": "先选一样，不必研究整桌",
+          "text": "一顿饭可能有许多食物，先挑一样你愿意认识的即可。看见米饭，可以问稻米怎样成为饭；看见一种加工食品，可以先读原料说明。食物名字像故事的封面，生产、运输和制作还在后面。这里不虚构一家真实市场的采购记录，也不根据通用照片猜食材来自哪个产地。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-food-market-r2-b2",
+          "title": "把链条分成几段",
+          "text": "用“原料—加工—餐桌”画一条简单链，能帮助整理问题。茶的故事包含采摘与制作，青田稻鱼案例则让我们认识食物生产和环境的联系。它们各自有具体资料，不代表所有食物都走同样的步骤。链条是整理信息的工具，若某一步尚未查到，可以留空，而不是编一个看似完整的答案。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-food-market-r2-b3",
+          "title": "照片能帮助，也有限制",
+          "text": "市场照片可能显示摊位、容器或商品，却未必告诉我们供应地点、运输距离和价格日期。想知道来源，要查看可靠标签、采访记录或其他说明。不能看见海鱼就猜它一定来自最近的海，也不能把图中一次售卖当作长期情况。把照片中可见的信息与需要另查的信息分别记录。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-food-market-r2-b4",
+          "title": "口味不等于地理边界",
+          "text": "不同家庭和个人会有自己的选择，同一个地方也能出现多种饮食习惯。比较饭菜时，可以问原料、加工与分享方式，而不要画一条没有例外的线，把人们固定分成只吃某一种食物的群体。别人熟悉的食物与你不同，并不妨碍相互介绍；不喜欢吃也可以尊重它背后的劳动。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        },
+        {
+          "id": "china-food-market-r2-b5",
+          "title": "完成你的食物问题卡",
+          "text": "任选一种食物，写下你已确定的一条信息，再写一件想调查的事。例如知道主要原料，却不知道怎样加工；或者看过包装，却不清楚图上的地点。可以请家人一起读说明，不需要购买、试吃或公开家庭信息。保存一个真实问题，就是本次任务的收获，不必把每个空格都填满。",
+          "sourceUrls": [
+            "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en",
+            "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+          ]
+        }
+      ],
+      "term": "原料",
+      "definition": "用于制作成品、还需要进一步处理的材料。",
+      "glossary": [
+        {
+          "term": "原料",
+          "definition": "用于制作成品、还需要进一步处理的材料。"
+        }
+      ],
+      "question": "任选一种食物，写下原料、加工或来源中已知道的一件事；未知之处可以写“不知道”。",
+      "answer": "这是开放观察，没有唯一答案。记录具体对象与自己的问题，任选一项填写即可；不把示例当作你的发现。",
+      "sourceUrls": [
+        "https://www.fao.org/giahs/giahs-around-the-world/china-rice-fish-culture/en",
+        "https://ich.unesco.org/en/RL/traditional-tea-processing-techniques-and-associated-social-practices-in-china-01884?RL=01884"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "food",
+      "activity": {
+        "type": "open",
+        "id": "china-open-food",
+        "title": "食物来路卡",
+        "prompt": "任选一种食物，写下原料、加工或来源中已知道的一件事；未知之处可以写“不知道”。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "suggestedArticleIds": [
+          "china-rice-and-fish",
+          "china-food"
+        ]
+      },
+      "characterCount": 544,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-culture",
+      "countryId": "china",
+      "sectionId": "culture",
+      "title": "一张纸怎样变成艺术？",
+      "summary": "留下的纸和剪开的空隙共同组成图案。先欣赏真实剪纸，再用一个简单的对称实验认识制作中的观察。",
+      "mediaId": "china-paper-cut",
+      "blocks": [
+        {
+          "id": "china-culture-r2-b1",
+          "title": "看纸，也看空隙",
+          "text": "一张纸剪去一些部分后，留下的形状与空隙可以共同组成花纹。剪纸用剪刀或刻刀在纸上形成图案，能够装点生活，也参与民俗活动。看作品时不只看红色或其他颜色的纸，还试着沿着镂空的边缘观察。作者怎样安排连接与空白，会影响我们最后看见的整体形象。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-culture-r2-b2",
+          "title": "作品有自己的来处",
+          "text": "剪纸并非只有一种大小、颜色或画法，不同地区与创作者会形成不同表达。作品说明中的作者、地区和用途能帮助我们认识差异。不能把一张示范图当成全国剪纸的统一样子，也不应看到某种花纹就自行编出寓意。涉及具体象征时，需要查作者或相关文化资料的解释。封面是作者 Fanghong 创作并授权的狗年剪纸作品图，不是制作过程照片。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-culture-r2-b3",
+          "title": "用折纸理解一种关系",
+          "text": "屏幕中的练习先把一张方形纸沿中线对折，再在折好的纸面示范剪出一个圆形开口，最后展开观察。这个实验只帮助认识对称，不表示所有剪纸都用同样方法。示意的剪口与展开结果应互相对应，你可以先猜哪幅图能够出现，再看两侧形状是否围绕折线相互对应。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-culture-r2-b4",
+          "title": "让图案保持连接",
+          "text": "观察真实作品时，还可以留意各部分如何连在一起。纸的连接与空隙让图案保持形状，也让观看的人辨认细节。数字练习可以放心重试；实际手工需要合适工具和成人指导，不能把屏幕里轻轻一点的动作当成已经学会真实技艺。熟练的控制来自练习和经验。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-culture-r2-b5",
+          "title": "从实验回到作品",
+          "text": "完成对称观察以后，再看一件真正的剪纸：哪些地方重复，哪些地方不同，作者想呈现什么对象？先说自己看见的，再读作品说明。技术与表达需要一起认识，不能只剩下对折步骤。写下你喜欢的一处细节，也可以问作者怎样安排它，让一张纸继续成为人与人交流的入口。",
+          "sourceUrls": [
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        }
+      ],
+      "term": "对称",
+      "definition": "图形的两部分沿某条线对折后能够重合的一种关系。",
+      "glossary": [
+        {
+          "term": "对称",
+          "definition": "图形的两部分沿某条线对折后能够重合的一种关系。"
+        },
+        {
+          "term": "镂空",
+          "definition": "去掉材料的一部分，使其形成可以透过的空隙。"
+        }
+      ],
+      "question": "观察红纸示意，虚线提示的是哪一个位置？",
+      "answer": "虚线标出中线，帮助理解对折与两侧对应的位置。初始示意只展示折叠状态，不需要看尚未展开的结果才能回答。",
+      "sourceUrls": [
+        "https://ich.nlc.cn/unesco/detail/8"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "paper",
+      "exerciseId": "china-culture-check",
+      "characterCount": 563,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-dragon-boat",
+      "countryId": "china",
+      "sectionId": "culture",
+      "title": "龙舟上的人，怎样一起向前？",
+      "summary": "从一项具体节庆活动观察合作。端午的表达有多种，认识一个地方的龙舟活动，也要记得它只是其中一个例子。",
+      "mediaId": "china-dragon-boat",
+      "blocks": [
+        {
+          "id": "china-dragon-boat-r2-b1",
+          "title": "先认识活动的范围",
+          "text": "端午节包含多种纪念、仪式、游戏、表演和食物习俗，不同地方的做法并不完全相同。龙舟活动可以成为一个观察入口，但不能代表每个家庭都会参与同一种活动。看照片或视频时，先读地点与情境说明，知道眼前展示的是一次具体记录，而不是整个节日的全部。本页封面只作龙舟场景观察，原作者未注明确切地点，不能据此确认它是某地的端午活动。",
+          "sourceUrls": [
+            "https://ich.unesco.org/doc/src/ITH-09-4.COM-CONF.209-13-Rev.2-EN.pdf?t=1268152645"
+          ]
+        },
+        {
+          "id": "china-dragon-boat-r2-b2",
+          "title": "看一组动作",
+          "text": "本页展示的是一张静止照片，可以观察近处长船的装饰、河面以及远处多人共同参与的长船。单张画面不能告诉我们完整划桨动作的先后，也不能证明比赛结果。如果想研究动作配合，需要另找同一次活动有顺序的连续记录。先把照片能说明的范围讲清楚，观察就有了可靠的起点。",
+          "sourceUrls": [
+            "https://ich.unesco.org/doc/src/ITH-09-4.COM-CONF.209-13-Rev.2-EN.pdf?t=1268152645"
+          ]
+        },
+        {
+          "id": "china-dragon-boat-r2-b3",
+          "title": "合作不只看一个人",
+          "text": "多人共同参与时，一个人的动作会和其他人的动作发生关系。可以观察大家怎样准备、怎样配合，再查活动说明，而不要只盯着哪位划得最快。若资料没有说明具体口令或节奏，就先记录问题，不凭想象给所有地方安排同一种规则。合作的方式需要放在实际活动里理解。",
+          "sourceUrls": [
+            "https://ich.unesco.org/doc/src/ITH-09-4.COM-CONF.209-13-Rev.2-EN.pdf?t=1268152645"
+          ]
+        },
+        {
+          "id": "china-dragon-boat-r2-b4",
+          "title": "节日把人联系起来",
+          "text": "文化活动不只包含一个比赛结果，也可能让家庭与社区相聚，把经验和故事传给后来的人。认识端午时，可以同时问谁参与、怎样准备、怎样学习。不同人的角色未必相同，观看、制作与组织也值得了解。传统在人的实践中继续存在，并不是一张永远不变的展示照片。",
+          "sourceUrls": [
+            "https://ich.unesco.org/doc/src/ITH-09-4.COM-CONF.209-13-Rev.2-EN.pdf?t=1268152645"
+          ]
+        },
+        {
+          "id": "china-dragon-boat-r2-b5",
+          "title": "留下可核对的描述",
+          "text": "看完这张照片后，可以说“河面上有一艘多人共同参与的长船”，再指出自己依据的是画面哪一部分。不要从一个场景推断全国的统一习俗。想继续了解，可以寻找地点和日期更完整的活动介绍，或者比较另一个有来源的地方例子。把范围写清楚，才更能看见文化里的丰富与差异。",
+          "sourceUrls": [
+            "https://ich.unesco.org/doc/src/ITH-09-4.COM-CONF.209-13-Rev.2-EN.pdf?t=1268152645"
+          ]
+        }
+      ],
+      "term": "协作",
+      "definition": "人们配合彼此的行动，共同完成一件事。",
+      "glossary": [
+        {
+          "term": "协作",
+          "definition": "人们配合彼此的行动，共同完成一件事。"
+        }
+      ],
+      "question": "观察龙舟照片，哪一项能够直接指出来？",
+      "answer": "照片可见长船与多人参与的场景，却不能直接显示比赛结果或人物住址。原作者未注明确切活动地点，也不能自行补造。",
+      "sourceUrls": [
+        "https://ich.unesco.org/doc/src/ITH-09-4.COM-CONF.209-13-Rev.2-EN.pdf?t=1268152645"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-dragon-boat-check",
+      "characterCount": 585,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-spring-festival",
+      "countryId": "china",
+      "sectionId": "culture",
+      "title": "春节为什么有这么多种过法？",
+      "summary": "迎接新年、家庭团聚与社区活动把许多人联系起来。比较习俗时，给不同家庭的选择留下空间。",
+      "mediaId": "china-paper-cut",
+      "blocks": [
+        {
+          "id": "china-spring-festival-r2-b1",
+          "title": "一个节日，许多参与方式",
+          "text": "春节与中国传统历法中新一年的开始相联系。迎接新年、家庭团聚和社区庆祝，是理解它的重要线索。不同地方与家庭会有自己的安排，不能用一份清单规定每个人必须怎样过。认识节日可以从一个具体场景开始，再把眼光放到更广的人们与生活中。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-the-traditional-new-year-02126",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-spring-festival-r2-b2",
+          "title": "准备也属于节日",
+          "text": "节日前的清扫、准备食物与装饰等活动，会让人们一起为新年做安排。这里介绍的是资料中记录的实践，不是要求每个家庭完成的任务。观察一张照片时，可以看看正在准备什么、哪些人参与；若照片没有说明人物关系，就不能自行认定他们一定是哪一种家庭成员。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-the-traditional-new-year-02126",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-spring-festival-r2-b3",
+          "title": "相聚与公共活动",
+          "text": "家庭聚餐、相互问候和社区公共庆祝等方式，能够成为人们分享时间与表达祝愿的机会。具体活动随情境而不同，不能把一次庙会或一顿饭代表所有人的春节。有人重视某项习惯，也有人有不同的安排。比较时先理解意义和参与方式，不把差别变成谁过得更正确的评比。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-the-traditional-new-year-02126",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-spring-festival-r2-b4",
+          "title": "知识在人之间传递",
+          "text": "节日相关的故事、装饰制作和表演等知识，可以在家庭、社区与其他学习环境中传递。剪纸就是可以继续了解的一种手艺，但并非每张剪纸都专为春节制作。把文章互相连接时，要看各自说了什么。一个物件能出现在不同场合，认识它需要结合用途与具体资料。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-the-traditional-new-year-02126",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        },
+        {
+          "id": "china-spring-festival-r2-b5",
+          "title": "比较不等于制定标准",
+          "text": "假设两份有来源的案例都提到聚餐，其中一份还记录某项公共活动。我们能说它们有相似与不同，不能说没有那项活动的家庭就没有过春节。你可以写下自己愿意分享的习惯，也可以只讨论公开材料。开放地观察差异，能让节日成为认识彼此的机会，而不是统一答案的考试。",
+          "sourceUrls": [
+            "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-the-traditional-new-year-02126",
+            "https://ich.nlc.cn/unesco/detail/8"
+          ]
+        }
+      ],
+      "term": "习俗",
+      "definition": "人们在某些地区或群体中逐渐形成并传下来的做法。",
+      "glossary": [
+        {
+          "term": "习俗",
+          "definition": "人们在某些地区或群体中逐渐形成并传下来的做法。"
+        }
+      ],
+      "question": "两个家庭的春节活动不同，可以怎样理解？",
+      "answer": "春节可以联系新年、团聚与社区活动，具体家庭习惯却不必相同。比较是为了理解差异，不是制定统一打卡标准。",
+      "sourceUrls": [
+        "https://ich.unesco.org/en/RL/spring-festival-social-practices-of-the-chinese-people-in-celebration-of-the-traditional-new-year-02126",
+        "https://ich.nlc.cn/unesco/detail/8"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-spring-festival-check",
+      "characterCount": 536,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-palace-courtyards",
+      "countryId": "china",
+      "sectionId": "landmarks",
+      "title": "故宫的院子为什么一个接着一个？",
+      "summary": "先认识一组建筑与院落，再比较地面视角和俯视图。在北京找到故宫，从真实布局中开始观察空间与历史。",
+      "mediaId": "china-palace",
+      "blocks": [
+        {
+          "id": "china-palace-courtyards-r2-b1",
+          "title": "它不只是一座房子",
+          "text": "谈到北京故宫，不能只想象一幢有屋顶的大房子。这里由许多建筑和院落等空间构成，是明清时期皇宫的重要遗存。世界遗产资料把北京与沈阳的相关皇宫放在同一遗产项目中介绍，两处地点不能混为一处。本文观察的是北京故宫，地图和照片都需要对应这个范围。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/439/",
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        },
+        {
+          "id": "china-palace-courtyards-r2-b2",
+          "title": "先在地图上定位",
+          "text": "北京是中国的首都，北京故宫位于这座城市之中。国家地图上的点只能帮助找到大致位置，不能展示内部每条通道。进入建筑布局的学习前，先确认自己看的是国家地图、城市位置图还是院落简图。不同尺度回答不同问题，不能用一个代表点推断建筑的具体大小。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/439/",
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        },
+        {
+          "id": "china-palace-courtyards-r2-b3",
+          "title": "院子连接不同空间",
+          "text": "从建筑群照片可以观察不同屋顶和开敞空间怎样前后相邻。若想进一步研究院落排列，应另查故宫博物院经过核对的布局资料；本页没有提供完整宫殿平面图。某座殿宇的具体功能与年代也要查对应说明，不能只凭房子大就认定用途。先明确对象，再找适合回答问题的资料。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/439/",
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        },
+        {
+          "id": "china-palace-courtyards-r2-b4",
+          "title": "两种视角相互帮助",
+          "text": "站在地面拍摄的照片便于观察屋檐、门和材料细节，从较高处拍的照片则更容易看到一部分建筑排列。不同视角提供的信息可以互补，但它们都不等于完整测绘图。比较时应确认是否同一处对象，留意建筑遮挡和镜头边框。知道照片省略了什么，能帮助我们提出更准确的空间问题。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/439/",
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        },
+        {
+          "id": "china-palace-courtyards-r2-b5",
+          "title": "把好奇带向证据",
+          "text": "如果想问“为什么这些院子这样排列”，可以先记录自己看到的顺序，再查博物院的建筑介绍与历史资料。观察能提出问题，具体原因需要证据，不能由漂亮画面自动推出。今天先在地图找到北京故宫，再选择一处院落认真看。认识复杂建筑群，也可以从一个明确的小问题开始。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/439/",
+            "https://www.locpg.gov.cn/fwzn/zggq.htm"
+          ]
+        }
+      ],
+      "term": "建筑群",
+      "definition": "在一片范围内相互联系、共同组成整体的多座建筑。",
+      "glossary": [
+        {
+          "term": "建筑群",
+          "definition": "在一片范围内相互联系、共同组成整体的多座建筑。"
+        }
+      ],
+      "question": "本文介绍北京的皇宫建筑群，应找到哪处地点？",
+      "answer": "本文观察的是北京故宫。先在地图确认地点，再进入院落布局；不同地标的照片和历史说明不能混用。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/439/",
+        "https://www.locpg.gov.cn/fwzn/zggq.htm"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "placeId": "china-forbidden-city",
+      "mapFeatureId": "china-forbidden-city",
+      "exerciseId": "china-palace-courtyards-check",
+      "characterCount": 555,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-jiuzhaigou",
+      "countryId": "china",
+      "sectionId": "landmarks",
+      "title": "湖泊、森林和瀑布，怎样组成九寨沟？",
+      "summary": "不只寻找漂亮的水色，把目光放到山谷、森林和水的联系。认识真实风景，也认识照片没有展示的部分。",
+      "mediaId": "china-jiuzhaigou",
+      "blocks": [
+        {
+          "id": "china-jiuzhaigou-r2-b1",
+          "title": "先把画面放大",
+          "text": "九寨沟位于四川省北部，山谷里可以见到森林、湖泊和瀑布等景观。一张近距离的湖面照片很吸引人，但如果只看水色，就可能遗漏周围的山坡与树木。先看全景，再看细节，可以把分散的对象放回同一个环境。照片旁的具体地点与拍摄信息同样是认识风景的线索。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/637/"
+          ]
+        },
+        {
+          "id": "china-jiuzhaigou-r2-b2",
+          "title": "山谷并非平平的一块",
+          "text": "九寨沟地势起伏，不同高度与位置形成多种森林环境。这里不是把几样景物摆在一起的展台，而是一个有空间联系的山谷系统。观察时可以沿照片中的坡面寻找变化，再问哪些地方有树林、水面或落差。单张照片无法显示整个山谷，需要位置图和更多资料帮助理解。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/637/"
+          ]
+        },
+        {
+          "id": "china-jiuzhaigou-r2-b3",
+          "title": "湖泊与瀑布怎么观察",
+          "text": "本页照片主要展示湖面、岸边树林和栈道，可以先指认水面与树木，再读图注确认具体对象。九寨沟也有瀑布景观，但这些湖景照片并没有展示瀑布，认识它需要另查对应资料。水色受到具体环境和观察条件影响，不能仅凭颜色判断真实成因，更不能用生成画面替代科学解释。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/637/"
+          ]
+        },
+        {
+          "id": "china-jiuzhaigou-r2-b4",
+          "title": "保护需要看到周围",
+          "text": "自然景观与森林、生物和环境条件相互联系。只说要保护一片漂亮湖水，却完全忽略周围山谷，就可能漏掉理解整体所需的线索。保护涉及具体研究与管理，儿童先能做到的是认真认识对象，不乱扔东西、遵守现场指引。照片欣赏也可以成为了解生态关系的起点。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/637/"
+          ]
+        },
+        {
+          "id": "china-jiuzhaigou-r2-b5",
+          "title": "为一处细节写说明",
+          "text": "选照片中一处湖面、一片树林或一段栈道，先写“我看见了什么”，再写“它旁边还有什么”。把两个对象放在一句话里，能帮助提出联系问题。你不必一次解释所有现象；知道自己的观察来自哪张图、哪个地方，再愿意查缺少的资料，就已经在像小小地理观察员一样思考。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/637/"
+          ]
+        }
+      ],
+      "term": "生态联系",
+      "definition": "生物与环境之间彼此影响、相互依赖的关系。",
+      "glossary": [
+        {
+          "term": "生态联系",
+          "definition": "生物与环境之间彼此影响、相互依赖的关系。"
+        }
+      ],
+      "question": "观察九寨沟全景，哪种记录更能认识环境联系？",
+      "answer": "水面、森林与山谷同属需要观察的环境。全景帮助发现相邻对象，具体成因还需要资料，不能只凭水色推断。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/637/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "ecosystem",
+      "placeId": "jiuzhaigou",
+      "exerciseId": "china-jiuzhaigou-check",
+      "characterCount": 539,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-canal-city",
+      "countryId": "china",
+      "sectionId": "landmarks",
+      "title": "在杭州，怎样发现运河留下的线索？",
+      "summary": "把杭州段作为一个观察点，从水道、桥和岸边建筑认识生活与交通。这里是一扇窗口，不能代替整个大运河。",
+      "mediaId": "china-canal",
+      "blocks": [
+        {
+          "id": "china-canal-city-r2-b1",
+          "title": "从一点认识一条长水路",
+          "text": "大运河是一套长期分段建设的水道系统，联系不同水系与城镇。本文用杭州段作为观察入口，地图点表示这处观察范围，并不把整个遗产缩成一个地点。先知道自己站在哪扇窗口前，再向更广的水路看去，能避免将一座桥或一段河岸当作全部大运河的样子。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-canal-city-r2-b2",
+          "title": "先看照片中的形状",
+          "text": "看一张杭州运河观察照片，先寻找水面、两岸、桥与附近建筑。它们在哪里相接，哪些部分互相遮挡？你可以用相对位置描述“桥跨过水面”“建筑靠近岸边”，不必一开始就知道每个名称。图注没有交代的建筑年代与用途，应留作问题，而不是根据颜色和外形猜定。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-canal-city-r2-b3",
+          "title": "水道也有历史任务",
+          "text": "世界遗产资料介绍，大运河曾承担粮食等物品的运输，成为联系不同地区的重要水路。了解这项历史任务，可以帮助提出关于城镇的问题：人们怎样到达水边，物品在哪里交换？这些问题需要具体地方资料继续回答，不能仅凭一段水道就断言所有附近建筑都因运输而建。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-canal-city-r2-b4",
+          "title": "今天与过去分开看",
+          "text": "今天拍到的船、步道和建筑属于拍摄时的记录，不应直接当作古代生活的照片。历史图像、文字记载和现状照片可以对照，但需要各自的日期与出处。变化本身也值得观察：有些空间继续使用，有些用途可能改变。想知道是哪一种情况，就查这处具体地点的说明。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-canal-city-r2-b5",
+          "title": "留下你的运河问题",
+          "text": "选水道、桥或岸边建筑中的一样，写下一条看得见的线索，再提出问题。例如“桥的哪一部分让船通过”“这段岸边以前做什么”。你可以只写一个问题，也可以补充打算查哪类资料。任务不要求猜出标准历史故事，而是让照片中的一点发现，带你走向更有依据的认识。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        }
+      ],
+      "term": "观察点",
+      "definition": "为了解一个对象而选择的一处具体观看或记录位置。",
+      "glossary": [
+        {
+          "term": "观察点",
+          "definition": "为了解一个对象而选择的一处具体观看或记录位置。"
+        }
+      ],
+      "question": "从照片中选桥、水道或岸边建筑，记录一条观察，再提出关于它与生活的一个问题。",
+      "answer": "这是开放观察，没有唯一答案。记录具体对象与自己的问题，任选一项填写即可；不把示例当作你的发现。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1443/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "waterway",
+      "placeId": "grand-canal",
+      "activity": {
+        "type": "open",
+        "id": "china-open-canal",
+        "title": "运河边的发现",
+        "prompt": "从照片中选桥、水道或岸边建筑，记录一条观察，再提出关于它与生活的一个问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "suggestedArticleIds": [
+          "china-canal-history"
+        ]
+      },
+      "characterCount": 528,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-nature",
+      "countryId": "china",
+      "sectionId": "nature",
+      "title": "大熊猫为什么需要竹林？",
+      "summary": "竹子是野生大熊猫的重要食物，合适的山地森林也是它的家。保护动物，需要同时认识食物、空间和环境之间的联系。",
+      "mediaId": "china-panda",
+      "blocks": [
+        {
+          "id": "china-nature-r2-b1",
+          "title": "从它正在吃什么开始",
+          "text": "看一张大熊猫进食的照片，先辨认前爪附近的植物，再读图注。野生大熊猫主要以竹子为食，这能帮助我们理解竹林为什么重要。动物园也会安排其他适合的饲喂内容，所以圈养照片中的食物不能直接代表全部野外习性。先确认拍摄情境，再从一个动作认识生命需要。本篇封面来自成都大熊猫繁育研究基地，展示的是圈养环境。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        },
+        {
+          "id": "china-nature-r2-b2",
+          "title": "食物还需要一个地方生长",
+          "text": "竹子并不是孤零零放在盘里的物品，它生长在具体环境中。大熊猫适应中国山地森林中的生活，食物与森林条件相互联系。认识一只动物的家，不能只列一份菜单。还可以问它在哪里活动、怎样找到合适的空间，以及照片外的环境是什么样子；这些都需要继续查看栖息地资料。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        },
+        {
+          "id": "china-nature-r2-b3",
+          "title": "森林里还有其他生命",
+          "text": "四川大熊猫栖息地的价值不只在熊猫，也涉及多种植物和动物。保护同一片环境，可能帮助彼此共享这片空间的生命。这里的关系图是简化教学示意，不表示图上的所有动物会在同一时刻站在一起。真实生态比几根箭头复杂，图示帮助开始理解，资料帮助核对细节。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        },
+        {
+          "id": "china-nature-r2-b4",
+          "title": "两片森林之间也重要",
+          "text": "如果适合生活的森林被隔开，动物移动与种群之间的联系可能受到影响。栖息地保护会关注连续空间和生态通道等问题。因此仅增加食物并不能代替对环境整体的考虑。这个例子提醒我们：对动物好，不是把它带回家，而是理解野外生存所需的条件与专业保护工作的目标。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        },
+        {
+          "id": "china-nature-r2-b5",
+          "title": "把家的意思说完整",
+          "text": "现在可以试着回答：“大熊猫为什么需要竹林？”先说食物，再补充竹林所在的森林与活动空间。你不需要背过时的数量或保护等级，也不用把每条关系画满。选择一条有资料支持的联系，并知道照片来自野外还是圈养环境，就能比只说“熊猫很可爱”多看见一层真实世界。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        }
+      ],
+      "term": "栖息地",
+      "definition": "动物或植物生活、获取所需条件并延续生命的地方。",
+      "glossary": [
+        {
+          "term": "栖息地",
+          "definition": "动物或植物生活、获取所需条件并延续生命的地方。"
+        },
+        {
+          "term": "生态通道",
+          "definition": "帮助生物在分开的适合环境之间移动、保持联系的空间。"
+        }
+      ],
+      "question": "如果合适的森林被隔开，只增加食物就一定足够吗？",
+      "answer": "竹子是重要食物，但栖息地还涉及活动空间和森林之间的联系。增加食物不能自动替代完整的环境条件。",
+      "sourceUrls": [
+        "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+        "https://whc.unesco.org/en/list/1213/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "ecosystem",
+      "placeId": "china-panda-habitat",
+      "exerciseId": "china-nature-check",
+      "characterCount": 574,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-migratory-birds",
+      "countryId": "china",
+      "sectionId": "nature",
+      "title": "远行的候鸟，为什么要停在海边？",
+      "summary": "黄海—渤海沿岸湿地为迁徙鸟类提供重要停歇与觅食环境。顺着一次远行，认识途中休息地点的价值。",
+      "mediaId": "china-wetland",
+      "blocks": [
+        {
+          "id": "china-migratory-birds-r2-b1",
+          "title": "远行不只需要起点终点",
+          "text": "看迁徙示意时，人们容易只注意箭头从哪里出发、最后到哪里。其实途中能够停留的环境也很重要。黄海—渤海沿岸的潮间带湿地，是一些迁徙鸟类停歇和觅食的重要地方。旅程不能只用一条漂亮曲线解释，沿途的食物、空间与环境条件同样值得认识。封面是江苏钓鱼港的黑嘴鸥照片，不是全部湿地范围或一次完整迁徙的记录。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1606/"
+          ]
+        },
+        {
+          "id": "china-migratory-birds-r2-b2",
+          "title": "先在海岸找到位置",
+          "text": "在中国地图上寻找黄海沿岸，可以帮助理解这些栖息地的大致位置。本文的黄海沿岸代表标记用于区域定位，不等于保护区的精确边界，也不表示整个沿岸只有一个停歇点。把地图点、真实范围与鸟类活动区分开，才能避免将多处相连的环境误解成一个小公园。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1606/"
+          ]
+        },
+        {
+          "id": "china-migratory-birds-r2-b3",
+          "title": "潮水让环境变化",
+          "text": "潮间带会在涨潮和落潮过程中呈现不同状态，湿地为多种生物提供环境。候鸟可以在合适地点觅食并补充继续飞行所需的能量。观察照片时，要核对是否同一地点、是否有拍摄信息，不能把两张来源不明的照片说成同一天的涨落潮对比。变化需要对应的记录支持。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1606/"
+          ]
+        },
+        {
+          "id": "china-migratory-birds-r2-b4",
+          "title": "不同鸟有不同路线",
+          "text": "不能给所有候鸟画一条共同路线。某种鸟在哪里繁殖、停歇或越冬，需要该物种的研究资料。页面中的区域定位只说明本文关注的海岸，并不冒充某只鸟的实时行踪。如果想进一步认识迁徙，先确定鸟种，再查可靠路线材料，比凭一个剪影猜旅行更有依据。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1606/"
+          ]
+        },
+        {
+          "id": "china-migratory-birds-r2-b5",
+          "title": "保护途中相连的地方",
+          "text": "这些沿海环境与远距离迁徙相连，保护就不只关心一个终点。试着想想，如果途中重要停歇地减少，远行会遇到哪些困难；答案要回到食物和休息条件，而不是给鸟安排人类的旅馆。今天先在地图找到本文介绍的黄海沿岸，再写下想认识的一种鸟，为下一次查资料做准备。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1606/"
+          ]
+        }
+      ],
+      "term": "迁徙",
+      "definition": "动物随季节或生活需要，在不同地区之间进行较规律的移动。",
+      "glossary": [
+        {
+          "term": "迁徙",
+          "definition": "动物随季节或生活需要，在不同地区之间进行较规律的移动。"
+        }
+      ],
+      "question": "找到本文关注的候鸟沿海停歇区域标记。",
+      "answer": "本文关注黄海—渤海沿岸湿地，黄海沿岸标记帮助区域定位，不是精确保护区边界或所有候鸟共同路线。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1606/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "ecosystem",
+      "mapFeatureId": "yellow-sea-coast",
+      "exerciseId": "china-migratory-birds-check",
+      "characterCount": 561,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-forest-connections",
+      "countryId": "china",
+      "sectionId": "nature",
+      "title": "保护一片森林，只保护树就够了吗？",
+      "summary": "从四川大熊猫栖息地认识生命与空间的联系。比较两张简化示意图，看看连通的环境为什么值得关注。",
+      "mediaId": "china-forest",
+      "blocks": [
+        {
+          "id": "china-forest-connections-r2-b1",
+          "title": "森林里不只有树干",
+          "text": "从远处看，森林像一片绿色，走近才会发现植物、动物与环境之间许多联系。四川大熊猫栖息地不仅与熊猫有关，也保护多样的其他生物。不能把保护森林只理解为数树木的棵数。食物、活动空间以及不同地点之间的联系，都是认识栖息环境时可能需要考虑的部分。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1213/",
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs"
+          ]
+        },
+        {
+          "id": "china-forest-connections-r2-b2",
+          "title": "先看一个简化模型",
+          "text": "页面的关系示意列出竹林、水源和连通的森林，分别提醒我们关注食物、环境条件和空间联系。它们是用来帮助思考的图标，不是卫星实拍或某个真实工程。我们还可以在脑中比较两种情况：适合生活的环境保持连接，或者被分成两块。先说明比较的条件，才知道自己在讨论什么。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1213/",
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs"
+          ]
+        },
+        {
+          "id": "china-forest-connections-r2-b3",
+          "title": "连接影响移动",
+          "text": "真实栖息地如果被分割，生物在适合环境之间移动可能面临困难。生态保护会关注连片环境与生态通道，帮助维持需要的联系。不同物种的移动能力与需要并不一样，不能说画一条绿色线就一定解决所有问题。模型只能提出方向，具体保护安排需要调查、研究与持续管理。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1213/",
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs"
+          ]
+        },
+        {
+          "id": "china-forest-connections-r2-b4",
+          "title": "把食物放回环境",
+          "text": "以熊猫为例，竹子是重要食物，山地森林则提供它生活的环境。不能认为在任何地方放上许多竹子，就等于重建了合适的家。同样，照片上颜色绿色也不必然表示适合某种动物。判断栖息条件要看具体对象和资料，不能只凭颜色或人的美观感受下结论。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1213/",
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs"
+          ]
+        },
+        {
+          "id": "china-forest-connections-r2-b5",
+          "title": "选择一处被切断的联系",
+          "text": "在关系示意中找到“连通的森林”，再说出它与动物移动可能有什么联系。解释时说明这是简化的学习模型，不把图标当真实调查结果。你还可以提出下一步需要知道什么，例如这里生活着哪些动物。保护的思考从关心生命开始，也需要清楚问题、范围与证据。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1213/",
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs"
+          ]
+        }
+      ],
+      "term": "连通",
+      "definition": "不同空间之间保持可以相互到达或发生联系的状态。",
+      "glossary": [
+        {
+          "term": "连通",
+          "definition": "不同空间之间保持可以相互到达或发生联系的状态。"
+        }
+      ],
+      "question": "观察关系示意，哪一项提醒我们关注生活空间之间的连接？",
+      "answer": "“连通的森林”强调空间联系；竹林和水源分别提醒食物与其他生活条件。三者都是学习线索，图标不是实际工程照片。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1213/",
+        "https://nationalzoo.si.edu/animals/giant-panda-faqs"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "ecosystem",
+      "exerciseId": "china-forest-connections-check",
+      "characterCount": 537,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-history",
+      "countryId": "china",
+      "sectionId": "history",
+      "title": "长城为什么这么长？",
+      "summary": "长城不是同一天造好的一堵墙。沿着墙体、关隘和烽火台等线索，认识长期建设与地形之间的联系。",
+      "mediaId": "china-wall",
+      "blocks": [
+        {
+          "id": "china-history-r2-b1",
+          "title": "先别把它想成一条直线",
+          "text": "照片中的长城常随着山势起伏，看上去像伸向远处的一条长线。但长城并不只是一堵相同材料的墙，还包含关隘、烽火台等防御构筑。不同地点能看到的部分各不相同，一张金山岭照片不能代表所有段落。先认识它是一个复杂体系，再去问为什么会这样分布。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        },
+        {
+          "id": "china-history-r2-b2",
+          "title": "许多时期参与建设",
+          "text": "长城经历长期修建与修缮。秦代曾把更早的部分防御工事连接起来，此后不同时期继续建设，明代也留下重要段落。因此不能把今天所有长城都叫作同一个年代的作品。看见一处建筑时，应查这一段的具体资料，把总体历史与局部年代分开，才不会混淆。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        },
+        {
+          "id": "china-history-r2-b3",
+          "title": "地形与材料留下线索",
+          "text": "山势、道路与防御需求会影响构筑的位置和安排。不同地区、时期还能出现不同材料与做法。观察一段墙体，可以先描述起伏、材质和附近空间，再用资料核对原因。不能仅凭砖色认定年龄，也不能因为两处外观不同，就断言其中一处不属于长城体系。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        },
+        {
+          "id": "china-history-r2-b4",
+          "title": "时间线需要证据",
+          "text": "把建设时期排成时间线，有助于发现这些工程不是一次完成。每个节点都应连接相应段落和来源，不能用几个平均间隔的点假装真实时间长度。历史照片、调查记录与建筑本身提供不同线索。民间故事可以表达情感，但讲述传说时要注明，不能替代修建年代的证据。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        },
+        {
+          "id": "china-history-r2-b5",
+          "title": "今天怎样继续认识它",
+          "text": "遗产需要记录、研究和适当维护，参观也应遵守指引。欣赏照片时，可以选择一个细节，如一处转折或不同形状的构筑，问它在体系中有什么作用。学习的重点不是背最长的数字，而是理解“很多地方、很多时期、不同部分怎样组成一个整体”，并用可靠资料支持解释。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        }
+      ],
+      "term": "遗存",
+      "definition": "过去留下、今天仍可观察或研究的实物与痕迹。",
+      "glossary": [
+        {
+          "term": "遗存",
+          "definition": "过去留下、今天仍可观察或研究的实物与痕迹。"
+        },
+        {
+          "term": "关隘",
+          "definition": "控制通行、具有防守作用的重要通道位置或构筑。"
+        }
+      ],
+      "question": "哪条资料最能支持“长城不是一次建成”的解释？",
+      "answer": "不同历史时期的建设记录直接对应时间问题。颜色和照片边界可以引起好奇，却不能单独证明修建年代。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/438/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "placeId": "great-wall",
+      "exerciseId": "china-history-check",
+      "characterCount": 521,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-canal-history",
+      "countryId": "china",
+      "sectionId": "history",
+      "title": "古人怎样把不同的河流连起来？",
+      "summary": "大运河通过长期建设联系水系与城镇。分清天然河流、人工水道和具体观察点，认识工程背后的运输需要。",
+      "mediaId": "china-canal",
+      "blocks": [
+        {
+          "id": "china-canal-history-r2-b1",
+          "title": "河流原本不一定相通",
+          "text": "如果想把物品从一个地方送往另一个地方，天然河流的走向未必刚好满足需要。人们可以利用已有水系，也可以开凿和连接人工水道，形成新的往来路线。认识运河时，不应把自然与人工完全割开；实际水路系统可能包含多种部分，怎样合作需要看具体工程。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-canal-history-r2-b2",
+          "title": "大运河是长期建设的系统",
+          "text": "中国大运河并不是在一天或一个朝代全部完成的。不同水道分期建设，后来又经历连接、维护和发展。隋代以来的整合与之后的变化，是理解其历史的重要线索。把它看作长期变化的系统，比只记一条固定路线更接近实际。地图也应注明展示哪个范围与时期。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-canal-history-r2-b3",
+          "title": "为什么要运粮食和物品",
+          "text": "大运河历史上承担粮食等物品运输，联系不同地区的生产与生活。船沿相连水路往来，使远方地方产生联系。这里讲的是一项有资料支持的用途，并不表示所有货物都通过运河，也不代表任何地方只要挖沟就能通船。水位、连接和管理等实际条件都需要考虑。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-canal-history-r2-b4",
+          "title": "读图时分清几种线",
+          "text": "教学图可以用不同线型表示天然河流与人工连接，再说明它是简化示意。先读图例，找原本的水系，再看哪里增加了连接。练习不计算真实水利参数，不是修建工程的方案。它帮助理解“利用已有条件并加以改变”的思路；真实工程的布局和演变仍需具体地图与史料。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        },
+        {
+          "id": "china-canal-history-r2-b5",
+          "title": "杭州只是一个观察入口",
+          "text": "在地图上找到杭州段，可以从水道、桥和城镇观察大运河的一部分，但不能把这一点看作整个系统。理解题会请你辨认运河包含人工开凿与连接的水道，答案可回到正文依据。还想了解过去怎样运输，可以继续查有出处的文物或图像，让一个问题带来下一次有根据的探索。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/1443/"
+          ]
+        }
+      ],
+      "term": "人工水道",
+      "definition": "人们开凿、疏通或连接起来，用于行船、调水等目的的水路。",
+      "glossary": [
+        {
+          "term": "人工水道",
+          "definition": "人们开凿、疏通或连接起来，用于行船、调水等目的的水路。"
+        }
+      ],
+      "question": "大运河与天然河流相比，一个重要特点是什么？",
+      "answer": "大运河利用并连接不同水系，包含人工建设的部分，而且经历长期发展。人工水道与天然水系可以共同组成运输网络。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1443/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "waterway",
+      "placeId": "grand-canal",
+      "exerciseId": "china-canal",
+      "characterCount": 533,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-read-an-old-building",
+      "countryId": "china",
+      "sectionId": "history",
+      "title": "一座古建筑，怎样告诉我们过去的事？",
+      "summary": "把看见的、猜想的和资料说明分开。以长城为例，为一个建筑细节记录证据，再提出值得继续调查的问题。",
+      "mediaId": "china-wall",
+      "blocks": [
+        {
+          "id": "china-read-an-old-building-r2-b1",
+          "title": "建筑会留下可见线索",
+          "text": "墙上的材料、门洞的形状和构筑的位置，都可以成为观察建筑的起点。你能指出某处使用砖，也能看见它随山势起伏。但“它一定建于某年”不是单凭外观就能确定的事。认识历史需要把看得见的细节与年代、用途等资料联系起来，不能让一个猜想悄悄变成事实。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/439/"
+          ]
+        },
+        {
+          "id": "china-read-an-old-building-r2-b2",
+          "title": "三种句子有不同任务",
+          "text": "“我看见墙上有砖”是在描述观察；“我猜这些砖可能经过修补”是在提出推测；“这份记录说明某次修护”则是在引用资料。它们都能参与学习，但不能混写成同一种确定程度。试着给自己的句子加上开头，读者就能知道你凭什么这么说，以及还缺哪些信息。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/439/"
+          ]
+        },
+        {
+          "id": "china-read-an-old-building-r2-b3",
+          "title": "长城提醒我们看具体段落",
+          "text": "长城跨越许多建设时期，不同段落的材料和年代有所差别。研究一处细节，要先确定照片拍的是哪一段，再查对应记录。不能把整个长城的历史直接贴在每一块砖上。若用故宫作比较，也应确认是北京哪座建筑、哪份资料，不把不同对象的信息拼成一个故事。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/439/"
+          ]
+        },
+        {
+          "id": "china-read-an-old-building-r2-b4",
+          "title": "资料之间可以互相检查",
+          "text": "一张全景帮助定位，一张近照展示细节，说明文字可能提供年代或修护信息。把它们放在一起时，核对是否同一对象、同一地点和相应时间。若两份材料不一致，先保留问题，不能随意选更好听的版本。历史认识常需要继续查证，愿意说明不确定，比假装知道更可靠。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/439/"
+          ]
+        },
+        {
+          "id": "china-read-an-old-building-r2-b5",
+          "title": "写你的建筑观察记录",
+          "text": "今天选择长城照片中的一处细节，写一条观察，再写一个想核对的问题。可以问材料、结构或修护，不必一次回答建筑的全部历史。接着说明想找什么证据，例如地方说明、研究记录或另一张照片。记录没有唯一标准答案，关键是让自己的提问与真实对象联系起来。",
+          "sourceUrls": [
+            "https://whc.unesco.org/en/list/438/",
+            "https://whc.unesco.org/en/list/439/"
+          ]
+        }
+      ],
+      "term": "推测",
+      "definition": "根据已有线索提出、仍可能需要检验的解释。",
+      "glossary": [
+        {
+          "term": "推测",
+          "definition": "根据已有线索提出、仍可能需要检验的解释。"
+        }
+      ],
+      "question": "选择长城的一处细节，把看见的线索、自己的猜想或想核对的资料记下来。",
+      "answer": "这是开放观察，没有唯一答案。记录具体对象与自己的问题，任选一项填写即可；不把示例当作你的发现。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/438/",
+        "https://whc.unesco.org/en/list/439/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "placeId": "great-wall",
+      "activity": {
+        "type": "open",
+        "id": "china-open-wall",
+        "title": "长城证据卡",
+        "prompt": "选择长城的一处细节，把看见的线索、自己的猜想或想核对的资料记下来。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "suggestedArticleIds": [
+          "china-history"
+        ]
+      },
+      "characterCount": 522,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-explore",
+      "countryId": "china",
+      "sectionId": "questions",
+      "title": "怎样读懂中国的山川？",
+      "summary": "把照片、地图与资料放在一起，看见差异，寻找联系。用三格笔记记录自己的观察，让问题成为继续探索的起点。",
+      "mediaId": "china-jiuzhaigou",
+      "blocks": [
+        {
+          "id": "china-explore-r2-b1",
+          "title": "先选一个小范围",
+          "text": "中国山川很多，第一次观察不必把全部山脉河流装进脑中。可以选长城山地与九寨沟山谷两张有说明的照片，先各看一分钟。找出山坡、水面、植物或建筑中的一两样，说明它们在哪里。小范围的细看，往往比快速翻过很多漂亮图片，更能留下明确的问题。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        },
+        {
+          "id": "china-explore-r2-b2",
+          "title": "相同与不同都要有依据",
+          "text": "两张图都可能出现山势，但一张有明显人工构筑，另一张展示湖泊和森林。比较时要指向照片具体位置，不要只写“一个更好看”。如果画面没有显示某样东西，准确说法是“这张照片里没有看见”，不是“这个地方完全没有”。镜头范围之外还有我们不知道的环境。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/"
+          ],
+          "mediaId": "china-wall"
+        },
+        {
+          "id": "china-explore-r2-b3",
+          "title": "地图让照片有位置",
+          "text": "找到金山岭长城与九寨沟的大致位置，再查看各自所属范围。照片说明对象，地图说明空间关系，两种材料能够互相帮助。地图比例不同，能看清的内容也不同；国家图不负责展示每条步道。先认识位置与地形线索，再决定下一步需要更详细的哪一种资料。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        },
+        {
+          "id": "china-explore-r2-b4",
+          "title": "猜想后面接一个办法",
+          "text": "你可能猜墙体随山势安排，也可能好奇山谷中的水怎样流动。先把这些写成问题，再想可怎样核对：读可靠介绍、比较更多照片，或请熟悉的人解释。不要把一个漂亮答案当作调查的终点。如果新材料与猜想不一致，可以修改原来的想法，这正是探索有意义的地方。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        },
+        {
+          "id": "china-explore-r2-b5",
+          "title": "保存一个真实发现",
+          "text": "笔记有“我看见”“我猜想”“我还想知道”三格，任选一格写下自己的话即可。可以很短，也可以留白，不需要复制示例凑完成数。写下对象与问题，比只保存一句“好玩”更便于以后继续。下一次打开地图或照片，你就能从自己留下的线索出发，而不是重新漫无目的地翻看。",
+          "sourceUrls": [
+            "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+            "https://whc.unesco.org/en/list/637/",
+            "https://whc.unesco.org/en/list/438/"
+          ]
+        }
+      ],
+      "term": "观察",
+      "definition": "有目的地查看对象并记录可见信息。",
+      "glossary": [
+        {
+          "term": "观察",
+          "definition": "有目的地查看对象并记录可见信息。"
+        }
+      ],
+      "question": "比较长城山地与九寨沟山谷，写下你看见的一条相同或不同，再留下一个想查的问题。",
+      "answer": "这是开放观察，没有唯一答案。记录具体对象与自己的问题，任选一项填写即可；不把示例当作你的发现。",
+      "sourceUrls": [
+        "https://igsnrr.cas.cn/cbkx/kpyd/zgdl/cndm/202009/t20200910_5692389.html",
+        "https://whc.unesco.org/en/list/637/",
+        "https://whc.unesco.org/en/list/438/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "activity": {
+        "type": "open",
+        "id": "china-open-mountains",
+        "title": "山河观察员",
+        "prompt": "比较长城山地与九寨沟山谷，写下你看见的一条相同或不同，再留下一个想查的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "suggestedArticleIds": [
+          "china-geography",
+          "china-jiuzhaigou"
+        ]
+      },
+      "characterCount": 519,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-photo-evidence",
+      "countryId": "china",
+      "sectionId": "questions",
+      "title": "照片里水变了颜色，就一定是污染吗？",
+      "summary": "用一幅有日期和说明的长江河口卫星影像，练习区分观察与结论。颜色提供线索，解释还需要资料。",
+      "mediaId": "china-three-gorges",
+      "blocks": [
+        {
+          "id": "china-photo-evidence-r2-b1",
+          "title": "看到颜色，先别急着下结论",
+          "text": "水面有时蓝、有时偏褐，看到不同颜色很容易马上猜原因。第一步应该是准确描述：“这幅图里有颜色不同的水域。”这条观察并没有自动说明水是否被污染，也没有告诉我们具体成分。要解释原因，还需要图像说明、拍摄信息和相应研究，不能只凭颜色决定答案。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/"
+          ]
+        },
+        {
+          "id": "china-photo-evidence-r2-b2",
+          "title": "读一幅特定日期的影像",
+          "text": "NASA 介绍的一幅长江河口影像拍摄于二〇〇二年四月十二日，说明长江携带的泥沙进入东海，使沿岸水域呈现浅褐色。这里的说明针对这幅影像和相应现象。它不是今天的实时画面，也不是任意照片都能套用的解释；认识资料时，日期与对象是重要部分。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/"
+          ]
+        },
+        {
+          "id": "china-photo-evidence-r2-b3",
+          "title": "把文字和图像一起读",
+          "text": "卫星图展示较大范围的空间差异，说明文字补充仪器、时间与现象。没有文字时，你也许只能看出色块；有了来源，才知道研究者怎样解释这次记录。本文封面是河流风景辅助图，并非那幅卫星原图；查看原始影像应打开文末 NASA 来源，不拿别的照片冒充证据。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/"
+          ]
+        },
+        {
+          "id": "china-photo-evidence-r2-b4",
+          "title": "一个解释有自己的边界",
+          "text": "泥沙能影响水色，不代表所有褐色水域都只有泥沙，也不代表有泥沙就能推断所有水质指标。不同问题需要不同测量与资料。若问题是“今天这处水能否饮用”，一张多年前的卫星照片显然不足以回答。学习时要让资料能够支持问题，而不是看到相关两个字就当作完整答案。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/"
+          ]
+        },
+        {
+          "id": "china-photo-evidence-r2-b5",
+          "title": "让新证据改变想法",
+          "text": "回想最初看到水色时的猜想，再看看日期和说明加入后发生什么变化。你可以写“原先只注意颜色，现在知道这幅图记录了泥沙现象，也知道它不能代表今天”。这不是猜错后的惩罚，而是学习如何修正认识。愿意问清图像从哪里来、说明什么，是观察世界的一项重要能力。",
+          "sourceUrls": [
+            "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/"
+          ]
+        }
+      ],
+      "term": "卫星影像",
+      "definition": "由卫星搭载仪器获取、经过处理后用来观察地表等对象的图像。",
+      "glossary": [
+        {
+          "term": "卫星影像",
+          "definition": "由卫星搭载仪器获取、经过处理后用来观察地表等对象的图像。"
+        }
+      ],
+      "question": "那幅长江河口卫星影像，能够直接证明今天的水质吗？",
+      "answer": "影像记录的是二〇〇二年四月的泥沙现象。它不能替代今天的观测，也不能只用颜色回答所有水质问题。",
+      "sourceUrls": [
+        "https://science.nasa.gov/earth/earth-observatory/heavy-sediment-from-the-yangtze-river-9428/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "china-photo-evidence-check",
+      "characterCount": 526,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    },
+    {
+      "id": "china-my-own-question",
+      "countryId": "china",
+      "sectionId": "questions",
+      "title": "怎样提出一个可以调查的好问题？",
+      "summary": "可以从熊猫的家开始，也可以选择自己读过的其他主题。把感受变成一个具体问题，再给下一步调查选择方法。",
+      "mediaId": "china-panda",
+      "blocks": [
+        {
+          "id": "china-my-own-question-r2-b1",
+          "title": "从好奇的感受出发",
+          "text": "看到熊猫照片，你可能先说“好可爱”；看到山谷，又可能说“真漂亮”。感受让我们愿意继续看，但想了解更多，还需要提出具体问题。可以推荐先读熊猫与栖息地的文章，也可以选择已经读过的长城、茶或房屋。阅读建议不锁住任务，你始终能够自己决定想追问什么。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        },
+        {
+          "id": "china-my-own-question-r2-b2",
+          "title": "把大问题缩小一点",
+          "text": "“动物的世界是什么样”很大，不容易一次找到答案。可以把它缩小成“这张照片里的熊猫在吃什么”“为什么合适的森林需要连接”。前一个问题能先看图注与食物资料，后一个需要栖息地说明。问题越清楚，越容易知道应该找哪类证据，也更容易判断自己还有哪里不明白。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        },
+        {
+          "id": "china-my-own-question-r2-b3",
+          "title": "已有知识帮助继续问",
+          "text": "野生大熊猫主要吃竹子，合适的山地森林也与它的生活有关。认识这些以后，可以进一步问食物、活动空间和环境之间的联系。不要把保护理解成把野生动物带回家，观察任务不需要接近或打扰动物。照片与可靠资料已经能够支持许多学习，具体野外研究由专业人员开展。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        },
+        {
+          "id": "china-my-own-question-r2-b4",
+          "title": "选一种下一步方法",
+          "text": "你可以观察有说明的图片、查资料，或向熟悉的人提出礼貌的问题。写清自己准备找什么，而不只写“上网看看”。例如想知道照片是在野外还是圈养环境，就先查图注；想了解生态通道，就查保护资料。若还不能回答，记录缺少的信息也算进展，不需要用想象填满空白。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        },
+        {
+          "id": "china-my-own-question-r2-b5",
+          "title": "留下属于你的问题",
+          "text": "现在写一句“我想知道……”，再写一句“我准备……”。愿意的话，可以补充最初看见的线索。动物家园只是推荐入口，你也可以更换已读主题，保存的仍是这次开放观察任务。它没有标准正确率，不比谁的问题更大，而是让好奇心获得一个能继续行动的小方向。",
+          "sourceUrls": [
+            "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+            "https://whc.unesco.org/en/list/1213/"
+          ]
+        }
+      ],
+      "term": "调查",
+      "definition": "围绕一个问题收集、比较和核对信息的过程。",
+      "glossary": [
+        {
+          "term": "调查",
+          "definition": "围绕一个问题收集、比较和核对信息的过程。"
+        }
+      ],
+      "question": "推荐从熊猫的家提出一个可调查问题，也允许换成已读主题；写下准备观察或查找什么。",
+      "answer": "这是开放观察，没有唯一答案。记录具体对象与自己的问题，任选一项填写即可；不把示例当作你的发现。",
+      "sourceUrls": [
+        "https://nationalzoo.si.edu/animals/giant-panda-faqs",
+        "https://whc.unesco.org/en/list/1213/"
+      ],
+      "schemaVersion": 1,
+      "revision": 2,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-07",
+      "reviewStatus": "sourceChecked",
+      "diagram": "ecosystem",
+      "placeId": "china-panda-habitat",
+      "activity": {
+        "type": "open",
+        "id": "china-open-habitat",
+        "title": "动物家园问题卡",
+        "prompt": "推荐从熊猫的家提出一个可调查问题，也允许换成已读主题；写下准备观察或查找什么。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "suggestedArticleIds": [
+          "china-nature",
+          "china-forest-connections"
+        ]
+      },
+      "characterCount": 528,
+      "readingMinutes": 4,
+      "contentKind": "educational"
+    }
+  ],
+  "places": [],
+  "exercises": [
+    {
+      "id": "china-first-journey-check",
+      "countryId": "china",
+      "articleId": "china-first-journey",
+      "type": "choice",
+      "question": "想了解河流怎样到达海洋，哪组阅读线索最相关？",
+      "options": [
+        {
+          "id": "river",
+          "text": "水系图与河口影像"
+        },
+        {
+          "id": "craft",
+          "text": "剪纸作品与剪刻工序"
+        },
+        {
+          "id": "building",
+          "text": "院落布局与门窗细节"
+        }
+      ],
+      "answerId": "river",
+      "explanation": "水系图帮助了解相连的河道，河口影像帮助观察水与海洋的连接。其他资料也有价值，但与这个具体问题的关系较远。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-three-gorges",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-first-journey-r2-b2",
+        "china-first-journey-r2-b5"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-weather-and-climate-check",
+      "countryId": "china",
+      "articleId": "china-weather-and-climate",
+      "type": "choice",
+      "question": "一张下雪的照片，能够单独说明这个地方全年都冷吗？",
+      "options": [
+        {
+          "id": "enough",
+          "text": "可以，雪景已经代表全年"
+        },
+        {
+          "id": "longer",
+          "text": "不可以，还需要较长时期的观测"
+        },
+        {
+          "id": "clothes",
+          "text": "可以，只要照片里有人穿厚衣服"
+        }
+      ],
+      "answerId": "longer",
+      "explanation": "照片记录具体时刻，长期气候需要更长时间的观测。衣服厚薄还受情境与个人感受影响，不能补足全年资料。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-huangshan",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-weather-and-climate-r2-b1",
+        "china-weather-and-climate-r2-b2"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-people-check",
+      "countryId": "china",
+      "articleId": "china-people",
+      "type": "choice",
+      "question": "照片中出现一个骑车的人，哪一句描述没有超出证据？",
+      "options": [
+        {
+          "id": "all",
+          "text": "这座城市的人都骑车出门"
+        },
+        {
+          "id": "every",
+          "text": "这个人每天都骑车"
+        },
+        {
+          "id": "one",
+          "text": "这张照片中有一个骑车的人"
+        }
+      ],
+      "answerId": "one",
+      "explanation": "一张照片能支持这一次可见的情景，不能证明每个人或每一天都一样。限定对象和时间能让描述更准确。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-city",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-people-r2-b1",
+        "china-people-r2-b5"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-languages-check",
+      "countryId": "china",
+      "articleId": "china-languages",
+      "type": "choice",
+      "question": "听到自己不熟悉的说法，怎样继续了解最合适？",
+      "options": [
+        {
+          "id": "ask",
+          "text": "礼貌询问它的意思与使用场合"
+        },
+        {
+          "id": "rank",
+          "text": "先判断哪种口音更聪明"
+        },
+        {
+          "id": "guess",
+          "text": "只听一句就确定对方全部经历"
+        }
+      ],
+      "answerId": "ask",
+      "explanation": "不熟悉只说明我们还需要学习。询问意思与情境有助于交流，口音不能用来判断人的能力或全部身份。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-city",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-languages-r2-b1",
+        "china-languages-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-a-school-morning-check",
+      "countryId": "china",
+      "articleId": "china-a-school-morning",
+      "type": "choice",
+      "question": "根据小禾的虚构故事，哪件事可以确定？",
+      "options": [
+        {
+          "id": "daily",
+          "text": "所有同学每天都走同一条路"
+        },
+        {
+          "id": "bridge",
+          "text": "这个故事中的小禾经过了一座桥"
+        },
+        {
+          "id": "age",
+          "text": "那座桥已有几百年历史"
+        }
+      ],
+      "answerId": "bridge",
+      "explanation": "故事明确说小禾经过桥，却没有提供其他同学的情况或桥的年代。虚构观察练习也需要忠于给定信息。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-city",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-a-school-morning-r2-b1",
+        "china-a-school-morning-r2-b2"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-food-check",
+      "countryId": "china",
+      "articleId": "china-food",
+      "type": "choice",
+      "question": "哪种顺序符合本文介绍的制茶大阶段？",
+      "options": [
+        {
+          "id": "right",
+          "text": "采摘原料 → 加工 → 可分享的成品"
+        },
+        {
+          "id": "reversed",
+          "text": "成品 → 采摘原料 → 加工"
+        },
+        {
+          "id": "missing",
+          "text": "采摘原料 → 直接代表所有茶的成品"
+        }
+      ],
+      "answerId": "right",
+      "explanation": "本文用采摘、加工、成品帮助理解大阶段。它不是某种茶的完整配方，不同茶还会有各自的具体工序。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-tea",
+      "diagram": "food",
+      "evidenceBlockIds": [
+        "china-food-r2-b2",
+        "china-food-r2-b3"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-rice-and-fish-check",
+      "countryId": "china",
+      "articleId": "china-rice-and-fish",
+      "type": "choice",
+      "question": "青田稻鱼案例中，哪一项有正文支持？",
+      "options": [
+        {
+          "id": "shade",
+          "text": "稻株能给鱼提供遮阴"
+        },
+        {
+          "id": "every",
+          "text": "所有稻田都有完全相同的安排"
+        },
+        {
+          "id": "none",
+          "text": "有鱼就完全不需要农人管理"
+        }
+      ],
+      "answerId": "shade",
+      "explanation": "正文介绍了稻对鱼的遮阴作用，也强调这是有条件的具体实践，需要农人管理，不能推广为所有稻田的统一安排。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-rice",
+      "diagram": "food",
+      "evidenceBlockIds": [
+        "china-rice-and-fish-r2-b2",
+        "china-rice-and-fish-r2-b3",
+        "china-rice-and-fish-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-spring-festival-check",
+      "countryId": "china",
+      "articleId": "china-spring-festival",
+      "type": "choice",
+      "question": "两个家庭的春节活动不同，可以怎样理解？",
+      "options": [
+        {
+          "id": "one",
+          "text": "只能有一个家庭的过法正确"
+        },
+        {
+          "id": "variety",
+          "text": "节日有共同联系，也允许不同家庭的安排"
+        },
+        {
+          "id": "same",
+          "text": "必须补齐完全一样的活动才算过节"
+        }
+      ],
+      "answerId": "variety",
+      "explanation": "春节可以联系新年、团聚与社区活动，具体家庭习惯却不必相同。比较是为了理解差异，不是制定统一打卡标准。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-paper-cut",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-spring-festival-r2-b1",
+        "china-spring-festival-r2-b3",
+        "china-spring-festival-r2-b5"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-nature-check",
+      "countryId": "china",
+      "articleId": "china-nature",
+      "type": "choice",
+      "question": "如果合适的森林被隔开，只增加食物就一定足够吗？",
+      "options": [
+        {
+          "id": "food-only",
+          "text": "足够，动物只需要食物"
+        },
+        {
+          "id": "all-green",
+          "text": "足够，只要照片看上去是绿色"
+        },
+        {
+          "id": "habitat",
+          "text": "不一定，还需要考虑空间与环境的联系"
+        }
+      ],
+      "answerId": "habitat",
+      "explanation": "竹子是重要食物，但栖息地还涉及活动空间和森林之间的联系。增加食物不能自动替代完整的环境条件。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-panda",
+      "diagram": "ecosystem",
+      "evidenceBlockIds": [
+        "china-nature-r2-b2",
+        "china-nature-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-history-check",
+      "countryId": "china",
+      "articleId": "china-history",
+      "type": "choice",
+      "question": "哪条资料最能支持“长城不是一次建成”的解释？",
+      "options": [
+        {
+          "id": "photo",
+          "text": "某一段长城的颜色看起来很深"
+        },
+        {
+          "id": "periods",
+          "text": "不同段落有不同历史时期的建设记录"
+        },
+        {
+          "id": "length",
+          "text": "一张照片看不到长城的尽头"
+        }
+      ],
+      "answerId": "periods",
+      "explanation": "不同历史时期的建设记录直接对应时间问题。颜色和照片边界可以引起好奇，却不能单独证明修建年代。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-wall",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-history-r2-b2",
+        "china-history-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-canal",
+      "countryId": "china",
+      "articleId": "china-canal-history",
+      "type": "choice",
+      "question": "大运河与天然河流相比，一个重要特点是什么？",
+      "options": [
+        {
+          "id": "dug",
+          "text": "包含人们开凿、疏通和连接的水道"
+        },
+        {
+          "id": "separate",
+          "text": "与任何已有河流都没有联系"
+        },
+        {
+          "id": "single",
+          "text": "所有部分都在同一天完成"
+        }
+      ],
+      "answerId": "dug",
+      "explanation": "大运河利用并连接不同水系，包含人工建设的部分，而且经历长期发展。人工水道与天然水系可以共同组成运输网络。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-canal",
+      "diagram": "waterway",
+      "evidenceBlockIds": [
+        "china-canal-history-r2-b1",
+        "china-canal-history-r2-b2"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-photo-evidence-check",
+      "countryId": "china",
+      "articleId": "china-photo-evidence",
+      "type": "choice",
+      "question": "那幅长江河口卫星影像，能够直接证明今天的水质吗？",
+      "options": [
+        {
+          "id": "today",
+          "text": "能，它的位置与今天相同"
+        },
+        {
+          "id": "date",
+          "text": "不能，日期与要回答的问题不对应"
+        },
+        {
+          "id": "color",
+          "text": "能，只需要看水的颜色"
+        }
+      ],
+      "answerId": "date",
+      "explanation": "影像记录的是二〇〇二年四月的泥沙现象。它不能替代今天的观测，也不能只用颜色回答所有水质问题。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-three-gorges",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-photo-evidence-r2-b2",
+        "china-photo-evidence-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-location",
+      "countryId": "china",
+      "articleId": "china-find-on-map",
+      "type": "location",
+      "question": "在地图上找到中国的首都北京。",
+      "options": [
+        {
+          "id": "beijing",
+          "text": "北京",
+          "featureId": "beijing"
+        },
+        {
+          "id": "canal",
+          "text": "大运河杭州段",
+          "featureId": "grand-canal"
+        },
+        {
+          "id": "plateau",
+          "text": "青藏高原",
+          "featureId": "tibetan-plateau"
+        }
+      ],
+      "answerId": "beijing",
+      "explanation": "北京是中国首都。城市点帮助定位，不表示城市或国家的完整范围；可回看国家名片中的位置说明。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-wall",
+      "diagram": "terrain",
+      "evidenceBlockIds": [
+        "china-find-on-map-r2-b2",
+        "china-find-on-map-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "beijing"
+    },
+    {
+      "id": "china-geography-check",
+      "countryId": "china",
+      "articleId": "china-geography",
+      "type": "location",
+      "question": "本文介绍的西部较高地形，应该找到哪一个标注？",
+      "options": [
+        {
+          "id": "coast",
+          "text": "黄海沿岸",
+          "featureId": "yellow-sea-coast"
+        },
+        {
+          "id": "plateau",
+          "text": "青藏高原",
+          "featureId": "tibetan-plateau"
+        },
+        {
+          "id": "capital",
+          "text": "北京",
+          "featureId": "beijing"
+        }
+      ],
+      "answerId": "plateau",
+      "explanation": "青藏高原是本文介绍的西部较高部分。“西高东低”是总体概括，不表示每一处地形都严格按三个台阶排列。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-three-gorges",
+      "diagram": "terrain",
+      "evidenceBlockIds": [
+        "china-geography-r2-b2",
+        "china-geography-r2-b3"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "tibetan-plateau"
+    },
+    {
+      "id": "china-river-journey-check",
+      "countryId": "china",
+      "articleId": "china-river-journey",
+      "type": "location",
+      "question": "长江流到海边，先汇入本文介绍的哪片海域？",
+      "options": [
+        {
+          "id": "east-sea",
+          "text": "东海",
+          "featureId": "east-china-sea"
+        },
+        {
+          "id": "plateau",
+          "text": "青藏高原",
+          "featureId": "tibetan-plateau"
+        },
+        {
+          "id": "yellow",
+          "text": "黄河",
+          "featureId": "yellow-river"
+        }
+      ],
+      "answerId": "east-sea",
+      "explanation": "长江流入东海。河口是陆地水系与海洋相连的一处区域，正文中的泥沙影像也关注这个连接。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-three-gorges",
+      "diagram": "waterway",
+      "evidenceBlockIds": [
+        "china-river-journey-r2-b4",
+        "china-river-journey-r2-b5"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "east-china-sea"
+    },
+    {
+      "id": "china-moving-around-check",
+      "countryId": "china",
+      "articleId": "china-moving-around",
+      "type": "location",
+      "question": "找到本文用来观察真实水路的杭州段。",
+      "options": [
+        {
+          "id": "wall",
+          "text": "金山岭长城",
+          "featureId": "great-wall"
+        },
+        {
+          "id": "gorges",
+          "text": "长江三峡观察点",
+          "featureId": "china-three-gorges"
+        },
+        {
+          "id": "canal",
+          "text": "大运河杭州段",
+          "featureId": "grand-canal"
+        }
+      ],
+      "answerId": "canal",
+      "explanation": "大运河杭州段是本文的实际观察点。虚构换乘图只是学习模型，不能当作真实地图路线。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-canal",
+      "diagram": "waterway",
+      "evidenceBlockIds": [
+        "china-moving-around-r2-b2",
+        "china-moving-around-r2-b3"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "grand-canal"
+    },
+    {
+      "id": "china-palace-courtyards-check",
+      "countryId": "china",
+      "articleId": "china-palace-courtyards",
+      "type": "location",
+      "question": "本文介绍北京的皇宫建筑群，应找到哪处地点？",
+      "options": [
+        {
+          "id": "palace",
+          "text": "北京故宫",
+          "featureId": "china-forbidden-city"
+        },
+        {
+          "id": "terracotta",
+          "text": "秦始皇陵兵马俑",
+          "featureId": "china-terracotta-army"
+        },
+        {
+          "id": "wall",
+          "text": "金山岭长城",
+          "featureId": "great-wall"
+        }
+      ],
+      "answerId": "palace",
+      "explanation": "本文观察的是北京故宫。先在地图确认地点，再进入院落布局；不同地标的照片和历史说明不能混用。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-palace",
+      "diagram": "evidence",
+      "evidenceBlockIds": [
+        "china-palace-courtyards-r2-b1",
+        "china-palace-courtyards-r2-b2"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "china-forbidden-city"
+    },
+    {
+      "id": "china-migratory-birds-check",
+      "countryId": "china",
+      "articleId": "china-migratory-birds",
+      "type": "location",
+      "question": "找到本文关注的候鸟沿海停歇区域标记。",
+      "options": [
+        {
+          "id": "panda",
+          "text": "四川大熊猫栖息地观察点",
+          "featureId": "china-panda-habitat"
+        },
+        {
+          "id": "coast",
+          "text": "黄海沿岸",
+          "featureId": "yellow-sea-coast"
+        },
+        {
+          "id": "plateau",
+          "text": "青藏高原",
+          "featureId": "tibetan-plateau"
+        }
+      ],
+      "answerId": "coast",
+      "explanation": "本文关注黄海—渤海沿岸湿地，黄海沿岸标记帮助区域定位，不是精确保护区边界或所有候鸟共同路线。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-wetland",
+      "diagram": "ecosystem",
+      "evidenceBlockIds": [
+        "china-migratory-birds-r2-b1",
+        "china-migratory-birds-r2-b2"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "yellow-sea-coast"
+    },
+    {
+      "id": "china-landscape-postcards-check",
+      "countryId": "china",
+      "articleId": "china-landscape-postcards",
+      "type": "observation",
+      "question": "观察景观照片，哪一项适合作为能够指出位置的证据？",
+      "options": [
+        {
+          "id": "best",
+          "text": "这里一定比其他地方更好"
+        },
+        {
+          "id": "visible",
+          "text": "图中可以看见起伏的山坡"
+        },
+        {
+          "id": "forever",
+          "text": "这里每天都是同样天气"
+        }
+      ],
+      "answerId": "visible",
+      "explanation": "山坡是可以在图中指认的对象。美观评价是感受，一张照片也不能代表每天的天气。描述应与可见信息对应。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-guilin",
+      "diagram": "",
+      "evidenceBlockIds": [
+        "china-landscape-postcards-r2-b1",
+        "china-landscape-postcards-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-homes-check",
+      "countryId": "china",
+      "articleId": "china-homes",
+      "type": "observation",
+      "question": "观察这张田螺坑土楼群照片，哪一项可以直接看见？",
+      "options": [
+        {
+          "id": "space",
+          "text": "有圆形与方形布局的建筑"
+        },
+        {
+          "id": "guess",
+          "text": "每位居民的感受都相同"
+        },
+        {
+          "id": "all",
+          "text": "全省每个人都住在这样的房子里"
+        }
+      ],
+      "answerId": "space",
+      "explanation": "照片中能够辨认不同形状的建筑轮廓。居民的感受与全省居住方式不能从这一张照片推断。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-tulou",
+      "diagram": "",
+      "evidenceBlockIds": [
+        "china-homes-r2-b1",
+        "china-homes-r2-b2",
+        "china-homes-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-culture-check",
+      "countryId": "china",
+      "articleId": "china-culture",
+      "type": "observation",
+      "question": "观察红纸示意，虚线提示的是哪一个位置？",
+      "options": [
+        {
+          "id": "edge",
+          "text": "纸上随意选择的装饰花纹"
+        },
+        {
+          "id": "middle",
+          "text": "对折与展开所参考的中线"
+        },
+        {
+          "id": "time",
+          "text": "记录制作年代的标记"
+        }
+      ],
+      "answerId": "middle",
+      "explanation": "虚线标出中线，帮助理解对折与两侧对应的位置。初始示意只展示折叠状态，不需要看尚未展开的结果才能回答。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-paper-cut",
+      "diagram": "paper",
+      "evidenceBlockIds": [
+        "china-culture-r2-b3"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-dragon-boat-check",
+      "countryId": "china",
+      "articleId": "china-dragon-boat",
+      "type": "observation",
+      "question": "观察龙舟照片，哪一项能够直接指出来？",
+      "options": [
+        {
+          "id": "visible",
+          "text": "河面上有多人共同参与的长船"
+        },
+        {
+          "id": "winner",
+          "text": "所有队伍的最终胜负已经确定"
+        },
+        {
+          "id": "place",
+          "text": "照片已说明每位参与者的家庭住址"
+        }
+      ],
+      "answerId": "visible",
+      "explanation": "照片可见长船与多人参与的场景，却不能直接显示比赛结果或人物住址。原作者未注明确切活动地点，也不能自行补造。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-dragon-boat",
+      "diagram": "",
+      "evidenceBlockIds": [
+        "china-dragon-boat-r2-b1",
+        "china-dragon-boat-r2-b2",
+        "china-dragon-boat-r2-b5"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-jiuzhaigou-check",
+      "countryId": "china",
+      "articleId": "china-jiuzhaigou",
+      "type": "observation",
+      "question": "观察九寨沟全景，哪种记录更能认识环境联系？",
+      "options": [
+        {
+          "id": "water",
+          "text": "只写水色好看，忽略周围"
+        },
+        {
+          "id": "context",
+          "text": "记录水面旁的森林与山谷位置"
+        },
+        {
+          "id": "chemical",
+          "text": "仅凭颜色确定全部化学成分"
+        }
+      ],
+      "answerId": "context",
+      "explanation": "水面、森林与山谷同属需要观察的环境。全景帮助发现相邻对象，具体成因还需要资料，不能只凭水色推断。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-jiuzhaigou",
+      "diagram": "",
+      "evidenceBlockIds": [
+        "china-jiuzhaigou-r2-b1",
+        "china-jiuzhaigou-r2-b3",
+        "china-jiuzhaigou-r2-b4"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "china-forest-connections-check",
+      "countryId": "china",
+      "articleId": "china-forest-connections",
+      "type": "observation",
+      "question": "观察关系示意，哪一项提醒我们关注生活空间之间的连接？",
+      "options": [
+        {
+          "id": "food",
+          "text": "竹林"
+        },
+        {
+          "id": "water",
+          "text": "水源"
+        },
+        {
+          "id": "connection",
+          "text": "连通的森林"
+        }
+      ],
+      "answerId": "connection",
+      "explanation": "“连通的森林”强调空间联系；竹林和水源分别提醒食物与其他生活条件。三者都是学习线索，图标不是实际工程照片。",
+      "hint": "先回想正文中的线索，再选择有依据的一项。",
+      "mediaId": "china-forest",
+      "diagram": "ecosystem",
+      "evidenceBlockIds": [
+        "china-forest-connections-r2-b2",
+        "china-forest-connections-r2-b3"
+      ],
+      "revision": 2,
+      "reviewStatus": "sourceChecked"
+    }
+  ],
+  "archivedExercises": [
+    {
+      "id": "china-transport",
+      "type": "choice",
+      "question": "过去，人们为什么用大运河运送粮食？",
+      "hint": "想一想，水路可以把哪些地方连接起来。",
+      "options": [
+        {
+          "id": "colors",
+          "text": "因为粮食能把河水染色"
+        },
+        {
+          "id": "boat",
+          "text": "船可以沿水路把物品送到远方"
+        },
+        {
+          "id": "grow",
+          "text": "因为所有粮食都长在船上"
+        }
+      ],
+      "answerId": "boat",
+      "explanation": "运河连接了不同地区，船只能够运输粮食等物品。水路是人们交流和运输的一种方式。",
+      "countryId": "china",
+      "articleId": "china-canal-history",
+      "revision": 1,
+      "status": "archived",
+      "archivedAt": "2026-11-07",
+      "evidenceBlockIds": [
+        "china-canal-history-r2-b3"
+      ],
+      "replacementExerciseId": "china-canal"
+    }
+  ]
+}

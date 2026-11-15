@@ -1,0 +1,101 @@
+[
+  {
+    "file": "images/01-usa-overview.png",
+    "title": "美国概览与十栏目目录",
+    "states": [
+      "US01",
+      "US02"
+    ],
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-f5ca54c8-8677-4cb8-9822-56ee94866ddd.png",
+    "prompt": "Use case: ui-mockup. Original high-fidelity concept board for 世界大百科, an existing Chinese field guide app for age 8, USA module. Approved art direction: calm modern geography atlas, background #F4F7FB, white #FFFFFF, ink #12243A, deep navy #12395B, accent orange #FF9A3D with dark ink, thin light-blue-gray strokes #DDE5EE, Noto Sans SC style bold simplified Chinese, 16px rounded white sections, generous margins, airy editorial rhythm and sharp real-photo-style scenic placeholders. Native app visual conventions. Do not redesign brand or insert decorative mascots, stars and stripes patterns, hardware frames, gradients in chrome, or background text. Only specified short Chinese labels; avoid tiny repetitive fake type. Subpages use local tools, only maps use the global four tabs. Separate flat screens with an airy gutter. No extraneous text apart from a restrained footer “美国模块 · 界面概念设计”. Photographic placeholders are illustrative, not source assets. Label any map or educational diagram “示意”. Clean editorial visual handoff, bold hierarchy, real-world text and controls.\n\nSquare board, two full-height flat 430:932 portrait phone screens of identical width. LEFT country overview. Photo-style wide Grand Canyon South Rim overlook at early daylight, layered ochre walls below open blue sky, warm rock without exaggerated sunset, foreground rim on right, left-side photo shadow only for readable white “美国”, “UNITED STATES”, “从大峡谷出发”. Back and bookmark. A rounded white area with “先认识美国” and factual row “北美洲 / 华盛顿特区 / 50 个州”. Three photo tiles “沿着山河走” (canyon layers), “走进城市” (New York modern city), “循着历史找” (Philadelphia Independence Hall). Two outlined tap rows “河流怎样刻出大峡谷？” and “华盛顿特区在哪里？”. Bottom wide orange “从大峡谷开始”. RIGHT “美国 · 探索目录”; heading “带着问题去探索”; small landscape mosaic canyon / city / red brick historic hall. Neat two-column grid in exact row order “国家名片 / 地理与气候 / 人们与语言 / 日常生活 / 饮食与物产 / 艺术与节日 / 城市与地标 / 动物与生态 / 历史故事 / 有趣问题”. Bottom landscape glimpse of deep-blue Great Lakes shoreline “下一站，去五大湖” and navy “打开美国地图”.",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "file": "images/02-usa-map.png",
+    "title": "平板地图与手机地点面板",
+    "states": [
+      "US03",
+      "US04"
+    ],
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-32d9fd34-1527-4e4c-bf98-4001e3c63e60.png",
+    "prompt": "Use case: ui-mockup. Original high-fidelity concept board for 世界大百科, an existing Chinese field guide app for age 8, USA module. Approved art direction: calm modern geography atlas, background #F4F7FB, white #FFFFFF, ink #12243A, deep navy #12395B, accent orange #FF9A3D with dark ink, thin light-blue-gray strokes #DDE5EE, Noto Sans SC style bold simplified Chinese, 16px rounded white sections, generous margins, airy editorial rhythm and sharp real-photo-style scenic placeholders. Native app visual conventions. Do not redesign brand or insert decorative mascots, stars and stripes patterns, hardware frames, gradients in chrome, or background text. Only specified short Chinese labels; avoid tiny repetitive fake type. Subpages use local tools, only maps use the global four tabs. Separate flat screens with an airy gutter. No extraneous text apart from a restrained footer “美国模块 · 界面概念设计”. Photographic placeholders are illustrative, not source assets. Label any map or educational diagram “示意”. Clean editorial visual handoff, bold hierarchy, real-world text and controls.\n\nLandscape editorial board with complete landscape tablet on left, narrower complete phone on right. Same American atlas screen in both. Tablet white header “美国探索地图”, search field “找州、河流或地点”, segmented “地形 / 水系 / 地点” with 水系 orange. North-up natural-relief overview of contiguous United States in proper broad silhouette, Canada immediately north and Mexico immediately south as pale context, Pacific at west/left, Atlantic east/right, Great Lakes near northeast; main views include labeled terrain and rivers at modest density. Two clearly detached, separately bordered non-proportional inset cards “阿拉斯加” and “夏威夷”, subordinate caption “插图不按同一比例”, no connecting lines. An orange point in southwest Arizona “大峡谷” and thin deep-blue Colorado River, no cartoon outlines or navigational route. Small credit strip “地图示意”. Three stacked + − 全图 controls. Tablet right white detail column with landscape Grand Canyon photo, “大峡谷 · 南缘”, “亚利桑那州”, and navy “查看地点”. Below two outlined rows “沿科罗拉多河看” and “地点列表”. Phone shows same overall atlas, inset tabs or inset boxes, and a sheet halfway up screen with grab handle, “大峡谷 · 南缘”, canyon photo, button “查看地点”. Both screen nav “发现 / 地图 / 百科 / 我的” with 地图 selected. Use uncluttered realistic geography; the concept sketch will be redrawn with official GIS.",
+    "iteration": {
+      "input": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-6c031bf6-7a89-4617-9223-73c729aed177.png",
+      "prompt": "Edit target: the supplied American map design board. Keep the terrain composition, two panels side by side, USA Chinese headings, Grand Canyon selection in Arizona, photo and right details, and the two detached labeled insets. Make one layout correction: remove all black phone/tablet hardware bezels and show these as two flat Figma artboards. Within the left tablet artboard move its four global items from the bottom into a narrow white vertical rail on the left, ordered “发现 / 地图 / 百科 / 我的”, with dark navy selected 地图; keep its right detail sidebar. The phone keeps its bottom navigation and half-height white detail sheet. Preserve the “地图示意” and “插图不按同一比例” notices. Maintain the existing palette and native editorial typography. Output the complete updated concept board."
+    },
+    "width": 1754,
+    "height": 897
+  },
+  {
+    "file": "images/03-usa-geography.png",
+    "title": "大峡谷阅读与照片热点",
+    "states": [
+      "US05",
+      "US06"
+    ],
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-41306b25-988b-4adb-84bb-9a2455fbc744.png",
+    "prompt": "Use case: ui-mockup. Original high-fidelity concept board for 世界大百科, an existing Chinese field guide app for age 8, USA module. Approved art direction: calm modern geography atlas, background #F4F7FB, white #FFFFFF, ink #12243A, deep navy #12395B, accent orange #FF9A3D with dark ink, thin light-blue-gray strokes #DDE5EE, Noto Sans SC style bold simplified Chinese, 16px rounded white sections, generous margins, airy editorial rhythm and sharp real-photo-style scenic placeholders. Native app visual conventions. Do not redesign brand or insert decorative mascots, stars and stripes patterns, hardware frames, gradients in chrome, or background text. Only specified short Chinese labels; avoid tiny repetitive fake type. Subpages use local tools, only maps use the global four tabs. Separate flat screens with an airy gutter. No extraneous text apart from a restrained footer “美国模块 · 界面概念设计”. Photographic placeholders are illustrative, not source assets. Label any map or educational diagram “示意”. Clean editorial visual handoff, bold hierarchy, real-world text and controls.\n\nSquare concept board of two complete aligned portrait screens. LEFT educational article “美国 · 地理与气候”; large “河流怎样刻出大峡谷？” and “读图 · 约 4 分钟”; wide daytime South Rim canyon photograph placeholder. A compact three-stage cross-section teaching card “侵蚀示意”, “岩层 / 河道 / 峡谷”, emphasizes flowing water carrying loosened material and widening canyon over time, draws quiet layered ochre contours and narrow blue water only at valley bottom, never draw one river hitting like a waterfall. “找一找河道”, two outlined options “峡谷底部” and “峡谷边缘”, unselected. Local bottom toolbar “目录 / 听讲解 / 收藏 / 笔记”. RIGHT location detail “大峡谷 · 南缘”; a broad distinct canyon photo with horizon at top, clear horizontal striations and a tiny visible meander far below. Two numbered orange dots with white outlines 1 on a visible rock stratum and 2 at a visible river bend. Content “在照片里找证据” then parallel list “1 岩层条带” and “2 谷底河道”, sentence “先说你看到了什么。” Local bottom CTA “在地图上找它” and orange “记下我的发现”. No fake distances or years.",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "file": "images/04-usa-history-culture.png",
+    "title": "历史线索与爵士乐阅读",
+    "states": [
+      "US07",
+      "US08"
+    ],
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-bb628851-6777-43ac-811b-b54b9e9c7e75.png",
+    "prompt": "Use case: ui-mockup. Original high-fidelity concept board for 世界大百科, an existing Chinese field guide app for age 8, USA module. Approved art direction: calm modern geography atlas, background #F4F7FB, white #FFFFFF, ink #12243A, deep navy #12395B, accent orange #FF9A3D with dark ink, thin light-blue-gray strokes #DDE5EE, Noto Sans SC style bold simplified Chinese, 16px rounded white sections, generous margins, airy editorial rhythm and sharp real-photo-style scenic placeholders. Native app visual conventions. Do not redesign brand or insert decorative mascots, stars and stripes patterns, hardware frames, gradients in chrome, or background text. Only specified short Chinese labels; avoid tiny repetitive fake type. Subpages use local tools, only maps use the global four tabs. Separate flat screens with an airy gutter. No extraneous text apart from a restrained footer “美国模块 · 界面概念设计”. Photographic placeholders are illustrative, not source assets. Label any map or educational diagram “示意”. Clean editorial visual handoff, bold hierarchy, real-world text and controls.\n\nSquare two complete matching portrait screens. LEFT “美国 · 历史线索”, large “顺着证据看历史”, choice “看线索 / 看时间”. A distinct pale note “认识原住民族的过去与今天” outside timeline, without costumes, stock ethnicity or artificial portrait. Exactly three date rows with small visually distinct placeholder photo or archival texture: “1776 独立宣言” (Independence Hall brick exterior), “1865 第十三修正案” (document detail texture without invented words), “1964 民权法案” (archival paper texture). Use restrained warm accents. Text action “年代怎么读？”. RIGHT “美国 · 艺术与节日” reading screen “一段爵士乐怎样接话？” small “新奥尔良 · 约 4 分钟”. Broad editorial-style crop of two real-looking brass instruments and hands on a small New Orleans music stage, no costumed stereotype. Simple graphic “接话示意” with two connected steps “一句乐句” and “另一句回应”, iconic trumpet and musical motif, labels and no fake notes. Child-sized “试着拍手接一句” practice strip. Local reading tools “目录 / 听讲解 / 收藏 / 笔记”. Render only short labels.",
+    "width": 1221,
+    "height": 1289
+  },
+  {
+    "file": "images/05-usa-daily-nature.png",
+    "title": "城市日常与黄石生态",
+    "states": [
+      "US09",
+      "US10"
+    ],
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-8fbb7fc8-c554-4a64-a14b-b0a326a0aa7e.png",
+    "prompt": "Use case: ui-mockup. Original high-fidelity concept board for 世界大百科, an existing Chinese field guide app for age 8, USA module. Approved art direction: calm modern geography atlas, background #F4F7FB, white #FFFFFF, ink #12243A, deep navy #12395B, accent orange #FF9A3D with dark ink, thin light-blue-gray strokes #DDE5EE, Noto Sans SC style bold simplified Chinese, 16px rounded white sections, generous margins, airy editorial rhythm and sharp real-photo-style scenic placeholders. Native app visual conventions. Do not redesign brand or insert decorative mascots, stars and stripes patterns, hardware frames, gradients in chrome, or background text. Only specified short Chinese labels; avoid tiny repetitive fake type. Subpages use local tools, only maps use the global four tabs. Separate flat screens with an airy gutter. No extraneous text apart from a restrained footer “美国模块 · 界面概念设计”. Photographic placeholders are illustrative, not source assets. Label any map or educational diagram “示意”. Clean editorial visual handoff, bold hierarchy, real-world text and controls.\n\nSquare board of two complete phone screens. LEFT warm white page with blue “美国 · 日常生活” header, bold question “一座城市怎样过一天？”, bright contemporary New York elevated metro over an urban street, photographed style with people in the distance. Short intro “先跟着一段通勤走”, editorial image rows “纽约地铁 / 社区市场 / 在街区散步” with simple outline icons and distinct photo tiles, footer navy “看看交通地图”. RIGHT “美国 · 动物与生态”, headline “黄石的水为什么会喷起来？” prominent photograph-style view of a Yellowstone geyser near short green vegetation and pale sky, viewers safely on boardwalk or outside frame. Card “间歇泉示意” with three legible blocks “水进入地下 / 热量加热水 / 水和蒸汽喷出”, a restrained section diagram with conduit, simple blue arrows, distinct rocky ground. No volcano cone or invented exact temperatures. Orange outlined action “找出水和热量”, fixed “目录 / 听讲解 / 收藏 / 笔记”.",
+    "iteration": {
+      "input": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-4f052e45-b56c-409b-9c6a-5e2b04743217.png",
+      "prompt": "Edit target: the supplied two-screen USA board. Preserve the complete left screen and the right screen's title, photo, toolbar, orange action, clean flat style and type. Revise only the right-hand educational diagram under “间歇泉示意”. Replace the hot orange glowing cavern at the very bottom with a simple, pale flat cross-section of natural brown rock, a narrow underground blue water channel constriction, bubbles, and subtle warm arrows pointing UP from deeper rock below the edge of the diagram. Depict groundwater entering from the side and water and steam exiting at the top; clearly distinguish water in blue and heat by thin muted-orange arrows, without showing magma in contact with water. Only use the existing short Chinese labels “水进入地下 / 热量加热水 / 水和蒸汽喷出” and “示意”. No temperatures, fixed depths, new sections, or duplicated labels. Output the full board with this one correction."
+    },
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "file": "images/06-usa-explore-discoveries.png",
+    "title": "探索任务与我的发现",
+    "states": [
+      "US11",
+      "US12"
+    ],
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-770523b6-a5c6-4655-8a4f-b9d2e4ddd1ee.png",
+    "prompt": "Use case: ui-mockup. Original high-fidelity concept board for 世界大百科, an existing Chinese field guide app for age 8, USA module. Approved art direction: calm modern geography atlas, background #F4F7FB, white #FFFFFF, ink #12243A, deep navy #12395B, accent orange #FF9A3D with dark ink, thin light-blue-gray strokes #DDE5EE, Noto Sans SC style bold simplified Chinese, 16px rounded white sections, generous margins, airy editorial rhythm and sharp real-photo-style scenic placeholders. Native app visual conventions. Do not redesign brand or insert decorative mascots, stars and stripes patterns, hardware frames, gradients in chrome, or background text. Only specified short Chinese labels; avoid tiny repetitive fake type. Subpages use local tools, only maps use the global four tabs. Separate flat screens with an airy gutter. No extraneous text apart from a restrained footer “美国模块 · 界面概念设计”. Photographic placeholders are illustrative, not source assets. Label any map or educational diagram “示意”. Clean editorial visual handoff, bold hierarchy, real-world text and controls.\n\nSquare two flat complete portrait phone screens side by side. LEFT “美国 · 探索任务”, image band canyon, title “当一回地理观察员”. Three compact image choices “找地点 / 看照片 / 找证据”. Three tappable rows with aligned icons and type pills “大峡谷在哪个州？” “哪一处是岩层条带？” “哪一种是直接证据？”. Orange outlined “写下自己的发现”, full navy “去看看我的发现”. RIGHT “我的美国发现”, a calm lake shoreline wide photo banner; warm-white content with heading “把好奇心留在这一页”, three counts at actual empty state “读过 0 篇 / 看过 0 处 / 记下 0 条”, simple outline icons, tasteful pale-blue surface. An intentional empty state “这里等着你的第一个发现” with link “开始观察”, recommendation rows “去看大峡谷” and “认识五大湖”, orange fixed “继续探索美国”. No example stats or fake notes. Both headers blue, spacious and legible.",
+    "width": 1217,
+    "height": 1292
+  },
+  {
+    "file": "images/07-usa-journey-observation.png",
+    "title": "山河路线与观察表单",
+    "states": [
+      "US13",
+      "US14"
+    ],
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-0a6a5c4d-daf9-498c-9964-17afc38358ea.png",
+    "prompt": "Use case: ui-mockup. Original high-fidelity concept board for 世界大百科, an existing Chinese field guide app for age 8, USA module. Approved art direction: calm modern geography atlas, background #F4F7FB, white #FFFFFF, ink #12243A, deep navy #12395B, accent orange #FF9A3D with dark ink, thin light-blue-gray strokes #DDE5EE, Noto Sans SC style bold simplified Chinese, 16px rounded white sections, generous margins, airy editorial rhythm and sharp real-photo-style scenic placeholders. Native app visual conventions. Do not redesign brand or insert decorative mascots, stars and stripes patterns, hardware frames, gradients in chrome, or background text. Only specified short Chinese labels; avoid tiny repetitive fake type. Subpages use local tools, only maps use the global four tabs. Separate flat screens with an airy gutter. No extraneous text apart from a restrained footer “美国模块 · 界面概念设计”. Photographic placeholders are illustrative, not source assets. Label any map or educational diagram “示意”. Clean editorial visual handoff, bold hierarchy, real-world text and controls.\n\nSquare two complete matching phone screens. LEFT header “美国 · 探索路线” navy, headline “沿着山河走” with thin orange side mark, wide canyon hero and dark overlay text “从峡谷走到湖边”. Small “三站 · 可自由选择”. Three numbered photo cards with route steps, exact order “1 大峡谷”, “2 黄石”, “3 五大湖” with three clearly distinct photos, all unlocked. Bottom fixed orange “从第一站开始”. RIGHT header “美国 · 记下一个发现” navy, headline “把线索写下来”. A close photo-style crop of Grand Canyon with visible alternating flat rock bands, caption “先看岩层，再写发现。” Three genuinely empty light fields, outline icons, titles “我看见 / 我猜想 / 我还想知道”. Tiny line “选一项写就可以” and “草稿会保留”. Default full bottom disabled gray “保存我的发现”. No real-child data, no keyboard in this view, no badges or stray text. Moderate radius, familiar reading hierarchy.",
+    "width": 1774,
+    "height": 887
+  }
+]

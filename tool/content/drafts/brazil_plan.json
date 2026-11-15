@@ -1,0 +1,225 @@
+{
+  "countryId": "brazil",
+  "status": "implemented",
+  "title": "从河流走向多彩大地",
+  "sections": {
+    "overview": [
+      [
+        "find-brazil",
+        "怎样找到巴西？"
+      ],
+      [
+        "capital",
+        "首都为什么不是里约？"
+      ],
+      [
+        "landscapes",
+        "一个国家能有多少种风景？"
+      ]
+    ],
+    "geography": [
+      [
+        "meeting-waters",
+        "两种颜色的河水为什么相遇？"
+      ],
+      [
+        "six-biomes",
+        "巴西到处都是雨林吗？"
+      ],
+      [
+        "weather-climate",
+        "天气和气候怎样区分？"
+      ]
+    ],
+    "people": [
+      [
+        "languages",
+        "巴西人都只说一种语言吗？"
+      ],
+      [
+        "place-names",
+        "一个地名怎样留下历史？"
+      ],
+      [
+        "community",
+        "一张照片能讲完一个社区吗？"
+      ]
+    ],
+    "daily": [
+      [
+        "river-transport",
+        "河流怎样成为交通通道？"
+      ],
+      [
+        "market-labels",
+        "市场标签告诉我们什么？"
+      ],
+      [
+        "public-space",
+        "城市怎样留出公共空间？"
+      ]
+    ],
+    "food": [
+      [
+        "cassava",
+        "木薯怎样成为食物？"
+      ],
+      [
+        "cacao",
+        "可可果怎样变成巧克力？"
+      ],
+      [
+        "regional-food",
+        "一杯果汁能代表全国口味吗？"
+      ]
+    ],
+    "culture": [
+      [
+        "frevo",
+        "弗雷沃的小伞有什么故事？"
+      ],
+      [
+        "capoeira",
+        "卡波耶拉的圆圈里发生什么？"
+      ],
+      [
+        "rhythm",
+        "共同的节拍怎样帮助合奏？"
+      ]
+    ],
+    "landmarks": [
+      [
+        "brasilia",
+        "从上方怎样读巴西利亚？"
+      ],
+      [
+        "rio-bay",
+        "里约的山与海怎样相邻？"
+      ],
+      [
+        "salvador",
+        "萨尔瓦多怎样连接高低城区？"
+      ]
+    ],
+    "nature": [
+      [
+        "capybara",
+        "水豚怎样使用湿地？"
+      ],
+      [
+        "forest-layers",
+        "雨林为什么有不同层次？"
+      ],
+      [
+        "cerrado",
+        "塞拉多只有草吗？"
+      ]
+    ],
+    "history": [
+      [
+        "before-arrival",
+        "欧洲人到来前，这里有人生活吗？"
+      ],
+      [
+        "abolition",
+        "一份废奴法律能改变所有现实吗？"
+      ],
+      [
+        "new-capital",
+        "新首都怎样被建造？"
+      ]
+    ],
+    "questions": [
+      [
+        "water-evidence",
+        "两河的颜色能判断水质吗？"
+      ],
+      [
+        "iguazu",
+        "瀑布为什么不能只看一张照片？"
+      ],
+      [
+        "observation",
+        "看见、猜想和证据怎样区分？"
+      ]
+    ]
+  },
+  "journeys": [
+    {
+      "id": "river-forest",
+      "title": "河流与雨林",
+      "articleIds": [
+        "meeting-waters",
+        "river-transport",
+        "forest-layers"
+      ]
+    },
+    {
+      "id": "city-life",
+      "title": "城市与生活",
+      "articleIds": [
+        "brasilia",
+        "rio-bay",
+        "salvador"
+      ]
+    },
+    {
+      "id": "nature-rhythm",
+      "title": "自然的节奏",
+      "articleIds": [
+        "capybara",
+        "cerrado",
+        "iguazu"
+      ]
+    }
+  ],
+  "mapLayers": [
+    "terrain",
+    "water",
+    "biomes",
+    "places"
+  ],
+  "biomes": [
+    "Amazônia",
+    "Cerrado",
+    "Caatinga",
+    "Mata Atlântica",
+    "Pantanal",
+    "Pampa"
+  ],
+  "places": [
+    "manaus-meeting-waters",
+    "anavilhanas",
+    "belem-market",
+    "brasilia",
+    "rio-guanabara",
+    "tijuca",
+    "salvador",
+    "recife",
+    "pantanal",
+    "chapada-veadeiros",
+    "iguazu",
+    "caatinga"
+  ],
+  "targets": {
+    "articles": 30,
+    "places": 12,
+    "choice": 12,
+    "location": 6,
+    "observation": 6,
+    "open": 6,
+    "media": 36
+  },
+  "sources": [
+    "https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18307-biomas-brasileiros.html",
+    "https://whc.unesco.org/en/list/445",
+    "https://whc.unesco.org/en/list/998",
+    "https://bcr.iphan.gov.br/bens-culturais/frevo/"
+  ],
+  "implementationDocument": "docs/countries/brazil/IMPLEMENTATION.md",
+  "preservedLegacy": {
+    "articles": 7,
+    "places": 1,
+    "archivedExercises": 3
+  }
+}

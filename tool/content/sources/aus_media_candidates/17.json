@@ -1,0 +1,572 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "66218921": {
+        "pageid": 66218921,
+        "ns": 6,
+        "title": "File:Borrowdale at North Sydney wharf (25192535808).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 3862452,
+            "width": 4928,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg/1280px-Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 795,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg/3840px-Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg/1280px-Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 795,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg/3840px-Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Borrowdale_at_North_Sydney_wharf_%2825192535808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Borrowdale_at_North_Sydney_wharf_(25192535808).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66218921",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-02-07 18:51:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Borrowdale at North Sydney wharf (25192535808)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Borrowdale (ship, 1985)|North Sydney ferry wharf, Sydney|Flickr images reviewed by FlickreviewR 2",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Borrowdale at North Sydney wharf.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-12-07 10:11",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/pelican/25192535808/\">Ferry</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/85936780@N00\">pelican</a> from Tokyo, Japan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "172958735": {
+        "pageid": 172958735,
+        "ns": 6,
+        "title": "File:Sydney Ferry Balmoral.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4452241,
+            "width": 6000,
+            "height": 3375,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sydney_Ferry_Balmoral.jpg/1280px-Sydney_Ferry_Balmoral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 675,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sydney_Ferry_Balmoral.jpg/3840px-Sydney_Ferry_Balmoral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sydney_Ferry_Balmoral.jpg/1280px-Sydney_Ferry_Balmoral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 675,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sydney_Ferry_Balmoral.jpg/3840px-Sydney_Ferry_Balmoral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sydney_Ferry_Balmoral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_Ferry_Balmoral.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=172958735",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-08-18 13:14:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sydney Ferry Balmoral",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sydney Harbour|Self-published work|Files with coordinates missing SDC location of creation (34° S, 151° E)|Balmoral (ship, 2021)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-33.803278",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "151.280331",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The \"Balmoral\" Sydney ferry with a motion blur effect",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-08-12 18:06:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zax71\" title=\"User:Zax71\">Zax71</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "172959201": {
+        "pageid": 172959201,
+        "ns": 6,
+        "title": "File:Sydney Ferry Balmoral (Cropped).jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1815627,
+            "width": 4175,
+            "height": 2073,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sydney_Ferry_Balmoral_%28Cropped%29.jpg/1280px-Sydney_Ferry_Balmoral_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 596,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sydney_Ferry_Balmoral_%28Cropped%29.jpg/3840px-Sydney_Ferry_Balmoral_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sydney_Ferry_Balmoral_%28Cropped%29.jpg/1280px-Sydney_Ferry_Balmoral_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 596,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sydney_Ferry_Balmoral_%28Cropped%29.jpg/3840px-Sydney_Ferry_Balmoral_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sydney_Ferry_Balmoral_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_Ferry_Balmoral_(Cropped).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=172959201",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2025-08-18 13:24:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sydney Ferry Balmoral (Cropped)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Sydney Harbour|Self-published work|Files with coordinates missing SDC location of creation (34° S, 151° E)|Balmoral (ship, 2021)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-33.803278",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "151.280331",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The \"Balmoral\" Sydney ferry with a motion blur effect. Cropped from the origional for use on Wikipedia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-08-12 18:06:56",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zax71\" title=\"User:Zax71\">Zax71</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "107755478": {
+        "pageid": 107755478,
+        "ns": 6,
+        "title": "File:Sydney ferry PS BALMAIN.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 109662,
+            "width": 694,
+            "height": 579,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sydney_ferry_PS_BALMAIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1200,
+            "thumbheight": 1001,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sydney_ferry_PS_BALMAIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 1001
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sydney_ferry_PS_BALMAIN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sydney_ferry_PS_BALMAIN.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=107755478",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-09-21 11:40:42",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sydney ferry PS BALMAIN",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-Australia|Balmain East ferry wharf, Sydney|Template Unknown (author)|Balmain (ship, 1883)",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sydney ferry PS BALMAIN",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "late 19th century",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Original source unknown. This file from Facebook.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "148134514": {
+        "pageid": 148134514,
+        "ns": 6,
+        "title": "File:Taronga Zoo ferry wharf from ferry.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1559930,
+            "width": 3200,
+            "height": 2368,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Taronga_Zoo_ferry_wharf_from_ferry.jpg/1280px-Taronga_Zoo_ferry_wharf_from_ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 888,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/32/Taronga_Zoo_ferry_wharf_from_ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Taronga_Zoo_ferry_wharf_from_ferry.jpg/1280px-Taronga_Zoo_ferry_wharf_from_ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 888,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/32/Taronga_Zoo_ferry_wharf_from_ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Taronga_Zoo_ferry_wharf_from_ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Taronga_Zoo_ferry_wharf_from_ferry.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148134514",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-07 09:47:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Taronga Zoo ferry wharf from ferry",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nexus 5|Taronga Zoo ferry wharf, Sydney|Self-published work|Uploaded with Mobile/Android|Australia photographs taken on 2014-10-27|Overcast in Australia|Files with coordinates missing SDC location of creation (34° S, 151° E)|Photos by Grendelkhan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-33.845056",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "151.235394",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Taronga Zoo ferry wharf, as seen from a ferry just departing.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "27 October 2014 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Grendelkhan\" title=\"User:Grendelkhan\">Grendelkhan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

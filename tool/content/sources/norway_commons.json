@@ -1,0 +1,3133 @@
+{
+  "norway-m01": {
+    "record": {
+      "pageid": 27441401,
+      "ns": 6,
+      "title": "File:Geirangerfjord from Ørnesvingen, 2013 June.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 21936964,
+          "width": 6520,
+          "height": 3660,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg/1280px-Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 674,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg/3840px-Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg/1280px-Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 674,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg/3840px-Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Geirangerfjord_from_%C3%98rnesvingen,_2013_June.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27441401",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2016-09-29 15:07:33",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Geirangerfjord from Ørnesvingen, 2013 June",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 7D|Geirangerfjorden|Images with annotations|Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM|Self-published work|Featured pictures by User:Ximonic|Files with coordinates missing SDC location of creation|Norway photographs taken on 2013-06-16|2013 in Stranda|June in Møre og Romsdal|Featured pictures of landscapes in Norway|Panoramics of the Scandinavian Mountains|Panoramics of fjords in Norway|Panoramas of mountains in Norway|Geirangerfjorden from Ørnesvingen|Panoramic photographs by User:Ximonic|Stranda by User:Ximonic",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "quality|featured|potd",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "62.125819",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "7.167022",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "A view to <a href=\"https://en.wikipedia.org/wiki/Geirangerfjord\" class=\"extiw\" title=\"en:Geirangerfjord\">Geirangerfjord</a> from Ørnesvingen, Stranda, Møre og Romsdal, Norway in 2013 June.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2013-06-16 11:45:30",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ximonic\" title=\"User:Ximonic\">Ximonic (Simo Räsänen)</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg/1280px-Geirangerfjord_from_%C3%98rnesvingen%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m02": {
+    "record": {
+      "pageid": 29777506,
+      "ns": 6,
+      "title": "File:View to Geiranger from Flydalsjuvet, 2013 June.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4482180,
+          "width": 3072,
+          "height": 1516,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg/1280px-View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 592,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg/1280px-View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 592,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/f3/View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:View_to_Geiranger_from_Flydalsjuvet,_2013_June.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29777506",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2013-11-22 17:52:54",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "View to Geiranger from Flydalsjuvet, 2013 June",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 7D|Featured pictures of Norway|Self-published work|Featured pictures by User:Ximonic|Picture of week on the Czech Wikipedia|Files with coordinates missing SDC location of creation|Norway photographs taken on 2013-06-16|2013 in Stranda|Panoramics of the Scandinavian Mountains|Panoramics of fjords in Norway|Panoramas of mountains in Norway|Geirangerfjorden and Geiranger from south east|Stranda by User:Ximonic",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "quality|featured|potd",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "62.091733",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "7.222492",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "A view to Geiranger and Geirangerfjorden from Flydalsjuvet in Stranda municipality, Møre og Romsdal, Norway in 2013 June.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2013-06-16 14:04:48",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ximonic\" title=\"User:Ximonic\">Ximonic (Simo Räsänen)</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg/1280px-View_to_Geiranger_from_Flydalsjuvet%2C_2013_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m03": {
+    "record": {
+      "pageid": 42830273,
+      "ns": 6,
+      "title": "File:Bryggen in Bergen from the waterfront.JPG",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 10223616,
+          "width": 6000,
+          "height": 3376,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Bryggen_in_Bergen_from_the_waterfront.JPG/1280px-Bryggen_in_Bergen_from_the_waterfront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 675,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Bryggen_in_Bergen_from_the_waterfront.JPG/3840px-Bryggen_in_Bergen_from_the_waterfront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Bryggen_in_Bergen_from_the_waterfront.JPG/1280px-Bryggen_in_Bergen_from_the_waterfront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 675,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Bryggen_in_Bergen_from_the_waterfront.JPG/3840px-Bryggen_in_Bergen_from_the_waterfront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bryggen_in_Bergen_from_the_waterfront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bryggen_in_Bergen_from_the_waterfront.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42830273",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2015-09-01 18:05:29",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Bryggen in Bergen from the waterfront",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Cultural heritage monuments in Norway with known IDs|Images from Wiki Loves Monuments 2015|Uploaded via Campaign:wlm-no|Images from Wiki Loves Monuments 2015 in Norway|Norway photographs taken on 2015-08-12|Seaside views of Bryggen, Bergen",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Bryggen (Bergen) viewed from the waterfront",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2015-08-12",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:DeServian1431&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:DeServian1431 (page does not exist)\">DeServian1431</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Bryggen_in_Bergen_from_the_waterfront.JPG/1280px-Bryggen_in_Bergen_from_the_waterfront.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m04": {
+    "record": {
+      "pageid": 199308692,
+      "ns": 6,
+      "title": "File:Gang im Viertel Bryggen in Bergen N (2015).jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 8348721,
+          "width": 3000,
+          "height": 4500,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg/1280px-Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1800,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg/1280px-Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1800,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gang_im_Viertel_Bryggen_in_Bergen_N_(2015).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199308692",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2026-09-11 15:21:49",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Gang im Viertel Bryggen in Bergen N (2015)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Files with coordinates missing SDC location of creation|Alleys of Bryggen, Bergen",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "60.397845",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "5.323230",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "An alley in the historic Hanseatic quarter of Bryggen in Bergen, Norway",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2015-05-30 13:38:54",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:JoachimKohler-HB\" title=\"User:JoachimKohler-HB\">JoachimKohler-HB</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg/1280px-Gang_im_Viertel_Bryggen_in_Bergen_N_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m05": {
+    "record": {
+      "pageid": 132140222,
+      "ns": 6,
+      "title": "File:Oslo Opera House 2023 1.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4426391,
+          "width": 4800,
+          "height": 3520,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Oslo_Opera_House_2023_1.jpg/1280px-Oslo_Opera_House_2023_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 880,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Oslo_Opera_House_2023_1.jpg/3840px-Oslo_Opera_House_2023_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Oslo_Opera_House_2023_1.jpg/1280px-Oslo_Opera_House_2023_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 880,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Oslo_Opera_House_2023_1.jpg/3840px-Oslo_Opera_House_2023_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Oslo_Opera_House_2023_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Oslo_Opera_House_2023_1.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132140222",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2023-05-20 14:07:19",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Oslo Opera House 2023 1",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|FoP-Norway|Norway photographs taken on 2023-03-26|Oslo Opera house rooftop",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "quality",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Oslo Opera House",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2023-03-26 17:57:14",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Kallerna\" title=\"User:Kallerna\">kallerna</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Oslo_Opera_House_2023_1.jpg/1280px-Oslo_Opera_House_2023_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m06": {
+    "record": {
+      "pageid": 85584101,
+      "ns": 6,
+      "title": "File:Tram 12, Oslo, Jernbanetorget.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 2821093,
+          "width": 3968,
+          "height": 2976,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Tram_12%2C_Oslo%2C_Jernbanetorget.jpg/1280px-Tram_12%2C_Oslo%2C_Jernbanetorget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Tram_12%2C_Oslo%2C_Jernbanetorget.jpg/3840px-Tram_12%2C_Oslo%2C_Jernbanetorget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Tram_12%2C_Oslo%2C_Jernbanetorget.jpg/1280px-Tram_12%2C_Oslo%2C_Jernbanetorget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Tram_12%2C_Oslo%2C_Jernbanetorget.jpg/3840px-Tram_12%2C_Oslo%2C_Jernbanetorget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tram_12%2C_Oslo%2C_Jernbanetorget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tram_12,_Oslo,_Jernbanetorget.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85584101",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2020-01-03 22:34:28",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Tram 12, Oslo, Jernbanetorget",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Trams on line 12 in Oslo|Jernbanetorget (tram stop)|SL-79|Tram stops in Oslo|Self-published work|Blue trams|Files with coordinates missing SDC location of creation",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "59.911793",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "10.750237",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Tramwaj linii 12, Oslo, Jernbanetorget.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2019-12-31 10:38:12",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:MOs810\" title=\"User:MOs810\">MOs810</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Tram_12%2C_Oslo%2C_Jernbanetorget.jpg/1280px-Tram_12%2C_Oslo%2C_Jernbanetorget.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m07": {
+    "record": {
+      "pageid": 1095223,
+      "ns": 6,
+      "title": "File:Sognefjord narrow.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 314980,
+          "width": 1200,
+          "height": 1600,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sognefjord_narrow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 1600,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sognefjord_narrow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1600
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sognefjord_narrow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sognefjord_narrow.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1095223",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2006-08-26 13:34:45",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Sognefjord narrow",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Mountains of Vestland|GFDL|Taken with Canon PowerShot A70|CC-BY-SA-2.5,2.0,1.0|Nærøyfjorden|License migration redundant|Self-published work|Landscapes in fog",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "A narrow section of the Nærøyfjorden, near Gudvangen. Apparently it is the narrowest fjord in Europe. Kayakers are also visible. Taken from the ferry going through the Aurlandsfjord and Nærøyfjord (from Flåm to Gudvangen). These are parts of the larger Sognefjord.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2004-06-25",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Felix Andrews (<a href=\"//commons.wikimedia.org/wiki/User:Floybix\" title=\"User:Floybix\">Floybix</a>)",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sognefjord_narrow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "norway-m08": {
+    "record": {
+      "pageid": 65980511,
+      "ns": 6,
+      "title": "File:Nærøyfjord - The world's most beautiful fjord (31463583830).jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 14436892,
+          "width": 11501,
+          "height": 5318,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg/1280px-N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 555,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg/3840px-N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg/1280px-N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 555,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg/3840px-N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_(31463583830).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65980511",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2018-01-30 16:46:09",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Nærøyfjord - The world's most beautiful fjord (31463583830)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Nærøyfjorden|Gudvangen|Fjord heads in Norway|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Norway photographs taken on 2014-10-23|October in Sogn og Fjordane|Files from Jorge Láscar Flickr stream",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "60.886944",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "6.850833",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<p>The Nærøyfjord (or Nærøyfjorden) is a fjord in the municipality of Aurland in Sogn og Fjordane, Norway. The narrow fjord is a branch of the large Sognefjord, and it is featured on the \"Norway in a Nutshell\" daytrips for tourists. The 18-kilometre (11 mi) long fjord is only 500 metres (1,600 ft) wide in some parts.\n</p><p>The river Nærøydalselvi flows down the valley Nærøydalen into the fjord at the village of Gudvangen, near the highway E16. The village of Bakka and the Bakka church are located on the west shore of the fjord.\n</p>\nSince 2005, the Nærøyfjord has been listed as a UNESCO World Heritage Site. It has also been rated by the National Geographic Society as the world's number one natural heritage site along with the Geirangerfjord [Wikipedia.org]",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "23 October 2014, 21:53 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jlascar/31463583830/\">Nærøyfjord - The world's most beautiful fjord</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8721758@N06\">Jorge Láscar</a> from Melbourne, Australia",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg/1280px-N%C3%A6r%C3%B8yfjord_-_The_world%27s_most_beautiful_fjord_%2831463583830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m09": {
+    "record": {
+      "pageid": 50600690,
+      "ns": 6,
+      "title": "File:Urnes Stave Church from north.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 7818102,
+          "width": 6016,
+          "height": 4000,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Urnes_Stave_Church_from_north.jpg/1280px-Urnes_Stave_Church_from_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 798,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Urnes_Stave_Church_from_north.jpg/3840px-Urnes_Stave_Church_from_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Urnes_Stave_Church_from_north.jpg/1280px-Urnes_Stave_Church_from_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 798,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Urnes_Stave_Church_from_north.jpg/3840px-Urnes_Stave_Church_from_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Urnes_Stave_Church_from_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Urnes_Stave_Church_from_north.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50600690",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2016-08-10 17:40:29",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Urnes Stave Church from north",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Files with coordinates missing SDC location of creation|Norway photographs taken on 2016-08-10|Exterior of Urnes stavkirke",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "quality",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "61.298428",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "7.324445",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Urnes Stave Church from north.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2016-08-10 13:27:14",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bep\" title=\"User:Bep\">Bjørn Erik Pedersen</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Urnes_Stave_Church_from_north.jpg/1280px-Urnes_Stave_Church_from_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m10": {
+    "record": {
+      "pageid": 50600625,
+      "ns": 6,
+      "title": "File:Carvings in north wall portal, Urnes Stave Church-1.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 8739731,
+          "width": 6016,
+          "height": 4000,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg/1280px-Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 798,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg/3840px-Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg/1280px-Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 798,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg/3840px-Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carvings_in_north_wall_portal,_Urnes_Stave_Church-1.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=50600625",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2016-08-10 17:38:28",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Carvings in north wall portal, Urnes Stave Church-1",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Files with coordinates missing SDC location of creation|Norway photographs taken on 2016-08-10|North portal of Urnes stavkirke",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "61.298137",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "7.322578",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Carvings in north wall portal, Urnes Stave Church.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2016-08-10 13:05:00",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bep\" title=\"User:Bep\">Bjørn Erik Pedersen</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg/1280px-Carvings_in_north_wall_portal%2C_Urnes_Stave_Church-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m11": {
+    "record": {
+      "pageid": 45328147,
+      "ns": 6,
+      "title": "File:Hammarskaftet at Reine, Lofoten, Norway, 2015 September.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 6799391,
+          "width": 5000,
+          "height": 2175,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg/1280px-Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 522,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg/3840px-Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg/1280px-Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 522,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg/3840px-Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hammarskaftet_at_Reine,_Lofoten,_Norway,_2015_September.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45328147",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2015-11-29 21:50:48",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Hammarskaftet at Reine, Lofoten, Norway, 2015 September",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Reine|Uploaded with VicuñaUploader|Files with coordinates missing SDC location of creation|Norway photographs taken on 2015-09-20|Moskenes by User:Ximonic|Hammarskaftet",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "quality",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "67.934993",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "13.085103",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Hammarskaftet mountain behind some houses of Reine as seen over Reinevågen, Moskenes, Lofoten, Norway in 2015 September.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2015-09-20",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ximonic\" title=\"User:Ximonic\">Ximonic (Simo Räsänen)</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg/1280px-Hammarskaftet_at_Reine%2C_Lofoten%2C_Norway%2C_2015_September.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m12": {
+    "record": {
+      "pageid": 7525159,
+      "ns": 6,
+      "title": "File:Drying Stockfish Lofoten 2009 1.JPG",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 5144761,
+          "width": 3008,
+          "height": 2000,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Drying_Stockfish_Lofoten_2009_1.JPG/1280px-Drying_Stockfish_Lofoten_2009_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 798,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/9/92/Drying_Stockfish_Lofoten_2009_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Drying_Stockfish_Lofoten_2009_1.JPG/1280px-Drying_Stockfish_Lofoten_2009_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 798,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/92/Drying_Stockfish_Lofoten_2009_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Drying_Stockfish_Lofoten_2009_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Drying_Stockfish_Lofoten_2009_1.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7525159",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2009-08-10 12:14:49",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Drying Stockfish Lofoten 2009 1",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Nikon D40|Stockfish|Dried fish in Norway|Fish racks in Å, Lofoten",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Stockfish drying flakes in Å, Lofoten, Norway.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2009",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sveter\" title=\"User:Sveter\">User:Sveter</a> (Please credit as \"Petr Šmerkl, Wikipedia\" in case you use this outside WMF projects.)",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/3.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/3.0/deed.en\">Attribution-Share Alike 3.0 Unported</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/3.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 3.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 3.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Drying_Stockfish_Lofoten_2009_1.JPG/1280px-Drying_Stockfish_Lofoten_2009_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m13": {
+    "record": {
+      "pageid": 108470738,
+      "ns": 6,
+      "title": "File:Panorama Tromsø from Fjellheisen.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1674874,
+          "width": 5376,
+          "height": 1887,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Panorama_Troms%C3%B8_from_Fjellheisen.jpg/1280px-Panorama_Troms%C3%B8_from_Fjellheisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 421,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Panorama_Troms%C3%B8_from_Fjellheisen.jpg/3840px-Panorama_Troms%C3%B8_from_Fjellheisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Panorama_Troms%C3%B8_from_Fjellheisen.jpg/1280px-Panorama_Troms%C3%B8_from_Fjellheisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 421,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Panorama_Troms%C3%B8_from_Fjellheisen.jpg/3840px-Panorama_Troms%C3%B8_from_Fjellheisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Panorama_Troms%C3%B8_from_Fjellheisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panorama_Troms%C3%B8_from_Fjellheisen.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108470738",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-08-13 15:43:11",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Panorama Tromsø from Fjellheisen",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Views of Tromsø (city) from Mount Fløya|Self-published work|Files with coordinates missing SDC location of creation|Panoramics in Tromsø",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "69.636000",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "18.995300",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Panorama over Tromsø from Fjellheisen\n<p>• In the foreground: Tromsdalen district with the Arctic Cathedral (right in front of the bridge)\n• In the center of the picture: The entire island of Tromsøya with the city center of Tromsø, the harbor and Tromsø bridge, behind it Tromsø airport with Sandnessund bridge\n• Behind: Grindøysund with the islands of Grindøya and Håkøya\n</p>\n• In the background: Kvaløya and on the right Ringvassøya",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2021-07-11 13:45:35",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Happy_Discover&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Happy Discover (page does not exist)\">Happy Discover</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Panorama_Troms%C3%B8_from_Fjellheisen.jpg/1280px-Panorama_Troms%C3%B8_from_Fjellheisen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m14": {
+    "record": {
+      "pageid": 169534352,
+      "ns": 6,
+      "title": "File:Midnight sun in Tromsø.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 3019271,
+          "width": 4080,
+          "height": 3060,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Midnight_sun_in_Troms%C3%B8.jpg/1280px-Midnight_sun_in_Troms%C3%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Midnight_sun_in_Troms%C3%B8.jpg/3840px-Midnight_sun_in_Troms%C3%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Midnight_sun_in_Troms%C3%B8.jpg/1280px-Midnight_sun_in_Troms%C3%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Midnight_sun_in_Troms%C3%B8.jpg/3840px-Midnight_sun_in_Troms%C3%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Midnight_sun_in_Troms%C3%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Midnight_sun_in_Troms%C3%B8.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=169534352",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2025-07-09 09:42:05",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Midnight sun in Tromsø",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CC-Zero|Self-published work|Midnight sun in Norway|Views from Tromsøbrua|2025 in Tromsø",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Midnight sun in Tromsø, view from the Tromsø Bridge - solar midnight, 00:39, July 7, 2025",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2025-07-07 00:39:02",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kawon_Kez_Sel&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Kawon Kez Sel (page does not exist)\">Kawon Kez Sel</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Zero, Public Domain Dedication",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Midnight_sun_in_Troms%C3%B8.jpg/1280px-Midnight_sun_in_Troms%C3%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m15": {
+    "record": {
+      "pageid": 26192739,
+      "ns": 6,
+      "title": "File:Alta banner Rock carvings.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 226157,
+          "width": 2100,
+          "height": 300,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Alta_banner_Rock_carvings.jpg/1280px-Alta_banner_Rock_carvings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 171,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Alta_banner_Rock_carvings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Alta_banner_Rock_carvings.jpg/1280px-Alta_banner_Rock_carvings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 171,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Alta_banner_Rock_carvings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Alta_banner_Rock_carvings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alta_banner_Rock_carvings.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26192739",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2013-05-20 11:42:45",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Alta banner Rock carvings",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 50D|Rock art of Alta|Wikivoyage banners of Norway",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "The Rock carvings at Alta are part of an archaeological site near the town of Alta in the county of Finnmark in northern Norway.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2009-07-29 15:17:25",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/File:Alta_rock_carvings_01.jpg\" title=\"File:Alta rock carvings 01.jpg\">File:Alta rock carvings 01.jpg</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jensvins\" title=\"User:Jensvins\">Jensvins</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Alta_banner_Rock_carvings.jpg/1280px-Alta_banner_Rock_carvings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m16": {
+    "record": {
+      "pageid": 24034497,
+      "ns": 6,
+      "title": "File:Alta-Carvings-2012-07-17-12-15-018.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 553034,
+          "width": 1024,
+          "height": 1536,
+          "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alta-Carvings-2012-07-17-12-15-018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "thumbwidth": 1200,
+          "thumbheight": 1800,
+          "thumbattribs": {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alta-Carvings-2012-07-17-12-15-018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1800
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alta-Carvings-2012-07-17-12-15-018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Alta-Carvings-2012-07-17-12-15-018.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24034497",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2013-01-20 22:04:54",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Alta-Carvings-2012-07-17-12-15-018",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Rock art of Alta|Self-published work",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Rock carvings near Alta (Norway)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2012-07-17",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Karl_Brodowsky\" title=\"User:Karl Brodowsky\">Karl Brodowsky</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alta-Carvings-2012-07-17-12-15-018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "norway-m17": {
+    "record": {
+      "pageid": 32574370,
+      "ns": 6,
+      "title": "File:Sametinget fasade.JPG",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 3302283,
+          "width": 3872,
+          "height": 2001,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sametinget_fasade.JPG/1280px-Sametinget_fasade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 620,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sametinget_fasade.JPG/3840px-Sametinget_fasade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sametinget_fasade.JPG/1280px-Sametinget_fasade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 620,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sametinget_fasade.JPG/3840px-Sametinget_fasade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sametinget_fasade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sametinget_fasade.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32574370",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-05-04 18:13:57",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Sametinget fasade",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Nikon D60|Sametingsbygningen|Self-published work|Norway photographs taken on 2014-04-25",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Sametinget i Karasjok, fasaden med hovedinngang",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2014-04-25 05:59:08",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Helge_H%C3%B8if%C3%B8dt\" title=\"User:Helge Høifødt\">Helge Høifødt</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sametinget_fasade.JPG/1280px-Sametinget_fasade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m18": {
+    "record": {
+      "pageid": 2123364,
+      "ns": 6,
+      "title": "File:Karasjok01.JPG",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 277984,
+          "width": 1600,
+          "height": 1200,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Karasjok01.JPG/1280px-Karasjok01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 900,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Karasjok01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Karasjok01.JPG/1280px-Karasjok01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 900,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Karasjok01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Karasjok01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karasjok01.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2123364",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2007-05-18 14:17:15",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Karasjok01",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|PD-self|Files by User:Vberger|July 2005 Norway photographs|Transport in Karasjok|Karasjok (village)|Streets in Finnmark|Karasjok (town)",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<a href=\"https://fr.wikipedia.org/wiki/Karasjok\" class=\"extiw\" title=\"fr:Karasjok\">fr:Karasjok</a> main square",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2005-07",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "MyName (<a href=\"//commons.wikimedia.org/w/index.php?title=User:Vberger&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Vberger (page does not exist)\">Vberger</a>)",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "Public domain",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Public domain",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Copyrighted": {
+              "value": "False",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "pd",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Karasjok01.JPG/1280px-Karasjok01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m19": {
+    "record": {
+      "pageid": 775138,
+      "ns": 6,
+      "title": "File:Eidsvollsbygninen.jpg",
+      "index": 5,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1036647,
+          "width": 1426,
+          "height": 987,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Eidsvollsbygninen.jpg/1280px-Eidsvollsbygninen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 831,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Eidsvollsbygninen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Eidsvollsbygninen.jpg/1280px-Eidsvollsbygninen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 831,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Eidsvollsbygninen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Eidsvollsbygninen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eidsvollsbygninen.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=775138",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2006-05-11 12:50:51",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Eidsvollsbygninen",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "GFDL|Eidsvollsbygningen|License migration redundant|Self-published work|June 2004 in Norway",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "<a href=\"https://en.wikipedia.org/wiki/Eidsvollsbygningen\" class=\"extiw\" title=\"en:Eidsvollsbygningen\">Eidsvollsbygningen</a> (<i>the Eidsvoll House</i>)",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2004-06",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "Kjetil Bjørnsrud",
+              "source": "commons-desc-page"
+            },
+            "Permission": {
+              "value": "GFDL",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.5",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.5",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.5",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.5",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Eidsvollsbygninen.jpg/1280px-Eidsvollsbygninen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m20": {
+    "record": {
+      "pageid": 35599442,
+      "ns": 6,
+      "title": "File:Eidsvollsbygningen rk 146171 IMG 9845.JPG",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 3007267,
+          "width": 3456,
+          "height": 5184,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Eidsvollsbygningen_rk_146171_IMG_9845.JPG/1280px-Eidsvollsbygningen_rk_146171_IMG_9845.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1800,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Eidsvollsbygningen_rk_146171_IMG_9845.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Eidsvollsbygningen_rk_146171_IMG_9845.JPG/1280px-Eidsvollsbygningen_rk_146171_IMG_9845.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1800,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Eidsvollsbygningen_rk_146171_IMG_9845.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Eidsvollsbygningen_rk_146171_IMG_9845.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eidsvollsbygningen_rk_146171_IMG_9845.JPG",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35599442",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-09-27 08:01:52",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Eidsvollsbygningen rk 146171 IMG 9845",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 7D|Eidsvollsbygningen|Self-published work|Cultural heritage monuments in Norway with known IDs|Images from Wiki Loves Monuments 2014|Images from Wiki Loves Monuments 2014 in Norway|Uploaded via Campaign:wlm-no|Norway photographs taken on 2013-10-03",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Eidsvollsbygningen og Eidsvollsparken - Akershus",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2013-10-03 15:36:50",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bjoertvedt\" title=\"User:Bjoertvedt\">Bjoertvedt</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 3.0 no",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 3.0 no",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/3.0/no/deed.en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-3.0-no",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Eidsvollsbygningen_rk_146171_IMG_9845.JPG/1280px-Eidsvollsbygningen_rk_146171_IMG_9845.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m21": {
+    "record": {
+      "pageid": 121624754,
+      "ns": 6,
+      "title": "File:Longyearbyen-as-of-2022.jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 3715829,
+          "width": 5393,
+          "height": 3596,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Longyearbyen-as-of-2022.jpg/1280px-Longyearbyen-as-of-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 800,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Longyearbyen-as-of-2022.jpg/3840px-Longyearbyen-as-of-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Longyearbyen-as-of-2022.jpg/1280px-Longyearbyen-as-of-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 800,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Longyearbyen-as-of-2022.jpg/3840px-Longyearbyen-as-of-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Longyearbyen-as-of-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Longyearbyen-as-of-2022.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121624754",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2022-08-11 19:38:46",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Longyearbyen-as-of-2022",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Views of Longyearbyen|Self-published work|Files with coordinates missing SDC location of creation|2022 in Svalbard",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "78.214444",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "15.573611",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "This shows the newer parts of Longyearbyen, on the east side of the river, and in the background Adventdalen stretching away from the town on the right, below Operafjellet. To the left of Operafjellet is Mälardalen valley, and we also see a part of Hiorthfjellet on the left in the back. The peak on the right, next to the town, is Sukkertoppen. At the bottom right is the school, Longyearbyen skole, and the sports hall, Svalbardhallen.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2022-04-14 12:55:09",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "Own work by uploader, <a rel=\"nofollow\" class=\"external free\" href=\"https://bjornfree.com/\">https://bjornfree.com/</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Uspn\" title=\"User:Uspn\">Bjørn Christian Tørrissen</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Longyearbyen-as-of-2022.jpg/1280px-Longyearbyen-as-of-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m23": {
+    "record": {
+      "pageid": 106093711,
+      "ns": 6,
+      "title": "File:Nigardsbreen from afar.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4561714,
+          "width": 3700,
+          "height": 4300,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nigardsbreen_from_afar.jpg/1280px-Nigardsbreen_from_afar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1395,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/8/81/Nigardsbreen_from_afar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nigardsbreen_from_afar.jpg/1280px-Nigardsbreen_from_afar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1395,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/81/Nigardsbreen_from_afar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Nigardsbreen_from_afar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nigardsbreen_from_afar.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106093711",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2021-05-29 19:38:01",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Nigardsbreen from afar",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Self-published work|Valley glaciers in Norway|Files with coordinates missing SDC location of creation|Nigardsbreen Summer 2017",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "61.662511",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "7.257274",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Nigardsbreen from afar",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2017-08-26 13:12:39",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Carsten_Steger\" title=\"User:Carsten Steger\">Carsten Steger</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nigardsbreen_from_afar.jpg/1280px-Nigardsbreen_from_afar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m25": {
+    "record": {
+      "pageid": 3076522,
+      "ns": 6,
+      "title": "File:Norwegian.food-Smørbrød-01.jpg",
+      "index": 3,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 1208584,
+          "width": 2112,
+          "height": 2816,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg/1280px-Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 1600,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg/1280px-Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 1600,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3076522",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2007-11-12 02:28:20",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Norwegian.food-Smørbrød-01",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Open sandwiches|Smørrebrød|Flickr images reviewed by FlickreviewR|Sandwiches of Norway|Flickr images missing SDC creator|Flickr images missing SDC published in",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Smørbrød, Norwegian open sandwich",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2007-08-14",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/sdho/1118172165/\">https://www.flickr.com/photos/sdho/1118172165/</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/sdho/\">by Seansie</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg/1280px-Norwegian.food-Sm%C3%B8rbr%C3%B8d-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m26": {
+    "record": {
+      "pageid": 41582884,
+      "ns": 6,
+      "title": "File:Codfish Drying Flake, Å i Lofoten 20150608 1.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 11936176,
+          "width": 6797,
+          "height": 4855,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg/1280px-Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 857,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg/3840px-Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg/1280px-Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 857,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg/3840px-Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Codfish_Drying_Flake,_%C3%85_i_Lofoten_20150608_1.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41582884",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2015-07-14 14:49:45",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Codfish Drying Flake, Å i Lofoten 20150608 1",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Stockfish|Uploads by User:DXR|Uploads by User:DXR in 2015|Uploads by User:DXR in Nordland|Uploaded with LrMediaWiki|Files with coordinates missing SDC location of creation|Photo challenge winners|Fish racks in Å, Lofoten",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "quality",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "67.880300",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "12.977909",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Å i Lofoten, Nordland. Drying of cod fish heads. The head and the body of the cod fish are separated before drying. The heads are used for fertiliser.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2015-06-08",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:DXR\" title=\"User:DXR\">DXR</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg/1280px-Codfish_Drying_Flake%2C_%C3%85_i_Lofoten_20150608_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m29": {
+    "record": {
+      "pageid": 32958924,
+      "ns": 6,
+      "title": "File:Childrens parade in Trondheim on National day -7.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 2544029,
+          "width": 3888,
+          "height": 2592,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Childrens_parade_in_Trondheim_on_National_day_-7.jpg/1280px-Childrens_parade_in_Trondheim_on_National_day_-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 800,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Childrens_parade_in_Trondheim_on_National_day_-7.jpg/3840px-Childrens_parade_in_Trondheim_on_National_day_-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Childrens_parade_in_Trondheim_on_National_day_-7.jpg/1280px-Childrens_parade_in_Trondheim_on_National_day_-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 800,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Childrens_parade_in_Trondheim_on_National_day_-7.jpg/3840px-Childrens_parade_in_Trondheim_on_National_day_-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Childrens_parade_in_Trondheim_on_National_day_-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Childrens_parade_in_Trondheim_on_National_day_-7.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=32958924",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2014-05-24 20:32:42",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Childrens parade in Trondheim on National day -7",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Munkegata|Taken with Canon EOS 400D|Flickr images reviewed by FlickreviewR|Files with coordinates missing SDC location of creation|Norwegian Constitution Day parades|Norwegian Constitution Day in Trondheim|Photographs by Ivar Husevåg Døskeland",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "63.431150",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "10.394783",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Picture from the traditional childrens parade in Trondheim on our National day; 17. mai.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2009-05-17 10:57",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/scarto/3545324027/\">Childrens parade in Trondheim on National day #7</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/86155653@N00\">Ivar Husevåg Døskeland</a> from Oslo, Norway",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Childrens_parade_in_Trondheim_on_National_day_-7.jpg/1280px-Childrens_parade_in_Trondheim_on_National_day_-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m33": {
+    "record": {
+      "pageid": 52452680,
+      "ns": 6,
+      "title": "File:Polar bear (Ursus maritimus) in the drift ice region north of Svalbard.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 2695585,
+          "width": 2987,
+          "height": 1680,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/1280px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 675,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/1280px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 675,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_in_the_drift_ice_region_north_of_Svalbard.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52452680",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2016-10-23 12:35:03",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Polar bear (Ursus maritimus) in the drift ice region north of Svalbard",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 5D Mark II|Drift ice|Self-published work|Featured pictures of ice|Picture of week on the Czech Wikipedia|Water reflections in Svalbard|Ursus maritimus behavior|Files with coordinates missing SDC location of creation|Featured pictures of Ursus maritimus|Featured pictures by AWeith|Featured pictures of animals in Norway|Water reflections of mammals|Water reflections of ice|Side views of bears|Pictures of the Year/2016 (finalist)|Jumping bears|Photographs by AWeith|Blue, cream, white",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "quality|featured|potd|poty",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "80.985642",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "18.305775",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "This male Polar bear (<i>Ursus maritimus</i>) just had a fiasco when chasing a bearded seal. Subsequently he was restlessly searching for another prey; jumping from one ice floe to another.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2015-07-31 11:28:21",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:AWeith\" title=\"User:AWeith\">Andreas Weith</a>",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY-SA 4.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution-Share Alike 4.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-sa-4.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg/1280px-Polar_bear_%28Ursus_maritimus%29_in_the_drift_ice_region_north_of_Svalbard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "norway-m34": {
+    "record": {
+      "pageid": 48473525,
+      "ns": 6,
+      "title": "File:Aurora Tromsø Norway HP L8400 e.jpg",
+      "index": 2,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 4152930,
+          "width": 5544,
+          "height": 3840,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg/1280px-Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1200,
+          "thumbheight": 831,
+          "responsiveUrls": {
+            "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg/3840px-Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg/1280px-Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1200,
+            "height": 831,
+            "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg/3840px-Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48473525",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2016-04-30 22:50:41",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Aurora Tromsø Norway HP L8400 e",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Taken with Canon EOS 5D Mark III|FAL|Files with coordinates missing SDC location of creation|Aurora in Tromsø|Photo challenge/2016 - April - Long exposure photography",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "quality",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "69.513862",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "19.239053",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Aurora near Sørbotn/Tromsø, Norway.",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2013-02-10",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a href=\"//commons.wikimedia.org/wiki/User:Alchemist-hp\" title=\"User:Alchemist-hp\">Alchemist-hp</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Alchemist-hp\" title=\"User talk:Alchemist-hp\"><span class=\"signature-talk\">talk</span></a>)",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "FAL",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Free Art License",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://artlibre.org/licence/lal/en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg/1280px-Aurora_Troms%C3%B8_Norway_HP_L8400_e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+}

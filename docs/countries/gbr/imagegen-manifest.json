@@ -1,0 +1,98 @@
+[
+  {
+    "file": "images/01-gbr-overview.png",
+    "title": "英国概览与探索目录",
+    "states": [
+      "GB01",
+      "GB02"
+    ],
+    "prompt": "Use case: ui-mockup. Create a high fidelity original design board for the Chinese children's Flutter app 世界大百科, UK country module for age 8. Modern geographic field guide consistent with existing app: #F4F7FB background, white cards, #12395B deep sea blue, #FF9A3D orange accents, #12243A text, pale gray borders, clean simplified Chinese Noto Sans SC typography, spacious editorial layouts, 18dp body, 16dp corner radii. Real-photo-style scenic placeholders, never cartoons or mascots, no flags as decoration, no device hardware frames. All requested screens fully visible as flat artboards. Short legible Chinese labels, no filler tiny gibberish. Label generated map and scientific diagrams 示意. Photo placeholders are design imagery, not documentary evidence. Small footer 英国模块 · 界面概念设计. Square board with two complete tall portrait mobile screens. LEFT country overview hero showing the Thames in London with Westminster Palace and Elizabeth Tower in natural clear daylight, restrained deep shadow for title 英国 / UNITED KINGDOM / 沿着泰晤士河出发. White content below: 先认识英国, three facts 欧洲 / 伦敦 / 四个组成部分. Three distinct photographic route cards 沿着河流进城市, 去海岸找线索, 穿过时间看变化. Two question rows 英国和英格兰有什么不同？ and 石柱真的是巨人铺的吗？. Orange bottom CTA 从泰晤士河开始. RIGHT 英国 · 探索目录, 带着问题去探索, panorama mosaic London river, Scottish green highlands, Giant's Causeway basalt coast. Ten section tiles exactly 国家名片 / 地理与气候 / 人们与语言 / 日常生活 / 饮食与物产 / 艺术与节日 / 城市与地标 / 动物与生态 / 历史故事 / 有趣问题. Navy button 打开英国地图.",
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-a9fe2d75-4fa6-4443-aff4-a8eb05cac3b5.png",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "file": "images/02-gbr-map.png",
+    "title": "英国地图的平板与手机布局",
+    "states": [
+      "GB03",
+      "GB04"
+    ],
+    "prompt": "Use case: ui-mockup. Create a high fidelity original design board for the Chinese children's Flutter app 世界大百科, UK country module for age 8. Modern geographic field guide consistent with existing app: #F4F7FB background, white cards, #12395B deep sea blue, #FF9A3D orange accents, #12243A text, pale gray borders, clean simplified Chinese Noto Sans SC typography, spacious editorial layouts, 18dp body, 16dp corner radii. Real-photo-style scenic placeholders, never cartoons or mascots, no flags as decoration, no device hardware frames. All requested screens fully visible as flat artboards. Short legible Chinese labels, no filler tiny gibberish. Label generated map and scientific diagrams 示意. Photo placeholders are design imagery, not documentary evidence. Small footer 英国模块 · 界面概念设计. Landscape board with complete wide tablet artboard on left and complete portrait phone on right. 英国探索地图, search 找地区、河流或地点, layer tabs 地形 / 水系 / 地点. Accurate north-up British Isles overview illustrative relief: Great Britain on right with Scotland north, England south/east and Wales west, Ireland island on left with Northern Ireland ONLY its northeast corner highlighted as UK, remainder labeled 爱尔兰 neutral gray separate country. Surrounding sea pale blue. Keep all geographic labels restrained. Labels 苏格兰 英格兰 威尔士 北爱尔兰, north islands as necessary to avoid cropping. Selected orange dot 伦敦 in southeast England, blue Thames approaches east coast. Caption 地图示意. Tablet left vertical nav 发现 地图 百科 我的, right details panel river photo 泰晤士河 · 伦敦, 查看地点, 地点列表. Phone bottom nav and half-height white selected-location sheet. Never draw a straight navigational route across sea. No fictional exact map shapes; official GIS will replace illustrative map.",
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-a4e3d17d-7eac-4f26-960c-004f8f28bab0.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "file": "images/03-gbr-geology.png",
+    "title": "巨人堤阅读与照片观察",
+    "states": [
+      "GB05",
+      "GB06"
+    ],
+    "prompt": "Use case: ui-mockup. Create a high fidelity original design board for the Chinese children's Flutter app 世界大百科, UK country module for age 8. Modern geographic field guide consistent with existing app: #F4F7FB background, white cards, #12395B deep sea blue, #FF9A3D orange accents, #12243A text, pale gray borders, clean simplified Chinese Noto Sans SC typography, spacious editorial layouts, 18dp body, 16dp corner radii. Real-photo-style scenic placeholders, never cartoons or mascots, no flags as decoration, no device hardware frames. All requested screens fully visible as flat artboards. Short legible Chinese labels, no filler tiny gibberish. Label generated map and scientific diagrams 示意. Photo placeholders are design imagery, not documentary evidence. Small footer 英国模块 · 界面概念设计. Square board two full portrait screens. LEFT 英国 · 地理与气候, large 石柱真的是巨人铺的吗？, 读图 · 约4分钟. Wide Giant's Causeway coastal photo placeholder with irregular polygonal basalt columns and waves. Three-stage quiet graphic 岩浆冷却 → 收缩裂开 → 柱状岩石, label 形成示意. Distinct small callout 传说里有巨人，岩石里有线索. Question 哪条线索支持冷却开裂？ with two options 石柱间的裂缝 / 巨人的脚印. bottom local reader toolbar 目录 / 听讲解 / 收藏 / 笔记. RIGHT 北爱尔兰 · 巨人堤, close-up polygonal basalt with exactly numbered 1 on visible top polygon face and 2 on vertical crack, below title 在照片里找证据 with rows 1 看顶面的边 / 2 找石柱间的缝. Short note 石柱并不都是六边形. CTAs 在地图上找它 and 记下我的发现.",
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-02b2aa02-3e8f-44f0-9af3-4f0103f518f6.png",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "file": "images/04-gbr-history-culture.png",
+    "title": "历史线索与威尔士语言",
+    "states": [
+      "GB07",
+      "GB08"
+    ],
+    "prompt": "Use case: ui-mockup. Create a high fidelity original design board for the Chinese children's Flutter app 世界大百科, UK country module for age 8. Modern geographic field guide consistent with existing app: #F4F7FB background, white cards, #12395B deep sea blue, #FF9A3D orange accents, #12243A text, pale gray borders, clean simplified Chinese Noto Sans SC typography, spacious editorial layouts, 18dp body, 16dp corner radii. Real-photo-style scenic placeholders, never cartoons or mascots, no flags as decoration, no device hardware frames. All requested screens fully visible as flat artboards. Short legible Chinese labels, no filler tiny gibberish. Label generated map and scientific diagrams 示意. Photo placeholders are design imagery, not documentary evidence. Small footer 英国模块 · 界面概念设计. Square board two complete mobile artboards. LEFT 英国 · 历史线索 with tabs 看线索 / 看时间. Three beautifully spaced archival/real-place photographic cards 巨石阵 · 约公元前2500年; 铁路改变出行 · 1825年; 更多女性获得投票权 · 1928年. Brief small note 精选线索，不按实际年距. Bottom outlined 追问：谁的故事还没被看见？ with document icon. RIGHT 英国 · 人们与语言, title 一块路牌为什么有两种文字？. Large realistic Welsh town sign photograph mockup clearly reading Caerdydd / Cardiff, labeled 路牌示意. Short Chinese mapping 威尔士语 Caerdydd / 英语 Cardiff. Small local map locating Cardiff in south Wales marked 示意. Card 两种名字，指向同一个地方. Bottom local reader tools 目录 / 听讲解 / 收藏 / 笔记. Do not imply all UK residents speak only two languages.",
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-f27f36e5-5852-486d-8d03-5caec6ac41c0.png",
+    "width": 1312,
+    "height": 1199
+  },
+  {
+    "file": "images/05-gbr-daily-nature-v2.png",
+    "title": "伦敦日常与海鹦生态",
+    "states": [
+      "GB09",
+      "GB10"
+    ],
+    "prompt": "Use case: ui-mockup. Create a high fidelity original design board for the Chinese children's Flutter app 世界大百科, UK country module for age 8. Modern geographic field guide consistent with existing app: #F4F7FB background, white cards, #12395B deep sea blue, #FF9A3D orange accents, #12243A text, pale gray borders, clean simplified Chinese Noto Sans SC typography, spacious editorial layouts, 18dp body, 16dp corner radii. Real-photo-style scenic placeholders, never cartoons or mascots, no flags as decoration, no device hardware frames. All requested screens fully visible as flat artboards. Short legible Chinese labels, no filler tiny gibberish. Label generated map and scientific diagrams 示意. Photo placeholders are design imagery, not documentary evidence. Small footer 英国模块 · 界面概念设计. Square board two complete mobile artboards. LEFT 英国 · 日常生活, title 跟着一条河认识城市, bright photographic London Thames bridge river scene. Three editorial image-row cards 地铁线路图怎样读？ / 一座桥怎样连接两岸？ / 城市公园里有哪些邻居？. Navy button 在地图上找伦敦. RIGHT 英国 · 动物与生态, title 海鹦为什么把家安在海岸？, hero realistic Atlantic puffin on coastal grassy cliff with sea background. Simple ecological graphic 海里找食物 / 岸边育雏 marked 示意, not child approaching nest. Small evidence question 哪条线索能说明它会游泳？ two options 适合划水的脚 / 草地的颜色. bottom local reading toolbar. Bright natural greens and ocean blue balance navy orange UI.",
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-76d2bf80-96f9-4aa2-8598-11f1fca7af1f.png",
+    "width": 1536,
+    "height": 1024,
+    "iteration": {
+      "input": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-35536582-6abe-48a9-a3a4-46c7ceb6b464.png",
+      "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-76d2bf80-96f9-4aa2-8598-11f1fca7af1f.png",
+      "prompt": "Edit this UK app UI design board only on the right screen. Keep all typography, left daily-life screen, puffin photograph, navy/orange/white palette and habitat illustration. Replace quiz title with “海鹦在哪儿获得鱼类食物？” and two choices “海里” and “草地上”. Avoid the previous inference about feet or swimming. Replace right bottom toolbar with four local reading tools labeled exactly “目录 / 听讲解 / 收藏 / 笔记”. All other visual layout and Chinese text stay unchanged. No new hardware frames."
+    }
+  },
+  {
+    "file": "images/06-gbr-explore-discoveries.png",
+    "title": "探索任务与真实发现记录",
+    "states": [
+      "GB11",
+      "GB12"
+    ],
+    "prompt": "Use case: ui-mockup. Create a high fidelity original design board for the Chinese children's Flutter app 世界大百科, UK country module for age 8. Modern geographic field guide consistent with existing app: #F4F7FB background, white cards, #12395B deep sea blue, #FF9A3D orange accents, #12243A text, pale gray borders, clean simplified Chinese Noto Sans SC typography, spacious editorial layouts, 18dp body, 16dp corner radii. Real-photo-style scenic placeholders, never cartoons or mascots, no flags as decoration, no device hardware frames. All requested screens fully visible as flat artboards. Short legible Chinese labels, no filler tiny gibberish. Label generated map and scientific diagrams 示意. Photo placeholders are design imagery, not documentary evidence. Small footer 英国模块 · 界面概念设计. Square board two complete mobile screens. LEFT 英国 · 探索任务, heading 当一回海岛观察员, three spacious categories 找地点 / 看照片 / 找证据 with restrained map, lens, page icons and photographs. Tasks 在地图上找到北爱尔兰 / 给巨人堤的石柱数边 / 区分钟与钟楼. Small section 开放观察 with card 两座桥有哪些不同？. Button 去看看我的发现. RIGHT 我的英国发现 EMPTY STATE, no fabricated progress. Three stat cells 读过0篇 / 看过0处 / 记下0条. Main quiet notebook outline, 你的第一个发现，等你写下来. Preview source card 巨人堤 · 观察石柱 with coastal thumbnail. Orange 从一条观察开始. White outlined 继续探索英国. No badges or reward pressure, no made-up saved notes.",
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-e39a38c5-e86c-45c3-a6b6-3e3e731edeff.png",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "file": "images/07-gbr-journey-observation.png",
+    "title": "海岸路线与观察记录表单",
+    "states": [
+      "GB13",
+      "GB14"
+    ],
+    "prompt": "Use case: ui-mockup. Create a high fidelity original design board for the Chinese children's Flutter app 世界大百科, UK country module for age 8. Modern geographic field guide consistent with existing app: #F4F7FB background, white cards, #12395B deep sea blue, #FF9A3D orange accents, #12243A text, pale gray borders, clean simplified Chinese Noto Sans SC typography, spacious editorial layouts, 18dp body, 16dp corner radii. Real-photo-style scenic placeholders, never cartoons or mascots, no flags as decoration, no device hardware frames. All requested screens fully visible as flat artboards. Short legible Chinese labels, no filler tiny gibberish. Label generated map and scientific diagrams 示意. Photo placeholders are design imagery, not documentary evidence. Small footer 英国模块 · 界面概念设计. Square board two complete portrait mobile screens. LEFT 英国 · 探索路线, title 去海岸找线索, panoramic Jurassic Coast chalk cliffs bright sea placeholder. Three separate ordered accessible cards 1 多塞特海岸 · 岩层里的过去 / 2 巨人堤 · 冷却留下的裂缝 / 3 斯科默岛 · 海鹦的海岸生活. Small note 阅读顺序，不是旅行路线. Orange 从第一站开始. RIGHT 记下我的发现, source photo small Giant's Causeway with label 巨人堤 · 石柱观察. Three EMPTY outlined multiline inputs 我看见 / 我猜想 / 我还想知道. Helper 任意写下一项就能保存, 草稿会保留在这台设备. Bottom disabled pale gray 保存我的发现. Back affordance, no fabricated input, no enabled save while empty.",
+    "mode": "built-in image_gen",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-ce24b164-acd3-4822-8e31-2c89bc8c0dd5.png",
+    "width": 1312,
+    "height": 1199
+  }
+]

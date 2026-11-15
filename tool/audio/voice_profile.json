@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "voiceId": "friendly-guide-v1",
+  "displayName": "亲切向导",
+  "selectionStatus": "userConfirmed",
+  "confirmedAt": "2026-11-14",
+  "engine": "cosyvoice",
+  "modelId": "FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
+  "modelRevision": "29e01c4e8d000f4bcd70751be16fa94bf3d85a18",
+  "referenceAudio": "tool/audio/friendly_guide_reference.wav",
+  "referenceSha256": "c7b31d6dbe7cc6a716dded00550db5b50940bf209e424e4ad207b12e657c8ff6",
+  "referenceSource": "CosyVoice/asset/zero_shot_prompt.wav",
+  "instruct": "请用温暖亲切的普通话讲解，像带着小朋友参观的向导，自然交流，句间留出停顿。",
+  "language": "zh",
+  "seed": 42,
+  "effect_preset": "raw",
+  "denoise": false,
+  "approvedStyleDemo": "/Users/penn/Documents/Codex/VoiceStudio/local/samples/roles/01-guide.wav"
+}

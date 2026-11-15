@@ -1,0 +1,107 @@
+[
+  {
+    "file": "images/01-fra-overview-v2.png",
+    "title": "法国概览与目录",
+    "states": [
+      "FR01",
+      "FR02"
+    ],
+    "mode": "built-in image_gen",
+    "prompt": "Use case: ui-mockup. High fidelity polished Chinese children's geographic encyclopedia Flutter app 世界大百科, for age 8. Modern photographic geographic field guide. White backgrounds, pale #F4F7FB panels, deep navy #12395B typography, orange #FF9A3D action buttons. Clean Noto Sans SC Chinese, generous 18dp reading size, 16dp card radius, restrained editorial layout, elegant line icons. NOT cartoon, no mascots, no flag decoration, no device frames or perspective. TWO complete flat mobile artboards side by side on pale background, each 390x844 proportions. All screens fully visible. Short exact readable simplified Chinese text, no lorem ipsum or dense fake text. Photorealistic scenic image placeholders inside UI; tiny board footer 法国模块 · 界面概念设计. Any map is labeled 示意. Photos are concept placeholders for later licensed photography. Consistent reader bottom bar 目录 / 听讲解 / 收藏 / 笔记. LEFT overview: spectacular daytime photograph of Paris Seine riverside with Eiffel Tower in credible distance, blue sky and riverside trees. Title 法国 / FRANCE / 从塞纳河走向山海. Below white rounded content 先认识法国. Fact strip 巴黎 / 欧洲与海外 / 法语. Three photographic route cards 河岸里的城市, 山海的变化, 物件里的时间. Two question rows 海水为什么会回来？ and 法国只在欧洲吗？. Orange fixed bottom CTA 从塞纳河开始. RIGHT 法国 · 探索目录, subtitle 带着问题去探索, three photo mosaic Paris river, Mont Saint Michel tidal island, Alpine glacier. Ten balanced tiles exactly 国家名片 / 地理与气候 / 人们与语言 / 日常生活 / 饮食与物产 / 艺术与节日 / 城市与地标 / 动物与生态 / 历史故事 / 有趣问题. Navy action 打开法国地图. Keep overview not overcrowded.",
+    "editPrompt": "Edit this two-screen France UI design board. Preserve all photographs, typography, colors, spacing, cards and composition. Only correct navigation and two copy details. BOTH screens are COUNTRY overview / contents screens, NOT article readers: remove the bottom reader toolbar 目录 听讲解 收藏 笔记 entirely on both screens; use the vacated area as calm white breathing space below the CTA, do not introduce a different toolbar. Replace 法语 主要语言 with 法语 官方语言. Replace the overview paragraph with 法国在欧洲和海外都有地区。沿着河流认识城市，再去发现山海与生活。. Remove tiny 示意 badge from 打开法国地图 button; retain footer 法国模块 · 界面概念设计. Keep everything else unchanged.",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-701ef96e-bb42-47b4-bbf9-6da0628fd817.png",
+    "status": "待用户确认，非运行截图",
+    "width": 1263,
+    "height": 1246
+  },
+  {
+    "file": "images/02-fra-map-v2.png",
+    "title": "欧洲与海外地图",
+    "states": [
+      "FR03",
+      "FR04"
+    ],
+    "mode": "built-in image_gen",
+    "prompt": "Use case: ui-mockup. High fidelity polished Chinese children's geographic encyclopedia Flutter app 世界大百科, for age 8. Modern photographic geographic field guide. White backgrounds, pale #F4F7FB panels, deep navy #12395B typography, orange #FF9A3D action buttons. Clean Noto Sans SC Chinese, generous 18dp reading size, 16dp card radius, restrained editorial layout, elegant line icons. NOT cartoon, no mascots, no flag decoration, no device frames or perspective. TWO complete flat mobile artboards side by side on pale background, each 390x844 proportions. All screens fully visible. Short exact readable simplified Chinese text, no lorem ipsum or dense fake text. Photorealistic scenic image placeholders inside UI; tiny board footer 法国模块 · 界面概念设计. Any map is labeled 示意. Photos are concept placeholders for later licensed photography. Consistent reader bottom bar 目录 / 听讲解 / 收藏 / 笔记. Override board: landscape wide tablet artboard left, complete portrait phone right. Both title 法国探索地图. Tablet left nav 发现 地图 百科 我的. Main accurate north-up illustrative relief of European France INCLUDING Corsica, nearby Spain Italy Switzerland and Channel for context. Highlight Seine in blue, Paris selected orange in north-central France. Layers 地形 / 水系 / 地点. Geographic range tabs 欧洲部分 / 海外地区, tiny subtitle 各地区分别查看. Right detail panel 塞纳河 · 巴黎 with river photo, 查看地点. PHONE shows selected 海外地区 tab: schematic world locator small map with clearly separated geographic regions NOT inset islands pasted onto European France. Three region cards with miniature location maps and labels 加勒比海 / 南美洲 / 印度洋, selected 留尼汪, detail volcano photo 留尼汪 · 富尔奈斯火山 and 查看地点. Footer 本页展示五个海外省级地区，不代表全部海外领地. No arbitrary connecting routes, no claims one scale covers all maps. Label all geography 地图示意.",
+    "editPrompt": "Edit this France tablet and phone map UI board. Preserve map composition, all geography, layout, colors, photographs, region selector and detail panel. Correct navigation ONLY: tablet already has left rail 发现 地图 百科 我的 so REMOVE its bottom reader toolbar 目录 听讲解 收藏 笔记, extend map white panel slightly down into that space. On PHONE replace bottom reader toolbar with global navigation 发现 / 地图 / 百科 / 我的, with 地图 selected orange and correct compass/map/book/profile line icons. Do not put article reader actions on a map. Keep all other content and explicit 地图示意 labels unchanged. Also remove fabricated exact altitude legend from tablet, use a small simple legend 山地 / 平原 instead; retain 示意 on scale.",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-bcbe1506-7c80-44cf-b3fc-6ea14d396cc7.png",
+    "status": "待用户确认，非运行截图",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "file": "images/03-fra-tides.png",
+    "title": "潮汐阅读与地点观察",
+    "states": [
+      "FR05",
+      "FR06"
+    ],
+    "mode": "built-in image_gen",
+    "prompt": "Use case: ui-mockup. High fidelity polished Chinese children's geographic encyclopedia Flutter app 世界大百科, for age 8. Modern photographic geographic field guide. White backgrounds, pale #F4F7FB panels, deep navy #12395B typography, orange #FF9A3D action buttons. Clean Noto Sans SC Chinese, generous 18dp reading size, 16dp card radius, restrained editorial layout, elegant line icons. NOT cartoon, no mascots, no flag decoration, no device frames or perspective. TWO complete flat mobile artboards side by side on pale background, each 390x844 proportions. All screens fully visible. Short exact readable simplified Chinese text, no lorem ipsum or dense fake text. Photorealistic scenic image placeholders inside UI; tiny board footer 法国模块 · 界面概念设计. Any map is labeled 示意. Photos are concept placeholders for later licensed photography. Consistent reader bottom bar 目录 / 听讲解 / 收藏 / 笔记. LEFT reader title 海水为什么会回来？ under 法国 · 地理与气候. Photo Mont Saint Michel abbey rocky island and tidal bay, not floating castle. Two-panel ORIGINAL scientific concept graphic labeled 同一海湾 · 示意; same rock and perspective with exposed flats at left 低潮, more water at right 高潮; clear blue water levels, no real date labels or invented data. Brief line 潮汐让海水高度有规律地变化. Inline question 哪种比较更可靠？ options 同一地点的不同潮位 / 两个地点的不同天气. Bottom reader bar. RIGHT place title 圣米歇尔山与海湾. Large low tide photo style with numbered hotpoints 1 on rock and 2 on tidal flats, two thumbnails 全景 / 细节. heading 先找岩岛，再看潮滩, short fact 照片中的水位只代表拍摄时刻. Navy 在地图上找它; outlined orange 记下我的发现. Small sensible note 观察潮滩须遵守现场规定. No tide timetable.",
+    "editPrompt": null,
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-f32eb2a7-e6db-45ad-a0f5-d0f55de746cf.png",
+    "status": "待用户确认，非运行截图",
+    "width": 1261,
+    "height": 1247
+  },
+  {
+    "file": "images/04-fra-art-history-v2.png",
+    "title": "看画与历史线索",
+    "states": [
+      "FR07",
+      "FR08"
+    ],
+    "mode": "built-in image_gen",
+    "prompt": "Use case: ui-mockup. High fidelity polished Chinese children's geographic encyclopedia Flutter app 世界大百科, for age 8. Modern photographic geographic field guide. White backgrounds, pale #F4F7FB panels, deep navy #12395B typography, orange #FF9A3D action buttons. Clean Noto Sans SC Chinese, generous 18dp reading size, 16dp card radius, restrained editorial layout, elegant line icons. NOT cartoon, no mascots, no flag decoration, no device frames or perspective. TWO complete flat mobile artboards side by side on pale background, each 390x844 proportions. All screens fully visible. Short exact readable simplified Chinese text, no lorem ipsum or dense fake text. Photorealistic scenic image placeholders inside UI; tiny board footer 法国模块 · 界面概念设计. Any map is labeled 示意. Photos are concept placeholders for later licensed photography. Consistent reader bottom bar 目录 / 听讲解 / 收藏 / 笔记. LEFT 法国 · 历史线索. Three clean vertical timeline cards spaced editorially not proportional: 1789 权利的文字 with archival document style; 1889 铁塔与博览会 with historical Eiffel construction photo style; 1944—1945 投票资格的变化 with archive paper style. Short sentence 法律写下的权利，怎样逐步成为现实？. Buttons 读一份档案 / 看时间线. No claim equality immediately universal. RIGHT reader 一幅画怎样留下光？ under 法国 · 艺术与节日. Large soft impressionist-style generic original river painting explicitly caption 原创练习图，不是馆藏作品. Two cropped details warm/cool light, labels 看颜色 / 看笔触. Question 卡片 哪些是画面里看见的？; no definitive artist intent. Button 写下我的观察. Reader bottom bar.",
+    "editPrompt": "Make one precise correction to this two-screen France app design board. Preserve absolutely all photos, typography, colors, card positions and text. LEFT screen is a chapter/index page, not an article reader: REMOVE ONLY its bottom four-item reader toolbar 目录 / 听讲解 / 收藏 / 笔记; replace that strip with clean white breathing space. Keep the RIGHT screen's four-item reader toolbar exactly unchanged because it is a reader. Keep the full two artboards, footer and all other design details unchanged.",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-c65bca11-871f-4776-a713-080f3b0923bc.png",
+    "status": "待用户确认，非运行截图",
+    "width": 1261,
+    "height": 1247
+  },
+  {
+    "file": "images/05-fra-daily-nature-v2.png",
+    "title": "城市日常与冰川阅读",
+    "states": [
+      "FR09",
+      "FR10"
+    ],
+    "mode": "built-in image_gen",
+    "prompt": "Use case: ui-mockup. High fidelity polished Chinese children's geographic encyclopedia Flutter app 世界大百科, for age 8. Modern photographic geographic field guide. White backgrounds, pale #F4F7FB panels, deep navy #12395B typography, orange #FF9A3D action buttons. Clean Noto Sans SC Chinese, generous 18dp reading size, 16dp card radius, restrained editorial layout, elegant line icons. NOT cartoon, no mascots, no flag decoration, no device frames or perspective. TWO complete flat mobile artboards side by side on pale background, each 390x844 proportions. All screens fully visible. Short exact readable simplified Chinese text, no lorem ipsum or dense fake text. Photorealistic scenic image placeholders inside UI; tiny board footer 法国模块 · 界面概念设计. Any map is labeled 示意. Photos are concept placeholders for later licensed photography. Consistent reader bottom bar 目录 / 听讲解 / 收藏 / 笔记. LEFT 法国 · 日常生活, heading 城市里的一天. Paris neighborhood bakery street large daylight photo. Three spacious horizontal photo cards 地铁里的换乘 / 市场里的标签 / 河岸边的步道. Small info 每张照片，只是生活的一个片段. Bottom navy 看看巴黎在哪里. RIGHT reader 冰川是一动不动的吗？ under 法国 · 动物与生态. Wide Alpine Mer de Glace style glacier flowing between rocky mountains, authentic ice and debris not pure bright snow field. Original schematic three connected stages 雪的积累 → 冰的形成 → 缓慢流动, label 示意，不按真实比例. Inline question 想知道冰川怎样变化，应看什么？ options 同地点多次测量 / 只看今天一张照片. Footer 目录 听讲解 收藏 笔记. No fabricated dated comparison image.",
+    "editPrompt": "Make one precise correction to this two-screen France app design board. Preserve absolutely all photos, typography, colors, card positions and text. LEFT screen is a chapter/index page, not an article reader: REMOVE ONLY its bottom four-item reader toolbar 目录 / 听讲解 / 收藏 / 笔记; replace that strip with clean white breathing space. Keep the RIGHT screen's four-item reader toolbar exactly unchanged because it is a reader. Keep the full two artboards, footer and all other design details unchanged.",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-ccee07dc-a374-4df9-af52-6652199293bb.png",
+    "status": "待用户确认，非运行截图",
+    "width": 1261,
+    "height": 1247
+  },
+  {
+    "file": "images/06-fra-explore-discoveries-v2.png",
+    "title": "探索任务与我的发现",
+    "states": [
+      "FR11",
+      "FR12"
+    ],
+    "mode": "built-in image_gen",
+    "prompt": "Use case: ui-mockup. High fidelity polished Chinese children's geographic encyclopedia Flutter app 世界大百科, for age 8. Modern photographic geographic field guide. White backgrounds, pale #F4F7FB panels, deep navy #12395B typography, orange #FF9A3D action buttons. Clean Noto Sans SC Chinese, generous 18dp reading size, 16dp card radius, restrained editorial layout, elegant line icons. NOT cartoon, no mascots, no flag decoration, no device frames or perspective. TWO complete flat mobile artboards side by side on pale background, each 390x844 proportions. All screens fully visible. Short exact readable simplified Chinese text, no lorem ipsum or dense fake text. Photorealistic scenic image placeholders inside UI; tiny board footer 法国模块 · 界面概念设计. Any map is labeled 示意. Photos are concept placeholders for later licensed photography. Consistent reader bottom bar 目录 / 听讲解 / 收藏 / 笔记. LEFT 法国 · 探索任务, heading 今天想发现什么？ tidal bay photo hero, four category chips 找地图 / 看照片 / 找证据 / 写观察. Three actionable task rows 在地图上找科西嘉, 在岩层中找条带, 区分看见与猜想; small 推荐从这里开始. No points, gamified streaks or badges. RIGHT 我的法国发现 empty state, Paris river narrow banner, clear counters 读过 0篇 / 看过 0处 / 记录 0条. Elegant empty notebook icon, text 第一条发现，从一个问题开始. Orange 去探索法国. Below two recommended image cards 去看潮汐 / 去看冰川. Do not fabricate progress or children's sample notes.",
+    "editPrompt": "Edit this two-screen France design board with only these precise corrections, preserving all other layout, typography, colors and imagery. BOTH pages are country task/discovery pages, not article readers: remove their bottom reader toolbars 目录 听讲解 收藏 笔记, leaving white breathing space. On LEFT change second recommended task text 在岩层中找条带 to 在熔岩上找纹理 and replace its tiny folded sedimentary strata thumbnail with a close-up photo-style dark solidified basalt lava surface with rough rope-like textures. No glowing molten lava. Keep all real progress counters zero and everything else unchanged.",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-bc283e4c-ccca-4b3c-996f-bada236f1461.png",
+    "status": "待用户确认，非运行截图",
+    "width": 1268,
+    "height": 1241
+  },
+  {
+    "file": "images/07-fra-journey-note-v2.png",
+    "title": "山海路线与观察记录",
+    "states": [
+      "FR13",
+      "FR14"
+    ],
+    "mode": "built-in image_gen",
+    "prompt": "Use case: ui-mockup. High fidelity polished Chinese children's geographic encyclopedia Flutter app 世界大百科, for age 8. Modern photographic geographic field guide. White backgrounds, pale #F4F7FB panels, deep navy #12395B typography, orange #FF9A3D action buttons. Clean Noto Sans SC Chinese, generous 18dp reading size, 16dp card radius, restrained editorial layout, elegant line icons. NOT cartoon, no mascots, no flag decoration, no device frames or perspective. TWO complete flat mobile artboards side by side on pale background, each 390x844 proportions. All screens fully visible. Short exact readable simplified Chinese text, no lorem ipsum or dense fake text. Photorealistic scenic image placeholders inside UI; tiny board footer 法国模块 · 界面概念设计. Any map is labeled 示意. Photos are concept placeholders for later licensed photography. Consistent reader bottom bar 目录 / 听讲解 / 收藏 / 笔记. LEFT 法国 · 探索路线. heading 山海的变化. Alpine landscape header. Three vertical photo station cards 1 圣米歇尔山 · 潮汐, 2 阿尔卑斯 · 冰川, 3 留尼汪 · 火山. Each short question. Explicit label 阅读顺序，不是交通路线. Orange 从第一站开始. No drawn straight geographical travel line. RIGHT 记下我的发现, a cropped tidal bay material photo with caption 圣米歇尔山 · 观察材料, source info icon. Three generously spaced empty input fields 我看见 / 我猜想 / 我还想知道, hint 请写下自己的发现 only as placeholder no prefilled answer. Small note 写一项也可以. Sticky bottom disabled gray 保存我的发现 because fields empty, subtle 草稿自动保留. White clean spacious interface.",
+    "editPrompt": "Edit this two-screen France journey and observation form design board. Preserve all visual composition, images, typography, colors, input fields and action buttons. REMOVE ONLY the bottom four-icon reader toolbar 目录 听讲解 收藏 笔记 from BOTH screens because neither is an article reader, leaving white breathing space below main actions. On RIGHT change 草稿自动保留 to 草稿保存在本机 and replace cloud icon by simple outlined document icon. Keep all inputs empty with gray placeholders and 保存我的发现 button disabled gray. Do not alter anything else.",
+    "source": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-f2e27980-3b86-46c8-a7dc-bec0d75568de.png",
+    "status": "待用户确认，非运行截图",
+    "width": 1269,
+    "height": 1239
+  }
+]

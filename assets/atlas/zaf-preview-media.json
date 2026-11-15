@@ -1,0 +1,35 @@
+{
+  "coast": {
+    "title": "CapeTownPanoramaFromTableMountain.jpg",
+    "author": "Fcatarinella",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:CapeTownPanoramaFromTableMountain.jpg",
+    "date": "2009-01-15",
+    "sha256": "cbe5f9cc0ebe8a60ab853037cea63cb87a0d8fa111fb0fbcfb93557eefe30036",
+    "processing": "来源缩略图，界面按容器裁切；原文件未修改",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/CapeTownPanoramaFromTableMountain.jpg/960px-CapeTownPanoramaFromTableMountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20090124145909"
+  },
+  "city": {
+    "title": "Johannesburg Skyline.jpg",
+    "author": "Chris7cn",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Johannesburg_Skyline.jpg",
+    "date": "2006-12-13",
+    "sha256": "c38ef593924f7e6cb3c20f0fcdc637c09c3bf9c0f2891a007490335f278de738",
+    "processing": "来源缩略图，界面按容器裁切；原文件未修改",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Johannesburg_Skyline.jpg/960px-Johannesburg_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20101219153719"
+  },
+  "penguins": {
+    "title": "African penguins at Boulders Beach.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:African_penguins_at_Boulders_Beach.jpg",
+    "date": "2017-11-07",
+    "sha256": "2bd4dc7a1146715434d5b27c5e1912579886db9c5faf1c9bdb114410a8730b71",
+    "processing": "来源缩略图，界面按容器裁切；原文件未修改",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/African_penguins_at_Boulders_Beach.jpg/960px-African_penguins_at_Boulders_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20181002163509"
+  }
+}

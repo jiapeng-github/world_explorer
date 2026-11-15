@@ -1,0 +1,53 @@
+name: world_explorer
+description: 世界大百科 — 写给好奇孩子的现代地理图鉴
+publish_to: none
+version: 0.8.0+8
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  shared_preferences: ^2.5.6
+  flutter_tts: ^4.2.5
+  audioplayers: ^6.8.1
+  cupertino_icons: ^1.0.8
+  go_router: ^18.1.2
+  drift: ^2.35.3
+  drift_flutter: ^0.3.1
+  http: ^1.6.0
+  crypto: ^3.0.8
+  file_selector: ^1.1.0
+  share_plus: ^13.3.1
+  package_info_plus: ^10.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# macOS already provides SQLite. Android continues to bundle the pinned upstream
+# binary, so no dependency is added on private Android system libraries.
+hooks:
+  user_defines:
+    sqlite3:
+      source:
+        macos: system
+        default: sqlite3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/content/
+    - assets/images/
+    - assets/maps/
+    - assets/photos/
+    - assets/atlas/
+    - assets/audio/
+  fonts:
+    - family: NotoSansSC
+      fonts:
+        - asset: assets/images/NotoSansSC.ttf

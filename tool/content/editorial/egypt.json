@@ -1,0 +1,3385 @@
+{
+  "country": {
+    "id": "egypt",
+    "revision": 2,
+    "coverage": "editorial",
+    "tagline": "尼罗河畔，从古迹走到今天",
+    "intro": "一条河穿过沙漠，沿着它能看见田野、城市和石头遗迹。我们先从水往哪里流开始，再看今天的埃及人怎样在这片土地上生活。",
+    "takeaways": [
+      "埃及大部分领土在非洲东北部，西奈半岛位于亚洲。",
+      "尼罗河在埃及向北流，在三角洲分汊进入地中海。",
+      "古迹、街景、餐桌和水下世界，讲的是埃及不同的侧面。"
+    ],
+    "sections": {
+      "overview": [
+        "egypt-where",
+        "egypt-two-seas",
+        "egypt-first-look"
+      ],
+      "geography": [
+        "egypt-geography",
+        "egypt-nile-delta",
+        "egypt-desert-oasis"
+      ],
+      "people": [
+        "egypt-people",
+        "egypt-arabic",
+        "egypt-nubian"
+      ],
+      "daily": [
+        "egypt-cairo-streets",
+        "egypt-aswan-crossing",
+        "egypt-canal-life"
+      ],
+      "food": [
+        "egypt-food",
+        "egypt-breakfast",
+        "egypt-dates"
+      ],
+      "culture": [
+        "egypt-culture",
+        "egypt-papyrus",
+        "egypt-ramadan-lantern"
+      ],
+      "landmarks": [
+        "egypt-karnak-columns",
+        "egypt-abusimbel-move",
+        "egypt-alexandria-library"
+      ],
+      "nature": [
+        "egypt-nature",
+        "egypt-redsea-reef",
+        "egypt-whale-valley"
+      ],
+      "history": [
+        "egypt-history",
+        "egypt-thebes-twobanks",
+        "egypt-rosetta-stone"
+      ],
+      "questions": [
+        "egypt-explore",
+        "egypt-two-photos",
+        "egypt-protect-heritage"
+      ]
+    },
+    "sources": [
+      {
+        "title": "埃及国家信息服务 · Basic Information",
+        "url": "https://sis.gov.eg/en/egypt/basic-information/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NASA · The Nile",
+        "url": "https://science.nasa.gov/photojournal/the-nile/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "Nile Bend, Egypt",
+        "url": "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NASA · The Nile Delta’s Disappearing Farmland",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-nile-deltas-disappearing-farmland-149183/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "UNESCO · 孟菲斯与吉萨至达赫舒尔金字塔遗址",
+        "url": "https://whc.unesco.org/en/list/86/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "埃及文物部门 · 狮身人面像",
+        "url": "https://egymonuments.gov.eg/monuments/the-great-sphinx/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "UNESCO · 古底比斯与墓地",
+        "url": "https://whc.unesco.org/en/list/87/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "UNESCO · 开罗历史城区",
+        "url": "https://whc.unesco.org/en/list/89/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "苏伊士运河管理局 · About Suez Canal",
+        "url": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "UNESCO 非遗 · 库沙里的日常饮食实践",
+        "url": "https://ich.unesco.org/en/RL/koshary-daily-life-dish-and-practices-associated-with-it-02278",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "Experience Egypt · Culture",
+        "url": "https://www.experienceegypt.eg/en/home/Culture",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "UNESCO · 努比亚遗址",
+        "url": "https://whc.unesco.org/en/list/88/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "阿布辛拜勒迁建记",
+        "url": "https://whc.unesco.org/en/story-abu-simbel/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "埃及文物部门 · 阿布辛拜勒",
+        "url": "https://egymonuments.gov.eg/archaeological-sites/abu-simbel/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "埃及文物部门 · 象岛",
+        "url": "https://egymonuments.gov.eg/archaeological-sites/elephantine-1/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "官方旅游阿斯旺手册",
+        "url": "https://www.experienceegypt.eg/files/Aswan%20English.pdf",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "UNESCO 非遗 · 阿拉伯书法",
+        "url": "https://ich.unesco.org/en/RL/arabic-calligraphy-knowledge-skills-and-practices-01718",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "大都会艺术博物馆 · Papyrus-Making in Egypt",
+        "url": "https://www.metmuseum.org/essays/papyrus-making-in-egypt",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "埃及文物部门 · 卡纳克",
+        "url": "https://egymonuments.gov.eg/archaeological-sites/karnak/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "王家谷",
+        "url": "https://egymonuments.gov.eg/archaeological-sites/valley-of-the-kings",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "菲莱",
+        "url": "https://egymonuments.gov.eg/en/archaeological-sites/philae/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "UNESCO 非遗 · 椰枣树知识与手艺",
+        "url": "https://ich.unesco.org/en/RL/date-palm-knowledge-skills-traditions-and-practices-01902",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "FAO · 锡瓦用水与农业项目",
+        "url": "https://www.fao.org/egypt/news/detail/FAO-launches-a-monitoring-system-for-water-consumption-and-productivity-in-Newly-Reclaimed-Areas-in-Siwa/en",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "FAO · 灌溉用水案例",
+        "url": "https://www.fao.org/4/t0667e/t0667e06.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "Bibliotheca Alexandrina · 图书馆介绍",
+        "url": "https://www.bibalex.org/en/Page/About/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "启用资料",
+        "url": "https://www.bibalex.org/TWAS-AREP/en/AboutUs/TWASVenue.aspx",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "埃及国家信息服务 · 穆罕默德角",
+        "url": "https://sis.gov.eg/en/egypt/tourism/environmental-tourism/ras-muhamed-park/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NOAA · 珊瑚礁栖息地",
+        "url": "https://oceanservice.noaa.gov/facts/coral_species.html",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "UNESCO · 鲸鱼谷",
+        "url": "https://whc.unesco.org/en/list/1186",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "埃及国家信息服务 · 斋月风俗",
+        "url": "https://africa.sis.gov.eg/fran%C3%A7ais/actualit%C3%A9s/articles-et-rapports/le-ramadan-en-egypte-un-mois-%C3%A0-la-saveur-tr%C3%A8s-sp%C3%A9ciale/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "大英博物馆 · 古文字展览教育资料",
+        "url": "https://www.britishmuseum.org/sites/default/files/2022-10/Hieroglyphs_unlocking_ancient_Egypt_12_exhibition_highlights_in_plain_English_10_10.pdf",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "教师指南",
+        "url": "https://www.britishmuseum.org/sites/default/files/2022-10/Guide_for_teachers_Hieroglyphs_unlocking_ancient_Egypt_The_British_Museum.pdf",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "egypt-timeline-giza",
+        "period": "古王国时期 · 约 4500 年前",
+        "title": "吉萨高原上的金字塔",
+        "body": "古埃及王室在吉萨建造金字塔和周围的建筑。今天我们可以从石块、斜面与遗址位置寻找线索。",
+        "mediaId": "egypt-giza",
+        "articleIds": [
+          "egypt-history"
+        ]
+      },
+      {
+        "id": "egypt-timeline-thebes",
+        "period": "新王国时期的扩建",
+        "title": "尼罗河两岸的古底比斯",
+        "body": "从新王国时期的神庙与墓葬看，尼罗河东岸与西岸保留了不同用途的遗迹。",
+        "mediaId": "egypt-karnak",
+        "articleIds": [
+          "egypt-thebes-twobanks",
+          "egypt-karnak-columns"
+        ]
+      },
+      {
+        "id": "egypt-timeline-cairo",
+        "period": "公元 969 年",
+        "title": "开罗历史城区的开端",
+        "body": "开罗历史城区的形成可以追溯到十世纪。不同年代的建筑在今天的街巷中仍留下线索。",
+        "mediaId": "egypt-muizz",
+        "articleIds": [
+          "egypt-cairo-streets"
+        ]
+      },
+      {
+        "id": "egypt-timeline-rescue",
+        "period": "1960—1980 年国际行动",
+        "title": "把遗迹留给后来的人",
+        "body": "国际救援行动保护了多处努比亚遗址。阿布辛拜勒在行动期间被迁往高处。",
+        "mediaId": "egypt-abu-simbel",
+        "articleIds": [
+          "egypt-abusimbel-move",
+          "egypt-protect-heritage"
+        ]
+      }
+    ],
+    "editorial": {
+      "subtitle": "从尼罗河看埃及",
+      "introduction": "沿着水、城市和石头留下的线索去发现。",
+      "startLabel": "从尼罗河开始",
+      "startJourneyId": "nile",
+      "questionArticleIds": [
+        "egypt-geography",
+        "egypt-history"
+      ],
+      "factOverrides": [
+        {
+          "label": "位置",
+          "value": "非洲东北部"
+        },
+        {
+          "label": "首都",
+          "value": "开罗"
+        },
+        {
+          "label": "货币",
+          "value": "埃及镑"
+        }
+      ],
+      "directoryTitle": "埃及 · 探索目录",
+      "featuredDirectoryPlaceId": "nile-delta",
+      "timelineTitle": "埃及 · 历史线索",
+      "explore": {
+        "mediaId": "egypt-giza",
+        "featuredTaskIds": [
+          "egypt-find-delta",
+          "egypt-giza-photo-check",
+          "egypt-first-look-check"
+        ],
+        "categories": [
+          {
+            "id": "location",
+            "title": "找地图",
+            "mediaId": "egypt-delta-02"
+          },
+          {
+            "id": "observation",
+            "title": "看照片",
+            "mediaId": "egypt-giza-blocks"
+          },
+          {
+            "id": "choice",
+            "title": "找证据",
+            "mediaId": "egypt-rosetta-stone"
+          }
+        ]
+      },
+      "discoveries": {
+        "mediaId": "nile-aswan",
+        "recommendedPlaceIds": [
+          "nile-delta",
+          "egypt-cairo-historic"
+        ]
+      },
+      "journeys": [
+        {
+          "id": "nile",
+          "title": "沿着尼罗河",
+          "subtitle": "从阿斯旺往北，找开罗、绿色农田和入海的三角洲。",
+          "mediaId": "nile-aswan",
+          "articleIds": [
+            "egypt-geography",
+            "egypt-people",
+            "egypt-nile-delta"
+          ],
+          "stopTitles": [
+            "认识河谷",
+            "看城市和河流",
+            "找到三角洲"
+          ],
+          "coverTitle": "从河谷到地中海"
+        },
+        {
+          "id": "today",
+          "title": "走进今天",
+          "subtitle": "走进开罗的街道，看看餐桌、文字和日常。",
+          "mediaId": "egypt-cairo",
+          "articleIds": [
+            "egypt-cairo-streets",
+            "egypt-food",
+            "egypt-aswan-crossing"
+          ],
+          "stopTitles": [
+            "看看开罗街景",
+            "认一碗库沙里",
+            "沿河去看一座岛"
+          ],
+          "coverTitle": "从街头到河岸"
+        },
+        {
+          "id": "civilization",
+          "title": "追寻文明",
+          "subtitle": "从吉萨的石块，到石碑上的文字和保护遗产的人。",
+          "mediaId": "egypt-karnak",
+          "articleIds": [
+            "egypt-history",
+            "egypt-papyrus",
+            "egypt-abusimbel-move"
+          ],
+          "stopTitles": [
+            "在吉萨找线索",
+            "观察纸莎草",
+            "把神庙搬到高处"
+          ],
+          "coverTitle": "从古迹到保护"
+        }
+      ],
+      "sections": {
+        "overview": {
+          "title": "国家名片",
+          "summary": "先在世界地图上找到埃及，再看看它的海、河流和城市。",
+          "mediaId": "egypt-giza"
+        },
+        "geography": {
+          "title": "地理与气候",
+          "summary": "一条河穿过大片干旱土地，向北在地中海边展开。",
+          "mediaId": "egypt-siwa"
+        },
+        "people": {
+          "title": "人们与语言",
+          "summary": "从一块街牌和一座博物馆，认识不同年代、不同地方的人。",
+          "mediaId": "egypt-arabic-sign"
+        },
+        "daily": {
+          "title": "今天的人们怎样生活？",
+          "summary": "在开罗的街市、阿斯旺的河岸和苏伊士运河，看看今天的人怎样生活。",
+          "mediaId": "egypt-cairo",
+          "primaryArticleId": "egypt-cairo-streets",
+          "primaryLabel": "继续看今天的埃及",
+          "relatedArticleId": "egypt-food"
+        },
+        "food": {
+          "title": "饮食与物产",
+          "summary": "从一碗库沙里和一串椰枣，看看土地与餐桌怎样联系起来。",
+          "mediaId": "egypt-koshary-02"
+        },
+        "culture": {
+          "title": "艺术与节日",
+          "summary": "观察叶材、纸莎草与灯笼，认识留下线索的手艺。",
+          "mediaId": "egypt-lantern-detail"
+        },
+        "landmarks": {
+          "title": "城市与地标",
+          "summary": "走进柱厅、石头神庙和海边的现代图书馆。",
+          "mediaId": "egypt-library"
+        },
+        "nature": {
+          "title": "动物与生态",
+          "summary": "从河谷的农田到红海的礁缝，再到沙漠里的鲸类化石。",
+          "mediaId": "egypt-red-sea"
+        },
+        "history": {
+          "title": "历史故事",
+          "summary": "用地图、建筑和文字，走过不同年代。",
+          "mediaId": "egypt-giza"
+        },
+        "questions": {
+          "title": "有趣问题",
+          "summary": "把一张图里的细节，变成还可以继续查的问题。",
+          "mediaId": "nile-aswan"
+        }
+      },
+      "timeline": [
+        {
+          "id": "egypt-timeline-giza",
+          "period": "古王国时期 · 约 4500 年前",
+          "title": "吉萨高原上的金字塔",
+          "body": "古埃及王室在吉萨建造金字塔和周围的建筑。今天我们可以从石块、斜面与遗址位置寻找线索。",
+          "mediaId": "egypt-giza",
+          "articleIds": [
+            "egypt-history"
+          ]
+        },
+        {
+          "id": "egypt-timeline-thebes",
+          "period": "新王国时期的扩建",
+          "title": "尼罗河两岸的古底比斯",
+          "body": "从新王国时期的神庙与墓葬看，尼罗河东岸与西岸保留了不同用途的遗迹。",
+          "mediaId": "egypt-karnak",
+          "articleIds": [
+            "egypt-thebes-twobanks",
+            "egypt-karnak-columns"
+          ]
+        },
+        {
+          "id": "egypt-timeline-cairo",
+          "period": "公元 969 年",
+          "title": "开罗历史城区的开端",
+          "body": "开罗历史城区的形成可以追溯到十世纪。不同年代的建筑在今天的街巷中仍留下线索。",
+          "mediaId": "egypt-muizz",
+          "articleIds": [
+            "egypt-cairo-streets"
+          ]
+        },
+        {
+          "id": "egypt-timeline-rescue",
+          "period": "1960—1980 年国际行动",
+          "title": "把遗迹留给后来的人",
+          "body": "国际救援行动保护了多处努比亚遗址。阿布辛拜勒在行动期间被迁往高处。",
+          "mediaId": "egypt-abu-simbel",
+          "articleIds": [
+            "egypt-abusimbel-move",
+            "egypt-protect-heritage"
+          ]
+        }
+      ],
+      "featuredPlaceIds": [
+        "giza",
+        "nile-delta",
+        "abu-simbel"
+      ],
+      "directory": {
+        "mediaIds": [
+          "nile-aswan",
+          "egypt-cairo",
+          "egypt-abu-simbel-02"
+        ]
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": "egypt-where",
+      "countryId": "egypt",
+      "sectionId": "overview",
+      "title": "在世界地图上怎样找到埃及？",
+      "summary": "从自己认识的地方出发，在大地图上找到非洲、埃及和开罗。",
+      "mediaId": "egypt-nile-orbit",
+      "blocks": [
+        {
+          "id": "egypt-where-r2-b1",
+          "title": "先认出非洲",
+          "text": "把地图缩小，直到能看见好几块大陆。非洲西边是大西洋，东边面向印度洋，在地图上像一个北部较宽、向南逐渐收窄的轮廓。试着沿它的北岸从左往右找。看到地中海东端附近一条从陆地伸进海里的绿色水系，就可以停下来再放大。"
+        },
+        {
+          "id": "egypt-where-r2-b2",
+          "title": "从非洲的东北角找",
+          "text": "埃及的大部分领土在非洲东北部。把北方转到上面，东北就会出现在右上方。埃及北面是地中海，境内有从南向北的尼罗河；河道到海岸前会展开。你可以用大陆、海岸和河流这三条线索互相确认，比只记住地图上一个颜色更可靠。"
+        },
+        {
+          "id": "egypt-where-r2-b3",
+          "title": "留意两块陆地的接头",
+          "text": "埃及还有一部分领土在亚洲一侧，叫西奈半岛。先找到它两旁狭长的海湾，再沿西侧向北看，会遇到苏伊士运河。它所在的狭窄陆地曾是连接非洲与亚洲的一段路。因为有这块半岛，说埃及在非洲东北部时，也可以补一句：它横跨了两洲。"
+        },
+        {
+          "id": "egypt-where-r2-b4",
+          "title": "在河谷找首都",
+          "text": "沿海岸往南追踪水道，找到北部绿色地带收窄的地方。开罗在这里附近，位于尼罗河边。地图上的城市符号会随缩放出现或消失；没看到名字时，可以放大一档，或者搜「开罗」。要是地图切成卫星影像，可以留意浅色建筑与河水相邻的地方。"
+        },
+        {
+          "id": "egypt-where-r2-b5",
+          "title": "放回世界大图",
+          "text": "再缩小一次，试着从中国或巴西的位置重新找到埃及。中国和埃及分别靠近亚洲东部和非洲东北部，巴西则在南美洲。三处位置隔得远，在很小的地图上仍能分辨。把你的找法告诉家人，再请对方用同样的线索找一次，看看哪句提示最有用。"
+        }
+      ],
+      "term": "半岛",
+      "definition": "三面靠水、还有一边与大陆相连的陆地。",
+      "sourceUrls": [
+        "https://sis.gov.eg/en/egypt/basic-information/",
+        "https://science.nasa.gov/photojournal/the-nile/",
+        "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "egypt-location",
+      "glossary": [
+        {
+          "term": "东北",
+          "definition": "介于正北和正东之间的方向。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-two-seas",
+      "countryId": "egypt",
+      "sectionId": "overview",
+      "title": "为什么地图上会看到两片海？",
+      "summary": "看一眼北箭头，沿埃及的海岸找出地中海、红海和两条海湾。",
+      "mediaId": "egypt-delta",
+      "blocks": [
+        {
+          "id": "egypt-two-seas-r2-b1",
+          "title": "地图的上方先问一句",
+          "text": "有些地图可以转动，所以上方不一定永远是北。先找北箭头，把地图摆正，再用手比出东和西。埃及的轮廓会出现两种很不同的海边：北部海岸向东西伸展，东部的海面则狭长。只说「蓝色那一片」容易弄混，两处的名字和方位能帮你区分。"
+        },
+        {
+          "id": "egypt-two-seas-r2-b2",
+          "title": "北边是地中海",
+          "text": "从尼罗河三角洲往北看，岸外是地中海。卫星照片上的绿色到了海岸附近会停下来，岸外是连续的水面。有些靠海的水面是湖泊或沿岸潟湖，不能一律读成大海。把照片和带名字的地图放一起，地中海所在的位置就更清楚了。"
+        },
+        {
+          "id": "egypt-two-seas-r2-b3",
+          "title": "转到东边看红海",
+          "text": "从埃及陆地向东看，有一条向东南延伸的海，那是红海。它把非洲东北部的部分海岸与阿拉伯半岛隔开。红海和地中海在地图上可能用同一种蓝色，不代表它们是同一个地方。你可以把手放在埃及中间，再分别指北边和东边读出名字。"
+        },
+        {
+          "id": "egypt-two-seas-r2-b4",
+          "title": "看看西奈两边",
+          "text": "西奈半岛在埃及东北方向。它两侧的水面像两个细长的手指，西侧叫苏伊士湾，东侧叫亚喀巴湾，两者都通向红海。放大南端时，留意半岛尖端两边都能看到水。只看很小的全图，海湾名字可能没有出现，形状仍能提供线索。"
+        },
+        {
+          "id": "egypt-two-seas-r2-b5",
+          "title": "从两片水之间找一条线",
+          "text": "沿苏伊士湾向北看，在湖泊和陆地之间能找到苏伊士运河。运河通向地中海，让船可以在两边水域之间航行。尼罗河也接近地中海，但它从埃及南部流来，不会转向红海。现在试着找到一片海、一条天然河、一条人工水道，比较它们的走向。"
+        }
+      ],
+      "term": "海湾",
+      "definition": "海水伸进陆地、被陆地部分围住的一片水面。",
+      "sourceUrls": [
+        "https://sis.gov.eg/en/egypt/basic-information/",
+        "https://science.nasa.gov/photojournal/the-nile/",
+        "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/",
+        "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "egypt-mediterranean",
+      "exerciseId": "egypt-find-mediterranean",
+      "glossary": [
+        {
+          "term": "海岸",
+          "definition": "陆地和海水相接的地带。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-first-look",
+      "countryId": "egypt",
+      "sectionId": "overview",
+      "title": "三张照片怎么讲同一个国家？",
+      "summary": "把河谷、城市和遗址的照片放在一起，练习用图注认识一个地方。",
+      "mediaId": "egypt-giza",
+      "blocks": [
+        {
+          "id": "egypt-first-look-r2-b1",
+          "title": "先读图注再说结论",
+          "text": "打开一张照片时，可以先问：拍的是哪里，什么时候拍的，图里重点是什么？同一个国家有很多地方，一个拍摄位置只能让我们看到其中一小块。图注有时会缺少拍摄年份，你可以记下「还不知道」，不用拿天空的颜色或建筑的新旧来猜日期。"
+        },
+        {
+          "id": "egypt-first-look-r2-b2",
+          "title": "从高处看河与田",
+          "text": "河谷卫星影像和普通照片不一样，它从很高的地方看地面。河水旁的绿色细带和旁边的浅色荒漠对比明显，能提示我们哪些土地上有植被。图里一些绿色是农田，但辨认某一小块种的作物，需要更近的影像或当地记录。",
+          "mediaId": "egypt-nile-bend"
+        },
+        {
+          "id": "egypt-first-look-r2-b3",
+          "title": "看城市和古迹两种场景",
+          "text": "开罗河景中有桥、道路和沿河建筑，提供了今天城市的一些线索。吉萨金字塔群的广角照片则能让你看见石头建筑的轮廓及它们在高原上的排列。两张照片地点接近，主题却不一样。不要用其中一张图给整座城市或整个国家下结论。",
+          "mediaId": "egypt-cairo-bridge"
+        },
+        {
+          "id": "egypt-first-look-r2-b4",
+          "title": "为什么还要多看一张",
+          "text": "把一张河谷影像、一张城市照片和一张遗址照片排在一起，你能看到土地、生活和历史这三个侧面。如果其中一张换成水下珊瑚礁，认识又会多一个方向。比较时可以先把每张的地点和拍摄距离写出来，照片才不会在想象中被拼成一张假地图。",
+          "mediaId": "egypt-cairo"
+        },
+        {
+          "id": "egypt-first-look-r2-b5",
+          "title": "给自己留个新问题",
+          "text": "今天你可能已经看见了尼罗河、跨河桥和金字塔的斜面。选一样，写下一个图里还找不到答案的问题，例如「桥把哪两个地方接在一起？」接下来你可以去地图上找位置，或再看一张同地点的近景。好问题通常能指出下一步该找的线索。"
+        }
+      ],
+      "term": "图注",
+      "definition": "帮助我们读图的文字，常告诉我们时间、地点、对象和作者。",
+      "sourceUrls": [
+        "https://science.nasa.gov/photojournal/the-nile/",
+        "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/",
+        "https://whc.unesco.org/en/list/86/",
+        "https://egymonuments.gov.eg/monuments/the-great-sphinx/",
+        "https://whc.unesco.org/en/list/89/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "giza",
+      "exerciseId": "egypt-first-look-check",
+      "glossary": [
+        {
+          "term": "广角",
+          "definition": "照片能纳入比较宽的范围，适合看整体。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-geography",
+      "countryId": "egypt",
+      "sectionId": "geography",
+      "title": "尼罗河流向哪里？",
+      "summary": "从阿斯旺沿河向北，读懂下游、三角洲和尼罗河的入海方向。",
+      "mediaId": "egypt-nile-bend",
+      "blocks": [
+        {
+          "id": "egypt-geography-r2-b1",
+          "title": "先找到一片海",
+          "text": "打开一张北在上方的埃及地图。你会先看到浅黄色的大片干旱地区，再找到从南边伸向北边的尼罗河。地图顶部的蓝色海面是地中海。沿着河两侧往北看，能看到一条窄窄的绿色地带。观察时先找北箭头，再用手指沿着河走。"
+        },
+        {
+          "id": "egypt-geography-r2-b2",
+          "title": "沿着水向下游走",
+          "text": "水流从河段的上游去往下游。在这张地图上，我们从埃及南部的阿斯旺出发，经过卢克索附近的河谷，再找到北边的开罗。尼罗河有很多转弯，这一段整体朝北流。图上看起来朝上走，因为图的上边代表北方。地图上下表示方向，不能直接当作地势的高低。"
+        },
+        {
+          "id": "egypt-geography-r2-b3",
+          "title": "到海边，河流分开了",
+          "text": "从开罗向北，绿色地带渐渐变宽。河水走向地中海的过程中分出水道，河带来的泥沙在一些地方沉积下来。把这一带从上往下看，形状像一把展开的扇子。它叫尼罗河三角洲。图上的两条主要入海水道叫罗塞塔支流和达米埃塔支流。"
+        },
+        {
+          "id": "egypt-geography-r2-b4",
+          "title": "颜色给了我们什么线索",
+          "text": "在河谷的一张卫星照片里，绿色农田紧挨着河道，外面是大片浅褐色的土地。照片里的绿色可以提示哪里有植被。要分清一块田种了什么，或者这些水从哪里被引来，还得找更细的照片和说明。可以先试着说出两个位置挨得近的事物。"
+        },
+        {
+          "id": "egypt-geography-r2-b5",
+          "title": "用自己的话说路线",
+          "text": "可以这样讲给家人听：从阿斯旺往北，在开罗附近继续看，到了靠海的一片宽阔地区，水道分开，最后通向地中海。图上显示的是埃及一段，河并不是从阿斯旺发源的。换成不同方向的图时，先找北箭头，再说上下游。你还能找出河谷哪一处从窄带变成了宽扇吗？"
+        }
+      ],
+      "term": "下游",
+      "definition": "同一条河上，沿水流方向、离河口更近的一段。",
+      "sourceUrls": [
+        "https://science.nasa.gov/photojournal/the-nile/",
+        "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/",
+        "https://science.nasa.gov/earth/earth-observatory/the-nile-deltas-disappearing-farmland-149183/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "nile-flow",
+      "mapFeatureId": "egypt-nile",
+      "exerciseId": "egypt-nile-flow",
+      "glossary": [
+        {
+          "term": "河口",
+          "definition": "河流流入海、湖或另一条河的地方。"
+        },
+        {
+          "term": "支流",
+          "definition": "这里指从三角洲分开的主要河道；在别的语境也可指汇入干流的河。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-nile-delta",
+      "countryId": "egypt",
+      "sectionId": "geography",
+      "title": "河口为什么像一把扇子？",
+      "summary": "沿河谷走到海岸，在卫星图里认出扇面、支流和土地。",
+      "mediaId": "egypt-delta-02",
+      "blocks": [
+        {
+          "id": "egypt-nile-delta-r2-b1",
+          "title": "从窄窄的一条开始",
+          "text": "在埃及中南部，从卫星照片上能看到尼罗河两旁的田地像细细的彩带，旁边是浅色的干旱土地。往北追踪这条彩带，到开罗附近继续向北，绿色就开始向两侧铺开。先用手指比出最窄的地方，再比一比快到海边时的宽度，变化会很明显。"
+        },
+        {
+          "id": "egypt-nile-delta-r2-b2",
+          "title": "扇子的宽边靠海",
+          "text": "这片展开的低平地区叫尼罗河三角洲，位于埃及北部的地中海岸边。你可以把开罗附近想成扇柄，把贴近地中海的宽边想成扇面。它不是一把边缘整齐的扇子，海岸旁还有沙洲、湖泊和城镇。地图上的「三角洲」标签代表一片区域。"
+        },
+        {
+          "id": "egypt-nile-delta-r2-b3",
+          "title": "泥沙一点点留下",
+          "text": "河流可以携带细小泥沙。河流接近海岸、条件发生变化时，一部分泥沙会留下来。许多次沉积与水流变化一起塑造出宽阔的低地。这是经过很长时间发生的过程；在今天，一条堤、一座水坝或海浪都可能影响水和泥沙怎么移动。"
+        },
+        {
+          "id": "egypt-nile-delta-r2-b4",
+          "title": "顺着两条主要水道走",
+          "text": "在地图的水系层上，可以找到西边的罗塞塔支流和东边的达米埃塔支流。它们各有走向，并分别抵达地中海。三角洲里还有灌渠和许多小水道；有两条主要入海水道不等于只有两条水线。沿粗一点的线追踪到海边，比数卫星图上的每一条细线容易。"
+        },
+        {
+          "id": "egypt-nile-delta-r2-b5",
+          "title": "比较照片前先读日期",
+          "text": "两张卫星照片来自不同日期和尺度。小的能帮你看到整把「扇子」，大的可以找海岸与农田的边界。看到颜色不一样时，也要想到拍摄条件、季节和处理方式可能不同。可以先挑两张都能认出的地方，例如一条入海水道，再决定哪些比较有依据。",
+          "mediaId": "egypt-delta"
+        }
+      ],
+      "term": "沉积",
+      "definition": "水或风带来的泥沙，在某些地方慢慢留下来。",
+      "sourceUrls": [
+        "https://science.nasa.gov/photojournal/the-nile/",
+        "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/",
+        "https://science.nasa.gov/earth/earth-observatory/the-nile-deltas-disappearing-farmland-149183/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "nile-delta",
+      "exerciseId": "egypt-find-delta",
+      "glossary": [
+        {
+          "term": "三角洲",
+          "definition": "河流入海或入湖处，泥沙沉积形成的低平地带。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-desert-oasis",
+      "countryId": "egypt",
+      "sectionId": "geography",
+      "title": "沙漠里的绿洲，水从哪里来？",
+      "summary": "离开尼罗河谷，到埃及西部找一个有泉水、农田和枣椰树的地方。",
+      "mediaId": "egypt-siwa",
+      "blocks": [
+        {
+          "id": "egypt-desert-oasis-r2-b1",
+          "title": "沙漠也会出现绿色",
+          "text": "在埃及地图上，尼罗河谷的绿带之外还有大面积干旱土地。这里下雨少，地表水不像河谷那样随处可见。但如果地下有水能冒到地面，或人们能把水从井里取出，就有机会种植植物。看见绿色时，可以先问这块地的水从哪里来。观察时先看绿地的边界，再看水的位置。"
+        },
+        {
+          "id": "egypt-desert-oasis-r2-b2",
+          "title": "到西部找锡瓦",
+          "text": "锡瓦是埃及西部沙漠的一个绿洲，远离尼罗河主河道。图里的枣椰树成片长在低地，离开绿色区域就能看到很不同的地表。把锡瓦和三角洲分别放在全图上看，你会发现它们不是同一条绿色带，也没有处在同一种海岸环境里。"
+        },
+        {
+          "id": "egypt-desert-oasis-r2-b3",
+          "title": "地下的水怎样到地面",
+          "text": "有的地下水会通过泉眼自然流出，有的要用井取水。人们可以把水引到农田来灌溉，帮助作物在少雨的地方生长。能取到水仍要计划怎样使用：水里含有多少盐、田里多余的水往哪排，也会影响土地能不能继续种植。"
+        },
+        {
+          "id": "egypt-desert-oasis-r2-b4",
+          "title": "认识两种绿洲作物",
+          "text": "锡瓦种有枣椰和橄榄。枣椰树有长长的羽状叶，果实常成串挂在叶下。橄榄树的形状与它不同。只看一张远景，树可能小得分不出来；先认大的叶形，再找有标注的近照，会比凭一片绿色猜是什么作物更稳妥。"
+        },
+        {
+          "id": "egypt-desert-oasis-r2-b5",
+          "title": "和河谷做一次比较",
+          "text": "两地都有人把水送到田里，但河谷的农田可以从河道和渠道获得水，锡瓦则要关注泉、井和地下水。试着画两个小框，一边放河、一边放泉，再用箭头接到田里。以后看到别处的绿洲，也可以用这个问题开始观察：哪一种水在帮助植物生长？"
+        }
+      ],
+      "term": "绿洲",
+      "definition": "干燥地区里因为有可利用的水，能长植物或发展农业的一带。",
+      "sourceUrls": [
+        "https://sis.gov.eg/en/egypt/basic-information/",
+        "https://www.fao.org/egypt/news/detail/FAO-launches-a-monitoring-system-for-water-consumption-and-productivity-in-Newly-Reclaimed-Areas-in-Siwa/en",
+        "https://www.fao.org/4/t0667e/t0667e06.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "egypt-oasis-water-check",
+      "glossary": [
+        {
+          "term": "泉眼",
+          "definition": "地下水自然流出地面的地方。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-people",
+      "countryId": "egypt",
+      "sectionId": "people",
+      "title": "今天的埃及人怎样生活？",
+      "summary": "通过开罗的城市河景和一段农田影像，观察人们怎样使用身边的土地和水。",
+      "mediaId": "egypt-cairo",
+      "blocks": [
+        {
+          "id": "egypt-people-r2-b1",
+          "title": "从两张图的地点开始",
+          "text": "这一篇先把开罗的沿河城市照片放在旁边，再看一张有田地的尼罗河谷卫星图。第一张从城市里拍摄，能看见桥和建筑；第二张从空中看地表，能辨认宽阔农田与浅色土地。它们拍于不同地点，不能拿建筑的大小直接和田地比较。"
+        },
+        {
+          "id": "egypt-people-r2-b2",
+          "title": "城市沿着河会有什么",
+          "text": "在开罗的照片里，道路会经过桥面，桥把两侧的陆地连起来。建筑靠近河岸，有的高，有的低。只看一眼你也许能画出车辆可能走的路线，但还不能知道每个人会去哪里。桥名、道路图和不同时间的照片，可以帮你理解更多。把照片上的桥名和实际地图放在一起读。",
+          "mediaId": "egypt-cairo-bridge"
+        },
+        {
+          "id": "egypt-people-r2-b3",
+          "title": "农田又怎样靠近水",
+          "text": "另一张照片里，许多颜色不同的田块挨着河谷。农田需要水，一些地方靠灌渠把水引向种植的土地。卫星影像能展示田地分布，却看不见正在做农活的人。想知道一块田的用途，可以再找田间照片、当地说明或者农民的记录。",
+          "mediaId": "egypt-nile-bend"
+        },
+        {
+          "id": "egypt-people-r2-b4",
+          "title": "同一个国家有不同的生活",
+          "text": "有人住在大城市，有人住在河边村镇，也有人生活在远离河谷的绿洲。即使在同一条街上，不同家庭的工作、上学和吃饭方式也可能不一样。比较这两张图时，可以先描述环境提供了什么，再想象不同的人会怎么用它。"
+        },
+        {
+          "id": "egypt-people-r2-b5",
+          "title": "把没看见的部分写出来",
+          "text": "从两张照片中各找出一种自然物和一种人造物。可以把「看到河水和桥」写在看见栏，把「有人可能从桥上过河去上学」放在猜想栏。如果你还想知道放学时谁会走过那座桥，那就写在问题栏。这三句各自有用，不必混在一起。"
+        }
+      ],
+      "term": "生活场景",
+      "definition": "发生在某个地方、某个时刻的一次日常活动或环境记录。",
+      "sourceUrls": [
+        "https://science.nasa.gov/earth/earth-observatory/the-nile-deltas-disappearing-farmland-149183/",
+        "https://whc.unesco.org/en/list/89/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "egypt-cairo-historic",
+      "activity": {
+        "type": "open",
+        "id": "egypt-open-people",
+        "title": "比较河边的两种生活",
+        "prompt": "找出开罗河景和河谷农田里的自然物与人造物，再想想人们会怎样使用水。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "egypt-cairo-bridge",
+          "egypt-nile-bend"
+        ],
+        "suggestedArticleIds": [
+          "egypt-cairo-streets",
+          "egypt-nature"
+        ]
+      },
+      "glossary": [
+        {
+          "term": "人造物",
+          "definition": "由人制造或改建的东西，例如桥和道路。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-arabic",
+      "countryId": "egypt",
+      "sectionId": "people",
+      "title": "阿拉伯文从哪边读起？",
+      "summary": "用一块开罗街牌练习找阅读起点，并区分今天的文字和古代书写。",
+      "mediaId": "egypt-arabic-sign",
+      "blocks": [
+        {
+          "id": "egypt-arabic-r2-b1",
+          "title": "街牌上写着什么",
+          "text": "阿拉伯语是埃及的官方语言。在开罗历史街区，一块街牌上有阿拉伯文字，也可能有用另一种文字写出的地名。试着分辨哪些线条是字、哪些是边框和装饰。如果看不懂，也能先问两行是否在介绍同一个地方，再去查经过校对的图注。"
+        },
+        {
+          "id": "egypt-arabic-r2-b2",
+          "title": "把视线放到右边",
+          "text": "阿拉伯文的一行文字通常从右往左读。看看表示「埃及」的阿拉伯语写法：مصر。读这一行时从右边开始。阿拉伯文字母有时会连在一起，形状还会随在词里的位置变化。数字在句子里有自己的排法，看到方向不同不用觉得奇怪。"
+        },
+        {
+          "id": "egypt-arabic-r2-b3",
+          "title": "同样的字可以写出不同样子",
+          "text": "印在街牌上的字追求清楚，书法作品却可以在同一套文字里安排有节奏的线条。有的字写得平直，有的字有长长的弯曲收笔。可以把它和你见过的印刷汉字、手写汉字对照：字形有变化，文字系统并不会因此变成另一种。"
+        },
+        {
+          "id": "egypt-arabic-r2-b4",
+          "title": "别把所有埃及文字当成一种",
+          "text": "现代街牌上的阿拉伯文与古代纪念碑上的象形文字不同。石碑上的图形可能让人想到小鸟和眼睛，那些符号的读法也需要专门学习。要判断一段文字属于哪一个年代，先看它写在什么东西上，读一读博物馆或现场给出的说明。"
+        },
+        {
+          "id": "egypt-arabic-r2-b5",
+          "title": "先观察方向，再试着认字",
+          "text": "回到街牌照片，用手从右端向左划，看看哪一行更像阿拉伯文。可以先找文字连在一起的地方，再找一处断开。如果要把街名念给别人听，最好听懂阿拉伯语的人怎么读，或查可靠的发音资料。你已经可以先说清楚它从哪边读起。"
+        }
+      ],
+      "term": "书写方向",
+      "definition": "一行文字从哪里开始、按什么方向读下去。",
+      "sourceUrls": [
+        "https://sis.gov.eg/en/egypt/basic-information/",
+        "https://ich.unesco.org/en/RL/arabic-calligraphy-knowledge-skills-and-practices-01718"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "egypt-cairo-historic",
+      "exerciseId": "egypt-arabic-direction",
+      "glossary": [
+        {
+          "term": "书法",
+          "definition": "用文字的笔画、形状和安排进行表达的手艺。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-nubian",
+      "countryId": "egypt",
+      "sectionId": "people",
+      "title": "一座博物馆怎样讲努比亚的故事？",
+      "summary": "走近阿斯旺的努比亚博物馆，学习用展品说明理解地方的历史。",
+      "mediaId": "egypt-nubia-museum",
+      "blocks": [
+        {
+          "id": "egypt-nubian-r2-b1",
+          "title": "从地图上找博物馆",
+          "text": "先在埃及南部找阿斯旺，再看尼罗河和象岛的位置。照片里的建筑是阿斯旺的努比亚博物馆入口。它的名称让我们把目光投向尼罗河上游一带的努比亚地区。地图上的河会穿过现代国界，文化和历史也常跟着人的交往延伸到更远的地方。"
+        },
+        {
+          "id": "egypt-nubian-r2-b2",
+          "title": "一座馆里可以有许多年代",
+          "text": "展览可以用物品讲不同时间的故事。很早的器物、后来生活用的物品和关于今天地方手艺的记录，各有不同的来源。把它们放在同一个展厅，是为了帮助比较。要弄清两件东西是不是同一时候使用，先找各自的年代标签。"
+        },
+        {
+          "id": "egypt-nubian-r2-b3",
+          "title": "看懂一张小标签",
+          "text": "假如面前有一个容器，先读它的名字、时间、发现地和材料。有的说明还会标出「用途可能是……」，告诉你研究者在哪些地方仍不确定。物品颜色相似不等于用途相同，也不能因为一个家庭用过，就推断所有家庭都有这样一件。"
+        },
+        {
+          "id": "egypt-nubian-r2-b4",
+          "title": "把手艺与人的记忆放一起",
+          "text": "器物的纹样、材料和磨损能提供线索，故事、照片和人的回忆能补充别的细节。比如想了解一件编织品是怎么做的，可以看它的叶片走向，再问做这种东西的人会从哪一步开始。不同线索可能互相印证，也可能提出新问题。"
+        },
+        {
+          "id": "egypt-nubian-r2-b5",
+          "title": "还想听见谁的声音",
+          "text": "参观完之后，可以挑一件展品写下你最想问的问题。你可能想问博物馆为什么把它放在这里，也可能想听当地居民说家里的用法和变化。入口照片只告诉我们到了哪里；要听懂地方故事，需要把物品的标签、时间和人的经历连起来。"
+        }
+      ],
+      "term": "馆藏",
+      "definition": "博物馆收集、研究和保管的物品，有些会在展厅展出。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/88/",
+        "https://whc.unesco.org/en/story-abu-simbel/",
+        "https://egymonuments.gov.eg/archaeological-sites/abu-simbel/",
+        "https://egymonuments.gov.eg/archaeological-sites/elephantine-1/",
+        "https://www.experienceegypt.eg/files/Aswan%20English.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "egypt-aswan",
+      "exerciseId": "egypt-nubia-evidence",
+      "glossary": [
+        {
+          "term": "展品",
+          "definition": "拿出来展示给观众看的物品。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-cairo-streets",
+      "countryId": "egypt",
+      "sectionId": "daily",
+      "title": "开罗的两种街景有什么不同？",
+      "summary": "在开罗的老街和现代河景里，寻找桥梁、建筑和今天的生活。",
+      "mediaId": "egypt-muizz",
+      "blocks": [
+        {
+          "id": "egypt-cairo-streets-r2-b1",
+          "title": "给两张照片找位置",
+          "text": "先看图注。两张都在开罗，却没有站在同一个位置：一张从高处拍尼罗河和附近的桥，另一张在历史城区的穆伊兹街向前看。拍摄角度会改变你能看见的东西。高处容易认出水面和道路，站在街上则容易看清门窗和店铺。"
+        },
+        {
+          "id": "egypt-cairo-streets-r2-b2",
+          "title": "从河的一边找到另一边",
+          "text": "在开阔的河景里，卡斯尔尼罗河桥从一岸伸到另一侧，把道路连接起来。先找较宽的水面，再沿横跨水面的长线看两端。桥的位置可以在地图上对照。城市建筑会挡住一部分道路，不能用这张图判断所有车辆的目的地。",
+          "mediaId": "egypt-cairo-bridge"
+        },
+        {
+          "id": "egypt-cairo-streets-r2-b3",
+          "title": "到老街看近处的东西",
+          "text": "穆伊兹街的照片让我们看见沿街的建筑立面和店铺。门洞、窗面和石材可以提示建造风格，招牌、摊位和路上的物品则让我们看到拍摄时的使用方式。要判断哪一块墙有多久的历史，需要查那栋建筑的资料，而不是看它颜色深不深。"
+        },
+        {
+          "id": "egypt-cairo-streets-r2-b4",
+          "title": "老建筑也可以在今天被使用",
+          "text": "历史城区的故事可以追到十世纪建立的开罗，许多时期都留下了各自的建筑。老街旁的商店仍可能开门，人们也会在古建筑旁经过。找出一个看起来有历史的构件，再找一个当代使用的迹象，你就能讲出两条时间不同的线索。"
+        },
+        {
+          "id": "egypt-cairo-streets-r2-b5",
+          "title": "两张照片讲的是两个观察点",
+          "text": "看完这两张图，你已经能说出「一处能看到跨河桥，一处能看到老街近景」。要了解更多，可以再找地图上的一段住宅区、车站或者公园。下一次在自己住的城市，也试着选一个高处和一个街边，各用一句话说你从那个角度看见了什么。"
+        }
+      ],
+      "term": "历史街区",
+      "definition": "保存着一段城市历史线索、今天仍可能有人活动的区域。",
+      "sourceUrls": [
+        "https://sis.gov.eg/en/egypt/basic-information/",
+        "https://whc.unesco.org/en/list/89/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "egypt-cairo-historic",
+      "exerciseId": "egypt-cairo-photo-check",
+      "glossary": [
+        {
+          "term": "立面",
+          "definition": "从外面看到的建筑一侧，例如面对街道的一面。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-aswan-crossing",
+      "countryId": "egypt",
+      "sectionId": "daily",
+      "title": "住在河上的岛，怎么到对岸？",
+      "summary": "从阿斯旺的河岸和象岛出发，想一想人们怎样经过一片水。",
+      "mediaId": "egypt-elephantine",
+      "blocks": [
+        {
+          "id": "egypt-aswan-crossing-r2-b1",
+          "title": "到埃及南部找阿斯旺",
+          "text": "顺着地图上的尼罗河向南看，到了埃及南部会找到阿斯旺。在这里，水面中有大小不同的岛。象岛靠近城市河岸，地图放大后可以看出它和另一岸之间隔着水。要从开罗找到它，可以先认出两座城市的南北关系，再把阿斯旺附近放大。"
+        },
+        {
+          "id": "egypt-aswan-crossing-r2-b2",
+          "title": "找到象岛的两边",
+          "text": "把手指放到象岛的一侧，再移到另一侧。两边都有河道，岛上的陆地与对岸分开。你可以先看岛的长轴，再找哪一条水道靠城市建筑。象岛上还有古代遗址；在地图上找到岛，只是第一步，后面还能看不同位置和年代。"
+        },
+        {
+          "id": "egypt-aswan-crossing-r2-b3",
+          "title": "水上的工具",
+          "text": "象岛附近的实拍记录了停在岸边的帆船。观察船身、水面和岸线，可以想象乘船从一边到另一边需要在哪里上船、在哪里靠岸。船可以用于不同事情，停泊照看不出这些船的每次行程。另一张尼罗河景观能让你比较开阔的水面。有的帆船在水上航行，有的会停泊。",
+          "mediaId": "nile-aswan"
+        },
+        {
+          "id": "egypt-aswan-crossing-r2-b4",
+          "title": "过河路线会怎样选",
+          "text": "如果出发地和目的地之间没有步行通道，船是一种选择。人还要考虑哪里能上船、船能不能靠岸、水面和天气怎样。照片不能说明哪条船是客运、什么时候发船；那类问题要找具体渡口的说明或当地交通资料。"
+        },
+        {
+          "id": "egypt-aswan-crossing-r2-b5",
+          "title": "比较桥和船的线索",
+          "text": "开罗河景里能看见架在水上的桥，阿斯旺河面上能看见船。这两种交通都可能帮人跨过水面，但留下的照片线索不同。下次看到一张河景，可以先画出两岸，再标一个可能的过河位置。记得把真正看见的和自己猜的画成两种颜色。"
+        }
+      ],
+      "term": "河中岛",
+      "definition": "在河道中被河水环绕的陆地。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/88/",
+        "https://whc.unesco.org/en/story-abu-simbel/",
+        "https://egymonuments.gov.eg/archaeological-sites/abu-simbel/",
+        "https://egymonuments.gov.eg/archaeological-sites/elephantine-1/",
+        "https://www.experienceegypt.eg/files/Aswan%20English.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "egypt-elephantine",
+      "exerciseId": "egypt-find-elephantine",
+      "glossary": [
+        {
+          "term": "靠岸",
+          "definition": "让船驶近岸边并停稳。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-canal-life",
+      "countryId": "egypt",
+      "sectionId": "daily",
+      "title": "一条运河怎样连接两片海？",
+      "summary": "在地图和太空影像上，追踪一条人工水道怎样把两边的海连起来。",
+      "mediaId": "egypt-suez-canal",
+      "blocks": [
+        {
+          "id": "egypt-canal-life-r2-b1",
+          "title": "先把两边的海找到",
+          "text": "看埃及东北角。北面是地中海，沿着西奈半岛的西侧向南能看见苏伊士湾，海湾通向红海。在两边水面之间，有一段窄窄的陆地。从全图上看，那里没有一条宽阔的大河直接连过去，需要放大找一条更细的人工水线。"
+        },
+        {
+          "id": "egypt-canal-life-r2-b2",
+          "title": "从塞得港到苏伊士湾",
+          "text": "苏伊士运河北端靠近地中海的塞得港，南端通到苏伊士湾。航道经过几段水面和湖区。船可以从北往南走，也可以从南往北走。地图上的虚线是在帮你区别人工航道和天然河流，它没有规定船只能沿某个方向航行。在图上，运河是一条线；到了港口，它又是一段可以让船通过的水面。两种尺度都可以观察。"
+        },
+        {
+          "id": "egypt-canal-life-r2-b3",
+          "title": "水道旁也有港口",
+          "text": "从远处看，船像细小的亮点；到港口附近，它们会经过更具体的水域和设施。货船把货物运向各地，船员和港口工作人员也要注意航行与停靠。太空照片记录的是某次船只堵塞航道的情况，不能拿它推断运河每天都是这样的。"
+        },
+        {
+          "id": "egypt-canal-life-r2-b4",
+          "title": "跟尼罗河摆在一起看",
+          "text": "尼罗河从埃及南边流来，沿河谷继续向北，最后进入地中海。运河在更靠东的地方，由人修建，连接北端和南端的海上航线。两者都能用蓝色画在地图上，起点、走向、形成原因却不同。先看图例，再沿线走一遍会更容易分辨。"
+        },
+        {
+          "id": "egypt-canal-life-r2-b5",
+          "title": "用一张图复述连接",
+          "text": "把手指放在地中海岸，沿虚线穿过陆地和湖区，最后指向苏伊士湾。试着说出沿途三个名字。下一次看一艘船的照片，先找拍摄位置，再问它在哪一段航道上，图里有没有足够信息判断它的行进方向。"
+        }
+      ],
+      "term": "运河",
+      "definition": "为了交通、引水等用途，由人开挖或改造形成的水道。",
+      "sourceUrls": [
+        "https://science.nasa.gov/photojournal/the-nile/",
+        "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/",
+        "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "egypt-suez-waterway",
+      "exerciseId": "egypt-canal-seas",
+      "glossary": [
+        {
+          "term": "航道",
+          "definition": "船可以沿着航行的水路。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-food",
+      "countryId": "egypt",
+      "sectionId": "food",
+      "title": "一碗库沙里里有什么？",
+      "summary": "看看两碗库沙里，认出米饭、面食、豆类和配料，比较同一道菜的不同样子。",
+      "mediaId": "egypt-koshary-02",
+      "blocks": [
+        {
+          "id": "egypt-food-r2-b1",
+          "title": "看看这一碗的层次",
+          "text": "库沙里是埃及常见的一道食物。一碗里可以同时出现不同形状和颜色的食材，圆圆的豆、短短的面、细小的米粒，上面还常有酱汁和炸洋葱。有些食材藏在下面，只看最上面一层，会以为这碗菜比实际的内容少。"
+        },
+        {
+          "id": "egypt-food-r2-b2",
+          "title": "碗里可以同时有饭和面",
+          "text": "常见配方会把米饭、扁豆和短面食搭在一起，再加鹰嘴豆、番茄酱汁或炸洋葱。两种主食放在一碗里并不冲突，它们的形状和口感不同。照片看不清某个小颗粒时，可以读图注和配方，不必把所有浅色东西都猜成米饭。"
+        },
+        {
+          "id": "egypt-food-r2-b3",
+          "title": "找出能辨认的形状",
+          "text": "把两份成品照片放在一起，先找比较容易看清的短面条或圆豆，再看配料怎样盖住下面一层。两张图不是从生食材到成品的连续步骤；它们是两份不同的成品。能认出的部分就说清楚，看不出的部分保留一个问号。看看盘边的小碗，那些是摆在旁边、可以按口味加的东西。",
+          "mediaId": "egypt-koshary"
+        },
+        {
+          "id": "egypt-food-r2-b4",
+          "title": "同一道菜可以有不同搭配",
+          "text": "有的人喜欢多一点酱，有的人爱多加酥脆的洋葱。不同家庭、餐馆和摊位摆出来的分量和样子也可能不一样。你可以先用「这碗看起来……」来描述，再从食谱查哪些是常见做法。别把一张照片变成人人都必须遵守的规则。"
+        },
+        {
+          "id": "egypt-food-r2-b5",
+          "title": "把味道和生活连起来",
+          "text": "下一次看一份没吃过的菜，可以找主食、豆类和配料三个部分，再问它常在哪里被吃到，做饭的人有什么自己的变化。菜名让人知道在谈什么，照片让人看到一份具体的饭。把两者合起来，才能既记住特点，又留出比较的余地。"
+        }
+      ],
+      "term": "配料",
+      "definition": "放在主料里或主料上、补充味道和口感的食材。",
+      "sourceUrls": [
+        "https://ich.unesco.org/en/RL/koshary-daily-life-dish-and-practices-associated-with-it-02278"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "egypt-koshary-photo-check",
+      "glossary": [
+        {
+          "term": "主食",
+          "definition": "一餐里常用来提供饱腹感的食物，例如米饭、面或饼。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-breakfast",
+      "countryId": "egypt",
+      "sectionId": "food",
+      "title": "埃及的饼和豆怎么搭在一起？",
+      "summary": "从一份饼配蚕豆的例子，看见埃及早餐的搭配方法。",
+      "mediaId": "egypt-breakfast",
+      "blocks": [
+        {
+          "id": "egypt-breakfast-r2-b1",
+          "title": "从这一盘开始",
+          "text": "图里有一份调好味的豆子，旁边放着饼。先试着只说看见了什么：容器里的食物是什么颜色，饼在什么位置，有没有另外的配菜？图片记录的是一道食物的一个版本。它能让我们开始认识这类搭配，却不规定埃及的每份早餐。"
+        },
+        {
+          "id": "egypt-breakfast-r2-b2",
+          "title": "为什么叫蚕豆和饼",
+          "text": "富尔的主要食材是蚕豆。煮过以后，豆子可以保留一部分形状，也可以被压得更软，再按不同做法加油或调味。这里的一份配了扁面包。食物在照片里可能被调料盖住，知道菜名和常见材料后，观察会比只凭颜色认食材容易。"
+        },
+        {
+          "id": "egypt-breakfast-r2-b3",
+          "title": "饼能拿来做什么",
+          "text": "试着想象把饼掰成小块，用来舀一些软软的豆子，或者把食物夹在饼里。饼既可以作为主食，也能帮助把菜送入口中。不同人的吃法会变化。可以找一张自己的早餐照片，看看里面有没有哪种主食也是用来配菜吃的。"
+        },
+        {
+          "id": "egypt-breakfast-r2-b4",
+          "title": "同一种豆能换着做",
+          "text": "埃及还有用豆类制成的塔阿米亚，一般会把原料打碎，成形后炸制。炖过的蚕豆与炸成小块的食物，外形和口感就很不一样。比较菜肴时，除了材料，还可以问它经过了怎样的加工。只知道是豆子，不能直接知道它最后是什么样子。"
+        },
+        {
+          "id": "egypt-breakfast-r2-b5",
+          "title": "一张早餐照片代表什么",
+          "text": "如果图里有饼和豆，可以说「这份早餐用了这两样」，还可以问同一地点有没有别的做法。更想了解的时候，可以查菜单或找多份有图注的实例。把可确认的菜名写在第一行，把还没查到的做法放在问题里，既准确又方便继续找。"
+        }
+      ],
+      "term": "富尔",
+      "definition": "常用蚕豆炖煮或调味制成的一类菜，也常写作 ful medames。",
+      "sourceUrls": [
+        "https://www.experienceegypt.eg/en/home/Culture"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "egypt-breakfast-check",
+      "glossary": [
+        {
+          "term": "炖煮",
+          "definition": "用水或汤在一定温度下慢慢把食物煮熟。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-dates",
+      "countryId": "egypt",
+      "sectionId": "food",
+      "title": "椰枣怎样从树走到餐桌？",
+      "summary": "从树上的果串看到市场里的干枣，记录形状、颜色和表面的不同。",
+      "mediaId": "egypt-date-bunch",
+      "blocks": [
+        {
+          "id": "egypt-dates-r2-b1",
+          "title": "先从树上找到果串",
+          "text": "枣椰树的长叶从树干上方张开，果实可以一颗挨一颗成串长在叶子下面。照片给的是树上果串的例子。先看果串和叶子之间的位置，再挑几颗看看是不是同样大小。一棵树的一串果实也可能有颜色深浅不同的部分。从远处观察时，不要把椰枣的果串和另一种棕榈结的椰子混在一起。"
+        },
+        {
+          "id": "egypt-dates-r2-b2",
+          "title": "摘下来以后会发生什么",
+          "text": "椰枣可以在不同成熟阶段采收。采下来的果实能直接食用，也可以经过整理、保存或干燥，再送到市场和餐桌。干燥后水分减少，质地会变化。并非所有深色果实都经历了同一种加工，单看颜色也不能判断是哪天采收的。"
+        },
+        {
+          "id": "egypt-dates-r2-b3",
+          "title": "给两张图做一张比较表",
+          "text": "先写形状，再写颜色，最后写表面。树上可以看到多颗果实和果梗连在一起，市场图能近看已经分开的干枣。你或许会看到有些表面较光滑，有些有皱纹。把观察写清楚之后，再想一想哪些变化可能和成熟或失水有关。",
+          "mediaId": "egypt-dates"
+        },
+        {
+          "id": "egypt-dates-r2-b4",
+          "title": "两处拍摄地不要混起来",
+          "text": "果串照片和干枣照片来自不同国家，展示的是同类果实的两种样子，并没有追踪同一批果实。锡瓦的枣椰种植是另一个埃及例子。想知道一批果实是不是从某个绿洲送到市场，还得找产地标签、销售记录或种植者的说明。"
+        },
+        {
+          "id": "egypt-dates-r2-b5",
+          "title": "试着给别人念一句图注",
+          "text": "可以先说「图里的果实……」，然后补一处眼睛能找到的细节。比如写下果实挤在一起，或者干枣外面有长长的皱纹。最后留一个问题：我还想知道这是哪种枣、在什么时候采收，还是怎么保存？挑一个有机会查到的问题就行。"
+        }
+      ],
+      "term": "椰枣",
+      "definition": "枣椰树结的果实，常一串串长在叶下。",
+      "sourceUrls": [
+        "https://ich.unesco.org/en/RL/date-palm-knowledge-skills-traditions-and-practices-01902",
+        "https://www.fao.org/egypt/news/detail/FAO-launches-a-monitoring-system-for-water-consumption-and-productivity-in-Newly-Reclaimed-Areas-in-Siwa/en",
+        "https://www.fao.org/4/t0667e/t0667e06.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "activity": {
+        "type": "open",
+        "id": "egypt-open-dates",
+        "title": "给椰枣写一条图注",
+        "prompt": "比较果串与干枣的形状、颜色和表面。你还想查哪一种变化？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "egypt-date-bunch",
+          "egypt-dates"
+        ],
+        "suggestedArticleIds": [
+          "egypt-desert-oasis",
+          "egypt-culture"
+        ]
+      },
+      "glossary": [
+        {
+          "term": "果梗",
+          "definition": "把一颗果实连到植物上的小柄。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-culture",
+      "countryId": "egypt",
+      "sectionId": "culture",
+      "title": "一棵椰枣树能做什么？",
+      "summary": "从果实、叶子和一件古代篮子出发，看枣椰树怎样走进手艺。",
+      "mediaId": "egypt-palm-craft",
+      "blocks": [
+        {
+          "id": "egypt-culture-r2-b1",
+          "title": "果实是一部分，叶子是另一部分",
+          "text": "椰枣是吃的果实，长在枣椰树的叶子下面；叶子本身也可以成为材料。先看一张树的图，找到上方伸开的长叶，再找一串串果实。区分植物的不同部分，有助于理解为什么同一棵树能在餐桌上出现，也能跟手工制作有关。",
+          "mediaId": "egypt-date-bunch"
+        },
+        {
+          "id": "egypt-culture-r2-b2",
+          "title": "叶材为什么可以用来做东西",
+          "text": "枣椰的叶片细长，有些叶材经过处理后，可以被弯曲、排列和固定。把一根容易弯的纸条和一块硬纸板比较，就能体会为什么制作物品时要先选合适的材料。手艺人还会根据物品大小和用途选择叶材，具体步骤在各地可以不同。"
+        },
+        {
+          "id": "egypt-culture-r2-b3",
+          "title": "从排列看出篮子的形状",
+          "text": "叶材可以被用来编篮子、席子等物件。编的时候，一些长条会沿着边缘走，另一些材料把相邻部分连起来。一件篮子需要有底和侧壁，材料如何拐弯、接头如何固定，都是可以观察的地方。想知道某一件用了什么材料，要看它自己的说明。"
+        },
+        {
+          "id": "egypt-culture-r2-b4",
+          "title": "把照片当成一件实物记录",
+          "text": "这一张图是博物馆收藏的一件古埃及篮子，可以观察它的条纹、编排和轮廓。它记录的是一件历史物品，不是今天某位手艺人的制作过程。枣椰叶材的用途来自另外的手艺资料；看相似的编织外形，也不能自动认定每件都由同一种叶片做成。"
+        },
+        {
+          "id": "egypt-culture-r2-b5",
+          "title": "把一件手艺讲给家人",
+          "text": "可以从「材料从哪里来」「怎样连起来」「做完有什么用途」三个问题中选一个。先用照片指出一个能观察到的细节，再读材料说明。回到椰枣阅读，你还可以比较：同一棵树，有哪些部分被吃掉，哪些可能被人收集起来继续用？"
+        }
+      ],
+      "term": "编织",
+      "definition": "把条状、线状的材料按一定顺序交错或缠绕，做成物品。",
+      "sourceUrls": [
+        "https://ich.unesco.org/en/RL/date-palm-knowledge-skills-traditions-and-practices-01902"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "egypt-palm-craft",
+      "glossary": [
+        {
+          "term": "叶材",
+          "definition": "用植物的叶子或其中一部分制成的手工材料。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-papyrus",
+      "countryId": "egypt",
+      "sectionId": "culture",
+      "title": "纸莎草怎样变成书写材料？",
+      "summary": "观察纸莎草的茎和一张古代片材，动手读懂相互垂直的两层。",
+      "mediaId": "egypt-papyrus-sheet",
+      "blocks": [
+        {
+          "id": "egypt-papyrus-r2-b1",
+          "title": "先认识一株植物",
+          "text": "纸莎草是一种能在湿地生长的植物，茎向上长，顶部有成簇的细枝。这一段的照片拍的是植物园栽培的一株，用来认形状。我们要认识的是植物本身；首图中的片材才是拿来观察书写表面和纤维的古物。",
+          "mediaId": "egypt-papyrus-plant"
+        },
+        {
+          "id": "egypt-papyrus-r2-b2",
+          "title": "从茎里取出细长条",
+          "text": "研究者制作纸莎草片材时，会先处理外层，再取里面较柔软的茎髓，把它切成一条条薄片。片薄的时候可以平铺。想象用几条窄纸排满桌面：如果条和条之间留了很宽的空隙，做成的表面就很难连续。这些薄条在示意图里用两种颜色区分。真实的片材不一定有这种色差，颜色只是帮助看方向。"
+        },
+        {
+          "id": "egypt-papyrus-r2-b3",
+          "title": "两层各朝一个方向",
+          "text": "把一层细条平排好，再把第二层铺在上面，方向转九十度。第一层的条是平行的，第二层自己的条也平行；两层相互交叉。它们不是一根上一根下地穿来穿去，和编篮子的方法有区别。可以用两种颜色的纸条摆给家人看。"
+        },
+        {
+          "id": "egypt-papyrus-r2-b4",
+          "title": "让薄条变成一片",
+          "text": "压合和干燥能让这两层成为一片可使用的材料。图解展示的是帮助我们理解的制作方式。研究人员能从存留下来的片材和实验获得线索；至于古代人在不同地方具体怎样压、压多久，有些细节仍不能完全确定。"
+        },
+        {
+          "id": "egypt-papyrus-r2-b5",
+          "title": "纹路是看得见的线索",
+          "text": "看看馆藏的纸莎草片。有时能辨认一组沿着长边的纹理，也能找到另一方向的细线。照片的光线和保存情况会影响哪一层看得更清楚。试着先找一组平行线，再把图解的两个方向画出来。看到纹理，就有理由去问它怎样留下的。",
+          "mediaId": "egypt-papyrus-sheet"
+        }
+      ],
+      "term": "茎髓",
+      "definition": "一些植物茎的内部较柔软的部分。",
+      "sourceUrls": [
+        "https://www.metmuseum.org/essays/papyrus-making-in-egypt"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "papyrus-steps",
+      "exerciseId": "egypt-papyrus-layers-check",
+      "glossary": [
+        {
+          "term": "片材",
+          "definition": "由薄片铺合形成、可以用来书写的材料。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-ramadan-lantern",
+      "countryId": "egypt",
+      "sectionId": "culture",
+      "title": "开罗街头的灯笼在讲什么？",
+      "summary": "从开罗的一次街头记录和另一盏灯笼，看见节日装饰能留下什么线索。",
+      "mediaId": "egypt-lantern-street",
+      "blocks": [
+        {
+          "id": "egypt-ramadan-lantern-r2-b1",
+          "title": "先给街景找一处位置",
+          "text": "一张照片记录了开罗马阿迪一处街头灯笼装饰，从下方向上可以看见悬挂的物件。图注说的是这个地点的一次观察。灯笼近景是另一份记录，两张没有证据说是同一条街、同一天。先把照片各自的地点和对象写出来，再来比较。"
+        },
+        {
+          "id": "egypt-ramadan-lantern-r2-b2",
+          "title": "为什么有人会挂灯笼",
+          "text": "在埃及，灯笼是和斋月有关的一种装饰习俗，也常称作 fanous。人们可能把灯笼放进家里、店铺或公共空间，夜晚的灯光会改变街景。斋月里还有许多不同的家庭和社区活动。这里先从看得见的物件开始，了解其中一个例子。"
+        },
+        {
+          "id": "egypt-ramadan-lantern-r2-b3",
+          "title": "观察形状、颜色和位置",
+          "text": "从街景里看灯笼挂得高还是低，从近景里看它的外框、彩面和提环。白天能分出表面材料的颜色，灯亮后透过不同的彩面又会变样。要知道灯笼怎么制作，可以看看接缝的位置，再找有制作过程的照片，不能单凭灯光猜工艺。",
+          "mediaId": "egypt-lantern-detail"
+        },
+        {
+          "id": "egypt-ramadan-lantern-r2-b4",
+          "title": "每家每处可以不一样",
+          "text": "街区有时会一起装饰，家庭也可能用不同的灯笼，或者采用别的安排。有的人把灯笼留在室内，你在街上就看不到。拿着一张照片只能讲出这一个地方的样子。比较两个例子时，用「这里」和「这件」会比用「大家都」准确。"
+        },
+        {
+          "id": "egypt-ramadan-lantern-r2-b5",
+          "title": "试写一条自己的观察",
+          "text": "任选一张图，写下灯笼的位置和一个能看清的细节。再猜想在晚一点、灯点起来之后会不会有变化。你还可以留个问题，例如「怎么固定这些灯笼才不掉下来？」下一步可找夜景或问熟悉当地习俗的人，而不是在空白栏里先填进别人的答案。"
+        }
+      ],
+      "term": "斋月",
+      "definition": "伊斯兰历的一个月，许多穆斯林在这个时期按信仰安排斋戒等活动。",
+      "sourceUrls": [
+        "https://www.experienceegypt.eg/en/home/Culture",
+        "https://africa.sis.gov.eg/fran%C3%A7ais/actualit%C3%A9s/articles-et-rapports/le-ramadan-en-egypte-un-mois-%C3%A0-la-saveur-tr%C3%A8s-sp%C3%A9ciale/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "activity": {
+        "type": "open",
+        "id": "egypt-open-ramadan-lantern",
+        "title": "给一盏灯笼做观察记录",
+        "prompt": "它挂在哪里，外面是什么形状？想一想光线会让哪处细节变得更明显。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "egypt-lantern-street",
+          "egypt-lantern-detail"
+        ],
+        "suggestedArticleIds": [
+          "egypt-cairo-streets"
+        ]
+      },
+      "glossary": [
+        {
+          "term": "提环",
+          "definition": "灯笼上用来提起或悬挂的环。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-karnak-columns",
+      "countryId": "egypt",
+      "sectionId": "landmarks",
+      "title": "卡纳克的大柱子留下了什么？",
+      "summary": "到尼罗河东岸观察卡纳克的柱厅：柱子怎样排列，石头上的刻纹又记录了什么？",
+      "mediaId": "egypt-karnak",
+      "blocks": [
+        {
+          "id": "egypt-karnak-columns-r2-b1",
+          "title": "到卢克索东岸找卡纳克",
+          "text": "卡纳克神庙建筑群在尼罗河东岸，靠近今天的卢克索。先在地图上找到尼罗河，再看河道两边各有什么地点。卡纳克和王家谷离得不算远，却在不同的岸。要分清这两处，地图上的东、西方向比一张没有方位的照片更有帮助。"
+        },
+        {
+          "id": "egypt-karnak-columns-r2-b2",
+          "title": "一排排柱子怎样撑起空间",
+          "text": "看柱厅照片，可以用手指从离镜头最近的一根柱子指向远处。柱与柱之间留着通道，成排的柱子让人看出大厅的纵深。上面有的地方保留了横梁，有的地方能看见天空。现在的样子和刚建成时可能不同，可以再找平面图或考古说明。"
+        },
+        {
+          "id": "egypt-karnak-columns-r2-b3",
+          "title": "在石面找刻纹",
+          "text": "凑近照片会看到柱身和墙上的纹路。有的像人物和图形，有的是刻写符号。阴影能让凹凸更明显。只看照片能描述线条的形状与位置，要知道一段符号写了什么，就要看研究者的阅读说明。先挑一根柱子，把看到的图形圈出来。"
+        },
+        {
+          "id": "egypt-karnak-columns-r2-b4",
+          "title": "不同年代留下了不同部分",
+          "text": "卡纳克经过长时间建造和增添，并不是所有柱子、门和庭院同一天完成的。想了解某一处，要先认它是哪一座厅或哪一段墙，再查那一部分的年代。把整个建筑群在地图上圈出来，也能体会为什么一个古迹地点会包含不止一栋建筑。"
+        },
+        {
+          "id": "egypt-karnak-columns-r2-b5",
+          "title": "把看见的和推测分开",
+          "text": "你可以说「这张照片上柱子成排，表面有图形」，这是可指给别人看的线索。你也可以猜「通道也许让人沿某个方向前进」，这还需要平面图等资料。试着为柱厅写一条图注，读完的人能不能在图上找到你描述的位置？"
+        }
+      ],
+      "term": "柱厅",
+      "definition": "一座用成排柱子支撑屋顶或划分空间的大厅。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/87/",
+        "https://egymonuments.gov.eg/archaeological-sites/karnak/",
+        "https://egymonuments.gov.eg/archaeological-sites/valley-of-the-kings",
+        "https://egymonuments.gov.eg/en/archaeological-sites/philae/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "egypt-karnak",
+      "exerciseId": "egypt-find-karnak",
+      "glossary": [
+        {
+          "term": "横梁",
+          "definition": "横着跨在支撑物上面的构件。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-abusimbel-move",
+      "countryId": "egypt",
+      "sectionId": "landmarks",
+      "title": "石头神庙怎么搬到高处？",
+      "summary": "看看神庙现在的位置，读懂为什么人们记录、分块，再到高处重新组装。",
+      "mediaId": "egypt-abu-simbel",
+      "blocks": [
+        {
+          "id": "egypt-abusimbel-move-r2-b1",
+          "title": "今天的神庙在哪里",
+          "text": "打开照片，会看到阿布辛拜勒大神庙正面的高大雕像和岩壁。现在它靠近纳赛尔湖，地势比旧址高。图片拍的是迁建后的现址。石像很古老，安放它们的位置却经历了变化；判断年代时，可以分别问建筑何时造、何时移到这里。"
+        },
+        {
+          "id": "egypt-abusimbel-move-r2-b2",
+          "title": "水为什么会成为问题",
+          "text": "阿斯旺高坝建成后，蓄水形成大片水域。水位上升将淹没一些较低的地方，包括原来的阿布辛拜勒神庙。想让遗迹继续留给后来的人，就要想办法让它离开会被水淹的位置。这是后来保护遗产的难题，和古人当年为什么建神庙是两个问题。"
+        },
+        {
+          "id": "egypt-abusimbel-move-r2-b3",
+          "title": "先测量，然后分块",
+          "text": "神庙和雕像很重，不能像拿起小积木那样整座搬走。参与保护的人先测量、拍照和编号，再把部分岩石切分成可移动的大块。这样每一块到了新地方还有自己的位置。如果少一张记录，光凭外形来拼回去会困难得多。"
+        },
+        {
+          "id": "egypt-abusimbel-move-r2-b4",
+          "title": "在高处把位置拼回去",
+          "text": "移到较高的地方后，工人按照记录重新安放石块，并修建支撑结构。图解把这段过程缩成几个步骤，实际工程还有许多测量与施工。看两张现在的照片，可以比较入口与雕像的位置；要知道迁建前后有什么变化，还要找旧址资料。",
+          "mediaId": "egypt-abu-simbel-02"
+        },
+        {
+          "id": "egypt-abusimbel-move-r2-b5",
+          "title": "保护是很多人的工作",
+          "text": "这项搬迁是联合国教科文组织协调的努比亚遗址救援行动的一部分，不同地方的专家和工人参与。古迹不只留下古代建造者的线索，也留下保护者的新记录。想一想，如果只有一张照片可以带到新地点，你最希望它记录哪个位置、哪条尺寸？"
+        }
+      ],
+      "term": "迁建",
+      "definition": "把原处的建筑或构件移到另一处，再按记录重新建好。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/88/",
+        "https://whc.unesco.org/en/story-abu-simbel/",
+        "https://egymonuments.gov.eg/archaeological-sites/abu-simbel/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "heritage-move",
+      "placeId": "abu-simbel",
+      "exerciseId": "egypt-move-temple-check",
+      "glossary": [
+        {
+          "term": "旧址",
+          "definition": "过去所在的位置；可能与今天的位置不同。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-alexandria-library",
+      "countryId": "egypt",
+      "sectionId": "landmarks",
+      "title": "海边为什么有一座新图书馆？",
+      "summary": "走到地中海边，认识一座今天仍在使用、向古代图书馆致意的建筑。",
+      "mediaId": "egypt-library",
+      "blocks": [
+        {
+          "id": "egypt-alexandria-library-r2-b1",
+          "title": "先看这座海边城市",
+          "text": "亚历山大在埃及北部的地中海岸边。把地图切回全图，会发现它离尼罗河三角洲西侧不远。现代图书馆就在这座海边城市里。看建筑外景时，先找它与街道、天空以及周围城市的关系，再去想为什么要把一处阅读空间建在这里。"
+        },
+        {
+          "id": "egypt-alexandria-library-r2-b2",
+          "title": "照片里的建筑属于今天",
+          "text": "这一座现代亚历山大图书馆有很大的弧形外墙，屋面和外立面给人的印象与一座古代石庙不同。不同位置看过去，能看到的部分也不同。只凭形状不能确定年代，可以先读作品页和图书馆的说明，再给建筑加上时间标签。"
+        },
+        {
+          "id": "egypt-alexandria-library-r2-b3",
+          "title": "从二〇〇二年开始开放",
+          "text": "照片中的现代馆于二〇〇二年启用。它用名字和一些活动向古代亚历山大图书馆致意。两座馆分属不同年代；今天看到的建筑不是保存下来的古代馆舍。把「古代的图书馆」和「二〇〇二年启用的现代馆」写成两行，时间线就清楚了。"
+        },
+        {
+          "id": "egypt-alexandria-library-r2-b4",
+          "title": "一座图书馆还能做什么",
+          "text": "除了看书和查资料，今天的图书馆还可以让人参加讲座、展览和研究活动。不同的读者用同一个地方做不同的事。如果你想知道某一天能看到什么展览，要看馆方当时发布的安排。照片可以帮你认出建筑，但不能告诉你每天有哪些活动。"
+        },
+        {
+          "id": "egypt-alexandria-library-r2-b5",
+          "title": "练习给照片加年代",
+          "text": "把图书馆外景和一张神庙照片放一起，分别写下地点、对象和你知道的年代。看起来很大的建筑不一定都很古老，石材也不只用于过去。最后试着问家人「哪一座今天还能进去阅读？」再用图注和正文里的日期解释你的答案。"
+        }
+      ],
+      "term": "致意",
+      "definition": "通过名字、活动或设计表达对过去一件事的纪念或敬意。",
+      "sourceUrls": [
+        "https://www.bibalex.org/en/Page/About/",
+        "https://www.bibalex.org/TWAS-AREP/en/AboutUs/TWASVenue.aspx"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "egypt-alexandria-library",
+      "exerciseId": "egypt-library-now",
+      "glossary": [
+        {
+          "term": "馆舍",
+          "definition": "图书馆、博物馆等机构所使用的建筑。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-nature",
+      "countryId": "egypt",
+      "sectionId": "nature",
+      "title": "尼罗河为什么重要？",
+      "summary": "跟着一滴水，从尼罗河经过灌渠来到农田，看看绿色从哪里开始。",
+      "mediaId": "egypt-nile-bend",
+      "blocks": [
+        {
+          "id": "egypt-nature-r2-b1",
+          "title": "找到沙地与农田的边",
+          "text": "在埃及河谷的卫星图上，浅褐色土地与河边绿地常靠得很近。先用手指沿河移动，看看绿色是否一直宽得一样。在有些弯道，农田会顺着河岸展开；离开这条带子，照片里的颜色变化很快。这样的差别可以让我们先提出一个关于水的问题。"
+        },
+        {
+          "id": "egypt-nature-r2-b2",
+          "title": "河水可以经过灌渠到田",
+          "text": "庄稼需要水，雨少的时候，河水可以经过渠道被送到田里。这就是灌溉。图解画了河、渠和田的关系，用来帮助想象水的路线。真实的灌渠可能会拐弯、分支或借助水泵；不能拿示意图直接在地图上画一条精确的水线。"
+        },
+        {
+          "id": "egypt-nature-r2-b3",
+          "title": "俯视时留意绿带里的形状",
+          "text": "绿色能提示有植物，但还可以看它是不是被直线划成一块块。田块之间可能有道路和小水道，城镇的建筑也会混在旁边。卫星图能帮助找分布，辨别稻、麦或果树则要找更近的图或读农业资料。让每种证据回答它擅长的问题。"
+        },
+        {
+          "id": "egypt-nature-r2-b4",
+          "title": "用水的方法会慢慢变化",
+          "text": "人们会修渠道、调节什么时候给田浇水，也会因为作物和土地不同而换办法。城市变大时，有的土地用途会改变。把今天和过去的影像并排看，要先对齐同一块地和季节，再问变化原因。不能把所有颜色的差异都说成「水变少了」。"
+        },
+        {
+          "id": "egypt-nature-r2-b5",
+          "title": "想一想怎样让水到得刚好",
+          "text": "试着在纸上画河道、分水渠和几块田，再想象把水只送给其中一块田，你会在哪个地方改变流向？这只是一个思考游戏。真实种植还要考虑天气、土壤和每块田的需要。你可以先说清楚河水、渠道、田地三者是什么关系。"
+        }
+      ],
+      "term": "灌溉",
+      "definition": "把需要的水送到田地，帮助作物生长。",
+      "sourceUrls": [
+        "https://science.nasa.gov/photojournal/the-nile/",
+        "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/",
+        "https://science.nasa.gov/earth/earth-observatory/the-nile-deltas-disappearing-farmland-149183/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "nile-irrigation",
+      "mapFeatureId": "egypt-nile",
+      "exerciseId": "egypt-water",
+      "glossary": [
+        {
+          "term": "灌渠",
+          "definition": "把灌溉用水送到田地的渠道。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-redsea-reef",
+      "countryId": "egypt",
+      "sectionId": "nature",
+      "title": "珊瑚礁是谁的家？",
+      "summary": "观察红海的两张水下照片，找一处可能让小动物藏身的礁缝。",
+      "mediaId": "egypt-reef-detail",
+      "blocks": [
+        {
+          "id": "egypt-redsea-reef-r2-b1",
+          "title": "从水下的一次观察开始",
+          "text": "照片来自埃及西奈南端附近的穆罕默德角海域。先把目光从开阔水面移向礁体，看看高低、颜色和空隙有什么变化。拍摄位置、深浅和水下光线都会影响你看到的样子。这张图可以让我们观察形状，不需要先背下所有珊瑚的名字。"
+        },
+        {
+          "id": "egypt-redsea-reef-r2-b2",
+          "title": "珊瑚和珊瑚礁有什么关系",
+          "text": "许多造礁珊瑚由小小的珊瑚虫组成，它们能形成坚硬骨骼。骨骼和其他生物的材料一点点积累，能成为珊瑚礁结构的一部分。图上凸起的形状有的可能是活珊瑚，有的可能是岩面或过去留下的结构，分不清时可以先描述形状。"
+        },
+        {
+          "id": "egypt-redsea-reef-r2-b3",
+          "title": "空隙也可以是一间小房子",
+          "text": "礁体上面有开阔的水，旁边有裂缝和凹处。小动物可以在适合自己的空间里藏身或寻找食物。看照片时，选一个比小鱼身形稍宽的凹处，试着说明它为什么可能提供遮挡。照片里没有看见鱼进去时，要把这句话当成猜想。",
+          "mediaId": "egypt-red-sea"
+        },
+        {
+          "id": "egypt-redsea-reef-r2-b4",
+          "title": "好的生长环境需要许多条件",
+          "text": "不少浅水造礁珊瑚依赖合适的光照、水温和较清澈的水。环境变化会影响它们。看见一片颜色漂亮的礁不能直接判断整个海域都一样健康；那要由更长时间的观察和许多地点的资料支持。观察照片时，也留一个问题给潜水记录。"
+        },
+        {
+          "id": "egypt-redsea-reef-r2-b5",
+          "title": "画一张自己的藏身图",
+          "text": "用一条线画出礁体外形，留一个小缝，再画上方开阔的水。在你认为可能让小动物停留的位置画一个圈，写下依据是遮挡、空间大小还是旁边的食物。再把图拿给别人，让他用自己的眼睛检查你圈的位置是不是图里真的能看见。"
+        }
+      ],
+      "term": "栖息地",
+      "definition": "生物可以生活、寻找食物或躲藏的一片环境。",
+      "sourceUrls": [
+        "https://sis.gov.eg/en/egypt/tourism/environmental-tourism/ras-muhamed-park/",
+        "https://oceanservice.noaa.gov/facts/coral_species.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "reef-habitat",
+      "placeId": "egypt-ras-mohammed",
+      "activity": {
+        "type": "open",
+        "id": "egypt-open-redsea-reef",
+        "title": "给珊瑚礁找一个藏身处",
+        "prompt": "找一处可能让小动物躲藏的地方，写出你看到的形状或空间。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "egypt-red-sea",
+          "egypt-reef-detail"
+        ],
+        "suggestedArticleIds": [
+          "egypt-two-seas"
+        ]
+      },
+      "glossary": [
+        {
+          "term": "珊瑚礁",
+          "definition": "珊瑚骨骼等材料长久积累形成的结构。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-whale-valley",
+      "countryId": "egypt",
+      "sectionId": "nature",
+      "title": "沙漠里为什么会发现鲸的化石？",
+      "summary": "在今天干燥的山谷里观察古代鲸类骨骼，练习用化石推想很久以前的环境。",
+      "mediaId": "egypt-whale-valley",
+      "blocks": [
+        {
+          "id": "egypt-whale-valley-r2-b1",
+          "title": "在沙漠里看见古代的海",
+          "text": "鲸鱼谷在埃及西部沙漠，今天的地表干燥，可以看见岩石和沙土。把地点放到地图上，它不在海边。这里却保留着古代鲸类的化石。先把「今天的地方」和「很久以前的环境」分成两栏，才不会以为照片是在拍一条现代鲸。"
+        },
+        {
+          "id": "egypt-whale-valley-r2-b2",
+          "title": "观察骨骼怎样排列",
+          "text": "有一张图中，一列骨骼沿着地面伸开，旁边有碎片和岩石。另一张图能看清其中一些化石的形状。可以先沿排列的方向找最容易辨认的一段，再用图注核对。光看一块孤立的碎片，我们通常不能确定它来自身体哪个部位。把散落的碎片和成列的部分分别写下来。",
+          "mediaId": "egypt-whale-fossil"
+        },
+        {
+          "id": "egypt-whale-valley-r2-b3",
+          "title": "为什么会留下这些线索",
+          "text": "很久以前，这一带曾有海洋环境。生物死后，有些骨骼被泥沙覆盖，并在漫长过程中保存。今天露出来的岩层和骨骼让研究者有机会观察那个时期。不是所有生物都会留下化石，找到的一份记录，也不能代替当时整片海的样子。"
+        },
+        {
+          "id": "egypt-whale-valley-r2-b4",
+          "title": "把不同证据拼在一起",
+          "text": "研究者会看化石出现在哪一层岩石里、旁边还有什么生物、骨头形状能和哪些已知动物比较。鲸鱼谷的古鲸遗骸能帮助研究早期鲸类如何适应水中生活。要说清某一具的名字和年龄，需要研究记录，单张照片给不了这么多答案。"
+        },
+        {
+          "id": "egypt-whale-valley-r2-b5",
+          "title": "给照片写一句能验证的话",
+          "text": "试着说「我看见地面上有一列骨骼化石」，然后请家人指出同一列。再说「这里过去可能是海」，告诉对方还要查岩层与其他化石。第一句只描述看到的东西，第二句使用了多条线索。两句都能帮我们学习，只是证据的范围不同。"
+        }
+      ],
+      "term": "化石",
+      "definition": "古代生物的遗体或活动痕迹，在自然过程中保存下来后留下的证据。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1186"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "egypt-wadi-al-hitan",
+      "exerciseId": "egypt-fossil-photo-check",
+      "glossary": [
+        {
+          "term": "岩层",
+          "definition": "大致成层分布的岩石。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-history",
+      "countryId": "egypt",
+      "sectionId": "history",
+      "title": "金字塔留下了哪些线索？",
+      "summary": "从吉萨的全景走到石块近处，用看得见的线索认识金字塔。",
+      "mediaId": "egypt-giza",
+      "blocks": [
+        {
+          "id": "egypt-history-r2-b1",
+          "title": "先把吉萨放到地图上",
+          "text": "吉萨金字塔群在尼罗河以西、靠近开罗的高原上。广角照片能同时容下几座金字塔、浅色的地表和远处的地平线。地图帮你辨认它离河和城市多远；照片则能告诉你建筑在镜头里怎样排列。这是两种不同的观察方法。"
+        },
+        {
+          "id": "egypt-history-r2-b2",
+          "title": "凑近石面找接缝",
+          "text": "看近一些的照片时，先沿一块石头的边缘移动，看看哪里和下一块石头相接。这里可以看到层层砌石的边线，上方还看得见建筑的斜面。你可以用两根手指在屏幕上把一块石头的轮廓比出来，再说哪一条线是石块之间的接缝。",
+          "mediaId": "egypt-giza-blocks"
+        },
+        {
+          "id": "egypt-history-r2-b3",
+          "title": "遗址还包括其他建筑",
+          "text": "考古资料把金字塔和周围的一些设施放在同一组遗址里研究。古埃及人在这里建造了与王室陵墓有关的建筑。周围还有神庙、墓葬或连接道路留下的线索。照片拍到的是其中一部分，不是把整个高原上每一处遗迹都看清了。"
+        },
+        {
+          "id": "egypt-history-r2-b4",
+          "title": "建造问题需要另外的证据",
+          "text": "照片能看见石块放在一起，却很难直接看到当年如何搬运每一块石头。要研究建造过程，考古人员会查地形、工具、采石场和遗址中的痕迹，也会用实验比较想法。若一种说法只靠一张图片讲完所有步骤，可以问问它还缺哪类证据。"
+        },
+        {
+          "id": "egypt-history-r2-b5",
+          "title": "练习指给别人看",
+          "text": "在近景里挑一个有接缝的位置，再在广角图里找对应的斜面方向。用一句话分开两种尺度：「近处我看到……，远处我看到……」。如果想知道这块石头是哪一时放上去的，那是新的问题。你可以查资料，却不用先在照片里猜一个年代。"
+        }
+      ],
+      "term": "接缝",
+      "definition": "两块材料相接的地方，有时能看到一条线或细缝。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/86/",
+        "https://egymonuments.gov.eg/monuments/the-great-sphinx/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "giza",
+      "exerciseId": "egypt-giza-photo-check",
+      "glossary": [
+        {
+          "term": "陵墓",
+          "definition": "古时为安葬逝者而修建的地方。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-thebes-twobanks",
+      "countryId": "egypt",
+      "sectionId": "history",
+      "title": "古底比斯的两岸有什么不同？",
+      "summary": "用卢克索附近的地图，把东岸神庙和西岸王家谷放在同一张图上读。",
+      "mediaId": "egypt-karnak",
+      "blocks": [
+        {
+          "id": "egypt-thebes-twobanks-r2-b1",
+          "title": "古底比斯在哪里",
+          "text": "今天的卢克索附近保留着古底比斯的一些遗址。先把地图摆成北在上，找到贯穿这里的尼罗河。我们选择两个地点：卡纳克和王家谷。它们的名字会出现在河的两侧；如果地图放得太小，可以放大后再看两点和水道的相对位置。图上的一条河是比较两个位置的参照。"
+        },
+        {
+          "id": "egypt-thebes-twobanks-r2-b2",
+          "title": "东岸的神庙建筑群",
+          "text": "卡纳克在尼罗河东岸，是一个经过不同时期扩建的神庙建筑群。看柱厅照片能看到柱子和刻纹，放到区域地图则能看到它和城市、河岸相近。地图先告诉我们它在哪里，建筑用途和不同时期的变化还要读遗址说明。"
+        },
+        {
+          "id": "egypt-thebes-twobanks-r2-b3",
+          "title": "西岸的山谷与墓葬",
+          "text": "王家谷位于尼罗河西岸的山地，和河边城市的景观不同。远景里能看到干燥的山坡与谷地。这里有古埃及王室墓葬，许多墓室在岩石里。看地表照片时，不能只凭一块阴影判断墓道在哪，更不能把今天的照片当作古代布置图。",
+          "mediaId": "egypt-kings-valley"
+        },
+        {
+          "id": "egypt-thebes-twobanks-r2-b4",
+          "title": "地点和用途要分别找证据",
+          "text": "可以记住东岸神庙、西岸墓地这两个地点例子，却不能由此断定东岸每一座建筑都是神庙、西岸全都是墓。考古记录能分别给出两个对象的名称、位置与用途。学会用一两个具体实例来说明大区域，会比给整片陆地贴同一个标签准确。"
+        },
+        {
+          "id": "egypt-thebes-twobanks-r2-b5",
+          "title": "让手指沿一条学习路线走",
+          "text": "把手指放在东岸的卡纳克，先指出河道，再移到对岸的王家谷。用「东岸」「河流」「西岸」把路线讲一遍。若换一张旋转过的地图，先看北箭头，别用屏幕左右直接作答。最后用两张照片说出两地地表和建筑的不同。"
+        }
+      ],
+      "term": "河岸",
+      "definition": "陆地和河道相接的一边，地图上可用方向区分。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/87/",
+        "https://egymonuments.gov.eg/archaeological-sites/karnak/",
+        "https://egymonuments.gov.eg/archaeological-sites/valley-of-the-kings",
+        "https://egymonuments.gov.eg/en/archaeological-sites/philae/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "egypt-valley-of-kings",
+      "exerciseId": "egypt-find-kings-valley",
+      "glossary": [
+        {
+          "term": "墓葬",
+          "definition": "与安葬逝者有关的地点和遗存。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-rosetta-stone",
+      "countryId": "egypt",
+      "sectionId": "history",
+      "title": "为什么三种写法能帮人读懂古文字？",
+      "summary": "一块石碑有三种写法，看看研究者怎样把同一份内容对照起来。",
+      "mediaId": "egypt-rosetta-stone",
+      "blocks": [
+        {
+          "id": "egypt-rosetta-stone-r2-b1",
+          "title": "从石碑的来历看起",
+          "text": "这块碑的名字来自发现地附近的罗塞塔，也叫拉希德，靠近尼罗河入海的一条支流。照片里是现藏大英博物馆的石碑，可以看到边缘缺损。它原来比现在更完整；要理解保留下来的文字，需要考虑哪些部分已经不在这块石头上。"
+        },
+        {
+          "id": "egypt-rosetta-stone-r2-b2",
+          "title": "同一块石头上有三种写法",
+          "text": "先从上往下看，可以找到三段外观不同的刻字。上面是古埃及象形文字，中间是古埃及世俗体，下面是古希腊文。三段都与同一道公告有关。有的符号像图画，有的看起来比较连贯；只看符号外形并不能直接知道它表示哪种声音。"
+        },
+        {
+          "id": "egypt-rosetta-stone-r2-b3",
+          "title": "三种写法记录了两种语言",
+          "text": "象形文字与世俗体在这里都记录古埃及语，古希腊文则记录古希腊语。可以想象把一条消息用两种不同字形写出来，书写样子变了，语言却不一定变。读石碑时先分清「怎么写」与「用哪一种语言说」，三和二就不会混在一起。"
+        },
+        {
+          "id": "egypt-rosetta-stone-r2-b4",
+          "title": "对照内容给了研究者线索",
+          "text": "当研究者能读懂古希腊文部分时，可以拿已知的一些词和人名去比较另外两段。还要用别的古文字材料核对，不能随便给每个图形配一个意思。解读是很多人一点点建立起来的；一处比对如果成立，还需要在其它材料里再次检查。"
+        },
+        {
+          "id": "egypt-rosetta-stone-r2-b5",
+          "title": "把仍需查的事情圈起来",
+          "text": "在照片上你可以找出三段的分界，但小字在屏幕上未必看得清。想知道公告的全文，可以读博物馆的说明与翻译。试着先画三格，分别写下三种文字，再把前两格用线连到同一个语言名字。这个小图能帮助你向别人复述。"
+        }
+      ],
+      "term": "文字系统",
+      "definition": "一套约定好的书写符号和写法，可以用来记录语言。",
+      "sourceUrls": [
+        "https://www.britishmuseum.org/sites/default/files/2022-10/Hieroglyphs_unlocking_ancient_Egypt_12_exhibition_highlights_in_plain_English_10_10.pdf",
+        "https://www.britishmuseum.org/sites/default/files/2022-10/Guide_for_teachers_Hieroglyphs_unlocking_ancient_Egypt_The_British_Museum.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "mapFeatureId": "egypt-delta-rosetta",
+      "exerciseId": "egypt-rosetta-scripts",
+      "glossary": [
+        {
+          "term": "世俗体",
+          "definition": "古埃及语的一种书写系统，笔画通常比象形文字简化。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-explore",
+      "countryId": "egypt",
+      "sectionId": "questions",
+      "title": "怎样观察河流与生活？",
+      "summary": "把卫星图和桥梁照片一起看，用三句话分开看见、猜想和新问题。",
+      "mediaId": "egypt-nile-bend",
+      "blocks": [
+        {
+          "id": "egypt-explore-r2-b1",
+          "title": "给材料写上时间和位置",
+          "text": "河谷卫星影像记录了一处弯道和附近的农田。开罗河景的照片拍到一座桥和水面。先读每张图的图注，分别写下地点和时间。两张图不属于同一次拍摄，不能合成一条完整街道。我们可以比较它们各自透露的线索，再找地图补上关系。"
+        },
+        {
+          "id": "egypt-explore-r2-b2",
+          "title": "从三个对象开始找",
+          "text": "先认出河流，再找农田和城镇或道路。看河谷图时，问哪些绿色田块靠近水道；看城市图时，问桥的两端连着哪些陆地。可以沿照片边缘慢慢指过去，不需要一眼看完。图里没有拍到的区域，先空着，等找到其它材料再补。"
+        },
+        {
+          "id": "egypt-explore-r2-b3",
+          "title": "用一句话说位置关系",
+          "text": "例如「农田靠着河道，在浅色土地的边缘」，或者「桥横跨水面，把道路接在一起」。这些句子回答的是东西在哪里。若想解释人为什么在这里种植或修路，可以先查灌溉、交通或城市地图。把物体关系说清楚，是提出更好问题的第一步。",
+          "mediaId": "egypt-cairo-bridge"
+        },
+        {
+          "id": "egypt-explore-r2-b4",
+          "title": "给推测留一个位置",
+          "text": "「这里的人可能用河水灌溉」是一种解释。它与河和田靠得近这条观察有关，但还需要渠道或用水资料支持。试着分别写「我看见……」「我猜想……」，再指给别人看你的线索。猜想不必一次就正确，它可以随着新证据改变。"
+        },
+        {
+          "id": "egypt-explore-r2-b5",
+          "title": "把问题缩小到可以继续查",
+          "text": "「人们怎样生活」很大，可以换成「照片里这片田的水从哪条渠来？」或「这座桥接到哪个街区？」选一个你还能找更多资料的问题，给它写下下一步，比如放大地图、比较另一张影像或阅读当地说明。一个清楚的小问题可以带你走很远。试试从已有的图注中先找答案。"
+        }
+      ],
+      "term": "证据",
+      "definition": "能帮助别人检查一个说法的线索，比如有图注的照片、测量或记录。",
+      "sourceUrls": [
+        "https://science.nasa.gov/photojournal/the-nile/",
+        "https://science.nasa.gov/earth/earth-observatory/nile-bend-egypt-8770/",
+        "https://science.nasa.gov/earth/earth-observatory/the-nile-deltas-disappearing-farmland-149183/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "mapFeatureId": "egypt-nile",
+      "exerciseId": "egypt-observation",
+      "glossary": [
+        {
+          "term": "位置关系",
+          "definition": "两个或多个东西在彼此什么方向、距离多远或怎样相连。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-two-photos",
+      "countryId": "egypt",
+      "sectionId": "questions",
+      "title": "一张照片能回答所有问题吗？",
+      "summary": "把吉萨全景和石块近景放在一起，看看距离改变了哪些能回答的问题。",
+      "mediaId": "egypt-giza",
+      "blocks": [
+        {
+          "id": "egypt-two-photos-r2-b1",
+          "title": "广角照片先看整体",
+          "text": "吉萨的广角照片让几座金字塔同时出现在画面里。你可以比较它们在画面中的位置和斜面轮廓，也能看到远处地表的样子。离相机近的建筑可能显得更大，不能仅凭照片上占了多少屏幕就算出真实尺寸。要量大小还要找比例和测量记录。"
+        },
+        {
+          "id": "egypt-two-photos-r2-b2",
+          "title": "近处能看到哪些小东西",
+          "text": "另一张照片把注意力放到石面，能寻找一层层石块和相接的地方。放近以后，画面外的建筑、河流和远处城市就少了。看看两张图里有没有共同的斜线或台阶方向，再想一想近照让哪种细节从「看不清」变成「可以描述」。",
+          "mediaId": "egypt-giza-blocks"
+        },
+        {
+          "id": "egypt-two-photos-r2-b3",
+          "title": "把拍摄位置也写进比较",
+          "text": "两张图的角度和距离不同，你不一定能从近照指出广角图的同一块石头。先写一张展示整体，一张展示局部，再核对对象和拍摄地点。把照片能支持的结论和镜头以外的部分分开，就不会硬把两张图拼成一个精确的现场复原。"
+        },
+        {
+          "id": "egypt-two-photos-r2-b4",
+          "title": "有的问题需要第三种材料",
+          "text": "想知道建筑的高度，可以找测量数据；想知道石头从哪里来，可以找采石场和考古资料；想知道影子为什么在那个方向，则可能要知道拍摄时间。单张照片可以回答眼前的细节，许多需要时间、距离和原因的问题还要额外证据。"
+        },
+        {
+          "id": "egypt-two-photos-r2-b5",
+          "title": "写一个仍没有答案的问题",
+          "text": "选一张图先写一个能直接看见的事实，再写这张图没能解释的事。例如「我能看见几层石块，但我不知道工人当年怎样把它们运上去」。最后挑一种你愿意找的材料。把新问题留下来，就能把一次看图变成下一次探索的起点。"
+        }
+      ],
+      "term": "尺度",
+      "definition": "观察范围的大小；同一个地方可以从很近或很远来观察。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/86/",
+        "https://egymonuments.gov.eg/monuments/the-great-sphinx/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "placeId": "giza",
+      "activity": {
+        "type": "open",
+        "id": "egypt-open-two-photos",
+        "title": "两张照片，两种线索",
+        "prompt": "比较吉萨全景和石块近景。写下一个能用近景回答的问题，再写一个还需查证的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "egypt-giza",
+          "egypt-giza-blocks"
+        ],
+        "suggestedArticleIds": [
+          "egypt-history"
+        ]
+      },
+      "glossary": [
+        {
+          "term": "局部",
+          "definition": "整体中的一部分，用近照常能看得更清楚。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-protect-heritage",
+      "countryId": "egypt",
+      "sectionId": "questions",
+      "title": "如果要保护一处古迹，你先记录什么？",
+      "summary": "从菲莱神庙现址的一张照片出发，试着做一页给后来人看的记录。",
+      "mediaId": "egypt-philae",
+      "blocks": [
+        {
+          "id": "egypt-protect-heritage-r2-b1",
+          "title": "先说明照片拍的是哪一处",
+          "text": "图中的菲莱神庙建筑在阿吉勒基亚岛上，周围能看见水。这是搬迁后的现址。记录一处遗迹时，要把名字、对象和位置写清楚；同一个名字有时可以指建筑，也可以指原来的岛。先区分这两层意思，后面的说明才不会读错。"
+        },
+        {
+          "id": "egypt-protect-heritage-r2-b2",
+          "title": "想想哪些东西可能变化",
+          "text": "水位、建筑表面的磨损、周围道路和游客能走的路线都会改变。照片里刚好有一艘船或一片阴影，也可能只属于拍摄当天。你可以先圈出稳定的东西，比如门的位置，再标出会随时间变化的东西。两种线索都值得记，只是用途不同。"
+        },
+        {
+          "id": "egypt-protect-heritage-r2-b3",
+          "title": "记录不只靠一张漂亮照片",
+          "text": "可以拍全景让后来人知道建筑和岛的位置，再拍局部让人看清石块、接缝或文字。还可以量一段距离、画一张带方向的简图，并记下观察日期。如果要重复拍摄，留一句「我站在哪，朝哪边看」，下次在同处比较会容易很多。"
+        },
+        {
+          "id": "egypt-protect-heritage-r2-b4",
+          "title": "迁建让证据多了一层时间",
+          "text": "菲莱神庙曾因水的影响被移往现址，保护者需要知道原来的建筑次序，才能在新的岛上重新组装。今天看见的水面和建筑关系属于现址；老照片和工程记录才可以说明原处是什么样。把两种材料各自的时间写出来，故事就更清楚。"
+        },
+        {
+          "id": "egypt-protect-heritage-r2-b5",
+          "title": "写一页你会交给后来人的东西",
+          "text": "想象你的记录会交给没有去过那座岛的同学。先写地点和拍摄方向，再选一张全景和一个局部，最后写一个还没有答案的问题。可以用现有照片做练习，无需猜照片没有说明的日期。别人读完能找到你说的地方，就完成了一份有用的记录。"
+        }
+      ],
+      "term": "记录",
+      "definition": "用文字、照片、图纸或测量保留下来，方便以后复查的信息。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/88/",
+        "https://whc.unesco.org/en/story-abu-simbel/",
+        "https://egymonuments.gov.eg/archaeological-sites/abu-simbel/",
+        "https://egymonuments.gov.eg/archaeological-sites/karnak/",
+        "https://egymonuments.gov.eg/archaeological-sites/valley-of-the-kings",
+        "https://egymonuments.gov.eg/en/archaeological-sites/philae/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "heritage-move",
+      "placeId": "egypt-philae",
+      "activity": {
+        "type": "open",
+        "id": "egypt-open-protect-heritage",
+        "title": "给后来的人留一页古迹记录",
+        "prompt": "选一处建筑、一条位置说明和一个新问题，写下你会保留的记录。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "egypt-philae"
+        ],
+        "suggestedArticleIds": [
+          "egypt-abusimbel-move"
+        ]
+      },
+      "glossary": [
+        {
+          "term": "全景",
+          "definition": "能看见物体或场景整体的一张图。"
+        }
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "giza",
+      "countryId": "egypt",
+      "name": "吉萨金字塔群",
+      "category": "遗产",
+      "latitude": 29.9792,
+      "longitude": 31.1342,
+      "region": "吉萨高原",
+      "summary": "几座石头金字塔，在沙地上留下斜面的轮廓。",
+      "description": "在尼罗河以西的吉萨高原，可以看到与古埃及王室陵墓有关的建筑。这里的图既有全景，也有哈夫拉金字塔底部石块的近景。",
+      "observation": "哪里能看见石块之间的接缝？换到广角图，斜面还看得见吗？",
+      "mediaIds": [
+        "egypt-giza",
+        "egypt-giza-blocks"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/86/",
+      "coordinateSource": "吉萨高原 · 群体观察点",
+      "articleIds": [
+        "egypt-history",
+        "egypt-two-photos"
+      ],
+      "aliases": [
+        "金字塔",
+        "吉萨",
+        "Giza"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "egypt-giza",
+          "x": 0.45,
+          "y": 0.51,
+          "label": "斜面的轮廓",
+          "explanation": "沿着斜线往上走，可以找到塔的尖顶。"
+        },
+        {
+          "mediaId": "egypt-giza",
+          "x": 0.23,
+          "y": 0.69,
+          "label": "前面的建筑",
+          "explanation": "照片前面还能看到比较低的建筑。遗址不只有几座大金字塔。"
+        },
+        {
+          "mediaId": "egypt-giza-blocks",
+          "x": 0.41,
+          "y": 0.51,
+          "label": "石块接缝",
+          "explanation": "左侧近景能看见相邻石块的交界；看不清时可以放大。"
+        }
+      ]
+    },
+    {
+      "id": "nile-delta",
+      "countryId": "egypt",
+      "name": "尼罗河三角洲",
+      "category": "水系",
+      "latitude": 30.8,
+      "longitude": 31.0,
+      "region": "埃及北部 · 地中海岸",
+      "summary": "河谷在海边展开，像一把绿色的扇子。",
+      "description": "尼罗河到地中海前分出多条水道。地图锚点代表三角洲区域，不是一条河的入海口。西侧是罗塞塔支流，东侧是达米埃塔支流。",
+      "observation": "两张卫星影像中，河道和绿色地带怎样向海边展开？",
+      "mediaIds": [
+        "egypt-delta-02",
+        "egypt-delta"
+      ],
+      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-nile-deltas-disappearing-farmland-149183/",
+      "coordinateSource": "三角洲区域代表点",
+      "articleIds": [
+        "egypt-nile-delta",
+        "egypt-geography"
+      ],
+      "aliases": [
+        "三角洲",
+        "河口",
+        "罗塞塔",
+        "达米埃塔",
+        "Nile Delta"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "abu-simbel",
+      "countryId": "egypt",
+      "name": "阿布辛拜勒",
+      "category": "遗产",
+      "latitude": 22.336861,
+      "longitude": 31.625556,
+      "region": "埃及南部 · 纳赛尔湖畔",
+      "summary": "今天看到的大神庙，已经从旧址搬到高处。",
+      "description": "当蓄水威胁原来的遗址时，保护者记录建筑、分块移走，再在高处重新组装。两张照片拍摄的都是迁建后的大神庙。",
+      "observation": "从雕像和入口的大小，可以说出照片留下了哪些线索？",
+      "mediaIds": [
+        "egypt-abu-simbel",
+        "egypt-abu-simbel-02"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/88/",
+      "coordinateSource": "大神庙现址 · M22 作品位置",
+      "articleIds": [
+        "egypt-abusimbel-move",
+        "egypt-protect-heritage"
+      ],
+      "aliases": [
+        "阿布辛贝勒",
+        "阿布辛贝",
+        "Abu Simbel"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "egypt-cairo-historic",
+      "countryId": "egypt",
+      "name": "开罗历史街区",
+      "category": "城市",
+      "latitude": 30.04667,
+      "longitude": 31.26,
+      "region": "开罗 · 穆伊兹街",
+      "summary": "在老建筑和摊位之间，观察今天的一段开罗街景。",
+      "description": "历史城区可以追溯到十世纪，后来许多时期都留下了建筑。地图锚点在穆伊兹街一带，照片只记录其中一段街道。",
+      "observation": "你看见了哪些老建筑的线索，又有哪些今天仍在使用的东西？",
+      "mediaIds": [
+        "egypt-muizz",
+        "egypt-arabic-sign"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/89/",
+      "coordinateSource": "穆伊兹街区域代表点",
+      "articleIds": [
+        "egypt-cairo-streets",
+        "egypt-arabic"
+      ],
+      "aliases": [
+        "老城",
+        "开罗",
+        "穆伊兹",
+        "Cairo"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "egypt-alexandria-library",
+      "countryId": "egypt",
+      "name": "亚历山大图书馆",
+      "category": "城市",
+      "latitude": 31.20887,
+      "longitude": 29.9092,
+      "region": "亚历山大 · 地中海岸",
+      "summary": "海边的一座现代图书馆，于 2002 年启用。",
+      "description": "这座现代馆向古代的亚历山大图书馆致意，今天供阅读、研究和文化交流。照片拍的是现代馆外观。",
+      "observation": "外墙和屋面的形状有什么特点？哪部分能从这张照片确认？",
+      "mediaIds": [
+        "egypt-library"
+      ],
+      "sourceUrl": "https://www.bibalex.org/en/Page/About/",
+      "coordinateSource": "现代馆建筑锚点",
+      "articleIds": [
+        "egypt-alexandria-library"
+      ],
+      "aliases": [
+        "亚历山大",
+        "现代图书馆",
+        "Bibliotheca Alexandrina"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "egypt-karnak",
+      "countryId": "egypt",
+      "name": "卡纳克神庙",
+      "category": "遗产",
+      "latitude": 25.7186,
+      "longitude": 32.6573,
+      "region": "卢克索 · 尼罗河东岸",
+      "summary": "向上看，柱厅里的柱子、横梁和刻纹进入画面。",
+      "description": "卡纳克是经过长期建造和扩充的建筑群。这张柱厅照片记录了石柱和部分横梁，建筑年代与符号含义可以在读物里继续查。",
+      "observation": "哪一根柱子离相机更近？在哪里能看见刻纹？",
+      "mediaIds": [
+        "egypt-karnak"
+      ],
+      "sourceUrl": "https://egymonuments.gov.eg/archaeological-sites/karnak/",
+      "coordinateSource": "卡纳克建筑群锚点",
+      "articleIds": [
+        "egypt-karnak-columns",
+        "egypt-thebes-twobanks"
+      ],
+      "aliases": [
+        "卡纳克",
+        "柱厅",
+        "Karnak"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "egypt-karnak",
+          "x": 0.5,
+          "y": 0.61,
+          "label": "石柱",
+          "explanation": "柱身向上连接柱头，表面能看见刻纹。"
+        },
+        {
+          "mediaId": "egypt-karnak",
+          "x": 0.48,
+          "y": 0.19,
+          "label": "横梁",
+          "explanation": "较上方的石梁横跨一段空间。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-valley-of-kings",
+      "countryId": "egypt",
+      "name": "王家谷",
+      "category": "遗产",
+      "latitude": 25.7402,
+      "longitude": 32.6014,
+      "region": "卢克索 · 尼罗河西岸",
+      "summary": "到卢克索的另一岸，看干燥的谷地和山坡。",
+      "description": "王家谷有古埃及的王室墓葬。地点锚点用于观察景区，不标出某间墓室。远景可以帮助理解地表，不能用来判断墓室内的样子。",
+      "observation": "今天的地面是什么颜色？远处有哪些高低变化？",
+      "mediaIds": [
+        "egypt-kings-valley"
+      ],
+      "sourceUrl": "https://egymonuments.gov.eg/archaeological-sites/karnak/",
+      "coordinateSource": "王家谷景区代表点",
+      "articleIds": [
+        "egypt-thebes-twobanks"
+      ],
+      "aliases": [
+        "帝王谷",
+        "王家之谷",
+        "Valley of the Kings"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "egypt-philae",
+      "countryId": "egypt",
+      "name": "菲莱神庙",
+      "category": "遗产",
+      "latitude": 24.0251,
+      "longitude": 32.8842,
+      "region": "阿斯旺 · 阿吉勒基亚岛",
+      "summary": "从水面向岛上看，分清神庙建筑和它所在的位置。",
+      "description": "菲莱的建筑后来迁至阿吉勒基亚岛。照片中看见的是迁建现址，而非原来的菲莱岛。可以用全景和图纸分别记录建筑与周围水面的关系。",
+      "observation": "岛、建筑和水面在画面的什么地方？哪一处会随视角变化？",
+      "mediaIds": [
+        "egypt-philae"
+      ],
+      "sourceUrl": "https://egymonuments.gov.eg/archaeological-sites/karnak/",
+      "coordinateSource": "阿吉勒基亚岛神庙现址",
+      "articleIds": [
+        "egypt-protect-heritage",
+        "egypt-abusimbel-move"
+      ],
+      "aliases": [
+        "菲莱",
+        "阿吉勒基亚",
+        "Philae"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "egypt-philae",
+          "x": 0.73,
+          "y": 0.52,
+          "label": "岛上的建筑",
+          "explanation": "塔门和柱廊位于现址的岛上。"
+        },
+        {
+          "mediaId": "egypt-philae",
+          "x": 0.5,
+          "y": 0.86,
+          "label": "岛旁的水面",
+          "explanation": "今天拍到的岸线和水面属于迁建后的地点。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-elephantine",
+      "countryId": "egypt",
+      "name": "阿斯旺象岛",
+      "category": "城市",
+      "latitude": 24.086079,
+      "longitude": 32.888431,
+      "region": "阿斯旺 · 尼罗河中",
+      "summary": "停在象岛河岸的帆船，让我们想起过河的方式。",
+      "description": "象岛位于阿斯旺的尼罗河中。照片拍到停在象岛附近的帆船，可观察船、岸与水的位置，不能从照片确定哪条船的行程或发船时间。",
+      "observation": "如果从岛上到对岸，要先找到哪一处可以靠船的地方？",
+      "mediaIds": [
+        "egypt-elephantine"
+      ],
+      "sourceUrl": "https://egymonuments.gov.eg/archaeological-sites/elephantine-1/",
+      "coordinateSource": "象岛岸边 · M16 作品位置",
+      "articleIds": [
+        "egypt-aswan-crossing",
+        "egypt-nubian"
+      ],
+      "aliases": [
+        "象岛",
+        "埃勒凡提尼",
+        "Elephantine"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "egypt-suez-canal",
+      "countryId": "egypt",
+      "name": "苏伊士运河",
+      "category": "水系",
+      "latitude": 31.273,
+      "longitude": 32.315,
+      "region": "塞得港 · 地中海入口",
+      "summary": "从地中海到苏伊士湾，这是一条人工水道。",
+      "description": "地图标记代表运河北端，不是卫星照片中船的位置。水系层虚线跟随航道。卫星照片摄于 2021 年，记录的是一艘货船堵塞航道的事件。",
+      "observation": "沿着虚线走，能找出运河两端的海和海湾吗？",
+      "mediaIds": [
+        "egypt-suez-canal"
+      ],
+      "sourceUrl": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx",
+      "coordinateSource": "塞得港入海端代表点",
+      "articleIds": [
+        "egypt-canal-life",
+        "egypt-two-seas"
+      ],
+      "aliases": [
+        "塞得港",
+        "运河",
+        "Suez",
+        "Port Said"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "egypt-ras-mohammed",
+      "countryId": "egypt",
+      "name": "穆罕默德角",
+      "category": "生态",
+      "latitude": 27.73,
+      "longitude": 34.25,
+      "region": "西奈南端 · 红海",
+      "summary": "潜入红海，看珊瑚礁里的凹处、开阔水面和空间。",
+      "description": "穆罕默德角附近的海域有珊瑚礁。地图用保护区代表位置；照片来自该海域的不同观察点。没有足够依据时，可以只描述礁体形状。",
+      "observation": "哪些空隙可能给小动物遮挡？你在实拍中看见了什么线索？",
+      "mediaIds": [
+        "egypt-red-sea",
+        "egypt-reef-detail"
+      ],
+      "sourceUrl": "https://sis.gov.eg/en/egypt/tourism/environmental-tourism/ras-muhamed-park/",
+      "coordinateSource": "保护区代表点 · 非潜摄精确坐标",
+      "articleIds": [
+        "egypt-redsea-reef",
+        "egypt-two-seas"
+      ],
+      "aliases": [
+        "拉斯穆罕默德",
+        "珊瑚礁",
+        "Ras Muhammad",
+        "红海"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "egypt-reef-detail",
+          "x": 0.29,
+          "y": 0.63,
+          "label": "礁体的凹处",
+          "explanation": "这一处颜色较深，旁边的礁体可能提供遮挡。图里没有记录动物是否进去。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-wadi-al-hitan",
+      "countryId": "egypt",
+      "name": "鲸鱼谷",
+      "category": "生态",
+      "latitude": 29.342079,
+      "longitude": 30.05413,
+      "region": "法尤姆方向 · 西部沙漠",
+      "summary": "今天是干燥谷地，这里却有古代鲸类留下的化石。",
+      "description": "岩层和古鲸的化石帮助研究者了解过去的海洋环境。照片记录的是地面上露出的骨骼和碎片。地图点代表一处观察区域，不标记每块化石。",
+      "observation": "先指出一列骨骼，再说要用什么证据才能知道这里曾经是海。",
+      "mediaIds": [
+        "egypt-whale-valley",
+        "egypt-whale-fossil"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/1186",
+      "coordinateSource": "化石观察区 · M27 作品位置",
+      "articleIds": [
+        "egypt-whale-valley"
+      ],
+      "aliases": [
+        "鲸谷",
+        "鲸鱼谷",
+        "Wadi Al-Hitan",
+        "化石"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "egypt-whale-valley",
+          "x": 0.65,
+          "y": 0.65,
+          "label": "沿地面排列的骨骼",
+          "explanation": "地表有一列化石。远近和观察角度会改变照片上的间距。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "egypt-first-look-check",
+      "countryId": "egypt",
+      "articleId": "egypt-first-look",
+      "type": "choice",
+      "question": "想看见埃及的不同侧面，应该怎样选照片？",
+      "hint": "先想想每张照片能告诉你什么。",
+      "options": [
+        {
+          "id": "scenes",
+          "text": "选河谷、城市和遗址各一张"
+        },
+        {
+          "id": "single",
+          "text": "只凭一张照片"
+        },
+        {
+          "id": "colors",
+          "text": "只挑颜色最鲜艳的照片"
+        }
+      ],
+      "answerId": "scenes",
+      "explanation": "有清楚图注的三种场景，分别能告诉你土地、生活和历史的线索。",
+      "evidenceBlockIds": [
+        "egypt-first-look-r2-b3",
+        "egypt-first-look-r2-b4"
+      ]
+    },
+    {
+      "id": "egypt-oasis-water-check",
+      "countryId": "egypt",
+      "articleId": "egypt-desert-oasis",
+      "type": "choice",
+      "question": "锡瓦的泉水和地下水可以用来做什么？",
+      "hint": "少雨的地方也能把水送到田里。",
+      "options": [
+        {
+          "id": "sea",
+          "text": "直接从红海引海水"
+        },
+        {
+          "id": "fields",
+          "text": "给作物灌溉"
+        },
+        {
+          "id": "rain",
+          "text": "等每天的大雨"
+        }
+      ],
+      "answerId": "fields",
+      "explanation": "锡瓦的种植可以用泉水和地下水灌溉，还要管理用水和排水。",
+      "evidenceBlockIds": [
+        "egypt-desert-oasis-r2-b2",
+        "egypt-desert-oasis-r2-b3"
+      ]
+    },
+    {
+      "id": "egypt-arabic-direction",
+      "countryId": "egypt",
+      "articleId": "egypt-arabic",
+      "type": "choice",
+      "question": "读这行阿拉伯文，应当从哪边开始？\nمصر",
+      "hint": "试着看正文里示例的方向。",
+      "options": [
+        {
+          "id": "left",
+          "text": "从左边开始"
+        },
+        {
+          "id": "center",
+          "text": "从正中间开始"
+        },
+        {
+          "id": "right",
+          "text": "从右边开始"
+        }
+      ],
+      "answerId": "right",
+      "explanation": "阿拉伯文的一行通常从右往左读。",
+      "evidenceBlockIds": [
+        "egypt-arabic-r2-b2"
+      ],
+      "mediaIds": [
+        "egypt-arabic-sign"
+      ]
+    },
+    {
+      "id": "egypt-nubia-evidence",
+      "countryId": "egypt",
+      "articleId": "egypt-nubian",
+      "type": "choice",
+      "question": "第一次看到一件馆藏，哪一步最有帮助？",
+      "hint": "找找展品旁边的标签。",
+      "options": [
+        {
+          "id": "color",
+          "text": "只猜物品是什么颜色"
+        },
+        {
+          "id": "label",
+          "text": "读名称、年代和说明"
+        },
+        {
+          "id": "same",
+          "text": "认定所有家庭都用过"
+        }
+      ],
+      "answerId": "label",
+      "explanation": "名称、年代和说明可以帮助你理解眼前的物品及其背景。",
+      "evidenceBlockIds": [
+        "egypt-nubian-r2-b3"
+      ]
+    },
+    {
+      "id": "egypt-canal-seas",
+      "countryId": "egypt",
+      "articleId": "egypt-canal-life",
+      "type": "choice",
+      "question": "苏伊士运河把哪些水域连在一起？",
+      "hint": "先找最北和最南的两个开口。",
+      "options": [
+        {
+          "id": "wrong",
+          "text": "尼罗河和亚喀巴湾"
+        },
+        {
+          "id": "suez",
+          "text": "地中海和通往红海的苏伊士湾"
+        },
+        {
+          "id": "ocean",
+          "text": "大西洋和印度洋"
+        }
+      ],
+      "answerId": "suez",
+      "explanation": "运河北端在地中海的塞得港，南端通苏伊士湾，再连向红海。",
+      "evidenceBlockIds": [
+        "egypt-canal-life-r2-b2"
+      ]
+    },
+    {
+      "id": "egypt-breakfast-check",
+      "countryId": "egypt",
+      "articleId": "egypt-breakfast",
+      "type": "choice",
+      "question": "这张早餐照片里，哪两样是搭在一起的？",
+      "hint": "看看豆碗的旁边。",
+      "options": [
+        {
+          "id": "sweet",
+          "text": "蛋糕和甜果"
+        },
+        {
+          "id": "beans",
+          "text": "饼和蚕豆"
+        },
+        {
+          "id": "rice",
+          "text": "米饭和短面条"
+        }
+      ],
+      "answerId": "beans",
+      "explanation": "图中的富尔用蚕豆做，旁边是用来搭配的饼。",
+      "evidenceBlockIds": [
+        "egypt-breakfast-r2-b2",
+        "egypt-breakfast-r2-b3"
+      ],
+      "mediaIds": [
+        "egypt-breakfast"
+      ]
+    },
+    {
+      "id": "egypt-palm-craft",
+      "countryId": "egypt",
+      "articleId": "egypt-culture",
+      "type": "choice",
+      "question": "枣椰树的哪一部分可用来编织？",
+      "hint": "做篮子时需要能弯曲的条状材料。",
+      "options": [
+        {
+          "id": "fruit",
+          "text": "果肉"
+        },
+        {
+          "id": "seed",
+          "text": "一整颗椰枣"
+        },
+        {
+          "id": "leaves",
+          "text": "叶材"
+        }
+      ],
+      "answerId": "leaves",
+      "explanation": "有些枣椰叶材细长、能弯曲，经过处理可以用来做篮子或席子。",
+      "evidenceBlockIds": [
+        "egypt-culture-r2-b2",
+        "egypt-culture-r2-b3"
+      ]
+    },
+    {
+      "id": "egypt-move-temple-check",
+      "countryId": "egypt",
+      "articleId": "egypt-abusimbel-move",
+      "type": "choice",
+      "question": "为什么人们要迁建阿布辛拜勒神庙？",
+      "hint": "想想高坝蓄水会使什么发生变化。",
+      "options": [
+        {
+          "id": "flood",
+          "text": "避免旧址被上升的水淹没"
+        },
+        {
+          "id": "shade",
+          "text": "想给石头换一种颜色"
+        },
+        {
+          "id": "widen",
+          "text": "为了把尼罗河变宽"
+        }
+      ],
+      "answerId": "flood",
+      "explanation": "蓄水会淹到原址。记录、分块和高处重组帮助人们保存了神庙。",
+      "evidenceBlockIds": [
+        "egypt-abusimbel-move-r2-b2",
+        "egypt-abusimbel-move-r2-b3"
+      ]
+    },
+    {
+      "id": "egypt-library-now",
+      "countryId": "egypt",
+      "articleId": "egypt-alexandria-library",
+      "type": "choice",
+      "question": "照片里的亚历山大图书馆是什么时候的建筑？",
+      "hint": "看看图注，再找正文写的启用年份。",
+      "options": [
+        {
+          "id": "old",
+          "text": "保存至今的古代馆舍"
+        },
+        {
+          "id": "new",
+          "text": "今天的图书馆，二〇〇二年启用"
+        },
+        {
+          "id": "unknown",
+          "text": "图书馆还没建成"
+        }
+      ],
+      "answerId": "new",
+      "explanation": "现在能见到的建筑于 2002 年启用，以名字和活动向古代馆致意。",
+      "evidenceBlockIds": [
+        "egypt-alexandria-library-r2-b2",
+        "egypt-alexandria-library-r2-b3"
+      ],
+      "mediaIds": [
+        "egypt-library"
+      ]
+    },
+    {
+      "id": "egypt-water",
+      "countryId": "egypt",
+      "articleId": "egypt-nature",
+      "type": "choice",
+      "question": "尼罗河沿岸为什么能有农田？",
+      "hint": "想一想，作物生长需要什么。",
+      "options": [
+        {
+          "id": "water",
+          "text": "河水可以用于灌溉"
+        },
+        {
+          "id": "paint",
+          "text": "沙子被涂成了绿色"
+        },
+        {
+          "id": "snow",
+          "text": "这里一年到头都在下雪"
+        }
+      ],
+      "answerId": "water",
+      "explanation": "河水经过渠道等灌溉设施到达田地，为作物提供水。",
+      "evidenceBlockIds": [
+        "egypt-nature-r2-b2"
+      ]
+    },
+    {
+      "id": "egypt-rosetta-scripts",
+      "countryId": "egypt",
+      "articleId": "egypt-rosetta-stone",
+      "type": "choice",
+      "question": "象形文字和世俗体在这块碑上记录的是哪种语言？",
+      "hint": "写法不同，记录的语言可能相同。",
+      "options": [
+        {
+          "id": "greek",
+          "text": "古希腊语"
+        },
+        {
+          "id": "egyptian",
+          "text": "古埃及语"
+        },
+        {
+          "id": "arabic",
+          "text": "现代阿拉伯语"
+        }
+      ],
+      "answerId": "egyptian",
+      "explanation": "石碑上方的象形文字与中段的世俗体都记录古埃及语。底部记录古希腊语。",
+      "evidenceBlockIds": [
+        "egypt-rosetta-stone-r2-b2",
+        "egypt-rosetta-stone-r2-b3"
+      ]
+    },
+    {
+      "id": "egypt-observation",
+      "countryId": "egypt",
+      "articleId": "egypt-explore",
+      "type": "choice",
+      "question": "想了解河流怎样影响生活，哪种观察最有帮助？",
+      "hint": "把自然环境和人们的活动放在一起看。",
+      "options": [
+        {
+          "id": "color",
+          "text": "只数画面用了几种颜色"
+        },
+        {
+          "id": "links",
+          "text": "寻找河流、农田和城镇的位置关系"
+        },
+        {
+          "id": "name",
+          "text": "只记住这条河的名字"
+        }
+      ],
+      "answerId": "links",
+      "explanation": "位置关系可以帮我们把水、耕作和住处连起来。想解释原因时，再找更多证据。",
+      "evidenceBlockIds": [
+        "egypt-explore-r2-b2",
+        "egypt-explore-r2-b3"
+      ]
+    },
+    {
+      "id": "egypt-location",
+      "countryId": "egypt",
+      "articleId": "egypt-where",
+      "type": "location",
+      "question": "在世界地图上找到埃及。",
+      "hint": "先找到非洲，再看它的东北部。",
+      "options": [
+        {
+          "id": "china",
+          "text": "中国"
+        },
+        {
+          "id": "egypt",
+          "text": "埃及"
+        },
+        {
+          "id": "brazil",
+          "text": "巴西"
+        }
+      ],
+      "answerId": "egypt",
+      "explanation": "埃及的大部分领土在非洲东北部，西奈半岛在亚洲。",
+      "evidenceBlockIds": [
+        "egypt-where-r2-b2",
+        "egypt-where-r2-b3"
+      ],
+      "mapScope": "world"
+    },
+    {
+      "id": "egypt-find-mediterranean",
+      "countryId": "egypt",
+      "articleId": "egypt-two-seas",
+      "type": "location",
+      "question": "哪片海在埃及北面？",
+      "hint": "北在上，沿三角洲向上看。",
+      "options": [
+        {
+          "id": "egypt-red-sea",
+          "text": "红海"
+        },
+        {
+          "id": "egypt-mediterranean",
+          "text": "地中海"
+        }
+      ],
+      "answerId": "egypt-mediterranean",
+      "explanation": "埃及的北部海岸面向地中海。红海在东边。",
+      "evidenceBlockIds": [
+        "egypt-two-seas-r2-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "egypt-find-delta",
+      "countryId": "egypt",
+      "articleId": "egypt-nile-delta",
+      "type": "location",
+      "question": "找到尼罗河在海岸边展开的地区。",
+      "hint": "找形状像扇子、宽边靠海的一带。",
+      "options": [
+        {
+          "id": "giza",
+          "text": "吉萨金字塔群"
+        },
+        {
+          "id": "nile-delta",
+          "text": "尼罗河三角洲"
+        },
+        {
+          "id": "egypt-elephantine",
+          "text": "阿斯旺象岛"
+        }
+      ],
+      "answerId": "nile-delta",
+      "explanation": "三角洲位于埃及北部，靠近地中海海岸。这里的地点标记代表整个区域。",
+      "evidenceBlockIds": [
+        "egypt-nile-delta-r2-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "egypt-find-elephantine",
+      "countryId": "egypt",
+      "articleId": "egypt-aswan-crossing",
+      "type": "location",
+      "question": "在阿斯旺附近找到象岛。",
+      "hint": "找靠近阿斯旺城区的一座河中岛。",
+      "options": [
+        {
+          "id": "egypt-philae",
+          "text": "菲莱神庙"
+        },
+        {
+          "id": "egypt-elephantine",
+          "text": "阿斯旺象岛"
+        }
+      ],
+      "answerId": "egypt-elephantine",
+      "explanation": "象岛在尼罗河中，靠近阿斯旺市区；菲莱神庙现址在更靠南的另一座岛。",
+      "evidenceBlockIds": [
+        "egypt-aswan-crossing-r2-b1",
+        "egypt-aswan-crossing-r2-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "egypt-find-karnak",
+      "countryId": "egypt",
+      "articleId": "egypt-karnak-columns",
+      "type": "location",
+      "question": "找到古底比斯东岸的卡纳克神庙。",
+      "hint": "北在上时，先在河道右侧找。",
+      "options": [
+        {
+          "id": "egypt-karnak",
+          "text": "卡纳克神庙"
+        },
+        {
+          "id": "egypt-valley-of-kings",
+          "text": "王家谷"
+        }
+      ],
+      "answerId": "egypt-karnak",
+      "explanation": "卡纳克在尼罗河东岸，王家谷在西岸。",
+      "evidenceBlockIds": [
+        "egypt-karnak-columns-r2-b1"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "egypt-find-kings-valley",
+      "countryId": "egypt",
+      "articleId": "egypt-thebes-twobanks",
+      "type": "location",
+      "question": "在地图上找到尼罗河西岸的王家谷。",
+      "hint": "先沿河道分清东岸和西岸。",
+      "options": [
+        {
+          "id": "egypt-karnak",
+          "text": "卡纳克神庙"
+        },
+        {
+          "id": "egypt-valley-of-kings",
+          "text": "王家谷"
+        }
+      ],
+      "answerId": "egypt-valley-of-kings",
+      "explanation": "王家谷在西岸的山地，卡纳克在东岸。两处留下了不同用途的遗迹。",
+      "evidenceBlockIds": [
+        "egypt-thebes-twobanks-r2-b2",
+        "egypt-thebes-twobanks-r2-b3"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "egypt-nile-flow",
+      "countryId": "egypt",
+      "articleId": "egypt-geography",
+      "type": "observation",
+      "question": "这段尼罗河朝哪边是下游？",
+      "hint": "找北箭头，再看看河流最后进入哪里。",
+      "options": [
+        {
+          "id": "north",
+          "text": "朝地中海"
+        },
+        {
+          "id": "south",
+          "text": "朝阿斯旺"
+        }
+      ],
+      "answerId": "north",
+      "explanation": "沿图中的河道和箭头找：尼罗河在埃及整体向北，最后流入地中海。",
+      "evidenceBlockIds": [
+        "egypt-geography-r2-b2",
+        "egypt-geography-r2-b3"
+      ],
+      "diagram": "nile-flow",
+      "diagramStep": 0
+    },
+    {
+      "id": "egypt-cairo-photo-check",
+      "countryId": "egypt",
+      "articleId": "egypt-cairo-streets",
+      "type": "observation",
+      "question": "哪一张能看见跨河的桥梁？",
+      "hint": "先找较宽的水面，再找横跨水面的长线。",
+      "options": [
+        {
+          "id": "a",
+          "text": "图 A · 穆伊兹街"
+        },
+        {
+          "id": "b",
+          "text": "图 B · 开罗河景"
+        }
+      ],
+      "answerId": "b",
+      "explanation": "图 B 的卡斯尔尼罗河桥横跨尼罗河，图 A 是历史街区中的一段街景。",
+      "evidenceBlockIds": [
+        "egypt-cairo-streets-r2-b2"
+      ],
+      "mediaIds": [
+        "egypt-muizz",
+        "egypt-cairo-bridge"
+      ]
+    },
+    {
+      "id": "egypt-koshary-photo-check",
+      "countryId": "egypt",
+      "articleId": "egypt-food",
+      "type": "observation",
+      "question": "对照两份成品和图注：库沙里常把哪两样放进一碗？",
+      "hint": "可以同时有两种主食；仔细看短面条。",
+      "options": [
+        {
+          "id": "palm",
+          "text": "椰枣和橄榄"
+        },
+        {
+          "id": "mix",
+          "text": "米饭和短面条"
+        },
+        {
+          "id": "cake",
+          "text": "蛋糕和饼干"
+        }
+      ],
+      "answerId": "mix",
+      "explanation": "库沙里常同时搭配米饭和面食，还有豆类和调味料。图里是两份不同的成品。",
+      "evidenceBlockIds": [
+        "egypt-food-r2-b2",
+        "egypt-food-r2-b3"
+      ],
+      "mediaIds": [
+        "egypt-koshary",
+        "egypt-koshary-02"
+      ],
+      "photoHotspots": [
+        {
+          "mediaId": "egypt-koshary-02",
+          "x": 0.55,
+          "y": 0.46,
+          "label": "这一份成品",
+          "explanation": "可以从图中找到面食、豆类和配料的形状；酱料下还有别的材料。"
+        }
+      ]
+    },
+    {
+      "id": "egypt-papyrus-layers-check",
+      "countryId": "egypt",
+      "articleId": "egypt-papyrus",
+      "type": "observation",
+      "question": "纸莎草薄条的两层是什么方向？",
+      "hint": "看图里两组不同颜色的线。",
+      "options": [
+        {
+          "id": "same",
+          "text": "两层同一个方向"
+        },
+        {
+          "id": "point",
+          "text": "条都朝向同一个点"
+        },
+        {
+          "id": "cross",
+          "text": "两层互相垂直"
+        }
+      ],
+      "answerId": "cross",
+      "explanation": "第一层平排，第二层转九十度平铺。两层互相垂直。",
+      "evidenceBlockIds": [
+        "egypt-papyrus-r2-b3"
+      ],
+      "diagram": "papyrus-steps",
+      "diagramStep": 1
+    },
+    {
+      "id": "egypt-fossil-photo-check",
+      "countryId": "egypt",
+      "articleId": "egypt-whale-valley",
+      "type": "observation",
+      "question": "从这两张照片里可以直接描述什么？",
+      "hint": "先说眼睛能看到的形状和排列。",
+      "options": [
+        {
+          "id": "live",
+          "text": "海里有一条活着的鲸"
+        },
+        {
+          "id": "bones",
+          "text": "地面有成列的化石骨骼"
+        },
+        {
+          "id": "age",
+          "text": "能知道每块骨头的准确年龄"
+        }
+      ],
+      "answerId": "bones",
+      "explanation": "能看见的是地表上的骨骼排列和化石碎片，精确年代要靠别的研究。",
+      "evidenceBlockIds": [
+        "egypt-whale-valley-r2-b2"
+      ],
+      "mediaIds": [
+        "egypt-whale-valley",
+        "egypt-whale-fossil"
+      ]
+    },
+    {
+      "id": "egypt-giza-photo-check",
+      "countryId": "egypt",
+      "articleId": "egypt-history",
+      "type": "observation",
+      "question": "哪一个点能看见两块石头的接缝？",
+      "hint": "接缝在相邻石块之间。",
+      "options": [
+        {
+          "id": "sky",
+          "text": "1 · 画面右上方",
+          "x": 0.82,
+          "y": 0.19,
+          "label": "1"
+        },
+        {
+          "id": "joint",
+          "text": "2 · 画面中央偏左",
+          "x": 0.41,
+          "y": 0.51,
+          "label": "2"
+        }
+      ],
+      "answerId": "joint",
+      "explanation": "相邻的两块石料之间留下线或细缝。天空没有建筑材料。",
+      "evidenceBlockIds": [
+        "egypt-history-r2-b2"
+      ],
+      "mediaIds": [
+        "egypt-giza-blocks"
+      ]
+    }
+  ]
+}

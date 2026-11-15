@@ -1,0 +1,194 @@
+{
+  "createdAt": "2026-11-01",
+  "version": "1.0",
+  "tool": "built-in image_gen",
+  "visualDirection": "现代地理图鉴",
+  "status": "概念设计，尚未实施为新版 App",
+  "moduleCount": 10,
+  "boardCount": 10,
+  "screenSpecifications": 28,
+  "images": [
+    {
+      "id": "01-discover",
+      "name": "发现与兴趣引导",
+      "screens": [
+        "S01",
+        "S00"
+      ],
+      "file": "images/01-discover.png",
+      "sourceGeneration": "exec-f704d2ad-305a-4e43-98ef-53b75ff7f60f.png",
+      "review": "通过：清晰的中文、四入口导航、实景主视觉与兴趣选择；场景为生成的概念素材。",
+      "revision": 1,
+      "width": 1312,
+      "height": 1199,
+      "bytes": 2235895,
+      "sha256": "d69272410357a0c547db69f0ba7c2ab7ec0d02f20624dedf1cff72fff45b42e8"
+    },
+    {
+      "id": "02-atlas",
+      "name": "世界地图",
+      "screens": [
+        "S02"
+      ],
+      "file": "images/02-atlas.png",
+      "sourceGeneration": "exec-6488fead-2238-4a42-a0de-4672386c2f71.png",
+      "review": "已查看：核心页面与关键操作完整，延续深海蓝、橙色、浅底、大图风格。地图和景观为概念素材，生产实现需替换为审核数据与授权照片。",
+      "revision": 1,
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2185664,
+      "sha256": "5d19c790d66a671a632c869bd482e3b9ba8dd23c5fccb1d2fa958870d48ff6bd"
+    },
+    {
+      "id": "03-encyclopedia",
+      "name": "国家百科",
+      "screens": [
+        "S03",
+        "S04"
+      ],
+      "file": "images/03-encyclopedia.png",
+      "sourceGeneration": "exec-4bb75818-dc22-4a5e-bb47-ee7006dccb40.png",
+      "review": "已查看：核心页面与关键操作完整，延续深海蓝、橙色、浅底、大图风格。地图和景观为概念素材，生产实现需替换为审核数据与授权照片。",
+      "revision": 1,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2184626,
+      "sha256": "416894ee1c8f61f52a3eb871190133f1f5fdcc29b5044779fb73f9700e4cf893"
+    },
+    {
+      "id": "04-landmarks",
+      "name": "地标与风景",
+      "screens": [
+        "S07",
+        "S08"
+      ],
+      "file": "images/04-landmarks.png",
+      "sourceGeneration": "exec-e3350860-b58f-4c4e-937b-c6ada36d0dc5.png",
+      "review": "已查看：核心页面与关键操作完整，延续深海蓝、橙色、浅底、大图风格。地图和景观为概念素材，生产实现需替换为审核数据与授权照片。",
+      "revision": 1,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2334733,
+      "sha256": "f1a8edd648a480d8caf70dafe4d2de964cf9f72bf39e456fbe2719b5820d300d"
+    },
+    {
+      "id": "05-topics",
+      "name": "跨国专题",
+      "screens": [
+        "S09",
+        "S10"
+      ],
+      "file": "images/05-topics.png",
+      "sourceGeneration": "exec-a01a0645-f3eb-4411-a58f-4cdf04f3a37a.png",
+      "review": "已查看：章节、主题节点及朗读/解释状态可辨，视觉一致；内容与场景为设计示例。",
+      "revision": 1,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2307811,
+      "sha256": "85bf0ef4f4b22ae71f7507ceea74a279edfdab3f257435e60b6a58bc1608c6ac"
+    },
+    {
+      "id": "06-search",
+      "name": "全局搜索",
+      "screens": [
+        "S11",
+        "S12"
+      ],
+      "file": "images/06-search.png",
+      "sourceGeneration": "exec-52802b7f-bbbd-42a0-a26c-0849d0f44017.png",
+      "review": "已修订并查看：移除不必要的河流排名与不当历史遗迹概括，搜索类型和可用状态清晰。",
+      "revision": 2,
+      "width": 1312,
+      "height": 1199,
+      "bytes": 1936470,
+      "sha256": "97fbe4a963443f08d3637e2c37fc62d4c92dfe57e9170ad8a256c95290b6c74a"
+    },
+    {
+      "id": "07-reader",
+      "name": "阅读与聆听",
+      "screens": [
+        "S06"
+      ],
+      "file": "images/07-reader.png",
+      "sourceGeneration": "exec-cb8877ee-2bc2-4e49-8163-837e1f64d33f.png",
+      "review": "已查看：章节、主题节点及朗读/解释状态可辨，视觉一致；内容与场景为设计示例。",
+      "revision": 1,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2085577,
+      "sha256": "4d3bc7b25846ab2b5b5ab591585a69012812ac9b67001e93a7f73523b438ddcd"
+    },
+    {
+      "id": "08-understanding",
+      "name": "互动理解",
+      "screens": [
+        "S13",
+        "S14"
+      ],
+      "file": "images/08-understanding.png",
+      "sourceGeneration": "exec-0765a22a-a4c1-43cf-a1d8-3b61f2a8631e.png",
+      "review": "已查看：题目、解释、个人入口和笔记状态完整；无等级、签到或解锁限制。",
+      "revision": 1,
+      "width": 1312,
+      "height": 1199,
+      "bytes": 2051558,
+      "sha256": "5533712ae884a062005b49532cfd0f54488e7587a107b6998543748f77d2f083"
+    },
+    {
+      "id": "09-journal",
+      "name": "我的探索",
+      "screens": [
+        "S15",
+        "S19"
+      ],
+      "file": "images/09-journal.png",
+      "sourceGeneration": "exec-19b078e5-aad0-43cb-a8f0-e948a3a0dc8a.png",
+      "review": "已查看：题目、解释、个人入口和笔记状态完整；无等级、签到或解锁限制。",
+      "revision": 1,
+      "width": 1312,
+      "height": 1199,
+      "bytes": 1595186,
+      "sha256": "009586a8b0305568465231e8b4e8a34b435e1bb20c2c20f392d1847d4fdf8405"
+    },
+    {
+      "id": "10-family-offline",
+      "name": "家长与离线",
+      "screens": [
+        "S22",
+        "S23"
+      ],
+      "file": "images/10-family-offline.png",
+      "sourceGeneration": "exec-9ba1ed72-0386-4e3f-b21b-f6d231fbdaa0.png",
+      "review": "已修订并查看：18/32 MB 对应四舍五入的 56%，补充埃及与巴西包大小；全部数值为界面示例。",
+      "revision": 2,
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1945596,
+      "sha256": "5305873f0fc5e364976dab171f86dbbbb33f5d70a16ecf1116c7d807be1ef332"
+    }
+  ],
+  "limitations": [
+    "生成图中的照片和地图用于概念展示，正式产品采用审核后的地图数据与有授权实景。",
+    "图中数量、下载大小、进度为设计示例。",
+    "10 张图覆盖各模块核心页面与关键状态，28 个页面的完整交互以 SCREENS.md 为准。"
+  ],
+  "edits": [
+    {
+      "id": "06-search",
+      "prompt": "Edit this existing two-screen Chinese UI design board. Change ONLY TWO short descriptions on the RIGHT search-results screen; preserve every other element, exact dimensions, typography, colors, layout, photos, headings, buttons, left screen, and navigation. 1. Under the first result title “尼罗河”, replace the description with exactly “流经非洲东北部的重要河流，连接沿岸的农田与城市。” Do not include any claim about being the world's longest river. 2. Under the country result “埃及”, replace its description with exactly “位于非洲东北部，可以了解金字塔、河流与当地生活。” The Nile must not be described as a historical relic. Keep the text large and clear, wrapping within the same text boxes. Do not change any other wording. These are targeted copy corrections only."
+    },
+    {
+      "id": "10-family-offline",
+      "prompt": "Edit this existing two-screen Chinese UI design board. Preserve the full LEFT parent-center screen and all RIGHT offline-package layout, images, typography, colors and controls. Change only sample numerical copy on the RIGHT: for China “中国”, change displayed progress from “55%” to “56%” so it matches “18 MB / 32 MB”; keep its progress bar near 56%. For Egypt “埃及”, change the small metadata line to exactly “8 篇文章 · 5 处地标 · 24 MB”. For Brazil “巴西”, change the small metadata line to exactly “8 篇文章 · 5 处地标 · 28 MB”. These three numerical fixes only. Keep the download, installed and cancel states unchanged and ensure readable spacing. No added panels or changes to photographs."
+    }
+  ],
+  "validation": {
+    "finalPngs": 10,
+    "screenIds": 28,
+    "imageHeaders": "pass",
+    "localGalleryLinks": "pass",
+    "pixelEdits": "none; all image corrections used built-in image_gen",
+    "runtimeFlutterTests": "not run; no runtime implementation changed",
+    "galleryInteraction": "verified in browser: filter, open, actual size, next, zoom reset"
+  }
+}

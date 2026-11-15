@@ -1,0 +1,1721 @@
+{
+  "version": 1,
+  "date": "2026-11-14",
+  "status": "design-only",
+  "scope": {
+    "kind": "region",
+    "id": "antarctica"
+  },
+  "delivery": "bundled; content update service deferred",
+  "sections": [
+    {
+      "id": "location",
+      "title": "南极在哪里",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ]
+    },
+    {
+      "id": "ice",
+      "title": "冰雪的秘密",
+      "articleIds": [
+        "antarctica-snow-to-ice",
+        "antarctica-ice-shelf",
+        "antarctica-sea-ice"
+      ]
+    },
+    {
+      "id": "light",
+      "title": "光照与天气",
+      "articleIds": [
+        "antarctica-polar-day",
+        "antarctica-desert",
+        "antarctica-wind"
+      ]
+    },
+    {
+      "id": "ocean",
+      "title": "南大洋生命",
+      "articleIds": [
+        "antarctica-krill-web",
+        "antarctica-ocean-life",
+        "antarctica-under-ice"
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "企鹅与邻居",
+      "articleIds": [
+        "antarctica-emperor",
+        "antarctica-penguin-neighbours",
+        "antarctica-life-on-land"
+      ]
+    },
+    {
+      "id": "science",
+      "title": "科学家的工作",
+      "articleIds": [
+        "antarctica-ice-core",
+        "antarctica-satellites",
+        "antarctica-weather-record"
+      ]
+    },
+    {
+      "id": "station",
+      "title": "科考站的一天",
+      "articleIds": [
+        "antarctica-station-map",
+        "antarctica-station-day",
+        "antarctica-teamwork"
+      ]
+    },
+    {
+      "id": "care",
+      "title": "变化与守护",
+      "articleIds": [
+        "antarctica-sea-level",
+        "antarctica-treaty-history",
+        "antarctica-protect"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "antarctica-where",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "location",
+      "title": "南极是一块大陆，还是一个点？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-where-b1",
+          "title": "从地球南端看位置"
+        },
+        {
+          "id": "antarctica-where-b2",
+          "title": "陆地和冰盖"
+        },
+        {
+          "id": "antarctica-where-b3",
+          "title": "周围的南大洋"
+        },
+        {
+          "id": "antarctica-where-b4",
+          "title": "地理南极点"
+        },
+        {
+          "id": "antarctica-where-b5",
+          "title": "读极地地图"
+        }
+      ],
+      "taskId": "antarctica-L01",
+      "sourceRefs": [
+        "S01",
+        "S10"
+      ],
+      "editorialCaution": "南极洲、南极点、南极地区分别解释。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-poles",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "location",
+      "title": "南极和北极有什么不同？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-poles-b1",
+          "title": "两端位置"
+        },
+        {
+          "id": "antarctica-poles-b2",
+          "title": "大陆与海洋"
+        },
+        {
+          "id": "antarctica-poles-b3",
+          "title": "周围地理"
+        },
+        {
+          "id": "antarctica-poles-b4",
+          "title": "动物生活空间"
+        },
+        {
+          "id": "antarctica-poles-b5",
+          "title": "相同寒冷不同家"
+        }
+      ],
+      "taskId": "antarctica-C01",
+      "sourceRefs": [
+        "S01",
+        "S02"
+      ],
+      "editorialCaution": "不把北极熊和企鹅放在同一野外地点。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-regions",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "location",
+      "title": "沿着地图，看看南极的不同地方",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-regions-b1",
+          "title": "东南极与西南极"
+        },
+        {
+          "id": "antarctica-regions-b2",
+          "title": "南极半岛"
+        },
+        {
+          "id": "antarctica-regions-b3",
+          "title": "山脉"
+        },
+        {
+          "id": "antarctica-regions-b4",
+          "title": "沿海与内陆"
+        },
+        {
+          "id": "antarctica-regions-b5",
+          "title": "地图范围"
+        }
+      ],
+      "taskId": "antarctica-L02",
+      "sourceRefs": [
+        "S01",
+        "S11"
+      ],
+      "editorialCaution": "分区是地理概念；代表点不冒充完整范围。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-snow-to-ice",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ice",
+      "title": "雪怎样慢慢变成冰？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-snow-to-ice-b1",
+          "title": "降雪积累"
+        },
+        {
+          "id": "antarctica-snow-to-ice-b2",
+          "title": "压实"
+        },
+        {
+          "id": "antarctica-snow-to-ice-b3",
+          "title": "雪粒与孔隙"
+        },
+        {
+          "id": "antarctica-snow-to-ice-b4",
+          "title": "冰体运动"
+        },
+        {
+          "id": "antarctica-snow-to-ice-b5",
+          "title": "因地点而异的时间"
+        }
+      ],
+      "taskId": "antarctica-P01",
+      "sourceRefs": [
+        "S01",
+        "S03"
+      ],
+      "editorialCaution": "不写所有冰每年同样增厚或同速流动。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-ice-shelf",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ice",
+      "title": "大陆上的冰，怎样走进海里？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-ice-shelf-b1",
+          "title": "陆地上的冰"
+        },
+        {
+          "id": "antarctica-ice-shelf-b2",
+          "title": "流向海岸"
+        },
+        {
+          "id": "antarctica-ice-shelf-b3",
+          "title": "接地线"
+        },
+        {
+          "id": "antarctica-ice-shelf-b4",
+          "title": "漂浮冰架"
+        },
+        {
+          "id": "antarctica-ice-shelf-b5",
+          "title": "与冰山区别"
+        }
+      ],
+      "taskId": "antarctica-C02",
+      "sourceRefs": [
+        "S03"
+      ],
+      "editorialCaution": "讲南极常见过程，补充来源并避免绝对化所有冰架形成。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-sea-ice",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ice",
+      "title": "海面上的冰，和冰架一样吗？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-sea-ice-b1",
+          "title": "海水冻结"
+        },
+        {
+          "id": "antarctica-sea-ice-b2",
+          "title": "薄冰与浮冰"
+        },
+        {
+          "id": "antarctica-sea-ice-b3",
+          "title": "季节变化"
+        },
+        {
+          "id": "antarctica-sea-ice-b4",
+          "title": "海冰和冰架"
+        },
+        {
+          "id": "antarctica-sea-ice-b5",
+          "title": "冰山来源"
+        }
+      ],
+      "taskId": "antarctica-P02",
+      "sourceRefs": [
+        "S03",
+        "S04"
+      ],
+      "editorialCaution": "海冰、冰架与冰山分别定义，季节图必须标注时期。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-polar-day",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "light",
+      "title": "为什么有时整天不落日？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-polar-day-b1",
+          "title": "地球自转"
+        },
+        {
+          "id": "antarctica-polar-day-b2",
+          "title": "倾斜的地轴"
+        },
+        {
+          "id": "antarctica-polar-day-b3",
+          "title": "季节"
+        },
+        {
+          "id": "antarctica-polar-day-b4",
+          "title": "纬度"
+        },
+        {
+          "id": "antarctica-polar-day-b5",
+          "title": "南极点与中山站"
+        }
+      ],
+      "taskId": "antarctica-C03",
+      "sourceRefs": [
+        "S05"
+      ],
+      "editorialCaution": "不推广半年的白昼到整个南极洲，不给无定义的准确起止时间。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-desert",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "light",
+      "title": "冰雪这么多，为什么还叫荒漠？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-desert-b1",
+          "title": "降水是什么"
+        },
+        {
+          "id": "antarctica-desert-b2",
+          "title": "积雪与长期累积"
+        },
+        {
+          "id": "antarctica-desert-b3",
+          "title": "内陆少降水"
+        },
+        {
+          "id": "antarctica-desert-b4",
+          "title": "沿海差异"
+        },
+        {
+          "id": "antarctica-desert-b5",
+          "title": "荒漠不是沙子名单"
+        }
+      ],
+      "taskId": "antarctica-C04",
+      "sourceRefs": [
+        "S01",
+        "S02"
+      ],
+      "editorialCaution": "不把积雪厚度当一年降雪量。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-wind",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "light",
+      "title": "风怎样吹过冰雪大陆？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-wind-b1",
+          "title": "高原地形"
+        },
+        {
+          "id": "antarctica-wind-b2",
+          "title": "冷空气"
+        },
+        {
+          "id": "antarctica-wind-b3",
+          "title": "下坡风"
+        },
+        {
+          "id": "antarctica-wind-b4",
+          "title": "吹雪现象"
+        },
+        {
+          "id": "antarctica-wind-b5",
+          "title": "观测与预报"
+        }
+      ],
+      "taskId": "antarctica-O01",
+      "sourceRefs": [
+        "S01",
+        "S05"
+      ],
+      "editorialCaution": "观察可见吹雪，不从单张照片读出风速或全国天气。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-krill-web",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ocean",
+      "title": "一只小磷虾，连着谁？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-krill-web-b1",
+          "title": "浮游植物"
+        },
+        {
+          "id": "antarctica-krill-web-b2",
+          "title": "磷虾"
+        },
+        {
+          "id": "antarctica-krill-web-b3",
+          "title": "吃磷虾的动物"
+        },
+        {
+          "id": "antarctica-krill-web-b4",
+          "title": "食物关系箭头"
+        },
+        {
+          "id": "antarctica-krill-web-b5",
+          "title": "复杂的海洋网络"
+        }
+      ],
+      "taskId": "antarctica-C05",
+      "sourceRefs": [
+        "S06"
+      ],
+      "editorialCaution": "示意是部分关系；食蟹海豹名称不等于只吃蟹。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-ocean-life",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ocean",
+      "title": "鲸和企鹅潜水以后，怎样呼吸？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-ocean-life-b1",
+          "title": "海洋里的不同动物"
+        },
+        {
+          "id": "antarctica-ocean-life-b2",
+          "title": "用肺呼吸"
+        },
+        {
+          "id": "antarctica-ocean-life-b3",
+          "title": "浮上水面"
+        },
+        {
+          "id": "antarctica-ocean-life-b4",
+          "title": "潜水找食物"
+        },
+        {
+          "id": "antarctica-ocean-life-b5",
+          "title": "观察与资料"
+        }
+      ],
+      "taskId": "antarctica-P03",
+      "sourceRefs": [
+        "S06",
+        "S07"
+      ],
+      "editorialCaution": "不把鲸当鱼，不根据一次潜水照片猜出精确能力。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-under-ice",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ocean",
+      "title": "海冰下面，也有一个世界吗？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-under-ice-b1",
+          "title": "海冰底部"
+        },
+        {
+          "id": "antarctica-under-ice-b2",
+          "title": "光线变化"
+        },
+        {
+          "id": "antarctica-under-ice-b3",
+          "title": "冰藻"
+        },
+        {
+          "id": "antarctica-under-ice-b4",
+          "title": "小型生命"
+        },
+        {
+          "id": "antarctica-under-ice-b5",
+          "title": "从表面继续提问"
+        }
+      ],
+      "taskId": "antarctica-O02",
+      "sourceRefs": [
+        "S04",
+        "S06"
+      ],
+      "editorialCaution": "表面照片没有出现的生物不能记为亲眼观察。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-emperor",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "animals",
+      "title": "帝企鹅怎样度过寒冬？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-emperor-b1",
+          "title": "海冰环境"
+        },
+        {
+          "id": "antarctica-emperor-b2",
+          "title": "羽毛和脂肪"
+        },
+        {
+          "id": "antarctica-emperor-b3",
+          "title": "聚集行为"
+        },
+        {
+          "id": "antarctica-emperor-b4",
+          "title": "亲鸟与幼鸟"
+        },
+        {
+          "id": "antarctica-emperor-b5",
+          "title": "季节中的生活"
+        }
+      ],
+      "taskId": "antarctica-C06",
+      "sourceRefs": [
+        "S07"
+      ],
+      "editorialCaution": "帝企鹅不住内陆南极点；不用生成图作物种鉴定。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-penguin-neighbours",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "animals",
+      "title": "不同企鹅，住的是同一种家吗？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-penguin-neighbours-b1",
+          "title": "辨认形态"
+        },
+        {
+          "id": "antarctica-penguin-neighbours-b2",
+          "title": "帝企鹅与海冰"
+        },
+        {
+          "id": "antarctica-penguin-neighbours-b3",
+          "title": "阿德利的沿岸"
+        },
+        {
+          "id": "antarctica-penguin-neighbours-b4",
+          "title": "帽带的区域"
+        },
+        {
+          "id": "antarctica-penguin-neighbours-b5",
+          "title": "适宜的环境"
+        }
+      ],
+      "taskId": "antarctica-P04",
+      "sourceRefs": [
+        "S07",
+        "S08"
+      ],
+      "editorialCaution": "用正确物种和地点照片，不称所有企鹅生活在南极。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-life-on-land",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "animals",
+      "title": "石头上为什么也能找到小生命？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-life-on-land-b1",
+          "title": "少量裸露地表"
+        },
+        {
+          "id": "antarctica-life-on-land-b2",
+          "title": "苔藓"
+        },
+        {
+          "id": "antarctica-life-on-land-b3",
+          "title": "地衣"
+        },
+        {
+          "id": "antarctica-life-on-land-b4",
+          "title": "小型无脊椎动物"
+        },
+        {
+          "id": "antarctica-life-on-land-b5",
+          "title": "慢生长与保护"
+        }
+      ],
+      "taskId": "antarctica-O03",
+      "sourceRefs": [
+        "S08"
+      ],
+      "editorialCaution": "地衣不简单归为一种绿色植物；观察不采集。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-ice-core",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "science",
+      "title": "冰里的小气泡，保存了什么？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-ice-core-b1",
+          "title": "钻取圆柱冰"
+        },
+        {
+          "id": "antarctica-ice-core-b2",
+          "title": "雪到冰"
+        },
+        {
+          "id": "antarctica-ice-core-b3",
+          "title": "封闭空气"
+        },
+        {
+          "id": "antarctica-ice-core-b4",
+          "title": "不同测量线索"
+        },
+        {
+          "id": "antarctica-ice-core-b5",
+          "title": "年代与不确定性"
+        }
+      ],
+      "taskId": "antarctica-C07",
+      "sourceRefs": [
+        "S09"
+      ],
+      "editorialCaution": "冰与气体年龄可不同；不是所有冰芯逐层就是一年。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-satellites",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "science",
+      "title": "卫星怎样帮助我们看冰？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-satellites-b1",
+          "title": "从高处观察"
+        },
+        {
+          "id": "antarctica-satellites-b2",
+          "title": "影像与位置"
+        },
+        {
+          "id": "antarctica-satellites-b3",
+          "title": "日期与季节"
+        },
+        {
+          "id": "antarctica-satellites-b4",
+          "title": "同地比较"
+        },
+        {
+          "id": "antarctica-satellites-b5",
+          "title": "测量而非猜测"
+        }
+      ],
+      "taskId": "antarctica-P05",
+      "sourceRefs": [
+        "S01",
+        "S11"
+      ],
+      "editorialCaution": "不拿不同地点、不同季节照片证明长期变化。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-weather-record",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "science",
+      "title": "一天的天气，怎样变成一份记录？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-weather-record-b1",
+          "title": "仪器"
+        },
+        {
+          "id": "antarctica-weather-record-b2",
+          "title": "时间和地点"
+        },
+        {
+          "id": "antarctica-weather-record-b3",
+          "title": "重复记录"
+        },
+        {
+          "id": "antarctica-weather-record-b4",
+          "title": "变化"
+        },
+        {
+          "id": "antarctica-weather-record-b5",
+          "title": "天气与气候"
+        }
+      ],
+      "taskId": "antarctica-O04",
+      "sourceRefs": [
+        "S01",
+        "S12"
+      ],
+      "editorialCaution": "练习数据如为虚构需显著标注，不冒充科考站实测。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-station-map",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "station",
+      "title": "科考站为什么建在不同地方？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-station-map-b1",
+          "title": "沿海站"
+        },
+        {
+          "id": "antarctica-station-map-b2",
+          "title": "内陆站"
+        },
+        {
+          "id": "antarctica-station-map-b3",
+          "title": "研究需要"
+        },
+        {
+          "id": "antarctica-station-map-b4",
+          "title": "补给条件"
+        },
+        {
+          "id": "antarctica-station-map-b5",
+          "title": "代表站点定位"
+        }
+      ],
+      "taskId": "antarctica-L03",
+      "sourceRefs": [
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "editorialCaution": "站点运营机构不等于领土归属，不画国家主张扇区。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-station-day",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "station",
+      "title": "科考站里的一天怎样安排？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-station-day-b1",
+          "title": "工作"
+        },
+        {
+          "id": "antarctica-station-day-b2",
+          "title": "轮班"
+        },
+        {
+          "id": "antarctica-station-day-b3",
+          "title": "食物和水"
+        },
+        {
+          "id": "antarctica-station-day-b4",
+          "title": "休息联系"
+        },
+        {
+          "id": "antarctica-station-day-b5",
+          "title": "季节差异"
+        }
+      ],
+      "taskId": "antarctica-C08",
+      "sourceRefs": [
+        "S14"
+      ],
+      "editorialCaution": "场景为一个有出处的站点例子，不概括所有站统一作息。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-teamwork",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "station",
+      "title": "一次科考，需要哪些伙伴？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-teamwork-b1",
+          "title": "科学观测"
+        },
+        {
+          "id": "antarctica-teamwork-b2",
+          "title": "维修"
+        },
+        {
+          "id": "antarctica-teamwork-b3",
+          "title": "医疗"
+        },
+        {
+          "id": "antarctica-teamwork-b4",
+          "title": "餐食"
+        },
+        {
+          "id": "antarctica-teamwork-b5",
+          "title": "运输与协作"
+        }
+      ],
+      "taskId": "antarctica-O05",
+      "sourceRefs": [
+        "S14"
+      ],
+      "editorialCaution": "不把所有成员称为科学家；职业不按性别分配。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-sea-level",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "care",
+      "title": "远方的大陆冰，为什么与海平面有关？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-sea-level-b1",
+          "title": "海水中的浮冰"
+        },
+        {
+          "id": "antarctica-sea-level-b2",
+          "title": "陆地冰"
+        },
+        {
+          "id": "antarctica-sea-level-b3",
+          "title": "冰流入海"
+        },
+        {
+          "id": "antarctica-sea-level-b4",
+          "title": "冰架影响"
+        },
+        {
+          "id": "antarctica-sea-level-b5",
+          "title": "测量与时间"
+        }
+      ],
+      "taskId": "antarctica-C09",
+      "sourceRefs": [
+        "S03",
+        "S04"
+      ],
+      "editorialCaution": "不写浮冰融化是海平面上升唯一来源；不报无情景预测。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-treaty-history",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "care",
+      "title": "人们怎样一起认识与保护南极？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-treaty-history-b1",
+          "title": "1911远行"
+        },
+        {
+          "id": "antarctica-treaty-history-b2",
+          "title": "1957—58合作"
+        },
+        {
+          "id": "antarctica-treaty-history-b3",
+          "title": "1959与1961"
+        },
+        {
+          "id": "antarctica-treaty-history-b4",
+          "title": "1991与1998"
+        },
+        {
+          "id": "antarctica-treaty-history-b5",
+          "title": "科学与保护"
+        }
+      ],
+      "taskId": "antarctica-P06",
+      "sourceRefs": [
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "editorialCaution": "不混签署与生效，不说2048自动到期；包括多种职业贡献。",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-protect",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "care",
+      "title": "怎样观察，才能少一些打扰？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-protect-b1",
+          "title": "保持空间"
+        },
+        {
+          "id": "antarctica-protect-b2",
+          "title": "尊重生境"
+        },
+        {
+          "id": "antarctica-protect-b3",
+          "title": "处理废物"
+        },
+        {
+          "id": "antarctica-protect-b4",
+          "title": "遵守管理"
+        },
+        {
+          "id": "antarctica-protect-b5",
+          "title": "学习和提问"
+        }
+      ],
+      "taskId": "antarctica-O06",
+      "sourceRefs": [
+        "S16",
+        "S18"
+      ],
+      "editorialCaution": "不把保护简化成追着动物拍照或让孩子独自承担全球问题。",
+      "status": "planned"
+    }
+  ],
+  "places": [
+    {
+      "id": "antarctica-south-pole",
+      "name": "地理南极点",
+      "kind": "pole",
+      "view": "continent",
+      "designReference": {
+        "latitude": -90,
+        "longitude": 0,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "geographic pole; longitude normalized to 0"
+      },
+      "mediaPlan": "地理位置示意／有日期的极点标记照片",
+      "sourceRef": "S10",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-peninsula",
+      "name": "南极半岛",
+      "kind": "region",
+      "view": "peninsula",
+      "designReference": {
+        "latitude": -66,
+        "longitude": -64,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "海岸山地／来源明确的区域地图",
+      "sourceRef": "S11",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-ross-shelf",
+      "name": "罗斯冰架",
+      "kind": "iceShelf",
+      "view": "ross",
+      "designReference": {
+        "latitude": -81,
+        "longitude": -175,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "冰架前缘／冰架与接地线关系图",
+      "sourceRef": "S03",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-weddell-sea",
+      "name": "威德尔海",
+      "kind": "sea",
+      "view": "continent",
+      "designReference": {
+        "latitude": -73,
+        "longitude": -45,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "有日期的海冰照片／海域位置图",
+      "sourceRef": "S11",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-transantarctic",
+      "name": "横贯南极山脉",
+      "kind": "mountains",
+      "view": "continent",
+      "designReference": {
+        "latitude": -83,
+        "longitude": 160,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "山峰露出冰盖／不同尺度的山地照片",
+      "sourceRef": "S11",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-dry-valleys",
+      "name": "麦克默多干谷",
+      "kind": "landscape",
+      "view": "ross",
+      "designReference": {
+        "latitude": -77.5,
+        "longitude": 162,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "裸露谷地／岩石与冰的对照",
+      "sourceRef": "S14",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-deception-island",
+      "name": "欺骗岛",
+      "kind": "island",
+      "view": "peninsula",
+      "designReference": {
+        "latitude": -62.97,
+        "longitude": -60.65,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "火山岛海湾／真实岛形地图",
+      "sourceRef": "S11",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-dome-a",
+      "name": "冰穹A",
+      "kind": "iceDome",
+      "view": "continent",
+      "designReference": {
+        "latitude": -80.37,
+        "longitude": 77.35,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "来源明确的内陆冰原／位置与观测资料摘记",
+      "sourceRef": "S11",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-zhongshan",
+      "name": "中山站",
+      "kind": "station",
+      "view": "continent",
+      "designReference": {
+        "latitude": -69.37,
+        "longitude": 76.38,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "真实站区／注明地点的观测工作",
+      "sourceRef": "S12",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-great-wall",
+      "name": "长城站",
+      "kind": "station",
+      "view": "peninsula",
+      "designReference": {
+        "latitude": -62.22,
+        "longitude": -58.96,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "真实站区与海岸／地理位置资料",
+      "sourceRef": "S12",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-qinling",
+      "name": "秦岭站",
+      "kind": "station",
+      "view": "ross",
+      "designReference": {
+        "latitude": -74.94,
+        "longitude": 163.7,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "真实建筑全貌／工作场景或公开资料",
+      "sourceRef": "S13",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-mcmurdo",
+      "name": "麦克默多站",
+      "kind": "station",
+      "view": "ross",
+      "designReference": {
+        "latitude": -77.85,
+        "longitude": 166.67,
+        "status": "provisional; verify authoritative location before implementation",
+        "meaning": "representative point, not boundary or camera location"
+      },
+      "mediaPlan": "罗斯岛站区／正规科考后勤工作",
+      "sourceRef": "S14",
+      "status": "planned"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "antarctica-L01",
+      "kind": "map",
+      "articleId": "antarctica-where",
+      "prompt": "在极地地图上找到地理南极点。",
+      "answer": "antarctica-south-pole",
+      "explanation": "地理南极点是地球自转轴南端对应的地表点。",
+      "evidenceBlockIds": [
+        "antarctica-where-b1",
+        "antarctica-where-b2",
+        "antarctica-where-b3",
+        "antarctica-where-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C01",
+      "kind": "choice",
+      "articleId": "antarctica-poles",
+      "prompt": "南极与北极最重要的地理差别是什么？",
+      "answer": "南极洲是大陆，北极地区中心是海洋",
+      "explanation": "环境差别需要看陆地和海洋，不能只看冰雪外观。",
+      "evidenceBlockIds": [
+        "antarctica-poles-b1",
+        "antarctica-poles-b2",
+        "antarctica-poles-b3",
+        "antarctica-poles-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-L02",
+      "kind": "map",
+      "articleId": "antarctica-regions",
+      "prompt": "找到伸向南美洲方向的南极半岛。",
+      "answer": "antarctica-peninsula",
+      "explanation": "对照同一投影的半岛与南美洲方向，不能凭界面上下猜。",
+      "evidenceBlockIds": [
+        "antarctica-regions-b1",
+        "antarctica-regions-b2",
+        "antarctica-regions-b3",
+        "antarctica-regions-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-P01",
+      "kind": "evidence",
+      "articleId": "antarctica-snow-to-ice",
+      "prompt": "哪一组顺序最符合雪变成冰的主要过程？",
+      "answer": "积累 → 压实 → 冰体形成",
+      "explanation": "这是概括过程，不表示每一层冰都对应固定一年。",
+      "evidenceBlockIds": [
+        "antarctica-snow-to-ice-b1",
+        "antarctica-snow-to-ice-b2",
+        "antarctica-snow-to-ice-b3",
+        "antarctica-snow-to-ice-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C02",
+      "kind": "choice",
+      "articleId": "antarctica-ice-shelf",
+      "prompt": "冰架与大陆冰的关系是什么？",
+      "answer": "与陆地冰相连，向海上延伸并漂浮",
+      "explanation": "常见南极冰架与陆地冰流相连，和海水直接冻结的海冰有区别。",
+      "evidenceBlockIds": [
+        "antarctica-ice-shelf-b1",
+        "antarctica-ice-shelf-b2",
+        "antarctica-ice-shelf-b3",
+        "antarctica-ice-shelf-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-P02",
+      "kind": "evidence",
+      "articleId": "antarctica-sea-ice",
+      "prompt": "哪一种冰主要由海水冻结形成？",
+      "answer": "海冰",
+      "explanation": "三张原创形成方式图与正文一起提供判断依据。",
+      "evidenceBlockIds": [
+        "antarctica-sea-ice-b1",
+        "antarctica-sea-ice-b2",
+        "antarctica-sea-ice-b3",
+        "antarctica-sea-ice-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C03",
+      "kind": "choice",
+      "articleId": "antarctica-polar-day",
+      "prompt": "极昼和极夜主要与什么有关？",
+      "answer": "地轴倾斜、季节和纬度",
+      "explanation": "地球仍在自转，不是太阳或地球停止运动。",
+      "evidenceBlockIds": [
+        "antarctica-polar-day-b1",
+        "antarctica-polar-day-b2",
+        "antarctica-polar-day-b3",
+        "antarctica-polar-day-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C04",
+      "kind": "choice",
+      "articleId": "antarctica-desert",
+      "prompt": "为什么南极内陆许多地方属于极地荒漠？",
+      "answer": "降水很少",
+      "explanation": "荒漠描述干旱条件，地表可以有多年累积的冰。",
+      "evidenceBlockIds": [
+        "antarctica-desert-b1",
+        "antarctica-desert-b2",
+        "antarctica-desert-b3",
+        "antarctica-desert-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C05",
+      "kind": "choice",
+      "articleId": "antarctica-krill-web",
+      "prompt": "食物网里的箭头从磷虾指向企鹅，表示什么？",
+      "answer": "企鹅能以磷虾为食",
+      "explanation": "图中统一约定食物指向取食者，只展示部分食物关系。",
+      "evidenceBlockIds": [
+        "antarctica-krill-web-b1",
+        "antarctica-krill-web-b2",
+        "antarctica-krill-web-b3",
+        "antarctica-krill-web-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-P03",
+      "kind": "evidence",
+      "articleId": "antarctica-ocean-life",
+      "prompt": "依据呼吸资料卡，鲸需要怎样获得空气？",
+      "answer": "浮上水面呼吸",
+      "explanation": "鲸用肺呼吸；照片与资料卡共同支持解释。",
+      "evidenceBlockIds": [
+        "antarctica-ocean-life-b1",
+        "antarctica-ocean-life-b2",
+        "antarctica-ocean-life-b3",
+        "antarctica-ocean-life-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C06",
+      "kind": "choice",
+      "articleId": "antarctica-emperor",
+      "prompt": "哪些特点帮助帝企鹅减少热量流失？",
+      "answer": "羽毛、脂肪和聚集等行为",
+      "explanation": "不是因为它们完全感觉不到寒冷。",
+      "evidenceBlockIds": [
+        "antarctica-emperor-b1",
+        "antarctica-emperor-b2",
+        "antarctica-emperor-b3",
+        "antarctica-emperor-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-P04",
+      "kind": "evidence",
+      "articleId": "antarctica-penguin-neighbours",
+      "prompt": "在两张有物种说明的照片中，帽带企鹅的头部有什么线索？",
+      "answer": "下巴附近的黑色带状线条",
+      "explanation": "照片须先正确识别物种，观察线索不等于单凭一处颜色完成所有鉴定。",
+      "evidenceBlockIds": [
+        "antarctica-penguin-neighbours-b1",
+        "antarctica-penguin-neighbours-b2",
+        "antarctica-penguin-neighbours-b3",
+        "antarctica-penguin-neighbours-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C07",
+      "kind": "choice",
+      "articleId": "antarctica-ice-core",
+      "prompt": "冰芯封闭的小气泡可以帮助研究什么？",
+      "answer": "过去空气的成分",
+      "explanation": "气泡的封闭时间与周围冰的年龄可能有差别。",
+      "evidenceBlockIds": [
+        "antarctica-ice-core-b1",
+        "antarctica-ice-core-b2",
+        "antarctica-ice-core-b3",
+        "antarctica-ice-core-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-P05",
+      "kind": "evidence",
+      "articleId": "antarctica-satellites",
+      "prompt": "哪一组资料更适合比较同一冰区的变化？",
+      "answer": "同地、同季节且注明日期和方法的记录",
+      "explanation": "不同地点的漂亮照片不组成可靠的变化对照。",
+      "evidenceBlockIds": [
+        "antarctica-satellites-b1",
+        "antarctica-satellites-b2",
+        "antarctica-satellites-b3",
+        "antarctica-satellites-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-L03",
+      "kind": "map",
+      "articleId": "antarctica-station-map",
+      "prompt": "在地图上找到东南极沿海的中山站。",
+      "answer": "antarctica-zhongshan",
+      "explanation": "先看大区域，再从三个站点中选择；进入站点不自动提交答案。",
+      "evidenceBlockIds": [
+        "antarctica-station-map-b1",
+        "antarctica-station-map-b2",
+        "antarctica-station-map-b3",
+        "antarctica-station-map-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C08",
+      "kind": "choice",
+      "articleId": "antarctica-station-day",
+      "prompt": "科考站日常生活为什么需要安排与协作？",
+      "answer": "科学工作和生活保障都需要多人配合",
+      "explanation": "不同站点与季节安排不同，不能把一种例子当成统一时间表。",
+      "evidenceBlockIds": [
+        "antarctica-station-day-b1",
+        "antarctica-station-day-b2",
+        "antarctica-station-day-b3",
+        "antarctica-station-day-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-C09",
+      "kind": "choice",
+      "articleId": "antarctica-sea-level",
+      "prompt": "为什么要区分陆地冰和浮在海里的冰？",
+      "answer": "它们与海平面变化的关系不同",
+      "explanation": "陆地冰入海会增加海洋中的水；浮冰及冰架作用要分别解释。",
+      "evidenceBlockIds": [
+        "antarctica-sea-level-b1",
+        "antarctica-sea-level-b2",
+        "antarctica-sea-level-b3",
+        "antarctica-sea-level-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-P06",
+      "kind": "evidence",
+      "articleId": "antarctica-treaty-history",
+      "prompt": "时间线资料中，1961年对应哪一件事？",
+      "answer": "《南极条约》生效",
+      "explanation": "1959是签署；1991与1998分别对应环保议定书签署与生效。",
+      "evidenceBlockIds": [
+        "antarctica-treaty-history-b1",
+        "antarctica-treaty-history-b2",
+        "antarctica-treaty-history-b3",
+        "antarctica-treaty-history-b4"
+      ],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-O01",
+      "kind": "observation",
+      "articleId": "antarctica-wind",
+      "prompt": "从吹雪照片中记录可见的雪与风的线索。",
+      "answer": null,
+      "explanation": "不从画面猜出精确风速。",
+      "evidenceBlockIds": [],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-O02",
+      "kind": "observation",
+      "articleId": "antarctica-under-ice",
+      "prompt": "观察海冰与海水的边界，并提出一个关于冰下世界的问题。",
+      "answer": null,
+      "explanation": "未出现在图中的生物写在疑问中，而非我看见。",
+      "evidenceBlockIds": [],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-O03",
+      "kind": "observation",
+      "articleId": "antarctica-life-on-land",
+      "prompt": "观察苔藓或地衣的颜色、形态与周围地表。",
+      "answer": null,
+      "explanation": "不以照片确定未知物种，不鼓励采集。",
+      "evidenceBlockIds": [],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-O04",
+      "kind": "observation",
+      "articleId": "antarctica-weather-record",
+      "prompt": "从有出处的天气记录中，写下一项变化与一个问题。",
+      "answer": null,
+      "explanation": "时间范围和数据身份必须明确。",
+      "evidenceBlockIds": [],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-O05",
+      "kind": "observation",
+      "articleId": "antarctica-teamwork",
+      "prompt": "选一种科考工作，说说它怎样帮助团队。",
+      "answer": null,
+      "explanation": "用相关资料说明，不预填孩子的回答。",
+      "evidenceBlockIds": [],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    },
+    {
+      "id": "antarctica-O06",
+      "kind": "observation",
+      "articleId": "antarctica-protect",
+      "prompt": "从一张有来源的观察场景中，想想怎样减少打扰。",
+      "answer": null,
+      "explanation": "这是开放思考，没有积分或标准句子。",
+      "evidenceBlockIds": [],
+      "evidenceStatus": "planned; confirm exact paragraphs after writing",
+      "status": "planned"
+    }
+  ],
+  "journeys": [
+    {
+      "id": "ice-journey",
+      "title": "一块冰的旅程",
+      "articleIds": [
+        "antarctica-snow-to-ice",
+        "antarctica-ice-shelf",
+        "antarctica-sea-level"
+      ]
+    },
+    {
+      "id": "life-connections",
+      "title": "跟着磷虾认识生命",
+      "articleIds": [
+        "antarctica-krill-web",
+        "antarctica-emperor",
+        "antarctica-protect"
+      ]
+    },
+    {
+      "id": "science-day",
+      "title": "走进一次科学观察",
+      "articleIds": [
+        "antarctica-station-map",
+        "antarctica-ice-core",
+        "antarctica-treaty-history"
+      ]
+    }
+  ],
+  "diagrams": [
+    {
+      "id": "antarctica-D01",
+      "title": "两极比较",
+      "status": "planned; original educational diagram"
+    },
+    {
+      "id": "antarctica-D02",
+      "title": "雪到冰",
+      "status": "planned; original educational diagram"
+    },
+    {
+      "id": "antarctica-D03",
+      "title": "冰盖—冰架—海冰剖面",
+      "status": "planned; original educational diagram"
+    },
+    {
+      "id": "antarctica-D04",
+      "title": "极昼极夜",
+      "status": "planned; original educational diagram"
+    },
+    {
+      "id": "antarctica-D05",
+      "title": "南大洋食物关系",
+      "status": "planned; original educational diagram"
+    },
+    {
+      "id": "antarctica-D06",
+      "title": "冰芯气泡",
+      "status": "planned; original educational diagram"
+    },
+    {
+      "id": "antarctica-D07",
+      "title": "科考协作",
+      "status": "planned; original educational diagram"
+    },
+    {
+      "id": "antarctica-D08",
+      "title": "陆地冰与海平面",
+      "status": "planned; original educational diagram"
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "143656029": {
+        "pageid": 143656029,
+        "ns": 6,
+        "title": "File:Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8248309,
+            "width": 5022,
+            "height": 3348,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 800,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/3840px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 800,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/3840px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143656029",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-07 22:28:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ornithorhynchus anatinus|Mammals of Tasmania|Photographs by Charlesjsharp|Self-published work|Featured pictures on Wikipedia, English|Featured pictures by Charlesjsharp|Australia photographs taken on 2023-11-14|Featured pictures of Tasmania|Files with coordinates missing SDC location of creation|2023 in Tasmania|Nature of Australia in November 2023|Featured pictures of Monotremata|Featured pictures by Charlesjsharp/Australia|Featured pictures on English Wikipedia by Charlesjsharp|Featured pictures of mammals by Charlesjsharp",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|valued|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-41.150000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "147.480000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Duck-billed platypus (<i>Ornithorhynchus anatinus</i>), Scottsdale, TAS, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-14 13:52:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, from <a rel=\"nofollow\" class=\"external text\" href=\"https://www.sharpphotography.co.uk/\">Sharp Photography, sharpphotography.co.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "143656021": {
+        "pageid": 143656021,
+        "ns": 6,
+        "title": "File:Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale 2.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8322613,
+            "width": 5633,
+            "height": 3755,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 800,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg/3840px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 800,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg/3840px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale_2.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143656021",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-07 22:28:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale 2",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ornithorhynchus anatinus|Mammals of Tasmania|Photographs by Charlesjsharp|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-41.150000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "147.480000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Duck-billed platypus (<i>Ornithorhynchus anatinus</i>), Scottsdale, TAS, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-14 13:53:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, from <a rel=\"nofollow\" class=\"external text\" href=\"https://www.sharpphotography.co.uk/\">Sharp Photography, sharpphotography.co.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "143656027": {
+        "pageid": 143656027,
+        "ns": 6,
+        "title": "File:Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale 4.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 4665858,
+            "width": 3447,
+            "height": 2298,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_4.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 800,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_4.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 800,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale_4.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143656027",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-07 22:28:37",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale 4",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ornithorhynchus anatinus|Mammals of Tasmania|Photographs by Charlesjsharp|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-41.150000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "147.480000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Duck-billed platypus (<i>Ornithorhynchus anatinus</i>), Scottsdale, TAS, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-14 14:27:15",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, from <a rel=\"nofollow\" class=\"external text\" href=\"https://www.sharpphotography.co.uk/\">Sharp Photography, sharpphotography.co.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "143656032": {
+        "pageid": 143656032,
+        "ns": 6,
+        "title": "File:Duck-billed platypus (Ornithorhynchus anatinus) surfacing Scottsdale.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5070029,
+            "width": 3165,
+            "height": 3165,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_surfacing_Scottsdale.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_surfacing_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 1200,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/93/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_surfacing_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_surfacing_Scottsdale.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_surfacing_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 1200,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/93/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_surfacing_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_surfacing_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_surfacing_Scottsdale.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=143656032",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-01-07 22:28:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Duck-billed platypus (Ornithorhynchus anatinus) surfacing Scottsdale",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ornithorhynchus anatinus|Mammals of Tasmania|Photographs by Charlesjsharp|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-41.150000",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "147.480000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Duck-billed platypus (<i>Ornithorhynchus anatinus</i>), surfacing, Scottsdale, TAS, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-11-14 14:24:20",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, from <a rel=\"nofollow\" class=\"external text\" href=\"https://www.sharpphotography.co.uk/\">Sharp Photography, sharpphotography.co.uk</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "79048873": {
+        "pageid": 79048873,
+        "ns": 6,
+        "title": "File:Platypus mosaic in Ballarat Library.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 154211,
+            "width": 1194,
+            "height": 672,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Platypus_mosaic_in_Ballarat_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1200,
+            "thumbheight": 675,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Platypus_mosaic_in_Ballarat_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 675
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Platypus_mosaic_in_Ballarat_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Platypus_mosaic_in_Ballarat_Library.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79048873",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-05-19 03:57:53",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Platypus mosaic in Ballarat Library",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Australian Aboriginal art|Self-published work|FoP-Australia|Mosaics in Australia|Platypus in art|July 2015 in Ballarat",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Stylized platypus mosaic in public library in Ballarat, Victoria, Australia. Near section on Indigenous Australians.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2015-07-05",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This reproduction is permitted under the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/#s65\">Australian Copyright Act, sections 65–68</a>, which state (emphasis added):\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s65.html\">(65)</a> (1) This section applies to <b>sculptures</b> and to <b>works of artistic craftsmanship</b> of the kind referred to in <a rel=\"nofollow\" class=\"external text\" href=\"http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/ca1968133/s10.html#artistic_work\">paragraph (c) of the definition of artistic work in section 10</a>. (2) The copyright in a work to which this section applies that is <b>situated, otherwise than temporarily, in a public place, or in premises open to the public</b>, is not infringed by the making of a painting, drawing, engraving or photograph of the work or by the inclusion of the work in a cinematograph film or in a television broadcast.</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s66.html\">(66)</a> The copyright in a <b>building or a model of a building</b> is not infringed by the making of a [reproduction].</li>\n<li><a rel=\"nofollow\" class=\"external text\" href=\"http://www.austlii.edu.au/au/legis/cth/consol_act/ca1968133/s68.html\">(68)</a> The copyright in an <b>artistic work</b> is not infringed by the publication of a [reproduction] if, by virtue of section 65, section 66 or section 67, the making of […] did not constitute an infringement of the copyright.</li></ul>\nThis freedom applies to two-dimensional works <i>only</i> if they are considered \"artistic works.\" See <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/Australia#FOP\" class=\"mw-redirect\" title=\"Commons:CRT/Australia\">COM:CRT/Australia#FOP</a> for more information.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Qualiesin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Qualiesin (page does not exist)\">Qualiesin</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

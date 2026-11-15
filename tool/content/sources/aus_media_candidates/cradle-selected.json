@@ -1,0 +1,118 @@
+{
+  "pageid": 6496154,
+  "ns": 6,
+  "title": "File:Cradle Mountain Behind Dove Lake.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3107047,
+      "width": 3456,
+      "height": 2592,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg/1280px-Cradle_Mountain_Behind_Dove_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1200,
+      "thumbheight": 900,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg/1280px-Cradle_Mountain_Behind_Dove_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1200,
+        "height": 900,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cradle_Mountain_Behind_Dove_Lake.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6496154",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2009-04-11 19:39:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cradle Mountain Behind Dove Lake",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Cradle Mountain|GFDL|Taken with Sony DSC-H50|Dove Lake|License migration redundant|Self-published work|Images with extracted images|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "-41.653611",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "145.963624",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Cradle Mountain as seen from the north, across Dove Lake. This view can be had after a few hundred metres walk from the carpark.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2008-12-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Own work by uploader, <a rel=\"nofollow\" class=\"external free\" href=\"http://bjornfree.com/galleries.html\">http://bjornfree.com/galleries.html</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Uspn\" title=\"User:Uspn\">Bjørn Christian Tørrissen</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

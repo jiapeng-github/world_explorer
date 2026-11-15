@@ -1,0 +1,106 @@
+{
+  "project": {
+    "name": "projects/18384215030197606402",
+    "origin": "MCP",
+    "projectType": "PROJECT_DESIGN",
+    "title": "世界大百科 · 美国模块设计",
+    "visibility": "PRIVATE"
+  },
+  "projectUrl": "https://stitch.withgoogle.com/projects/18384215030197606402",
+  "designSystem": "assets/1c051849cc9047799d14b1a1674abc69",
+  "checkDate": "2026-11-08",
+  "screens": [
+    {
+      "id": "US01",
+      "requestDevice": "MOBILE",
+      "prompt": "Create a single high-fidelity MOBILE 390×844 page for an existing Chinese Flutter app 世界大百科 for an eight-year-old. Page title “美国国家概览”. Modern geographic field guide. Calm canvas #F4F7FB, pure white panels, navy #12395B, ink #12243A, orange #FF9A3D with dark text, light line #DDE5EE, Noto Sans SC, restrained outline icons, 16dp cards. Bright Grand Canyon South Rim landscape stand-in, text “美国 / UNITED STATES / 从大峡谷出发”, accessible white title over dark left photo overlay. Back/bookmark. Below “先认识美国”, factual row “北美洲 / 华盛顿特区 / 50 个州”. Three photographic cards “沿着山河走 / 走进城市 / 循着历史找”. Two tappable question rows “河流怎样刻出大峡谷？” and “华盛顿特区在哪里？”. Lower links “在地图上看看 / 完整目录”, bottom orange sticky “从大峡谷开始”. Roomy readable simplified Chinese, no flags as ornament, no app logo change, no global bottom tab bar on this details page. Keep this one compact vertical screen, no extra flows.",
+      "sessionId": "17652430503989401850",
+      "verified": {
+        "name": "projects/18384215030197606402/screens/438cb774812045018fad11c9d6c728a8",
+        "title": "美国国家概览",
+        "deviceType": "MOBILE",
+        "width": "780",
+        "height": "2244",
+        "hasHtml": true,
+        "hasScreenshot": true
+      },
+      "generatorText": [
+        "已为您为 8 岁小读者打造的《世界大百科》移动端页面**“美国国家概览”**（390×844 高保真单页）。\n\n### 🎨 核心设计与儿童认知排版亮点：\n1. **现代自然地理图鉴风格（Modern Geographic Field Guide）**：\n   - **调色系统**：温润素雅的底色 `#F4F7FB` 搭配纯白悬浮面板（#FFFFFF），搭配沉稳的深蓝藏青（`#12395B`）主导与深墨字色（`#12243A`），营造自然探索手册的质感。\n   - **大峡谷主画报**：顶部实景照片辅以高对比度渐变遮罩，确保白色中文大标题“**美国**”、双语“UNITED STATES”及导引语“从大峡谷出发”阅读清晰、无视觉杂讯。\n2. **通识事实信息胶囊**：\n   - 提取三项最适合 8 岁儿童建立宏观地理认知的核心要素：“**北美洲** / **华盛顿特区** / **50 个州**”，配以轻量级几何图标与大字号清晰陈列。\n3. **“先认识美国”三维探索卡片**：\n   - 包含“**沿着山河走**”（自然地貌）、“**走进城市**”（人文聚落）与“**循着历史找**”（历史足迹）三个 16dp 圆角白底卡片，文字精炼生动。\n4. **启发式交互问答条**：\n   - 配备“**河流怎样刻出大峡谷？**”与“**华盛顿特区在哪里？**”两个可点击提问行，用疑问句激发孩子的好奇心与探索欲。\n5. **底部常驻导引与辅助入口**：\n   - 提供了次级入口“在地图上看看”与“完整目录”；\n   - 底部常驻橙色按钮（`#FF9A3D` 搭配深墨高对比文本）“**从大峡谷开始 ➔**”，作为直接开启首个探索章节的明确主行动线（CTA）；\n   - 严格遵循规范：未添加国旗装饰，无全站通用底部 TabBar，保持独立详情页的紧凑纵向视线流。"
+      ],
+      "generatorSuggestions": [
+        "展开“河流怎样刻出大峡谷？”交互解答弹窗卡片",
+        "设计点击“在地图上看看”后的美国简明儿童互动地图页",
+        "设计下一章节“大峡谷国家公园深度探秘”图文卡片页"
+      ]
+    },
+    {
+      "id": "US03",
+      "requestDevice": "TABLET",
+      "prompt": "Create one landscape TABLET page 1194×834 named “美国探索地图” for the existing 世界大百科 Flutter app. Use the supplied design system and retain #F4F7FB, navy #12395B, orange #FF9A3D with dark text and readable Simplified Chinese. Left narrow global nav rail 发现、地图、百科、我的 with 地图 selected. Top search “找州、河流或地点”, three filters “地形 / 水系 / 地点”, 水系 selected. Wide north-oriented terrain overview of the contiguous 48 states with Canada above and Mexico below, Colorado River in the southwest, Mississippi and Great Lakes, and orange pin “大峡谷” in Arizona. Label “地图示意”. Detached inset cards “阿拉斯加”, “夏威夷”, with “插图不按同一比例”; no lines joining regions. Bottom right map controls + − 全图. White right sidebar with a broad South Rim photo placeholder and bold “大峡谷 · 南缘”, “亚利桑那州”, navy “查看地点”, then “沿科罗拉多河看” and “地点列表”. Use this two-column screen only. Draw a visually plausible preview without claiming geographic accuracy.",
+      "sessionId": "10921117220010193074",
+      "verified": {
+        "name": "projects/18384215030197606402/screens/a9f073fccf8d4afd9b1a816b837a255e",
+        "title": "美国探索地图",
+        "deviceType": "DESKTOP",
+        "width": "2560",
+        "height": "2048",
+        "hasHtml": true,
+        "hasScreenshot": true
+      },
+      "generatorText": [
+        "已为《世界大百科》完成 1194×834 横版平板端交互页面**“美国探索地图”**设计：\n\n### 核心设计与结构实现：\n1. **规格与色彩规范**：\n   - 严格适配 **1194×834** 平板横屏双栏交互规格。\n   - 延续产品主视觉系统：背景色采用 `#F4F7FB`，品牌深蓝导航与主行动按钮使用 `#12395B`，高亮地点与核心标注使用活力橙 `#FF9A3D`，配合清晰可读的简体中文与高对比层次文本。\n\n2. **左侧轻量导航栏 (Global Nav Rail)**：\n   - 包含「发现」、「地图」、「百科」、「我的」，其中「地图」项处于常亮选中状态（橙色高亮图标底块）。\n\n3. **中部宏观地理交互视窗 (Overview Map)**：\n   - **顶部浮动交互条**：配备“找州、河流或地点”快捷搜索栏，以及「地形 / 水系 / 地点」三态过滤胶囊标签，当前「水系」保持选中。\n   - **北美大陆地形概览**：正向北方视角，呈现美国本土 48 州轮廓，北部标示加拿大，南部标示墨西哥；以醒目水系脉络凸显西南部的**科罗拉多河**、中部纵贯的**密西西比河**及东北部**五大湖**水域。\n   - **精确定位标记**：亚利桑那州区域标注大峡谷发光雷达标记与橙色图钉（“大峡谷 · Grand Canyon”）。\n   - **规范说明与附图卡片**：\n     - 左上方附带「地图示意 · 不代表精确测绘国界」图例说明。\n     - 左下方独立浮动展示**阿拉斯加**与**夏威夷**附图卡片，并带有“插图不按同一比例 · 独立缩放”注解（无连线干扰）。\n     - 右下方放置浮动操作控件：`+`、`−` 缩放及`全图`复位。\n\n4. **右侧大峡谷详情看板 (Right Detail Sidebar)**：\n   - 顶部全宽铺展大峡谷南缘高清纪实摄影，搭配分类标签与高原方位备注。\n   - 呈现醒目标题**“大峡谷 · 南缘”**、**“亚利桑那州”**与深蓝色核心行动按键**“查看地点”**。\n   - 展开**“沿科罗拉多河看”**水系探索专题卡片（标示河流长度 2,330 km 与关键途经站点路径），并附带**“地点列表”**模块。"
+      ],
+      "generatorSuggestions": [
+        "点击“查看地点”进入大峡谷深度百科详情页",
+        "切换到“地形”筛选模式，展示落基山脉与高原等高线层",
+        "为地图上的河流与图钉添加可交互动效与弹窗信息"
+      ]
+    },
+    {
+      "id": "US05",
+      "requestDevice": "MOBILE",
+      "prompt": "Create a single MOBILE 390×844 reading page for an eight-year-old in 世界大百科. Design-system colors with clean white and navy ink. Top local back/bookmark and “美国 · 地理与气候”. Strong title “河流怎样刻出大峡谷？” and small metadata “读图 · 约 4 分钟”. Wide daylight Grand Canyon South Rim scenic photo placeholder. Then a clear “侵蚀示意” card with a three-stage ochre cross-section, labels “岩层 / 河道 / 峡谷”, and the thin blue river at the lowest part between cliffs. No scale, invented dates or invented photo captions. Below “找一找河道”, two unselected options “峡谷底部 / 峡谷边缘” and disabled “确认”. Fixed local toolbar “目录 / 听讲解 / 收藏 / 笔记”. Short legible Simplified Chinese, consistent with the USA overview.",
+      "sessionId": "8266275331793513617",
+      "verified": {
+        "name": "projects/18384215030197606402/screens/cc3fffcb62a14d41b51172ec4ac11c51",
+        "title": "河流怎样刻出大峡谷？",
+        "deviceType": "MOBILE",
+        "width": "780",
+        "height": "2078",
+        "hasHtml": true,
+        "hasScreenshot": true
+      },
+      "generatorText": [
+        "已为您完成专为 8 岁少年儿童定制的《世界大百科》移动端阅读页面（390×844）——**「河流怎样刻出大峡谷？」**：\n\n### 核心设计特点\n1. **顶栏导航与主题规范**：\n   - 顶部常驻返回导航与书签按钮，正中明确标出章节路径「美国 · 地理与气候」。\n2. **标题与适龄信息层级**：\n   - 清晰醒目的大标题「河流怎样刻出大峡谷？」，配有趣味标签「地貌小侦探」以及轻量元信息「读图 · 约 4 分钟」。\n3. **真实实景摄影展位**：\n   - 置入大峡谷南缘日光全景照片，画面纯净，严格排除多余虚构日期、比例尺与臆造图说。\n4. **地质「侵蚀示意」图解卡片**：\n   - 采用赭石与暖泥土色阶展示岩层剖面结构，清晰标示「岩层 / 峡谷 / 河道」，河流以醒目蓝线位于峡谷最深底部；辅以浅显易懂的简练通识解说。\n5. **「找一找河道」互动探索卡片**：\n   - 包含趣味小问答、两个未选中状态的选项卡「峡谷底部 / 峡谷边缘」，以及默认置灰的「确认」按钮。\n6. **固定底栏工具条**：\n   - 固定于底部，包含「目录」、「听讲解」、「收藏」与「笔记」4 个核心功能。统一沿用《世界大百科》海军蓝与纯白的设计系统规范。"
+      ],
+      "generatorSuggestions": [
+        "为「找一找河道」增加选中正确答案后的反馈卡片样式",
+        "设计点击「听讲解」时弹出的儿童音频播放控制条",
+        "生成下一篇关联内容「华盛顿特区在哪里？」的阅读页面"
+      ]
+    },
+    {
+      "id": "US14",
+      "requestDevice": "MOBILE",
+      "prompt": "Create a single MOBILE 390×844 empty form for 世界大百科. Retain approved navy and orange style on pale #F4F7FB, white cards, readable Simplified Chinese, 16dp margins. Navy local header with back “美国 · 记下一个发现”. Large title “把线索写下来” with a short orange accent. Photo placeholder of actual-style layered canyon rock, under it “先看岩层，再写发现。”. Three distinct empty stacked multiline fields with labels “我看见 / 我猜想 / 我还想知道” and simple eye, idea, question outline icons. The body contains no prefilled text or sample child entries. Small helper “选一项写就可以” and “草稿会保留”. Bottom fixed gray disabled “保存我的发现”. No app global tabs, no keyboard in this example. One screen, vertical form with generous touch targets.",
+      "sessionId": "14094131446066935255",
+      "verified": {
+        "name": "projects/18384215030197606402/screens/3132c3f01dcd4a6dabe3ca5482687213",
+        "title": "把线索写下来 - 记录发现",
+        "deviceType": "MOBILE",
+        "width": "780",
+        "height": "2224",
+        "hasHtml": true,
+        "hasScreenshot": true
+      },
+      "generatorText": [
+        "已为您创建移动端（390×844）《世界大百科》的“记录发现”空白表单界面：\n\n### 设计特点与细节落实：\n1. **视觉规范与色调延续**：\n   - 保持主品牌深海蓝与暖橙探险色调，采用浅色背景（`#F4F7FB`）搭配整洁的圆角白色卡片与 `16dp` 边距。\n2. **沉浸式导航与标题**：\n   - 顶部深蓝导航栏配返回箭头与小标题「美国 · 记下一个发现」。\n   - 页面主标题「把线索写下来」搭配鲜明橙色视觉标条及「野外日志」标签。\n3. **真实地貌卡片与引导**：\n   - 嵌入科罗拉多大峡谷真实地层照片，卡片底部附带引导提示语：「先看岩层，再写发现。」。\n4. **轻量引导与三段式空白输入卡片**：\n   - 提供「选一项写就可以」与「草稿会保留」安心提示徽章。\n   - 规划了 3 个独立的空白多行输入区域：\n     - **我看见**（眼睛轮廓图标）\n     - **我猜想**（灵感灯泡轮廓图标）\n     - **我还想知道**（问号疑问轮廓图标）\n   - 无任何预填充儿童样本内容，留有充裕的点击触控区域与虚线手写记录框。\n5. **底部操作与交互状态**：\n   - 底部固定轻量操作栏，展示当前未填写时的浅灰禁用态「保存我的发现」按钮；无全局底部导航栏干扰，营造专注记录氛围。"
+      ],
+      "generatorSuggestions": [
+        "添加点击输入框后的聚焦高亮与激活态示例",
+        "设计填写完成后的表单提交成功/生成图鉴卡片页",
+        "增加拍照上传或手绘涂鸦线索的辅助入口"
+      ]
+    }
+  ]
+}

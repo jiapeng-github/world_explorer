@@ -1,0 +1,8 @@
+{
+  "tool/content/sources/zaf_articles.txt": "f2a6e1b7d3841cec4945a73fb80d405548de7dea71a5d00702fb46ca91525160",
+  "tool/content/editorial/zaf.json": "9a6bc2ab79f55baf02bf1a29d3cee92be12bfd9f6ca6af5779a92625568384a9",
+  "tool/content/editorial/zaf_assets.json": "26d50e8eb74fe67ef08f11122f68465a1a2b0ee9ba8c13dcb9f6b273b81b6c23",
+  "assets/atlas/zaf-countries-detail.geojson": "289f611176a67add0b3a3b3abafea3ad9d57b60353676cd2cf43c5a333bfb1d0",
+  "assets/atlas/zaf-rivers.geojson": "b35fed994c942c2621ce74a7f2ec0f7729cc4e593967ce7784cfa2de2d419952",
+  "assets/atlas/zaf-region-relief.jpg": "0b52a79c420976f8087fdd60869de2c916cf1ccd8f541469f3aa13d24901b50f"
+}

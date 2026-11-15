@@ -1,0 +1,114 @@
+{
+  "projectId": "10710680993209569317",
+  "projectUrl": "https://stitch.withgoogle.com/projects/10710680993209569317",
+  "visibility": "PRIVATE",
+  "designSystem": "assets/e46a5542c4194cc98fe992b0fe277f92",
+  "screens": [
+    {
+      "id": "EG01",
+      "requestedDeviceType": "MOBILE",
+      "actualDeviceType": "MOBILE",
+      "screen": "projects/10710680993209569317/screens/7cd805333a0b43c98c2bd494b9d62af3",
+      "title": "埃及 · 国家概览 (EG01)",
+      "width": 780,
+      "height": 4116,
+      "screenshot": "projects/10710680993209569317/files/cfe5debb41d64bd89a46f0a40bbf4a92",
+      "html": "projects/10710680993209569317/files/cde0e04b93674bb9b8684ac70c18592e",
+      "session": "2012873566688950868",
+      "htmlVerifiedBytes": 22227,
+      "prompt": "Design EG01, one standalone 430px-wide mobile country overview screen (scrollable content, mobile viewport ~932px). Use simplified Chinese, modern geography atlas for an 8-year-old reader, white, #F4F7FB surfaces, #12395B navy, #12243A text, #FF9A3D orange with navy text, 16px cards, Noto Sans SC, large photo placeholders. No global navigation at bottom on this child route. Full-width Giza overview photograph placeholder, back and bookmark, “埃及” / “EGYPT” / “从尼罗河看埃及”. White lower section “先认识埃及” with facts “非洲东北部”“开罗”“埃及镑”. Three pictorial exploration routes exactly “沿着尼罗河”“走进今天”“追寻文明” showing river, modern Cairo and sandstone columns. Two curated question links “尼罗河流向哪里？” and “金字塔留下了哪些线索？”, “在地图上看看”, a link “全部十个栏目”, fixed orange CTA “从尼罗河开始”. Calm generous spacing, minimum touch target 48px. App subpage, no logo changes, no offline badge, no points. Do not invent factual statistics or add a new feature.",
+      "generatedNotes": [
+        "已为您完成 **EG01 埃及国家概览** 独立子页面设计（430px 移动端规格，专为 8 岁小读者打造的现代地理图鉴风格）。\n\n### 设计要点与实现细节：\n1. **适龄视觉与色彩规范**：\n   - 界面严格遵循指定配色：主背景采用柔和纯净的 `#F4F7FB` 与 `#FFFFFF` 容器卡片，品牌深海绀蓝 `#12395B` 与正文色 `#12243A` 营造沉稳通透的探索氛围。\n   - 所有卡片严格遵循 **16px 圆角（rounded-2xl）**，搭配 Noto Sans SC 友好排版，确保 8 岁儿童阅读时清晰无压力。\n2. **顶部全幅沉浸吉萨图景与导航**：\n   - 顶部提供全幅吉萨金字塔高清大图占位与渐变遮罩，置入符合最小 48px 触控标准的返回键（`←`）与收藏书签按钮（`bookmark`）。\n   - 双语标题“**埃及 · EGYPT**”搭配童趣副标“**从尼罗河看埃及**”。\n3. **“先认识埃及”基础认知面板**：\n   - 包含专为小读者提炼的 3 项核心地理要素卡片：地理位置“**非洲东北部**”、国家首都“**开罗**”、通用货币“**埃及镑**”。\n4. **三条图文探索路线**：\n   - **沿着尼罗河**：呈现水源、丰饶两岸与生命河流；\n   - **走进今天**：呈现开罗现代都市风貌与当代儿童日常生活；\n   - **追寻文明**：展示宏伟砂岩神庙石柱与象形文字历史印记。\n5. **启发式问题与地图探索入口**：\n   - 两个精选探索疑问卡片：“**尼罗河流向哪里？**”与“**金字塔留下了哪些线索？**”；\n   - 搭配“**在地图上看看**”直观入口以及“**全部十个栏目**”导览入口。\n6. **无全局底栏与固定主引导 CTA**：\n   - 作为子页面严格剔除全局底栏导航；底部固定悬浮高辨识度 `#FF9A3D` 暖橙色按钮，搭配深绀蓝文字“**从尼罗河开始**”（触控高度 ≥ 48px），引导小读者直接开启第一段探险。"
+      ],
+      "generatedSuggestions": [
+        "生成“沿着尼罗河”第一条探索路线的详细图文详情页 (EG02)",
+        "生成“在地图上看看”的 3D 地理交互视图页面",
+        "为本页面生成暗色夜间模式 (Dark Mode) 版本"
+      ],
+      "supportImages": []
+    },
+    {
+      "id": "EG03",
+      "requestedDeviceType": "TABLET",
+      "actualDeviceType": "DESKTOP",
+      "screen": "projects/10710680993209569317/screens/3cd9c1129d7643fca0ca70d4f4a5e4a4",
+      "title": "埃及 · 探索地图 (EG03)",
+      "width": 2560,
+      "height": 2048,
+      "screenshot": "projects/10710680993209569317/files/67c4ff4c7aa94068b6c312906e05e336",
+      "html": "projects/10710680993209569317/files/cd41c1091ab54e5bb8555d42274914d0",
+      "session": "15563947734467013924",
+      "htmlVerifiedBytes": 22591,
+      "prompt": "Design exactly one EG03 tablet landscape screen “埃及探索地图” at 1194×834 reference. Simplified Chinese; 世界大百科 modern geographic field guide for age 8. White and #F4F7FB surfaces, navy #12395B, text #12243A, accent #FF9A3D with navy text, Noto Sans SC, 16px photo cards, large text, accessible minimum 48px tap targets. Actual UI elements and HTML, not a board with physical device frames. Photos are concept placeholders. Keep editorial copy sparse, no fake scores, no invented facts or labels. Narrow four-destination rail 发现 / 地图 / 百科 / 我的, 地图 selected in navy. Header “埃及探索地图” and search “找城市、河流或古迹”; three chips “地形 / 水系 / 地点”, water selected. Main 65/35 split. Map on left with visible label “地图示意”, only show a neutral Nile layout with north at top; Mediterranean at top, Nile running from Aswan north through Luxor to Cairo, Delta at the northern shore, Giza west of Cairo, Red Sea to the east. Omit any fictional geopolitical borders and do not imply accurate navigation data. Select “尼罗河三角洲”. Map buttons +/− and “显示埃及全图”, legend for natural river and points, visible button “地点列表”. Right column with the Delta image placeholder, title “尼罗河三角洲”, category “河口 · 地貌”, short text “尼罗河在这里分流，走向地中海。” navy “查看地点”, then compact “两条入海支流” and “去看卫星图” rows. No 3D terrain orbit or route planner.",
+      "generatedNotes": [
+        "已为您设计完成 EG03 平板横屏界面「埃及探索地图」（1194×834），严格遵循面向 8 岁少年探索者的现代地理大百科视觉规范：\n\n### 核心设计落地：\n1. **尺寸与版式架构 (65 / 35 分割)**：\n   - 整体分辨率为 1194×834 平板横屏标准；\n   - 左侧为 84px 狭长导航轨（发现 / 地图 / 百科 / 我的），「地图」项以 Navy 深蓝（`#12395B`）高亮激活；\n   - 顶部标有「埃及探索地图」大标题、「找城市、河流或古迹」搜索框，以及「地形 / 水系 / 地点」三态切换（「水系」激活）。\n\n2. **左侧地图示意 (65% 区域)**：\n   - 顶部清晰标识「地图示意 · 北向朝上」，突出真实自然的河流走向（北为地中海，南为阿斯旺，向北流经卢克索、开罗，吉萨位于开罗正西，东面为红海，南端为纳赛尔水库）；\n   - 省略任何虚构政治边界，纯粹呈现自然地理水系脉络；\n   - 「尼罗河三角洲」带有动态焦点徽标（高亮选中标记）；\n   - 配备规范的图例说明卡片、缩放控制键（`+` / `−`）以及无障碍 48px 点击尺寸的「地点列表」与「显示埃及全图」按钮。\n\n3. **右侧详情卡片 (35% 区域)**：\n   - 采用 16px 圆角的高清真实遥感影像卡片（High-altitude aerial satellite view of the Nile Delta meeting the Mediterranean Sea, lush vibrant green fan-shaped delta contrasting with surrounding golden desert sands, deep blue Mediterranean sea waters at the top, clear bright natural geographic photography, educational science book style, pristine high resolution.）；\n   - 呈现精炼文案：「尼罗河三角洲」、「河口 · 地貌」分类标识，以及说明「尼罗河在这里分流，走向地中海。」；\n   - 配备 Navy 深蓝实心按钮「查看地点」，并在下方收录「两条入海支流」和「去看卫星图」轻量卡片，无虚构评分或复杂 3D 轨迹。所有触控热区均满足 48px 无障碍标准。"
+      ],
+      "generatedSuggestions": [
+        "点击三角洲查看支流详情弹窗",
+        "切换到「地形」模式查看高原与沙漠示意",
+        "生成手机端竖屏版本的地图体验"
+      ],
+      "supportImages": [
+        {
+          "screen": "projects/10710680993209569317/screens/dcacbedf1ba64057bb3b7f4ac28b81e2",
+          "screenshot": "projects/10710680993209569317/files/dbc5cee660b94fb5a535d781a4189291",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "id": "EG05",
+      "requestedDeviceType": "MOBILE",
+      "actualDeviceType": "MOBILE",
+      "screen": "projects/10710680993209569317/screens/5a76a507c0e941d89401121e40ec6bb0",
+      "title": "尼罗河流向哪里？ (EG05)",
+      "width": 780,
+      "height": 3096,
+      "screenshot": "projects/10710680993209569317/files/e0a825af41244579addf308f79459c47",
+      "html": "projects/10710680993209569317/files/ea458efe7ea546cbbd2beacb8f358302",
+      "session": "8450269730164262009",
+      "htmlVerifiedBytes": 21201,
+      "prompt": "Design exactly one mobile child-page EG05 (430×932 viewport, scrollable): “埃及 · 地理与气候” article “尼罗河流向哪里？”. Simplified Chinese; 世界大百科 modern geographic field guide for age 8. White and #F4F7FB surfaces, navy #12395B, text #12243A, accent #FF9A3D with navy text, Noto Sans SC, 16px photo cards, large text, accessible minimum 48px tap targets. Actual UI elements and HTML, not a board with physical device frames. Photos are concept placeholders. Keep editorial copy sparse, no fake scores, no invented facts or labels. Back and bookmark. “读图 · 约 4 分钟”, wide photo placeholder showing green agricultural Nile valley and beige desert. A compact white card “水系示意” with a clear “北 ↑”; label from bottom to top 阿斯旺, 开罗, 三角洲, 地中海. Show blue arrows pointing north and both Delta branches going toward sea; no precise topography claim. Small teaching block “动手找找” “哪一边是下游？” with two unselected options “朝地中海” and “朝阿斯旺” then disabled “确认”. One short paragraph “地图的上边是北方。沿着水流，可以找到下游。” Fixed contextual tools 目录 / 听讲解 / 收藏 / 笔记. No global four tabs on this subpage.",
+      "generatedNotes": [
+        "已为您完成移动端子页面 **EG05《尼罗河流向哪里？》（埃及 · 地理与气候）** 的设计与实现：\n\n### 设计亮点与规格落实：\n1. **适龄与视觉系统 (面向8岁读者的现代自然百科)**：\n   - 采用白底与轻盈的淡蓝灰背景（`#F4F7FB`）、深海深蓝（`#12395B`）为主色调，搭配高对比活力橙（`#FF9A3D`）作为行动点缀。\n   - 字号放大增强易读性，所有交互元素与按钮均严格遵循 **≥48px** 的触控安全区域标准。\n2. **顶部导航与阅读信息**：\n   - 顶部提供“返回”与“书签”按钮，标题标示《埃及 · 地理与气候》。\n   - 标注文章分类标识“水文与大河 · EG05”与阅读时长标签“读图 · 约 4 分钟”。\n3. **卫星概念图与图说**：\n   - 融入尼罗河三角洲与河谷贯穿金色沙漠的宽幅高清地貌视觉，辅以浅显易懂的图文指引。\n4. **直观的“水系示意”卡片**：\n   - 顶部显眼标注 **“北 ↑”** 方向标。\n   - 从下至上由阿斯旺（上游）经开罗到达三角洲并流向地中海，搭配蓝色指向箭头标示河流自南向北奔流，附带“水往低处流”小提示。\n5. **轻量教学互动“动手找找”**：\n   - 设置核心思考题“哪一边是下游？”，提供两个未勾选的卡片式选项“朝地中海”与“朝阿斯旺”，以及处于不可点击状态的“确认”按钮。\n   - 附带启发式总结引导语：“地图的上边是北方。沿着水流，可以找到下游。”\n6. **文章级底部专用工具栏**：\n   - 移除全局大栏目底栏，替换为文章沉浸式情境工具：**目录 / 听讲解 / 收藏 / 笔记**。"
+      ],
+      "generatedSuggestions": [
+        "查看点击选项后的正确反馈交互状态",
+        "制作配套的“尼罗河泛滥与农业”EG06子页面",
+        "添加讲解音频播放条浮层样式"
+      ],
+      "supportImages": []
+    },
+    {
+      "id": "EG14",
+      "requestedDeviceType": "MOBILE",
+      "actualDeviceType": "DESKTOP",
+      "screen": "projects/10710680993209569317/screens/158a22f3fe624fde8cb5a3b56d255b1b",
+      "title": "埃及 · 记下一个发现 (EG14)",
+      "width": 2560,
+      "height": 2376,
+      "screenshot": "projects/10710680993209569317/files/eeab758cde884973929e30c6a0bc0d3b",
+      "html": "projects/10710680993209569317/files/fb716dae73bd4464a2ff35b706f045e5",
+      "session": "11263621992743583031",
+      "htmlVerifiedBytes": 8951,
+      "prompt": "Design exactly one mobile child-page EG14 (430×932 viewport, scrollable): “埃及 · 记下一个发现”. Simplified Chinese; 世界大百科 modern geographic field guide for age 8. White and #F4F7FB surfaces, navy #12395B, text #12243A, accent #FF9A3D with navy text, Noto Sans SC, 16px photo cards, large text, accessible minimum 48px tap targets. Actual UI elements and HTML, not a board with physical device frames. Photos are concept placeholders. Keep editorial copy sparse, no fake scores, no invented facts or labels. Page title “把线索写下来”, Nile river and farmland photo placeholder with short image label. Instruction “先看图片，再写下自己的发现。” Three empty multiline text fields named “我看见”, “我猜想”, “我还想知道”. Leave all three input fields empty; small helper outside fields “选一项写就可以”. Bottom fixed “保存我的发现” visually and semantically disabled before input. Add small “草稿会保留” near form, and a back arrow. Keep title and action usable when soft keyboard opens, labels readable. No pre-filled note, badges, gamification, invented actions, or global tab bar.",
+      "generatedNotes": [
+        "已为您设计并完成高保真移动端页面 **“埃及 · 记下一个发现 (EG14)”**（430×932 视口，纯净无物理外壳）：\n\n### 设计要点与规格落实：\n1. **适龄与排版规范（8岁儿童友好）**：\n   - 选用 **Noto Sans SC**，正文与标签字号放大至 16px/14px，行高宽松舒展；\n   - 严格遵循无障碍交互，返回按钮与底部按钮均达 **48px~56px** 以上的大触控目标。\n2. **色彩与材质**：\n   - 底层采用 `#F4F7FB` 舒缓背景与白色 `#FFFFFF` 卡片；\n   - 深海蓝 `#12395B` 主色，文字采用 `#12243A` 高对比易读色彩；\n   - 启用主操作键激活态琥珀亮橙 `#FF9A3D` 搭配深海蓝文字。\n3. **真实图照与观察线索**：\n   - 配备 16:9 圆角照片卡片及现场说明标签，真实呈现尼罗河绿洲与远处沙漠地貌。\n4. **轻量观察记录三问**：\n   - 提供三个完全留白的多行文本输入框：**“我看见”**、**“我猜想”**、**“我还想知道”**；\n   - 外部提示“选一项写就可以”，顶部常驻“草稿会保留”；\n   - 底部固定操作键**“保存我的发现”**在未填写时呈现语义化及视觉禁用状态，有输入时即刻点亮为品牌橙底蓝字。\n5. **纯粹聚焦**：\n   - 严格排除全局底栏、积分打卡、徽章及预设范文，专注真实的地理探索记录体验。"
+      ],
+      "generatedSuggestions": [
+        "添加键盘弹起时的页面滚动与聚焦微交互优化",
+        "为输入框增加快捷语音听写按钮辅助低龄儿童记录",
+        "设计保存成功后的完成动效反馈卡片"
+      ],
+      "supportImages": [
+        {
+          "screen": "projects/10710680993209569317/screens/cd7be853ebf148d791b6bc145ac312a0",
+          "screenshot": "projects/10710680993209569317/files/b9c2254b4d264f4185d462142b77fbc9",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

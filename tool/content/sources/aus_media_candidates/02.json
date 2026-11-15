@@ -1,0 +1,656 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "84954221": {
+        "pageid": 84954221,
+        "ns": 6,
+        "title": "File:Canberra (AU), Australians of the Year Walk -- 2019 -- 1806.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12980994,
+            "width": 6720,
+            "height": 3780,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg/1280px-Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 675,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg/3840px-Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg/1280px-Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 675,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg/3840px-Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Canberra_%28AU%29%2C_Australians_of_the_Year_Walk_--_2019_--_1806.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Australians_of_the_Year_Walk_--_2019_--_1806.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84954221",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-16 12:33:19",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canberra (AU), Australians of the Year Walk -- 2019 -- 1806",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Stone sculptures in Australia|ISO speed rating 100|Photographs with aspect ratio of 16:9|Self-published work|Exposure time 1/125 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Photographs by Dietmar Rabich/Quality images of sculptures|Information field template with formatting|Outdoor sculptures in Australia|Unknown date|FoP-Australia|Template Unknown (artist)|Lens focal length 24 mm|Images by XRay (flat list)|Uploaded with LrMediaWiki|F-number f/11|October 2019 in Canberra|Australia photographs taken on 2019-10-20|Sculptures in Australia photographed in 2019|Equality (text)|Social (text)|Lakes in 2019|Clouds in the Southern Hemisphere in October 2019|Clouds and blue sky in the Australian Capital Territory|Photographs by Dietmar Rabich/Quality images of lakes|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Australians of the Year Walk|Lakes with clouds and blue sky background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-35.294583",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "149.129265",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/Australian_of_the_Year\" class=\"extiw\" title=\"en:Australian of the Year\">Australians of the Year Walk</a>, <a href=\"https://en.wikipedia.org/wiki/Canberra\" class=\"extiw\" title=\"en:Canberra\">Canberra</a>, <a href=\"https://en.wikipedia.org/wiki/Australian_Capital_Territory\" class=\"extiw\" title=\"en:Australian Capital Territory\">Australian Capital Territory</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 20 October 2019, 17:43",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Canberra_(AU),_Australians_of_the_Year_Walk_--_2019_--_1806.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Australians_of_the_Year_Walk_--_2019_--_1806.jpg\">“Canberra (AU), Australians of the Year Walk -- 2019 -- 1806”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Australians_of_the_Year_Walk_--_2019_--_1806.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Australians_of_the_Year_Walk_--_2019_--_1806.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84954222": {
+        "pageid": 84954222,
+        "ns": 6,
+        "title": "File:Canberra (AU), Commonwealth Avenue Bridge -- 2019 -- 1811.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15581027,
+            "width": 6647,
+            "height": 4431,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg/1280px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 800,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg/3840px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg/1280px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 800,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg/3840px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84954222",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-01-10 06:22:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canberra (AU), Commonwealth Avenue Bridge -- 2019 -- 1811",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Photographs by Dietmar Rabich/Featured pictures of Australia|Commonwealth Avenue Bridge, Canberra|Parliament House, Canberra|Photographs with aspect ratio of 3:2|ISO speed rating 100|One-point perspective|Bridges in Australia photographed in 2019|Self-published work|Photographs by Dietmar Rabich/Reflections|Photographs by Dietmar Rabich/Symmetry impressions|Featured pictures of bridges|Exposure time 1/80 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Featured pictures|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|FoP-Australia|Featured pictures of reflections|Buildings with addresses|Lens focal length 35 mm|Changes of XRay's photographs of the recent weeks|Images by XRay (flat list)|Photographs by Dietmar Rabich/Quality images of bridges|Uploaded with LrMediaWiki|Featured pictures of lakes|Symmetry impressions of buildings|October 2019 in Canberra|Australia photographs taken on 2019-10-20|2 bridges|Featured pictures of Canberra|Perspective views of bridges|Lakes in 2019|Clouds in the Southern Hemisphere in October 2019|Vertical symmetry impressions|Architecture photographed with vanishing point|Symmetry impressions of transport infrastructure|Photographs by Dietmar Rabich/Featured pictures on Wikimedia Commons|Clouds and blue sky in the Australian Capital Territory|Photographs by Dietmar Rabich/Quality images of lakes|Photographs by Dietmar Rabich/Architectural photography/Bridges|F-number f/14|Undersides of bridges in Australia|Photographs by Dietmar Rabich/Quality images of natural phenomena|Bridges with clouds and blue sky background|Water reflections of bridges in Australia|Leading lines|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality|featured|potd",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-35.292871",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "149.126938",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Commonwealth Avenue Bridge, <a href=\"https://en.wikipedia.org/wiki/Canberra\" class=\"extiw\" title=\"en:Canberra\">Canberra</a>, <a href=\"https://en.wikipedia.org/wiki/Australian_Capital_Territory\" class=\"extiw\" title=\"en:Australian Capital Territory\">Australian Capital Territory</a>, Australia<br><small>The Commonwealth Avenue Bridge connects Canberra’s city center with <a href=\"https://en.wikipedia.org/wiki/Parliament_House,_Canberra\" class=\"extiw\" title=\"en:Parliament House, Canberra\">Parliament House</a> across Lake Burley Griffin. It was completed in 1963, even before the artificial lake was completely flooded, replacing an earlier, lower bridge.<br>With the construction of the lake—a central element of Walter Burley Griffin’s city plan—the bridge took on great urban significance. Designed as a modern prestressed concrete structure with clean lines, it has since become a defining feature of the capital’s main axis.</small>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 20 October 2019, 17:58",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg\">“Canberra (AU), Commonwealth Avenue Bridge -- 2019 -- 1811”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84954224": {
+        "pageid": 84954224,
+        "ns": 6,
+        "title": "File:Canberra (AU), Commonwealth Avenue Bridge -- 2019 -- 1817.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 11161405,
+            "width": 6720,
+            "height": 3360,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg/1280px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg/3840px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg/1280px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg/3840px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84954224",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-16 12:33:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canberra (AU), Commonwealth Avenue Bridge -- 2019 -- 1817",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Taken with Canon EOS 5D Mark IV|Taken with Sigma 20mm F1.4 DG HSM Art|Commonwealth Avenue Bridge, Canberra|ISO speed rating 100|Photographs with aspect ratio of 2:1|Bridges in Australia photographed in 2019|Self-published work|Exposure time 1/160 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Buildings with addresses|Lens focal length 20 mm|Images by XRay (flat list)|Photographs by Dietmar Rabich/Quality images of bridges|Uploaded with LrMediaWiki|F-number f/11|October 2019 in Canberra|Australia photographs taken on 2019-10-20|Lakes in 2019|Clouds in the Southern Hemisphere in October 2019|Clouds and blue sky in the Australian Capital Territory|1 bridge in Australia|Photographs by Dietmar Rabich/Quality images of lakes|Photographs by Dietmar Rabich/Architectural photography/Bridges|Bridges with clouds and blue sky background|Photographs by Dietmar Rabich/Year/2019|Lakes with clouds and blue sky background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-35.292871",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "149.126938",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Commonwealth Avenue Bridge, <a href=\"https://en.wikipedia.org/wiki/Canberra\" class=\"extiw\" title=\"en:Canberra\">Canberra</a>, <a href=\"https://en.wikipedia.org/wiki/Australian_Capital_Territory\" class=\"extiw\" title=\"en:Australian Capital Territory\">Australian Capital Territory</a>, Australia<br><small>The Commonwealth Avenue Bridge connects Canberra’s city center with <a href=\"https://en.wikipedia.org/wiki/Parliament_House,_Canberra\" class=\"extiw\" title=\"en:Parliament House, Canberra\">Parliament House</a> across Lake Burley Griffin. It was completed in 1963, even before the artificial lake was completely flooded, replacing an earlier, lower bridge.<br>With the construction of the lake—a central element of Walter Burley Griffin’s city plan—the bridge took on great urban significance. Designed as a modern prestressed concrete structure with clean lines, it has since become a defining feature of the capital’s main axis.</small>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 20 October 2019, 18:03",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg\">“Canberra (AU), Commonwealth Avenue Bridge -- 2019 -- 1817”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1817.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84954220": {
+        "pageid": 84954220,
+        "ns": 6,
+        "title": "File:Canberra (AU), National Capital Exhibition -- 2019 -- 1798.jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 12796494,
+            "width": 6720,
+            "height": 3780,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg/1280px-Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 675,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg/3840px-Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg/1280px-Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 675,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg/3840px-Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Canberra_%28AU%29%2C_National_Capital_Exhibition_--_2019_--_1798.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Capital_Exhibition_--_2019_--_1798.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84954220",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-16 12:33:10",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canberra (AU), National Capital Exhibition -- 2019 -- 1798",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|Canadian Flagpole, Regatta Point|Lake Burley Griffin|ISO speed rating 100|Photographs with aspect ratio of 16:9|Self-published work|Exposure time 1/200 sec|National Capital Exhibition|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Photographs by Dietmar Rabich/Quality images of buildings|F-number f/8|Images by XRay (flat list)|Uploaded with LrMediaWiki|Lens focal length 105 mm|October 2019 in Canberra|Australia photographs taken on 2019-10-20|Buildings in Australia photographed in 2019|Photographs of the national flag of Australia|Lakes in 2019|Clouds in the Southern Hemisphere in October 2019|Photographs by Dietmar Rabich/Architectural photography|Clouds and blue sky in the Australian Capital Territory|Photographs by Dietmar Rabich/Quality images of lakes|Photographs by Dietmar Rabich/Quality images of flags|Photographs of flags of Australia in Canberra|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|Lakes with clouds and blue sky background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-35.295537",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "149.132173",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "National Capital Exhibition, <a href=\"https://en.wikipedia.org/wiki/Canberra\" class=\"extiw\" title=\"en:Canberra\">Canberra</a>, <a href=\"https://en.wikipedia.org/wiki/Australian_Capital_Territory\" class=\"extiw\" title=\"en:Australian Capital Territory\">Australian Capital Territory</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 20 October 2019, 17:37",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Capital_Exhibition_--_2019_--_1798.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Capital_Exhibition_--_2019_--_1798.jpg\">“Canberra (AU), National Capital Exhibition -- 2019 -- 1798”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Capital_Exhibition_--_2019_--_1798.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Capital_Exhibition_--_2019_--_1798.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "84954168": {
+        "pageid": 84954168,
+        "ns": 6,
+        "title": "File:Canberra (AU), National Museum of Australia -- 2019 -- 1709.jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 10486137,
+            "width": 6720,
+            "height": 3360,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg/1280px-Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 600,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg/3840px-Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg/1280px-Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 600,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg/3840px-Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Canberra_%28AU%29%2C_National_Museum_of_Australia_--_2019_--_1709.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Museum_of_Australia_--_2019_--_1709.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=84954168",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-12-16 12:30:59",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Canberra (AU), National Museum of Australia -- 2019 -- 1709",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Dietmar Rabich/Quality images of Australia|National Museum of Australia|Lake Burley Griffin|ISO speed rating 100|Photographs with aspect ratio of 2:1|Self-published work|Exposure time 1/160 sec|Photographs by Dietmar Rabich/Australia|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|F-number f/10|Images by XRay (flat list)|Uploaded with LrMediaWiki|October 2019 in Canberra|Australia photographs taken on 2019-10-20|Lakes in 2019|Clouds in the Southern Hemisphere in October 2019|Photographs by Dietmar Rabich/Architectural photography|Clouds and blue sky in the Australian Capital Territory|Photographs by Dietmar Rabich/Quality images of lakes|Photographs by Dietmar Rabich/Quality images of museums|Lens focal length 93 mm|Taken with Canon EOS 5D Mark IV and Canon EF 24-105mm F4L IS II USM|Photographs by Dietmar Rabich/Year/2019|1 building in Australia|Museums in Australia photographed in 2019|Lakes with clouds and blue sky background",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-35.293100",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "149.121000",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<a href=\"https://en.wikipedia.org/wiki/National_Museum_of_Australia\" class=\"extiw\" title=\"en:National Museum of Australia\">National Museum of Australia</a>, <a href=\"https://en.wikipedia.org/wiki/Canberra\" class=\"extiw\" title=\"en:Canberra\">Canberra</a>, <a href=\"https://en.wikipedia.org/wiki/Australian_Capital_Territory\" class=\"extiw\" title=\"en:Australian Capital Territory\">Australian Capital Territory</a>, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 20 October 2019, 15:07",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Museum_of_Australia_--_2019_--_1709.jpg\" href=\"https://commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Museum_of_Australia_--_2019_--_1709.jpg\">“Canberra (AU), National Museum of Australia -- 2019 -- 1709”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Museum_of_Australia_--_2019_--_1709.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:Canberra_(AU),_National_Museum_of_Australia_--_2019_--_1709.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Attribution": {
+                "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

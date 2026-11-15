@@ -1,0 +1,659 @@
+{
+  "country": {
+    "id": "japan",
+    "coverage": "editorial",
+    "capital": "东京",
+    "tagline": "海洋、山地与多样生活",
+    "intro": "日本位于亚洲东部，由许多岛屿组成。海洋包围山地与平原，南北环境也各有不同。我们从地图、文字、校园生活和富士山出发，认识自然与人文怎样彼此联系。",
+    "facts": [
+      {
+        "label": "首都",
+        "value": "东京"
+      },
+      {
+        "label": "位置",
+        "value": "亚洲东部"
+      },
+      {
+        "label": "主要语言",
+        "value": "日语"
+      },
+      {
+        "label": "代表地形",
+        "value": "岛屿与山地"
+      }
+    ],
+    "takeaways": [
+      "日本由许多岛屿组成，南北气候与动物分布不同。",
+      "日语书写常使用汉字、平假名和片假名。",
+      "富士山既是一座火山，也是重要的文化景观。"
+    ],
+    "timeline": [
+      {
+        "period": "1868 年",
+        "title": "江户改称东京",
+        "body": "江户改称东京。"
+      },
+      {
+        "period": "1964 年",
+        "title": "新干线启程",
+        "body": "东海道新干线开始运营。"
+      },
+      {
+        "period": "2013 年",
+        "title": "富士山文化遗产",
+        "body": "富士山列入世界文化遗产名录。"
+      }
+    ],
+    "sections": {
+      "geography": [
+        "japan-geography"
+      ],
+      "people": [
+        "japan-people"
+      ],
+      "daily": [
+        "japan-daily"
+      ],
+      "food": [
+        "japan-food"
+      ],
+      "culture": [
+        "japan-culture"
+      ],
+      "nature": [
+        "japan-nature"
+      ],
+      "history": [
+        "japan-history"
+      ],
+      "questions": [
+        "japan-questions"
+      ],
+      "landmarks": [
+        "japan-history"
+      ],
+      "overview": [
+        "japan-geography",
+        "japan-people",
+        "japan-daily"
+      ]
+    },
+    "sources": [
+      {
+        "title": "日本外务省儿童网：自然与气候",
+        "url": "https://web-japan.org/kidsweb/explore/nature/index.html",
+        "checkedAt": "2026-11-06"
+      },
+      {
+        "title": "日本外务省儿童网：野生动物",
+        "url": "https://web-japan.org/kidsweb/explore/nature/q3.html",
+        "checkedAt": "2026-11-06"
+      },
+      {
+        "title": "日本外务省儿童网：住房、饮食与服装",
+        "url": "https://web-japan.org/kidsweb/explore/housing/index.html",
+        "checkedAt": "2026-11-06"
+      },
+      {
+        "title": "日本外务省儿童网：学校生活",
+        "url": "https://web-japan.org/kidsweb/explore/schools/index.html",
+        "checkedAt": "2026-11-06"
+      },
+      {
+        "title": "日本外务省儿童网：语言",
+        "url": "https://web-japan.org/kidsweb/explore/language/index.html",
+        "checkedAt": "2026-11-06"
+      },
+      {
+        "title": "日本外务省儿童网：文化",
+        "url": "https://web-japan.org/kidsweb/explore/culture/index.html",
+        "checkedAt": "2026-11-06"
+      },
+      {
+        "title": "日本外务省儿童网：历史时间线",
+        "url": "https://web-japan.org/kidsweb/explore/history/index.html",
+        "checkedAt": "2026-11-06"
+      },
+      {
+        "title": "UNESCO：富士山——信仰与艺术的源泉",
+        "url": "https://whc.unesco.org/en/list/1418/",
+        "checkedAt": "2026-11-06"
+      }
+    ],
+    "revision": 2,
+    "editorial": {
+      "subtitle": "从岛屿读懂山海与生活",
+      "introduction": "日本位于亚洲东部，由许多岛屿组成。海洋包围山地与平原，南北环境也各有不同。我们从地图、文字、校园生活和富士山出发，认识自然与人文怎样彼此联系。",
+      "startLabel": "从岛屿开始",
+      "startJourneyId": "islands",
+      "questionArticleIds": [
+        "japan-geography",
+        "japan-questions"
+      ],
+      "factOverrides": [
+        {
+          "label": "首都",
+          "value": "东京"
+        },
+        {
+          "label": "位置",
+          "value": "亚洲东部"
+        },
+        {
+          "label": "主要语言",
+          "value": "日语"
+        }
+      ],
+      "directoryTitle": "日本 · 探索目录",
+      "journeys": [
+        {
+          "id": "islands",
+          "title": "岛屿与山海",
+          "subtitle": "阅读顺序，不是交通路线。",
+          "coverTitle": "岛屿与山海",
+          "mediaId": "mount-fuji",
+          "articleIds": [
+            "japan-geography",
+            "japan-nature",
+            "japan-questions"
+          ],
+          "stopTitles": [
+            "认识列岛",
+            "南北自然",
+            "照片里的线索"
+          ]
+        },
+        {
+          "id": "daily",
+          "title": "城市的一天",
+          "subtitle": "从已有生活内容出发，认识语言与饮食。",
+          "coverTitle": "城市的一天",
+          "mediaId": "mount-fuji",
+          "articleIds": [
+            "japan-people",
+            "japan-daily",
+            "japan-food"
+          ],
+          "stopTitles": [
+            "文字线索",
+            "校园生活",
+            "多样饮食"
+          ]
+        },
+        {
+          "id": "objects",
+          "title": "物件里的时间",
+          "subtitle": "从文化表达走向历史资料与观察。",
+          "coverTitle": "物件里的时间",
+          "mediaId": "mount-fuji",
+          "articleIds": [
+            "japan-culture",
+            "japan-history",
+            "japan-questions"
+          ],
+          "stopTitles": [
+            "舞台故事",
+            "富士山文化",
+            "观察与查证"
+          ]
+        }
+      ],
+      "sections": {
+        "geography": {
+          "title": "geography",
+          "summary": "沿地图从北往南，看看海洋、山地和不同的季节。",
+          "mediaId": "mount-fuji"
+        },
+        "people": {
+          "title": "people",
+          "summary": "把文字当成线索，发现交流与文化之间的联系。",
+          "mediaId": "mount-fuji"
+        },
+        "daily": {
+          "title": "daily",
+          "summary": "从课堂、午餐和共同劳动，认识一些学校里的日常。",
+          "mediaId": "mount-fuji"
+        },
+        "food": {
+          "title": "food",
+          "summary": "米饭、配菜和来自世界各地的食物，可以一起出现。",
+          "mediaId": "mount-fuji"
+        },
+        "culture": {
+          "title": "culture",
+          "summary": "认识文乐：把人偶、声音和音乐放在一起的艺术。",
+          "mediaId": "mount-fuji"
+        },
+        "nature": {
+          "title": "nature",
+          "summary": "从北海道到南方岛屿，看看栖息地带来的差别。",
+          "mediaId": "mount-fuji"
+        },
+        "history": {
+          "title": "history",
+          "summary": "一座山，既能留下自然线索，也能留下人的故事。",
+          "mediaId": "mount-fuji"
+        },
+        "questions": {
+          "title": "questions",
+          "summary": "把“我看见的”和“我还要查的”分开记录。",
+          "mediaId": "mount-fuji"
+        },
+        "landmarks": {
+          "title": "landmarks",
+          "summary": "一座山，既能留下自然线索，也能留下人的故事。",
+          "mediaId": "mount-fuji"
+        },
+        "overview": {
+          "title": "overview",
+          "summary": "沿地图从北往南，看看海洋、山地和不同的季节。",
+          "mediaId": "mount-fuji"
+        }
+      },
+      "featuredPlaceIds": [
+        "japan-fuji"
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "japan-geography",
+      "countryId": "japan",
+      "sectionId": "geography",
+      "title": "日本为什么像一串岛屿？",
+      "summary": "沿地图从北往南，看看海洋、山地和不同的季节。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-geography-b1",
+          "title": "先找到四座大岛",
+          "text": "日本由许多岛屿组成，主要岛屿包括北海道、本州、四国和九州。它们南北延伸，四周被海洋环绕。"
+        },
+        {
+          "id": "japan-geography-b2",
+          "title": "山地与平原相间",
+          "text": "日本约四分之三的国土是山地，其余部分包括平原和盆地。地图上的深浅颜色，可以帮助我们寻找地势差别。"
+        },
+        {
+          "id": "japan-geography-b3",
+          "title": "同一天，也可能不同天气",
+          "text": "日本南北距离很长，北部和南部的气候有差别。春天花开、秋天叶色变化，也不会在每个地方同时发生。"
+        }
+      ],
+      "term": "盆地",
+      "definition": "四周较高、中间较低的一片地形。",
+      "question": "看到日本一地在下雪，能说全国都在下雪吗？",
+      "answer": "不能。不同纬度、海拔和位置，会让各地天气不同。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/nature/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-06",
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "japan-people",
+      "countryId": "japan",
+      "sectionId": "people",
+      "title": "日语里为什么有不同的文字？",
+      "summary": "把文字当成线索，发现交流与文化之间的联系。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-people-b1",
+          "title": "三种文字常常一起出现",
+          "text": "现代日语书写常使用汉字、平假名和片假名。汉字从古代中国传入，假名则在此基础上发展起来。"
+        },
+        {
+          "id": "japan-people-b2",
+          "title": "看起来相像，不等于完全相同",
+          "text": "日语与汉语是不同的语言。即使看见熟悉的汉字，也不能只凭字形就猜定读音和意思，还需要看它在句子里的用法。"
+        },
+        {
+          "id": "japan-people-b3",
+          "title": "同一种语言也有地方差别",
+          "text": "日本不同地区有方言，词语、口音与语调可能不同。学习一句问候时，也可以问问对方来自哪里。"
+        }
+      ],
+      "term": "方言",
+      "definition": "一种语言在不同地区形成的地方变体。",
+      "question": "看见日语里的汉字，可以直接当作中文读吗？",
+      "answer": "不一定。日语的读音、词义和句子规则需要另外学习。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/language/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-06",
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "japan-daily",
+      "countryId": "japan",
+      "sectionId": "daily",
+      "title": "日本小学生的一天是什么样？",
+      "summary": "从课堂、午餐和共同劳动，认识一些学校里的日常。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-daily-b1",
+          "title": "除了读书和计算",
+          "text": "日本小学通常读六年。课程包含语言、数学、科学、社会、音乐、美术与体育等，学习并不只发生在课本里。"
+        },
+        {
+          "id": "japan-daily-b2",
+          "title": "一起照顾共同的空间",
+          "text": "许多小学会让学生分组整理、打扫校园，并轮流协助分发午餐。这些活动也被看作学习合作的机会。"
+        },
+        {
+          "id": "japan-daily-b3",
+          "title": "一所学校不是全部",
+          "text": "学校还可能安排运动会和校外参观。具体作息、课程与午餐方式因学校而异；比较时，先说清楚观察的是哪所学校。"
+        }
+      ],
+      "term": "合作",
+      "definition": "不同的人共同分担任务，朝同一个目标做事。",
+      "question": "为什么打扫和分餐也可能是学习？",
+      "answer": "这些活动让孩子练习分工、合作，并照顾共同使用的空间。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/schools/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-06",
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "japan-food",
+      "countryId": "japan",
+      "sectionId": "food",
+      "title": "日本的饭桌上只有寿司吗？",
+      "summary": "米饭、配菜和来自世界各地的食物，可以一起出现。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-food-b1",
+          "title": "一餐可以怎样搭配",
+          "text": "一种传统的日式餐食组合包括米饭、鱼或肉、蔬菜配菜和汤。不同的盘碗盛放不同食物，组合成一餐。"
+        },
+        {
+          "id": "japan-food-b2",
+          "title": "日常饮食一直在变化",
+          "text": "人们也会吃面包、面条、意大利面等来自不同传统的食物。寿司很有名，却不能代表每个人每天的菜单。"
+        },
+        {
+          "id": "japan-food-b3",
+          "title": "感谢做出这餐的人",
+          "text": "用餐前后表达感谢，是认识饮食文化的一条线索。你也可以想一想：这一餐从种植、运输到烹饪，经过了谁的劳动？"
+        }
+      ],
+      "term": "配菜",
+      "definition": "与主食和主菜搭配食用的食物。",
+      "question": "认识一个国家的饮食，只记住最有名的菜够吗？",
+      "answer": "还可以观察日常搭配、地方差异，以及家庭自己的习惯。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/housing/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-06",
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "japan-culture",
+      "countryId": "japan",
+      "sectionId": "culture",
+      "title": "人偶也能在舞台上讲故事吗？",
+      "summary": "认识文乐：把人偶、声音和音乐放在一起的艺术。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-culture-b1",
+          "title": "看得见的人偶，听得见的故事",
+          "text": "文乐是日本的一种传统人偶戏。表演把人偶动作、故事讲唱与三味线音乐组合起来，让观众跟着人物经历情节。"
+        },
+        {
+          "id": "japan-culture-b2",
+          "title": "同一个舞台，需要不同本领",
+          "text": "操纵动作、讲述故事和演奏音乐的人要彼此配合。可以分别观察动作与声音，再看看它们怎样在同一时刻表达情绪。"
+        },
+        {
+          "id": "japan-culture-b3",
+          "title": "传统也生活在今天",
+          "text": "能乐、歌舞伎与文乐都是日本传统表演艺术的例子。人们也欣赏电影和现代音乐，一种传统不能概括所有人的兴趣。"
+        }
+      ],
+      "term": "文乐",
+      "definition": "以人偶表演、讲唱与三味线音乐共同讲故事的传统戏剧。",
+      "question": "文乐只靠人偶动作讲故事吗？",
+      "answer": "不是，讲唱和音乐也参与叙事。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/culture/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-06",
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "japan-nature",
+      "countryId": "japan",
+      "sectionId": "nature",
+      "title": "日本的南北住着相同动物吗？",
+      "summary": "从北海道到南方岛屿，看看栖息地带来的差别。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-nature-b1",
+          "title": "地图帮助我们找动物",
+          "text": "北海道可以见到棕熊；南方岛屿有西表山猫、奄美兔等动物。日本南北环境不同，野生动物的分布也不同。"
+        },
+        {
+          "id": "japan-nature-b2",
+          "title": "有的客人随季节到来",
+          "text": "一些鸟会迁徙。天鹅等候鸟会在适合的季节来到日本部分地区，并不全年留在同一处。"
+        },
+        {
+          "id": "japan-nature-b3",
+          "title": "先寻找环境，再寻找名字",
+          "text": "观察动物照片时，可以记下林地、水域和季节线索。不要只凭一张动物照片，推断这个国家的所有地方都有它。"
+        }
+      ],
+      "term": "候鸟",
+      "definition": "随季节在不同地区之间迁移的鸟。",
+      "question": "动物分布图为什么也需要看季节？",
+      "answer": "因为候鸟等动物会随季节改变停留的地区。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/nature/q3.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-06",
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "japan-history",
+      "countryId": "japan",
+      "sectionId": "history",
+      "title": "富士山为什么也是文化遗产？",
+      "summary": "一座山，既能留下自然线索，也能留下人的故事。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-history-b1",
+          "title": "先认识真实的山",
+          "text": "富士山海拔 3776 米，是一座火山。照片里的山体、山脚湖泊与周围聚落，让我们可以从不同尺度观察同一地点。"
+        },
+        {
+          "id": "japan-history-b2",
+          "title": "山也进入画与诗",
+          "text": "富士山长期与人们的信仰、旅行和艺术相连。19 世纪的木版画把它带给更多观众，它也影响了其他地方的艺术。"
+        },
+        {
+          "id": "japan-history-b3",
+          "title": "把自然与文化一起保护",
+          "text": "2013 年，富士山以文化遗产身份列入世界遗产名录。保护对象包含相关道路、神社等地点，而不仅是一座好看的山峰。"
+        }
+      ],
+      "term": "文化遗产",
+      "definition": "人们传承下来的、具有文化意义的地方、物件或传统。",
+      "question": "为什么一座山也可以有文化价值？",
+      "answer": "因为人们的活动、信仰与艺术会围绕它积累故事与证据。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1418/",
+        "https://web-japan.org/kidsweb/explore/history/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-06",
+      "reviewStatus": "sourceChecked"
+    },
+    {
+      "id": "japan-questions",
+      "countryId": "japan",
+      "sectionId": "questions",
+      "title": "一张富士山照片能告诉你多少？",
+      "summary": "把“我看见的”和“我还要查的”分开记录。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-questions-b1",
+          "title": "先写下能直接看见的",
+          "text": "观察封面：山体在哪里，水面在哪里？找出天空、山坡和倒影的边界。可以写“我看见……”，不要急着替整座山下结论。"
+        },
+        {
+          "id": "japan-questions-b2",
+          "title": "再写下需要资料的问题",
+          "text": "拍摄日期、相机位置、山的高度，都不能仅靠画面确定。可以把它们记成问题，再阅读图片说明与事实来源。"
+        },
+        {
+          "id": "japan-questions-b3",
+          "title": "换一张照片再比较",
+          "text": "同一座山，从不同方向和季节拍摄会呈现不同样子。以后看到第二张照片时，试着寻找相同线索，也保留不能确定的地方。"
+        }
+      ],
+      "term": "证据",
+      "definition": "能帮助我们判断一个说法是否可靠的观察或资料。",
+      "question": "只看一张照片，能准确知道山的高度吗？",
+      "answer": "不能。高度需要可靠测量或资料，照片主要提供画面中的观察线索。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1418/"
+      ],
+      "schemaVersion": 1,
+      "revision": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-06",
+      "reviewStatus": "sourceChecked"
+    }
+  ],
+  "places": [
+    {
+      "id": "japan-fuji",
+      "countryId": "japan",
+      "name": "富士山",
+      "category": "山地",
+      "latitude": 35.3606,
+      "longitude": 138.7274,
+      "summary": "从湖面倒影出发，认识自然与艺术相连的一座山。",
+      "description": "富士山是日本的火山与文化景观。它和周围的湖泊、道路、神社等地点共同讲述人们与山相处的历史。地图标记为山峰的概览位置。",
+      "observation": "找一找山的轮廓与倒影。哪些细节能直接看见，哪些信息还需要查询？",
+      "mediaIds": [
+        "mount-fuji"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/1418/",
+      "pointAccuracy": "overview"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "japan-geography-check",
+      "countryId": "japan",
+      "articleId": "japan-geography",
+      "type": "choice",
+      "question": "为什么日本南北的景观可能不同？",
+      "options": [
+        {
+          "id": "a",
+          "text": "纬度和环境存在差异"
+        },
+        {
+          "id": "b",
+          "text": "每个地方都是同一座山"
+        },
+        {
+          "id": "c",
+          "text": "全国每天的天气完全一样"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "日本南北延伸很长，北部和南部的气候、地形与生态环境存在差异。",
+      "hint": "可以回到文章，找一找支持你的证据。",
+      "evidenceBlockIds": [
+        "japan-geography-b1"
+      ]
+    },
+    {
+      "id": "japan-people-check",
+      "countryId": "japan",
+      "articleId": "japan-people",
+      "type": "choice",
+      "question": "日语书写常用哪一组文字？",
+      "options": [
+        {
+          "id": "b",
+          "text": "只有汉字"
+        },
+        {
+          "id": "c",
+          "text": "只有英文字母"
+        },
+        {
+          "id": "a",
+          "text": "汉字、平假名、片假名"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "日语书写常把三种文字配合使用；熟悉字形不等于已知道它在日语中的读法。",
+      "hint": "可以回到文章，找一找支持你的证据。",
+      "evidenceBlockIds": [
+        "japan-people-b1"
+      ]
+    },
+    {
+      "id": "japan-history-check",
+      "countryId": "japan",
+      "articleId": "japan-history",
+      "type": "choice",
+      "question": "富士山为什么具有文化价值？",
+      "options": [
+        {
+          "id": "c",
+          "text": "因为所有高山都是文化遗产"
+        },
+        {
+          "id": "a",
+          "text": "它与信仰、旅行和艺术有关"
+        },
+        {
+          "id": "b",
+          "text": "只因为它可以拍照"
+        }
+      ],
+      "answerId": "a",
+      "explanation": "围绕富士山的活动与艺术留下丰富的文化证据，世界遗产包含多个相关地点。",
+      "hint": "可以回到文章，找一找支持你的证据。",
+      "evidenceBlockIds": [
+        "japan-history-b1"
+      ]
+    }
+  ]
+}

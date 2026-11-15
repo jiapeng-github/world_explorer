@@ -1,0 +1,97 @@
+{
+  "pageid": 18260756,
+  "ns": 6,
+  "title": "File:Remarkable Rocks, Kangaroo Island.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 73543,
+      "width": 640,
+      "height": 480,
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 1200,
+      "thumbheight": 900,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1200,
+        "height": 900
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks,_Kangaroo_Island.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18260756",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2012-02-03 06:30:41",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Remarkable Rocks, Kangaroo Island",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Zoran Coach 1.0|PD-user|Remarkable Rocks on Kangaroo Island|January 2005 in South Australia|Files moved from en.wikipedia to Commons requiring review as of 3 February 2012",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Remarkable Rocks, Kangaroo Island South Australia. \nPhoto taken by Stephen West in January 2005 with a Digitrex DSC-2100 digital camera.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "27 January 2005 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Premeditated_Chaos\" title=\"User:Premeditated Chaos\">Premeditated Chaos</a> using <a href=\"https://iw.toolforge.org/commonshelper/\" class=\"extiw\" title=\"toollabs:commonshelper/\">CommonsHelper</a>.</bdi>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Diceman\" class=\"extiw\" title=\"wikipedia:User:Diceman\">Diceman</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

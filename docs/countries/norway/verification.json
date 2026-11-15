@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-12",
+  "catalogSha256": "aa78a727f394e2c65194a292ebce8fdd110b396f059ac8a7f80f9ec6348c840b",
+  "androidApkSha256": "4acc6c985822f9ebce18faaa6c72b5d439279a70debd41936b5dffc2f528e9df",
+  "fullFlutterTests": 197,
+  "norwayTargetedTests": 14,
+  "pythonContentTests": 9,
+  "finalPhoneCaptureTests": 1,
+  "android": "debug build passed; catalog, 37 media and map hashes verified",
+  "web": "standard web build passed; catalog and 37 media hashes verified",
+  "notRun": [
+    "physical-device offline reading",
+    "physical-device system TTS availability",
+    "manual screen-reader audit"
+  ]
+}

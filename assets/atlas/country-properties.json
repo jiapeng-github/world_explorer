@@ -1,0 +1,1595 @@
+[
+  {
+    "ADM0_A3": "FJI",
+    "NAME_ZH": "斐济",
+    "NAME_EN": "Fiji",
+    "ISO_A2": "FJ",
+    "CONTINENT": "Oceania",
+    "LABEL_X": "177.975427",
+    "LABEL_Y": "-17.826099"
+  },
+  {
+    "ADM0_A3": "TZA",
+    "NAME_ZH": "坦桑尼亚",
+    "NAME_EN": "Tanzania",
+    "ISO_A2": "TZ",
+    "CONTINENT": "Africa",
+    "LABEL_X": "34.959183",
+    "LABEL_Y": "-6.051866"
+  },
+  {
+    "ADM0_A3": "SAH",
+    "NAME_ZH": "西撒哈拉",
+    "NAME_EN": "Western Sahara",
+    "ISO_A2": "EH",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-12.630304",
+    "LABEL_Y": "23.967592"
+  },
+  {
+    "ADM0_A3": "CAN",
+    "NAME_ZH": "加拿大",
+    "NAME_EN": "Canada",
+    "ISO_A2": "CA",
+    "CONTINENT": "North America",
+    "LABEL_X": "-101.910700",
+    "LABEL_Y": "60.324287"
+  },
+  {
+    "ADM0_A3": "USA",
+    "NAME_ZH": "美国",
+    "NAME_EN": "United States of America",
+    "ISO_A2": "US",
+    "CONTINENT": "North America",
+    "LABEL_X": "-97.482602",
+    "LABEL_Y": "39.538479"
+  },
+  {
+    "ADM0_A3": "KAZ",
+    "NAME_ZH": "哈萨克斯坦",
+    "NAME_EN": "Kazakhstan",
+    "ISO_A2": "KZ",
+    "CONTINENT": "Asia",
+    "LABEL_X": "68.685548",
+    "LABEL_Y": "49.054149"
+  },
+  {
+    "ADM0_A3": "UZB",
+    "NAME_ZH": "乌兹别克斯坦",
+    "NAME_EN": "Uzbekistan",
+    "ISO_A2": "UZ",
+    "CONTINENT": "Asia",
+    "LABEL_X": "64.005429",
+    "LABEL_Y": "41.693603"
+  },
+  {
+    "ADM0_A3": "PNG",
+    "NAME_ZH": "巴布亚新几内亚",
+    "NAME_EN": "Papua New Guinea",
+    "ISO_A2": "PG",
+    "CONTINENT": "Oceania",
+    "LABEL_X": "143.910216",
+    "LABEL_Y": "-5.695285"
+  },
+  {
+    "ADM0_A3": "IDN",
+    "NAME_ZH": "印度尼西亚",
+    "NAME_EN": "Indonesia",
+    "ISO_A2": "ID",
+    "CONTINENT": "Asia",
+    "LABEL_X": "101.892949",
+    "LABEL_Y": "-0.954404"
+  },
+  {
+    "ADM0_A3": "ARG",
+    "NAME_ZH": "阿根廷",
+    "NAME_EN": "Argentina",
+    "ISO_A2": "AR",
+    "CONTINENT": "South America",
+    "LABEL_X": "-64.173331",
+    "LABEL_Y": "-33.501159"
+  },
+  {
+    "ADM0_A3": "CHL",
+    "NAME_ZH": "智利",
+    "NAME_EN": "Chile",
+    "ISO_A2": "CL",
+    "CONTINENT": "South America",
+    "LABEL_X": "-72.318871",
+    "LABEL_Y": "-38.151771"
+  },
+  {
+    "ADM0_A3": "COD",
+    "NAME_ZH": "刚果民主共和国",
+    "NAME_EN": "Democratic Republic of the Congo",
+    "ISO_A2": "CD",
+    "CONTINENT": "Africa",
+    "LABEL_X": "23.458829",
+    "LABEL_Y": "-1.858167"
+  },
+  {
+    "ADM0_A3": "SOM",
+    "NAME_ZH": "索马里",
+    "NAME_EN": "Somalia",
+    "ISO_A2": "SO",
+    "CONTINENT": "Africa",
+    "LABEL_X": "45.192380",
+    "LABEL_Y": "3.568925"
+  },
+  {
+    "ADM0_A3": "KEN",
+    "NAME_ZH": "肯尼亚",
+    "NAME_EN": "Kenya",
+    "ISO_A2": "KE",
+    "CONTINENT": "Africa",
+    "LABEL_X": "37.907632",
+    "LABEL_Y": "0.549043"
+  },
+  {
+    "ADM0_A3": "SDN",
+    "NAME_ZH": "苏丹",
+    "NAME_EN": "Sudan",
+    "ISO_A2": "SD",
+    "CONTINENT": "Africa",
+    "LABEL_X": "29.260657",
+    "LABEL_Y": "16.330746"
+  },
+  {
+    "ADM0_A3": "TCD",
+    "NAME_ZH": "乍得",
+    "NAME_EN": "Chad",
+    "ISO_A2": "TD",
+    "CONTINENT": "Africa",
+    "LABEL_X": "18.645041",
+    "LABEL_Y": "15.142959"
+  },
+  {
+    "ADM0_A3": "HTI",
+    "NAME_ZH": "海地",
+    "NAME_EN": "Haiti",
+    "ISO_A2": "HT",
+    "CONTINENT": "North America",
+    "LABEL_X": "-72.224051",
+    "LABEL_Y": "19.263784"
+  },
+  {
+    "ADM0_A3": "DOM",
+    "NAME_ZH": "多米尼加",
+    "NAME_EN": "Dominican Republic",
+    "ISO_A2": "DO",
+    "CONTINENT": "North America",
+    "LABEL_X": "-70.653998",
+    "LABEL_Y": "19.104137"
+  },
+  {
+    "ADM0_A3": "RUS",
+    "NAME_ZH": "俄罗斯",
+    "NAME_EN": "Russia",
+    "ISO_A2": "RU",
+    "CONTINENT": "Europe",
+    "LABEL_X": "44.686469",
+    "LABEL_Y": "58.249357"
+  },
+  {
+    "ADM0_A3": "BHS",
+    "NAME_ZH": "巴哈马",
+    "NAME_EN": "The Bahamas",
+    "ISO_A2": "BS",
+    "CONTINENT": "North America",
+    "LABEL_X": "-77.146688",
+    "LABEL_Y": "26.401789"
+  },
+  {
+    "ADM0_A3": "FLK",
+    "NAME_ZH": "福克兰群岛",
+    "NAME_EN": "Falkland Islands",
+    "ISO_A2": "FK",
+    "CONTINENT": "South America",
+    "LABEL_X": "-58.738602",
+    "LABEL_Y": "-51.608913"
+  },
+  {
+    "ADM0_A3": "NOR",
+    "NAME_ZH": "挪威",
+    "NAME_EN": "Norway",
+    "ISO_A2": "-99",
+    "CONTINENT": "Europe",
+    "LABEL_X": "9.679975",
+    "LABEL_Y": "61.357092"
+  },
+  {
+    "ADM0_A3": "GRL",
+    "NAME_ZH": "格陵兰",
+    "NAME_EN": "Greenland",
+    "ISO_A2": "GL",
+    "CONTINENT": "North America",
+    "LABEL_X": "-39.335251",
+    "LABEL_Y": "74.319387"
+  },
+  {
+    "ADM0_A3": "ATF",
+    "NAME_ZH": "法属南部和南极领地",
+    "NAME_EN": "French Southern and Antarctic Lands",
+    "ISO_A2": "TF",
+    "CONTINENT": "Seven seas (open ocean)",
+    "LABEL_X": "69.122136",
+    "LABEL_Y": "-49.303721"
+  },
+  {
+    "ADM0_A3": "TLS",
+    "NAME_ZH": "东帝汶",
+    "NAME_EN": "East Timor",
+    "ISO_A2": "TL",
+    "CONTINENT": "Asia",
+    "LABEL_X": "125.854679",
+    "LABEL_Y": "-8.803705"
+  },
+  {
+    "ADM0_A3": "ZAF",
+    "NAME_ZH": "南非",
+    "NAME_EN": "South Africa",
+    "ISO_A2": "ZA",
+    "CONTINENT": "Africa",
+    "LABEL_X": "23.665734",
+    "LABEL_Y": "-29.708776"
+  },
+  {
+    "ADM0_A3": "LSO",
+    "NAME_ZH": "莱索托",
+    "NAME_EN": "Lesotho",
+    "ISO_A2": "LS",
+    "CONTINENT": "Africa",
+    "LABEL_X": "28.246639",
+    "LABEL_Y": "-29.480158"
+  },
+  {
+    "ADM0_A3": "MEX",
+    "NAME_ZH": "墨西哥",
+    "NAME_EN": "Mexico",
+    "ISO_A2": "MX",
+    "CONTINENT": "North America",
+    "LABEL_X": "-102.289448",
+    "LABEL_Y": "23.919988"
+  },
+  {
+    "ADM0_A3": "URY",
+    "NAME_ZH": "乌拉圭",
+    "NAME_EN": "Uruguay",
+    "ISO_A2": "UY",
+    "CONTINENT": "South America",
+    "LABEL_X": "-55.966942",
+    "LABEL_Y": "-32.961127"
+  },
+  {
+    "ADM0_A3": "BRA",
+    "NAME_ZH": "巴西",
+    "NAME_EN": "Brazil",
+    "ISO_A2": "BR",
+    "CONTINENT": "South America",
+    "LABEL_X": "-49.559450",
+    "LABEL_Y": "-12.098687"
+  },
+  {
+    "ADM0_A3": "BOL",
+    "NAME_ZH": "玻利维亚",
+    "NAME_EN": "Bolivia",
+    "ISO_A2": "BO",
+    "CONTINENT": "South America",
+    "LABEL_X": "-64.593433",
+    "LABEL_Y": "-16.666015"
+  },
+  {
+    "ADM0_A3": "PER",
+    "NAME_ZH": "秘鲁",
+    "NAME_EN": "Peru",
+    "ISO_A2": "PE",
+    "CONTINENT": "South America",
+    "LABEL_X": "-72.900160",
+    "LABEL_Y": "-12.976679"
+  },
+  {
+    "ADM0_A3": "COL",
+    "NAME_ZH": "哥伦比亚",
+    "NAME_EN": "Colombia",
+    "ISO_A2": "CO",
+    "CONTINENT": "South America",
+    "LABEL_X": "-73.174347",
+    "LABEL_Y": "3.373111"
+  },
+  {
+    "ADM0_A3": "PAN",
+    "NAME_ZH": "巴拿马",
+    "NAME_EN": "Panama",
+    "ISO_A2": "PA",
+    "CONTINENT": "North America",
+    "LABEL_X": "-80.352106",
+    "LABEL_Y": "8.721980"
+  },
+  {
+    "ADM0_A3": "CRI",
+    "NAME_ZH": "哥斯达黎加",
+    "NAME_EN": "Costa Rica",
+    "ISO_A2": "CR",
+    "CONTINENT": "North America",
+    "LABEL_X": "-84.077922",
+    "LABEL_Y": "10.065100"
+  },
+  {
+    "ADM0_A3": "NIC",
+    "NAME_ZH": "尼加拉瓜",
+    "NAME_EN": "Nicaragua",
+    "ISO_A2": "NI",
+    "CONTINENT": "North America",
+    "LABEL_X": "-85.069347",
+    "LABEL_Y": "12.670697"
+  },
+  {
+    "ADM0_A3": "HND",
+    "NAME_ZH": "洪都拉斯",
+    "NAME_EN": "Honduras",
+    "ISO_A2": "HN",
+    "CONTINENT": "North America",
+    "LABEL_X": "-86.887604",
+    "LABEL_Y": "14.794801"
+  },
+  {
+    "ADM0_A3": "SLV",
+    "NAME_ZH": "萨尔瓦多",
+    "NAME_EN": "El Salvador",
+    "ISO_A2": "SV",
+    "CONTINENT": "North America",
+    "LABEL_X": "-88.890124",
+    "LABEL_Y": "13.685371"
+  },
+  {
+    "ADM0_A3": "GTM",
+    "NAME_ZH": "危地马拉",
+    "NAME_EN": "Guatemala",
+    "ISO_A2": "GT",
+    "CONTINENT": "North America",
+    "LABEL_X": "-90.497134",
+    "LABEL_Y": "14.982133"
+  },
+  {
+    "ADM0_A3": "BLZ",
+    "NAME_ZH": "伯利兹",
+    "NAME_EN": "Belize",
+    "ISO_A2": "BZ",
+    "CONTINENT": "North America",
+    "LABEL_X": "-88.712962",
+    "LABEL_Y": "17.202068"
+  },
+  {
+    "ADM0_A3": "VEN",
+    "NAME_ZH": "委内瑞拉",
+    "NAME_EN": "Venezuela",
+    "ISO_A2": "VE",
+    "CONTINENT": "South America",
+    "LABEL_X": "-64.599381",
+    "LABEL_Y": "7.182476"
+  },
+  {
+    "ADM0_A3": "GUY",
+    "NAME_ZH": "圭亚那",
+    "NAME_EN": "Guyana",
+    "ISO_A2": "GY",
+    "CONTINENT": "South America",
+    "LABEL_X": "-58.942643",
+    "LABEL_Y": "5.124317"
+  },
+  {
+    "ADM0_A3": "SUR",
+    "NAME_ZH": "苏里南",
+    "NAME_EN": "Suriname",
+    "ISO_A2": "SR",
+    "CONTINENT": "South America",
+    "LABEL_X": "-55.910940",
+    "LABEL_Y": "4.143987"
+  },
+  {
+    "ADM0_A3": "FRA",
+    "NAME_ZH": "法国",
+    "NAME_EN": "France",
+    "ISO_A2": "-99",
+    "CONTINENT": "Europe",
+    "LABEL_X": "2.552275",
+    "LABEL_Y": "46.696113"
+  },
+  {
+    "ADM0_A3": "ECU",
+    "NAME_ZH": "厄瓜多尔",
+    "NAME_EN": "Ecuador",
+    "ISO_A2": "EC",
+    "CONTINENT": "South America",
+    "LABEL_X": "-78.188375",
+    "LABEL_Y": "-1.259076"
+  },
+  {
+    "ADM0_A3": "PRI",
+    "NAME_ZH": "波多黎各",
+    "NAME_EN": "Puerto Rico",
+    "ISO_A2": "PR",
+    "CONTINENT": "North America",
+    "LABEL_X": "-66.481065",
+    "LABEL_Y": "18.234668"
+  },
+  {
+    "ADM0_A3": "JAM",
+    "NAME_ZH": "牙买加",
+    "NAME_EN": "Jamaica",
+    "ISO_A2": "JM",
+    "CONTINENT": "North America",
+    "LABEL_X": "-77.318767",
+    "LABEL_Y": "18.137124"
+  },
+  {
+    "ADM0_A3": "CUB",
+    "NAME_ZH": "古巴",
+    "NAME_EN": "Cuba",
+    "ISO_A2": "CU",
+    "CONTINENT": "North America",
+    "LABEL_X": "-77.975855",
+    "LABEL_Y": "21.334024"
+  },
+  {
+    "ADM0_A3": "ZWE",
+    "NAME_ZH": "津巴布韦",
+    "NAME_EN": "Zimbabwe",
+    "ISO_A2": "ZW",
+    "CONTINENT": "Africa",
+    "LABEL_X": "29.925444",
+    "LABEL_Y": "-18.911640"
+  },
+  {
+    "ADM0_A3": "BWA",
+    "NAME_ZH": "博茨瓦纳",
+    "NAME_EN": "Botswana",
+    "ISO_A2": "BW",
+    "CONTINENT": "Africa",
+    "LABEL_X": "24.179216",
+    "LABEL_Y": "-22.102634"
+  },
+  {
+    "ADM0_A3": "NAM",
+    "NAME_ZH": "纳米比亚",
+    "NAME_EN": "Namibia",
+    "ISO_A2": "NA",
+    "CONTINENT": "Africa",
+    "LABEL_X": "17.108166",
+    "LABEL_Y": "-20.575298"
+  },
+  {
+    "ADM0_A3": "SEN",
+    "NAME_ZH": "塞内加尔",
+    "NAME_EN": "Senegal",
+    "ISO_A2": "SN",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-14.778586",
+    "LABEL_Y": "15.138125"
+  },
+  {
+    "ADM0_A3": "MLI",
+    "NAME_ZH": "马里",
+    "NAME_EN": "Mali",
+    "ISO_A2": "ML",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-2.038455",
+    "LABEL_Y": "18.692713"
+  },
+  {
+    "ADM0_A3": "MRT",
+    "NAME_ZH": "毛里塔尼亚",
+    "NAME_EN": "Mauritania",
+    "ISO_A2": "MR",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-9.740299",
+    "LABEL_Y": "19.587062"
+  },
+  {
+    "ADM0_A3": "BEN",
+    "NAME_ZH": "贝宁",
+    "NAME_EN": "Benin",
+    "ISO_A2": "BJ",
+    "CONTINENT": "Africa",
+    "LABEL_X": "2.352018",
+    "LABEL_Y": "10.324775"
+  },
+  {
+    "ADM0_A3": "NER",
+    "NAME_ZH": "尼日尔",
+    "NAME_EN": "Niger",
+    "ISO_A2": "NE",
+    "CONTINENT": "Africa",
+    "LABEL_X": "9.504356",
+    "LABEL_Y": "17.446195"
+  },
+  {
+    "ADM0_A3": "NGA",
+    "NAME_ZH": "尼日利亚",
+    "NAME_EN": "Nigeria",
+    "ISO_A2": "NG",
+    "CONTINENT": "Africa",
+    "LABEL_X": "7.503220",
+    "LABEL_Y": "9.439799"
+  },
+  {
+    "ADM0_A3": "CMR",
+    "NAME_ZH": "喀麦隆",
+    "NAME_EN": "Cameroon",
+    "ISO_A2": "CM",
+    "CONTINENT": "Africa",
+    "LABEL_X": "12.473488",
+    "LABEL_Y": "4.585041"
+  },
+  {
+    "ADM0_A3": "TGO",
+    "NAME_ZH": "多哥",
+    "NAME_EN": "Togo",
+    "ISO_A2": "TG",
+    "CONTINENT": "Africa",
+    "LABEL_X": "1.058113",
+    "LABEL_Y": "8.807220"
+  },
+  {
+    "ADM0_A3": "GHA",
+    "NAME_ZH": "加纳",
+    "NAME_EN": "Ghana",
+    "ISO_A2": "GH",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-1.036941",
+    "LABEL_Y": "7.717639"
+  },
+  {
+    "ADM0_A3": "CIV",
+    "NAME_ZH": "科特迪瓦",
+    "NAME_EN": "Ivory Coast",
+    "ISO_A2": "CI",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-5.568618",
+    "LABEL_Y": "7.491390"
+  },
+  {
+    "ADM0_A3": "GIN",
+    "NAME_ZH": "几内亚",
+    "NAME_EN": "Guinea",
+    "ISO_A2": "GN",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-10.016402",
+    "LABEL_Y": "10.618516"
+  },
+  {
+    "ADM0_A3": "GNB",
+    "NAME_ZH": "几内亚比绍",
+    "NAME_EN": "Guinea-Bissau",
+    "ISO_A2": "GW",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-14.524130",
+    "LABEL_Y": "12.163712"
+  },
+  {
+    "ADM0_A3": "LBR",
+    "NAME_ZH": "利比里亚",
+    "NAME_EN": "Liberia",
+    "ISO_A2": "LR",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-9.460379",
+    "LABEL_Y": "6.447177"
+  },
+  {
+    "ADM0_A3": "SLE",
+    "NAME_ZH": "塞拉利昂",
+    "NAME_EN": "Sierra Leone",
+    "ISO_A2": "SL",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-11.763677",
+    "LABEL_Y": "8.617449"
+  },
+  {
+    "ADM0_A3": "BFA",
+    "NAME_ZH": "布基纳法索",
+    "NAME_EN": "Burkina Faso",
+    "ISO_A2": "BF",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-1.363880",
+    "LABEL_Y": "12.673048"
+  },
+  {
+    "ADM0_A3": "CAF",
+    "NAME_ZH": "中非共和国",
+    "NAME_EN": "Central African Republic",
+    "ISO_A2": "CF",
+    "CONTINENT": "Africa",
+    "LABEL_X": "20.906897",
+    "LABEL_Y": "6.989681"
+  },
+  {
+    "ADM0_A3": "COG",
+    "NAME_ZH": "刚果共和国",
+    "NAME_EN": "Republic of the Congo",
+    "ISO_A2": "CG",
+    "CONTINENT": "Africa",
+    "LABEL_X": "15.900500",
+    "LABEL_Y": "0.142331"
+  },
+  {
+    "ADM0_A3": "GAB",
+    "NAME_ZH": "加蓬",
+    "NAME_EN": "Gabon",
+    "ISO_A2": "GA",
+    "CONTINENT": "Africa",
+    "LABEL_X": "11.835939",
+    "LABEL_Y": "-0.437739"
+  },
+  {
+    "ADM0_A3": "GNQ",
+    "NAME_ZH": "赤道几内亚",
+    "NAME_EN": "Equatorial Guinea",
+    "ISO_A2": "GQ",
+    "CONTINENT": "Africa",
+    "LABEL_X": "8.990200",
+    "LABEL_Y": "2.333000"
+  },
+  {
+    "ADM0_A3": "ZMB",
+    "NAME_ZH": "赞比亚",
+    "NAME_EN": "Zambia",
+    "ISO_A2": "ZM",
+    "CONTINENT": "Africa",
+    "LABEL_X": "26.395298",
+    "LABEL_Y": "-14.660804"
+  },
+  {
+    "ADM0_A3": "MWI",
+    "NAME_ZH": "马拉维",
+    "NAME_EN": "Malawi",
+    "ISO_A2": "MW",
+    "CONTINENT": "Africa",
+    "LABEL_X": "33.608082",
+    "LABEL_Y": "-13.386737"
+  },
+  {
+    "ADM0_A3": "MOZ",
+    "NAME_ZH": "莫桑比克",
+    "NAME_EN": "Mozambique",
+    "ISO_A2": "MZ",
+    "CONTINENT": "Africa",
+    "LABEL_X": "37.837890",
+    "LABEL_Y": "-13.943230"
+  },
+  {
+    "ADM0_A3": "SWZ",
+    "NAME_ZH": "斯威士兰",
+    "NAME_EN": "Eswatini",
+    "ISO_A2": "SZ",
+    "CONTINENT": "Africa",
+    "LABEL_X": "31.467264",
+    "LABEL_Y": "-26.533676"
+  },
+  {
+    "ADM0_A3": "AGO",
+    "NAME_ZH": "安哥拉",
+    "NAME_EN": "Angola",
+    "ISO_A2": "AO",
+    "CONTINENT": "Africa",
+    "LABEL_X": "17.984249",
+    "LABEL_Y": "-12.182762"
+  },
+  {
+    "ADM0_A3": "BDI",
+    "NAME_ZH": "布隆迪",
+    "NAME_EN": "Burundi",
+    "ISO_A2": "BI",
+    "CONTINENT": "Africa",
+    "LABEL_X": "29.917086",
+    "LABEL_Y": "-3.332836"
+  },
+  {
+    "ADM0_A3": "ISR",
+    "NAME_ZH": "以色列",
+    "NAME_EN": "Israel",
+    "ISO_A2": "IL",
+    "CONTINENT": "Asia",
+    "LABEL_X": "34.847915",
+    "LABEL_Y": "30.911148"
+  },
+  {
+    "ADM0_A3": "LBN",
+    "NAME_ZH": "黎巴嫩",
+    "NAME_EN": "Lebanon",
+    "ISO_A2": "LB",
+    "CONTINENT": "Asia",
+    "LABEL_X": "35.992892",
+    "LABEL_Y": "34.133368"
+  },
+  {
+    "ADM0_A3": "MDG",
+    "NAME_ZH": "马达加斯加",
+    "NAME_EN": "Madagascar",
+    "ISO_A2": "MG",
+    "CONTINENT": "Africa",
+    "LABEL_X": "46.704241",
+    "LABEL_Y": "-18.628288"
+  },
+  {
+    "ADM0_A3": "PSX",
+    "NAME_ZH": "巴勒斯坦",
+    "NAME_EN": "Palestine",
+    "ISO_A2": "PS",
+    "CONTINENT": "Asia",
+    "LABEL_X": "35.291341",
+    "LABEL_Y": "32.047431"
+  },
+  {
+    "ADM0_A3": "GMB",
+    "NAME_ZH": "冈比亚",
+    "NAME_EN": "The Gambia",
+    "ISO_A2": "GM",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-14.998318",
+    "LABEL_Y": "13.641721"
+  },
+  {
+    "ADM0_A3": "TUN",
+    "NAME_ZH": "突尼斯",
+    "NAME_EN": "Tunisia",
+    "ISO_A2": "TN",
+    "CONTINENT": "Africa",
+    "LABEL_X": "9.007881",
+    "LABEL_Y": "33.687263"
+  },
+  {
+    "ADM0_A3": "DZA",
+    "NAME_ZH": "阿尔及利亚",
+    "NAME_EN": "Algeria",
+    "ISO_A2": "DZ",
+    "CONTINENT": "Africa",
+    "LABEL_X": "2.808241",
+    "LABEL_Y": "27.397406"
+  },
+  {
+    "ADM0_A3": "JOR",
+    "NAME_ZH": "约旦",
+    "NAME_EN": "Jordan",
+    "ISO_A2": "JO",
+    "CONTINENT": "Asia",
+    "LABEL_X": "36.375991",
+    "LABEL_Y": "30.805025"
+  },
+  {
+    "ADM0_A3": "ARE",
+    "NAME_ZH": "阿拉伯联合酋长国",
+    "NAME_EN": "United Arab Emirates",
+    "ISO_A2": "AE",
+    "CONTINENT": "Asia",
+    "LABEL_X": "54.547256",
+    "LABEL_Y": "23.466285"
+  },
+  {
+    "ADM0_A3": "QAT",
+    "NAME_ZH": "卡塔尔",
+    "NAME_EN": "Qatar",
+    "ISO_A2": "QA",
+    "CONTINENT": "Asia",
+    "LABEL_X": "51.143509",
+    "LABEL_Y": "25.237383"
+  },
+  {
+    "ADM0_A3": "KWT",
+    "NAME_ZH": "科威特",
+    "NAME_EN": "Kuwait",
+    "ISO_A2": "KW",
+    "CONTINENT": "Asia",
+    "LABEL_X": "47.313999",
+    "LABEL_Y": "29.413628"
+  },
+  {
+    "ADM0_A3": "IRQ",
+    "NAME_ZH": "伊拉克",
+    "NAME_EN": "Iraq",
+    "ISO_A2": "IQ",
+    "CONTINENT": "Asia",
+    "LABEL_X": "43.261810",
+    "LABEL_Y": "33.094030"
+  },
+  {
+    "ADM0_A3": "OMN",
+    "NAME_ZH": "阿曼",
+    "NAME_EN": "Oman",
+    "ISO_A2": "OM",
+    "CONTINENT": "Asia",
+    "LABEL_X": "57.336553",
+    "LABEL_Y": "22.120427"
+  },
+  {
+    "ADM0_A3": "VUT",
+    "NAME_ZH": "瓦努阿图",
+    "NAME_EN": "Vanuatu",
+    "ISO_A2": "VU",
+    "CONTINENT": "Oceania",
+    "LABEL_X": "166.908762",
+    "LABEL_Y": "-15.371530"
+  },
+  {
+    "ADM0_A3": "KHM",
+    "NAME_ZH": "柬埔寨",
+    "NAME_EN": "Cambodia",
+    "ISO_A2": "KH",
+    "CONTINENT": "Asia",
+    "LABEL_X": "104.504870",
+    "LABEL_Y": "12.647584"
+  },
+  {
+    "ADM0_A3": "THA",
+    "NAME_ZH": "泰国",
+    "NAME_EN": "Thailand",
+    "ISO_A2": "TH",
+    "CONTINENT": "Asia",
+    "LABEL_X": "101.073198",
+    "LABEL_Y": "15.459740"
+  },
+  {
+    "ADM0_A3": "LAO",
+    "NAME_ZH": "老挝",
+    "NAME_EN": "Laos",
+    "ISO_A2": "LA",
+    "CONTINENT": "Asia",
+    "LABEL_X": "102.533912",
+    "LABEL_Y": "19.431821"
+  },
+  {
+    "ADM0_A3": "MMR",
+    "NAME_ZH": "缅甸",
+    "NAME_EN": "Myanmar",
+    "ISO_A2": "MM",
+    "CONTINENT": "Asia",
+    "LABEL_X": "95.804497",
+    "LABEL_Y": "21.573855"
+  },
+  {
+    "ADM0_A3": "VNM",
+    "NAME_ZH": "越南",
+    "NAME_EN": "Vietnam",
+    "ISO_A2": "VN",
+    "CONTINENT": "Asia",
+    "LABEL_X": "105.387292",
+    "LABEL_Y": "21.715416"
+  },
+  {
+    "ADM0_A3": "PRK",
+    "NAME_ZH": "朝鲜民主主义人民共和国",
+    "NAME_EN": "North Korea",
+    "ISO_A2": "KP",
+    "CONTINENT": "Asia",
+    "LABEL_X": "126.444516",
+    "LABEL_Y": "39.885252"
+  },
+  {
+    "ADM0_A3": "KOR",
+    "NAME_ZH": "大韩民国",
+    "NAME_EN": "South Korea",
+    "ISO_A2": "KR",
+    "CONTINENT": "Asia",
+    "LABEL_X": "128.129504",
+    "LABEL_Y": "36.384924"
+  },
+  {
+    "ADM0_A3": "MNG",
+    "NAME_ZH": "蒙古国",
+    "NAME_EN": "Mongolia",
+    "ISO_A2": "MN",
+    "CONTINENT": "Asia",
+    "LABEL_X": "104.150405",
+    "LABEL_Y": "45.997488"
+  },
+  {
+    "ADM0_A3": "IND",
+    "NAME_ZH": "印度",
+    "NAME_EN": "India",
+    "ISO_A2": "IN",
+    "CONTINENT": "Asia",
+    "LABEL_X": "79.358105",
+    "LABEL_Y": "22.686852"
+  },
+  {
+    "ADM0_A3": "BGD",
+    "NAME_ZH": "孟加拉国",
+    "NAME_EN": "Bangladesh",
+    "ISO_A2": "BD",
+    "CONTINENT": "Asia",
+    "LABEL_X": "89.684963",
+    "LABEL_Y": "24.214956"
+  },
+  {
+    "ADM0_A3": "BTN",
+    "NAME_ZH": "不丹",
+    "NAME_EN": "Bhutan",
+    "ISO_A2": "BT",
+    "CONTINENT": "Asia",
+    "LABEL_X": "90.040294",
+    "LABEL_Y": "27.536685"
+  },
+  {
+    "ADM0_A3": "NPL",
+    "NAME_ZH": "尼泊尔",
+    "NAME_EN": "Nepal",
+    "ISO_A2": "NP",
+    "CONTINENT": "Asia",
+    "LABEL_X": "83.639914",
+    "LABEL_Y": "28.297925"
+  },
+  {
+    "ADM0_A3": "PAK",
+    "NAME_ZH": "巴基斯坦",
+    "NAME_EN": "Pakistan",
+    "ISO_A2": "PK",
+    "CONTINENT": "Asia",
+    "LABEL_X": "68.545632",
+    "LABEL_Y": "29.328389"
+  },
+  {
+    "ADM0_A3": "AFG",
+    "NAME_ZH": "阿富汗",
+    "NAME_EN": "Afghanistan",
+    "ISO_A2": "AF",
+    "CONTINENT": "Asia",
+    "LABEL_X": "66.496586",
+    "LABEL_Y": "34.164262"
+  },
+  {
+    "ADM0_A3": "TJK",
+    "NAME_ZH": "塔吉克斯坦",
+    "NAME_EN": "Tajikistan",
+    "ISO_A2": "TJ",
+    "CONTINENT": "Asia",
+    "LABEL_X": "72.587276",
+    "LABEL_Y": "38.199835"
+  },
+  {
+    "ADM0_A3": "KGZ",
+    "NAME_ZH": "吉尔吉斯斯坦",
+    "NAME_EN": "Kyrgyzstan",
+    "ISO_A2": "KG",
+    "CONTINENT": "Asia",
+    "LABEL_X": "74.532637",
+    "LABEL_Y": "41.668540"
+  },
+  {
+    "ADM0_A3": "TKM",
+    "NAME_ZH": "土库曼斯坦",
+    "NAME_EN": "Turkmenistan",
+    "ISO_A2": "TM",
+    "CONTINENT": "Asia",
+    "LABEL_X": "58.676647",
+    "LABEL_Y": "39.855246"
+  },
+  {
+    "ADM0_A3": "IRN",
+    "NAME_ZH": "伊朗",
+    "NAME_EN": "Iran",
+    "ISO_A2": "IR",
+    "CONTINENT": "Asia",
+    "LABEL_X": "54.931495",
+    "LABEL_Y": "32.166225"
+  },
+  {
+    "ADM0_A3": "SYR",
+    "NAME_ZH": "叙利亚",
+    "NAME_EN": "Syria",
+    "ISO_A2": "SY",
+    "CONTINENT": "Asia",
+    "LABEL_X": "38.277783",
+    "LABEL_Y": "35.006636"
+  },
+  {
+    "ADM0_A3": "ARM",
+    "NAME_ZH": "亚美尼亚",
+    "NAME_EN": "Armenia",
+    "ISO_A2": "AM",
+    "CONTINENT": "Asia",
+    "LABEL_X": "44.800564",
+    "LABEL_Y": "40.459077"
+  },
+  {
+    "ADM0_A3": "SWE",
+    "NAME_ZH": "瑞典",
+    "NAME_EN": "Sweden",
+    "ISO_A2": "SE",
+    "CONTINENT": "Europe",
+    "LABEL_X": "19.017050",
+    "LABEL_Y": "65.859180"
+  },
+  {
+    "ADM0_A3": "BLR",
+    "NAME_ZH": "白俄罗斯",
+    "NAME_EN": "Belarus",
+    "ISO_A2": "BY",
+    "CONTINENT": "Europe",
+    "LABEL_X": "28.417701",
+    "LABEL_Y": "53.821888"
+  },
+  {
+    "ADM0_A3": "UKR",
+    "NAME_ZH": "乌克兰",
+    "NAME_EN": "Ukraine",
+    "ISO_A2": "UA",
+    "CONTINENT": "Europe",
+    "LABEL_X": "32.140865",
+    "LABEL_Y": "49.724739"
+  },
+  {
+    "ADM0_A3": "POL",
+    "NAME_ZH": "波兰",
+    "NAME_EN": "Poland",
+    "ISO_A2": "PL",
+    "CONTINENT": "Europe",
+    "LABEL_X": "19.490468",
+    "LABEL_Y": "51.990316"
+  },
+  {
+    "ADM0_A3": "AUT",
+    "NAME_ZH": "奥地利",
+    "NAME_EN": "Austria",
+    "ISO_A2": "AT",
+    "CONTINENT": "Europe",
+    "LABEL_X": "14.130515",
+    "LABEL_Y": "47.518859"
+  },
+  {
+    "ADM0_A3": "HUN",
+    "NAME_ZH": "匈牙利",
+    "NAME_EN": "Hungary",
+    "ISO_A2": "HU",
+    "CONTINENT": "Europe",
+    "LABEL_X": "19.447867",
+    "LABEL_Y": "47.086841"
+  },
+  {
+    "ADM0_A3": "MDA",
+    "NAME_ZH": "摩尔多瓦",
+    "NAME_EN": "Moldova",
+    "ISO_A2": "MD",
+    "CONTINENT": "Europe",
+    "LABEL_X": "28.487904",
+    "LABEL_Y": "47.434999"
+  },
+  {
+    "ADM0_A3": "ROU",
+    "NAME_ZH": "罗马尼亚",
+    "NAME_EN": "Romania",
+    "ISO_A2": "RO",
+    "CONTINENT": "Europe",
+    "LABEL_X": "24.972624",
+    "LABEL_Y": "45.733237"
+  },
+  {
+    "ADM0_A3": "LTU",
+    "NAME_ZH": "立陶宛",
+    "NAME_EN": "Lithuania",
+    "ISO_A2": "LT",
+    "CONTINENT": "Europe",
+    "LABEL_X": "24.089932",
+    "LABEL_Y": "55.103703"
+  },
+  {
+    "ADM0_A3": "LVA",
+    "NAME_ZH": "拉脱维亚",
+    "NAME_EN": "Latvia",
+    "ISO_A2": "LV",
+    "CONTINENT": "Europe",
+    "LABEL_X": "25.458723",
+    "LABEL_Y": "57.066872"
+  },
+  {
+    "ADM0_A3": "EST",
+    "NAME_ZH": "爱沙尼亚",
+    "NAME_EN": "Estonia",
+    "ISO_A2": "EE",
+    "CONTINENT": "Europe",
+    "LABEL_X": "25.867126",
+    "LABEL_Y": "58.724865"
+  },
+  {
+    "ADM0_A3": "DEU",
+    "NAME_ZH": "德国",
+    "NAME_EN": "Germany",
+    "ISO_A2": "DE",
+    "CONTINENT": "Europe",
+    "LABEL_X": "9.678348",
+    "LABEL_Y": "50.961733"
+  },
+  {
+    "ADM0_A3": "BGR",
+    "NAME_ZH": "保加利亚",
+    "NAME_EN": "Bulgaria",
+    "ISO_A2": "BG",
+    "CONTINENT": "Europe",
+    "LABEL_X": "25.157090",
+    "LABEL_Y": "42.508785"
+  },
+  {
+    "ADM0_A3": "GRC",
+    "NAME_ZH": "希腊",
+    "NAME_EN": "Greece",
+    "ISO_A2": "GR",
+    "CONTINENT": "Europe",
+    "LABEL_X": "21.725680",
+    "LABEL_Y": "39.492763"
+  },
+  {
+    "ADM0_A3": "TUR",
+    "NAME_ZH": "土耳其",
+    "NAME_EN": "Turkey",
+    "ISO_A2": "TR",
+    "CONTINENT": "Asia",
+    "LABEL_X": "34.508268",
+    "LABEL_Y": "39.345388"
+  },
+  {
+    "ADM0_A3": "ALB",
+    "NAME_ZH": "阿尔巴尼亚",
+    "NAME_EN": "Albania",
+    "ISO_A2": "AL",
+    "CONTINENT": "Europe",
+    "LABEL_X": "20.113840",
+    "LABEL_Y": "40.654855"
+  },
+  {
+    "ADM0_A3": "HRV",
+    "NAME_ZH": "克罗地亚",
+    "NAME_EN": "Croatia",
+    "ISO_A2": "HR",
+    "CONTINENT": "Europe",
+    "LABEL_X": "16.372410",
+    "LABEL_Y": "45.805799"
+  },
+  {
+    "ADM0_A3": "CHE",
+    "NAME_ZH": "瑞士",
+    "NAME_EN": "Switzerland",
+    "ISO_A2": "CH",
+    "CONTINENT": "Europe",
+    "LABEL_X": "7.463965",
+    "LABEL_Y": "46.719114"
+  },
+  {
+    "ADM0_A3": "LUX",
+    "NAME_ZH": "卢森堡",
+    "NAME_EN": "Luxembourg",
+    "ISO_A2": "LU",
+    "CONTINENT": "Europe",
+    "LABEL_X": "6.077620",
+    "LABEL_Y": "49.733732"
+  },
+  {
+    "ADM0_A3": "BEL",
+    "NAME_ZH": "比利时",
+    "NAME_EN": "Belgium",
+    "ISO_A2": "BE",
+    "CONTINENT": "Europe",
+    "LABEL_X": "4.800448",
+    "LABEL_Y": "50.785392"
+  },
+  {
+    "ADM0_A3": "NLD",
+    "NAME_ZH": "荷兰",
+    "NAME_EN": "Netherlands",
+    "ISO_A2": "NL",
+    "CONTINENT": "Europe",
+    "LABEL_X": "5.611440",
+    "LABEL_Y": "52.422211"
+  },
+  {
+    "ADM0_A3": "PRT",
+    "NAME_ZH": "葡萄牙",
+    "NAME_EN": "Portugal",
+    "ISO_A2": "PT",
+    "CONTINENT": "Europe",
+    "LABEL_X": "-8.271754",
+    "LABEL_Y": "39.606675"
+  },
+  {
+    "ADM0_A3": "ESP",
+    "NAME_ZH": "西班牙",
+    "NAME_EN": "Spain",
+    "ISO_A2": "ES",
+    "CONTINENT": "Europe",
+    "LABEL_X": "-3.464718",
+    "LABEL_Y": "40.090953"
+  },
+  {
+    "ADM0_A3": "IRL",
+    "NAME_ZH": "爱尔兰",
+    "NAME_EN": "Ireland",
+    "ISO_A2": "IE",
+    "CONTINENT": "Europe",
+    "LABEL_X": "-7.798588",
+    "LABEL_Y": "53.078726"
+  },
+  {
+    "ADM0_A3": "NCL",
+    "NAME_ZH": "新喀里多尼亚",
+    "NAME_EN": "New Caledonia",
+    "ISO_A2": "NC",
+    "CONTINENT": "Oceania",
+    "LABEL_X": "165.084004",
+    "LABEL_Y": "-21.064697"
+  },
+  {
+    "ADM0_A3": "SLB",
+    "NAME_ZH": "所罗门群岛",
+    "NAME_EN": "Solomon Islands",
+    "ISO_A2": "SB",
+    "CONTINENT": "Oceania",
+    "LABEL_X": "159.170468",
+    "LABEL_Y": "-8.029548"
+  },
+  {
+    "ADM0_A3": "NZL",
+    "NAME_ZH": "新西兰",
+    "NAME_EN": "New Zealand",
+    "ISO_A2": "NZ",
+    "CONTINENT": "Oceania",
+    "LABEL_X": "172.787000",
+    "LABEL_Y": "-39.759000"
+  },
+  {
+    "ADM0_A3": "AUS",
+    "NAME_ZH": "澳大利亚",
+    "NAME_EN": "Australia",
+    "ISO_A2": "AU",
+    "CONTINENT": "Oceania",
+    "LABEL_X": "134.049720",
+    "LABEL_Y": "-24.129522"
+  },
+  {
+    "ADM0_A3": "LKA",
+    "NAME_ZH": "斯里兰卡",
+    "NAME_EN": "Sri Lanka",
+    "ISO_A2": "LK",
+    "CONTINENT": "Asia",
+    "LABEL_X": "80.704823",
+    "LABEL_Y": "7.581097"
+  },
+  {
+    "ADM0_A3": "CHN",
+    "NAME_ZH": "中华人民共和国",
+    "NAME_EN": "People's Republic of China",
+    "ISO_A2": "CN",
+    "CONTINENT": "Asia",
+    "LABEL_X": "106.337289",
+    "LABEL_Y": "32.498178"
+  },
+  {
+    "ADM0_A3": "TWN",
+    "NAME_ZH": "中华民国",
+    "NAME_EN": "Taiwan",
+    "ISO_A2": "CN-TW",
+    "CONTINENT": "Asia",
+    "LABEL_X": "120.868204",
+    "LABEL_Y": "23.652408"
+  },
+  {
+    "ADM0_A3": "ITA",
+    "NAME_ZH": "意大利",
+    "NAME_EN": "Italy",
+    "ISO_A2": "IT",
+    "CONTINENT": "Europe",
+    "LABEL_X": "11.076907",
+    "LABEL_Y": "44.732482"
+  },
+  {
+    "ADM0_A3": "DNK",
+    "NAME_ZH": "丹麦",
+    "NAME_EN": "Denmark",
+    "ISO_A2": "DK",
+    "CONTINENT": "Europe",
+    "LABEL_X": "9.018163",
+    "LABEL_Y": "55.966965"
+  },
+  {
+    "ADM0_A3": "GBR",
+    "NAME_ZH": "英国",
+    "NAME_EN": "United Kingdom",
+    "ISO_A2": "GB",
+    "CONTINENT": "Europe",
+    "LABEL_X": "-2.116346",
+    "LABEL_Y": "54.402739"
+  },
+  {
+    "ADM0_A3": "ISL",
+    "NAME_ZH": "冰岛",
+    "NAME_EN": "Iceland",
+    "ISO_A2": "IS",
+    "CONTINENT": "Europe",
+    "LABEL_X": "-18.673711",
+    "LABEL_Y": "64.779286"
+  },
+  {
+    "ADM0_A3": "AZE",
+    "NAME_ZH": "阿塞拜疆",
+    "NAME_EN": "Azerbaijan",
+    "ISO_A2": "AZ",
+    "CONTINENT": "Asia",
+    "LABEL_X": "47.210994",
+    "LABEL_Y": "40.402387"
+  },
+  {
+    "ADM0_A3": "GEO",
+    "NAME_ZH": "格鲁吉亚",
+    "NAME_EN": "Georgia",
+    "ISO_A2": "GE",
+    "CONTINENT": "Asia",
+    "LABEL_X": "43.735724",
+    "LABEL_Y": "41.870087"
+  },
+  {
+    "ADM0_A3": "PHL",
+    "NAME_ZH": "菲律宾",
+    "NAME_EN": "Philippines",
+    "ISO_A2": "PH",
+    "CONTINENT": "Asia",
+    "LABEL_X": "122.465000",
+    "LABEL_Y": "11.198000"
+  },
+  {
+    "ADM0_A3": "MYS",
+    "NAME_ZH": "马来西亚",
+    "NAME_EN": "Malaysia",
+    "ISO_A2": "MY",
+    "CONTINENT": "Asia",
+    "LABEL_X": "113.837080",
+    "LABEL_Y": "2.528667"
+  },
+  {
+    "ADM0_A3": "BRN",
+    "NAME_ZH": "文莱",
+    "NAME_EN": "Brunei",
+    "ISO_A2": "BN",
+    "CONTINENT": "Asia",
+    "LABEL_X": "114.551943",
+    "LABEL_Y": "4.448298"
+  },
+  {
+    "ADM0_A3": "SVN",
+    "NAME_ZH": "斯洛文尼亚",
+    "NAME_EN": "Slovenia",
+    "ISO_A2": "SI",
+    "CONTINENT": "Europe",
+    "LABEL_X": "14.915312",
+    "LABEL_Y": "46.060760"
+  },
+  {
+    "ADM0_A3": "FIN",
+    "NAME_ZH": "芬兰",
+    "NAME_EN": "Finland",
+    "ISO_A2": "FI",
+    "CONTINENT": "Europe",
+    "LABEL_X": "27.276449",
+    "LABEL_Y": "63.252361"
+  },
+  {
+    "ADM0_A3": "SVK",
+    "NAME_ZH": "斯洛伐克",
+    "NAME_EN": "Slovakia",
+    "ISO_A2": "SK",
+    "CONTINENT": "Europe",
+    "LABEL_X": "19.049868",
+    "LABEL_Y": "48.734044"
+  },
+  {
+    "ADM0_A3": "CZE",
+    "NAME_ZH": "捷克",
+    "NAME_EN": "Czech Republic",
+    "ISO_A2": "CZ",
+    "CONTINENT": "Europe",
+    "LABEL_X": "15.377555",
+    "LABEL_Y": "49.882364"
+  },
+  {
+    "ADM0_A3": "ERI",
+    "NAME_ZH": "厄立特里亚",
+    "NAME_EN": "Eritrea",
+    "ISO_A2": "ER",
+    "CONTINENT": "Africa",
+    "LABEL_X": "38.285566",
+    "LABEL_Y": "15.787401"
+  },
+  {
+    "ADM0_A3": "JPN",
+    "NAME_ZH": "日本",
+    "NAME_EN": "Japan",
+    "ISO_A2": "JP",
+    "CONTINENT": "Asia",
+    "LABEL_X": "138.442170",
+    "LABEL_Y": "36.142538"
+  },
+  {
+    "ADM0_A3": "PRY",
+    "NAME_ZH": "巴拉圭",
+    "NAME_EN": "Paraguay",
+    "ISO_A2": "PY",
+    "CONTINENT": "South America",
+    "LABEL_X": "-60.146394",
+    "LABEL_Y": "-21.674509"
+  },
+  {
+    "ADM0_A3": "YEM",
+    "NAME_ZH": "也门",
+    "NAME_EN": "Yemen",
+    "ISO_A2": "YE",
+    "CONTINENT": "Asia",
+    "LABEL_X": "45.874383",
+    "LABEL_Y": "15.328226"
+  },
+  {
+    "ADM0_A3": "SAU",
+    "NAME_ZH": "沙特阿拉伯",
+    "NAME_EN": "Saudi Arabia",
+    "ISO_A2": "SA",
+    "CONTINENT": "Asia",
+    "LABEL_X": "44.699600",
+    "LABEL_Y": "23.806908"
+  },
+  {
+    "ADM0_A3": "ATA",
+    "NAME_ZH": "南极洲",
+    "NAME_EN": "Antarctica",
+    "ISO_A2": "AQ",
+    "CONTINENT": "Antarctica",
+    "LABEL_X": "35.885455",
+    "LABEL_Y": "-79.843222"
+  },
+  {
+    "ADM0_A3": "CYN",
+    "NAME_ZH": "北塞浦路斯土耳其共和国",
+    "NAME_EN": "Turkish Republic of Northern Cyprus",
+    "ISO_A2": "-99",
+    "CONTINENT": "Asia",
+    "LABEL_X": "33.692434",
+    "LABEL_Y": "35.216071"
+  },
+  {
+    "ADM0_A3": "CYP",
+    "NAME_ZH": "塞浦路斯",
+    "NAME_EN": "Cyprus",
+    "ISO_A2": "CY",
+    "CONTINENT": "Asia",
+    "LABEL_X": "33.084182",
+    "LABEL_Y": "34.913329"
+  },
+  {
+    "ADM0_A3": "MAR",
+    "NAME_ZH": "摩洛哥",
+    "NAME_EN": "Morocco",
+    "ISO_A2": "MA",
+    "CONTINENT": "Africa",
+    "LABEL_X": "-7.187296",
+    "LABEL_Y": "31.650723"
+  },
+  {
+    "ADM0_A3": "EGY",
+    "NAME_ZH": "埃及",
+    "NAME_EN": "Egypt",
+    "ISO_A2": "EG",
+    "CONTINENT": "Africa",
+    "LABEL_X": "29.445837",
+    "LABEL_Y": "26.186173"
+  },
+  {
+    "ADM0_A3": "LBY",
+    "NAME_ZH": "利比亚",
+    "NAME_EN": "Libya",
+    "ISO_A2": "LY",
+    "CONTINENT": "Africa",
+    "LABEL_X": "18.011015",
+    "LABEL_Y": "26.638944"
+  },
+  {
+    "ADM0_A3": "ETH",
+    "NAME_ZH": "埃塞俄比亚",
+    "NAME_EN": "Ethiopia",
+    "ISO_A2": "ET",
+    "CONTINENT": "Africa",
+    "LABEL_X": "39.088600",
+    "LABEL_Y": "8.032795"
+  },
+  {
+    "ADM0_A3": "DJI",
+    "NAME_ZH": "吉布提",
+    "NAME_EN": "Djibouti",
+    "ISO_A2": "DJ",
+    "CONTINENT": "Africa",
+    "LABEL_X": "42.498825",
+    "LABEL_Y": "11.976343"
+  },
+  {
+    "ADM0_A3": "SOL",
+    "NAME_ZH": "索马里兰",
+    "NAME_EN": "Somaliland",
+    "ISO_A2": "-99",
+    "CONTINENT": "Africa",
+    "LABEL_X": "46.731595",
+    "LABEL_Y": "9.443889"
+  },
+  {
+    "ADM0_A3": "UGA",
+    "NAME_ZH": "乌干达",
+    "NAME_EN": "Uganda",
+    "ISO_A2": "UG",
+    "CONTINENT": "Africa",
+    "LABEL_X": "32.948555",
+    "LABEL_Y": "1.972589"
+  },
+  {
+    "ADM0_A3": "RWA",
+    "NAME_ZH": "卢旺达",
+    "NAME_EN": "Rwanda",
+    "ISO_A2": "RW",
+    "CONTINENT": "Africa",
+    "LABEL_X": "30.103894",
+    "LABEL_Y": "-1.897196"
+  },
+  {
+    "ADM0_A3": "BIH",
+    "NAME_ZH": "波斯尼亚和黑塞哥维那",
+    "NAME_EN": "Bosnia and Herzegovina",
+    "ISO_A2": "BA",
+    "CONTINENT": "Europe",
+    "LABEL_X": "18.068410",
+    "LABEL_Y": "44.091051"
+  },
+  {
+    "ADM0_A3": "MKD",
+    "NAME_ZH": "北马其顿",
+    "NAME_EN": "North Macedonia",
+    "ISO_A2": "MK",
+    "CONTINENT": "Europe",
+    "LABEL_X": "21.555839",
+    "LABEL_Y": "41.558223"
+  },
+  {
+    "ADM0_A3": "SRB",
+    "NAME_ZH": "塞尔维亚",
+    "NAME_EN": "Serbia",
+    "ISO_A2": "RS",
+    "CONTINENT": "Europe",
+    "LABEL_X": "20.787989",
+    "LABEL_Y": "44.189919"
+  },
+  {
+    "ADM0_A3": "MNE",
+    "NAME_ZH": "黑山",
+    "NAME_EN": "Montenegro",
+    "ISO_A2": "ME",
+    "CONTINENT": "Europe",
+    "LABEL_X": "19.143727",
+    "LABEL_Y": "42.803101"
+  },
+  {
+    "ADM0_A3": "KOS",
+    "NAME_ZH": "科索沃",
+    "NAME_EN": "Kosovo",
+    "ISO_A2": "-99",
+    "CONTINENT": "Europe",
+    "LABEL_X": "20.860719",
+    "LABEL_Y": "42.593587"
+  },
+  {
+    "ADM0_A3": "TTO",
+    "NAME_ZH": "特立尼达和多巴哥",
+    "NAME_EN": "Trinidad and Tobago",
+    "ISO_A2": "TT",
+    "CONTINENT": "North America",
+    "LABEL_X": "-60.918400",
+    "LABEL_Y": "10.998900"
+  },
+  {
+    "ADM0_A3": "SDS",
+    "NAME_ZH": "南苏丹",
+    "NAME_EN": "South Sudan",
+    "ISO_A2": "SS",
+    "CONTINENT": "Africa",
+    "LABEL_X": "30.390151",
+    "LABEL_Y": "7.230477"
+  }
+]

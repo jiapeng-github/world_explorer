@@ -1,0 +1,3369 @@
+{
+  "scope": {
+    "kind": "region",
+    "id": "antarctica"
+  },
+  "sections": [
+    {
+      "id": "location",
+      "title": "南极在哪里",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ]
+    },
+    {
+      "id": "ice",
+      "title": "冰雪的秘密",
+      "articleIds": [
+        "antarctica-snow-to-ice",
+        "antarctica-ice-shelf",
+        "antarctica-sea-ice"
+      ]
+    },
+    {
+      "id": "light",
+      "title": "光照与天气",
+      "articleIds": [
+        "antarctica-polar-day",
+        "antarctica-desert",
+        "antarctica-wind"
+      ]
+    },
+    {
+      "id": "ocean",
+      "title": "南大洋生命",
+      "articleIds": [
+        "antarctica-krill-web",
+        "antarctica-ocean-life",
+        "antarctica-under-ice"
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "企鹅与邻居",
+      "articleIds": [
+        "antarctica-emperor",
+        "antarctica-penguin-neighbours",
+        "antarctica-life-on-land"
+      ]
+    },
+    {
+      "id": "science",
+      "title": "科学家的工作",
+      "articleIds": [
+        "antarctica-ice-core",
+        "antarctica-satellites",
+        "antarctica-weather-record"
+      ]
+    },
+    {
+      "id": "station",
+      "title": "科考站的一天",
+      "articleIds": [
+        "antarctica-station-map",
+        "antarctica-station-day",
+        "antarctica-teamwork"
+      ]
+    },
+    {
+      "id": "care",
+      "title": "变化与守护",
+      "articleIds": [
+        "antarctica-sea-level",
+        "antarctica-treaty-history",
+        "antarctica-protect"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "antarctica-where",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "location",
+      "title": "南极是一块大陆，还是一个点？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-where-v2-b1",
+          "title": "从问题出发",
+          "text": "南极洲是一块大陆，岩石和山脉的上方覆盖着厚厚的冰。南大洋环绕着它。\n把地球想成一个可以转动的球，你能找到它最南端的一点。可是地图上的南极洲有大片轮廓，还有细长的半岛和周围的岛屿。这些都说明，“一点”和“一块大陆”不是同一回事。日常说的“南极”有时指更大的极地区域，要根据上下文理解。",
+          "sourceRefs": [
+            "S01",
+            "S10"
+          ]
+        },
+        {
+          "id": "antarctica-where-v2-b2",
+          "title": "先把目光放到冰下面",
+          "text": "冰盖遮住了许多岩石，但山峰、裸露的海岸和测量资料都能帮助我们认识大陆。冰和陆地是两个不同的对象：冰可以流动，海岸附近还有漂浮的冰。读图时要看看图例，白色究竟表示冰雪、陆地，还是另一种信息。",
+          "sourceRefs": [
+            "S01",
+            "S10"
+          ]
+        },
+        {
+          "id": "antarctica-where-v2-b3",
+          "title": "把线索连起来",
+          "text": "地理南极点则是地球自转轴南端对应的地表位置，是一个点。打开极地地图，你会发现经线在南极点汇合；地图上的上方，并不总等于向北。\n南极洲周围是南大洋。冰川流到海边，可能延伸成冰架，也可能产生漂走的冰山。因此看见海上的冰，并不等于看见大陆。科学家要结合卫星、测量与地形资料，才能区分地面、冰层和海水。不同资料各自回答不同的问题。",
+          "sourceRefs": [
+            "S01",
+            "S10"
+          ]
+        },
+        {
+          "id": "antarctica-where-v2-b4",
+          "title": "再向前想一步",
+          "text": "地理南极点是地球自转轴南端对应的地表点。\n试着在图上先找到中心的南极点，再找到南极半岛。它们之间有一段距离。在地理南极点，无论沿地表朝哪个方向离开，都会向北；所以这张地图不适合用“上北下南”的口诀。经线和纬线能帮助我们建立可靠的方向感。",
+          "sourceRefs": [
+            "S01",
+            "S10"
+          ]
+        },
+        {
+          "id": "antarctica-where-v2-b5",
+          "title": "留下一个新问题",
+          "text": "在极地地图上找到地理南极点。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S01",
+            "S10"
+          ]
+        }
+      ],
+      "taskId": "antarctica-L01",
+      "sourceRefs": [
+        "S01",
+        "S10"
+      ],
+      "editorialCaution": "南极洲、南极点、南极地区分别解释。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "南极洲是一块大陆，岩石和山脉的上方覆盖着厚厚的冰。",
+      "mediaId": "antarctica-m21",
+      "term": "大陆",
+      "definition": "面积很大的陆地。",
+      "question": "在极地地图上找到地理南极点。",
+      "answer": "antarctica-south-pole",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+        "https://www.antarctica.gov.au/about-antarctica/geography-and-geology/geography/poles-and-directions/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-L01",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-poles",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "location",
+      "title": "南极和北极有什么不同？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-poles-v2-b1",
+          "title": "从问题出发",
+          "text": "南极洲的主体是大陆，北极地区的中心则是海洋。它们都能看到冰雪，但冰雪下面的地理环境不同。\n南极洲位于地球南端，北极地区位于地球北端。太阳光在这些高纬地区常常以较低角度照来，季节之间的白昼长短变化明显。两边都可能有冰雪和寒冷环境，照片里也可能出现相似颜色，但相似的画面不能替代地理比较。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        },
+        {
+          "id": "antarctica-poles-v2-b2",
+          "title": "比较冰下面的东西",
+          "text": "如果只看一张白茫茫的照片，两极可能很像。把视角拉远，看看海洋与大陆的位置，差别就出现了。比较不是把一个地方说得更好，而是寻找相同点和不同点。它们都需要保护，却不能共用一张动物分布图。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        },
+        {
+          "id": "antarctica-poles-v2-b3",
+          "title": "把线索连起来",
+          "text": "北极熊自然生活在北极地区，企鹅的自然分布主要在南半球。不能因为两处都寒冷，就把它们的动物画在同一个家里。\n北极地区中心的海洋周围分布着陆地；南极洲则是大陆被海洋环绕。海水冻结形成的海冰，和覆盖陆地的冰盖有不同来历。如果用蓝色代表海洋、棕色代表陆地，再盖上一层白色表示冰雪，你就能看清被白色遮住的差别。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        },
+        {
+          "id": "antarctica-poles-v2-b4",
+          "title": "再向前想一步",
+          "text": "环境差别需要看陆地和海洋，不能只看冰雪外观。\n企鹅不是北极的野生居民，北极熊也不是南极的野生居民。不过认识动物的家不能只靠这两个名字：极地还有许多鱼、鸟和微小生物。比较地图、物种资料与具体照片，我们才能知道一个生物生活在哪里，而不是把两端混成同一个地方。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        },
+        {
+          "id": "antarctica-poles-v2-b5",
+          "title": "留下一个新问题",
+          "text": "南极与北极最重要的地理差别是什么？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C01",
+      "sourceRefs": [
+        "S01",
+        "S02"
+      ],
+      "editorialCaution": "不把北极熊和企鹅放在同一野外地点。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "南极洲的主体是大陆，北极地区的中心则是海洋。",
+      "mediaId": "antarctica-m15",
+      "term": "极地",
+      "definition": "地球南北两端附近的区域。",
+      "question": "南极与北极最重要的地理差别是什么？",
+      "answer": "南极洲是大陆，北极地区中心是海洋",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+        "https://www.nasa.gov/frequently-asked-questions-about-antarctica/"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-poles",
+      "exerciseId": "antarctica-C01",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-regions",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "location",
+      "title": "沿着地图，看看南极的不同地方",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-regions-v2-b1",
+          "title": "从问题出发",
+          "text": "南极并非处处相同。南极半岛伸向南美洲方向；大陆还有高原、山脉和沿海地带。\n大陆内部、海岸、半岛和岛屿，是不同的地理环境。内陆冰原离海洋很远，许多科考站则靠近海岸。南极半岛伸向南美洲方向，海湾和岛屿比较多。先看大陆的整体，再看一个地区，最后看一个地点，就像先找一本书，再找一章和一页。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        },
+        {
+          "id": "antarctica-regions-v2-b2",
+          "title": "从大范围到小地点",
+          "text": "在全洲图上，一座科考站可能只是一粒小点。放大以后，才能看清它与海岸、岛屿的关系。地图上的点是帮助定位的符号，不代表整个地点只有那么大。山脉、海域和半岛都有范围，需要和站点的位置分别理解。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        },
+        {
+          "id": "antarctica-regions-v2-b3",
+          "title": "把线索连起来",
+          "text": "东南极与西南极是地理分区，不是两个国家。看地图时，先找南极点，再找海岸和半岛，能帮助我们理解各个地点之间的位置关系。\n地图上的罗斯海和威德尔海分布在大陆不同侧面。把地图从全洲切到局部，山脉、冰架与站点的位置关系会更容易看清。但放大没有把一个地方移动到别处，只是改变观察范围。同一个地方的经纬度不会因为屏幕变大而改变。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        },
+        {
+          "id": "antarctica-regions-v2-b4",
+          "title": "再向前想一步",
+          "text": "对照同一投影的半岛与南美洲方向，不能凭界面上下猜。\n选择一个地点后，先读它是海域、山脉、半岛还是科考站。科考站可以用很小的点表示，海域和山脉却有广阔范围。地图里的照片也只展示某个角度，不是整个地方。把照片、文字和地图一起使用，会比只看其中一种资料更清楚。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        },
+        {
+          "id": "antarctica-regions-v2-b5",
+          "title": "留下一个新问题",
+          "text": "找到伸向南美洲方向的南极半岛。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        }
+      ],
+      "taskId": "antarctica-L02",
+      "sourceRefs": [
+        "S01",
+        "S11"
+      ],
+      "editorialCaution": "分区是地理概念；代表点不冒充完整范围。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "南极并非处处相同。",
+      "mediaId": "antarctica-m22",
+      "term": "代表位置",
+      "definition": "用一个点帮助定位一个有范围的对象。",
+      "question": "找到伸向南美洲方向的南极半岛。",
+      "answer": "antarctica-peninsula",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+        "https://data.bas.ac.uk/items/e74543c0-4c4e-4b41-aa33-5bb2f67df389/index.html"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-L02",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-snow-to-ice",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ice",
+      "title": "雪怎样慢慢变成冰？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-snow-to-ice-v2-b1",
+          "title": "从问题出发",
+          "text": "落下的雪如果没有全部融化，就可能一层层积累。上方积雪的重量让下方的雪逐渐变密，颗粒间的空隙减少，经过漫长过程形成冰。\n在足够寒冷的地方，一些积雪没有在暖季全部融化。新的雪覆盖旧雪，日积月累，下层雪受到上方重量挤压。雪不是一下子变成透明硬冰，而是经历逐渐改变的过程。形成速度取决于当地温度、降雪和其他条件，不能用一个固定天数概括。",
+          "sourceRefs": [
+            "S01",
+            "S03"
+          ]
+        },
+        {
+          "id": "antarctica-snow-to-ice-v2-b2",
+          "title": "空隙慢慢改变",
+          "text": "刚落下的雪很松软，雪粒之间有许多空隙。上方积雪不断增加时，下面的雪会变得更紧密。这个过程需要时间，并受到温度与积雪条件影响。气泡最终被封闭进冰里，给后来的研究留下了关于过去空气的线索。",
+          "sourceRefs": [
+            "S01",
+            "S03"
+          ]
+        },
+        {
+          "id": "antarctica-snow-to-ice-v2-b3",
+          "title": "把线索连起来",
+          "text": "巨大的冰体也会在重力作用下缓慢运动。不同地点的积雪、温度和地形不同，形成和运动的速度也不一样。\n从高处往下看，冰盖似乎静止不动；把不同时间的测量放在一起，才能发现它在流动。重力让厚冰沿地形缓慢运动，冰川像一条很慢的冰流。科学家不仅观察冰的表面，也用仪器研究冰下地形，因为下面的岩石会影响冰怎么走。",
+          "sourceRefs": [
+            "S01",
+            "S03"
+          ]
+        },
+        {
+          "id": "antarctica-snow-to-ice-v2-b4",
+          "title": "再向前想一步",
+          "text": "这是概括过程，不表示每一层冰都对应固定一年。\n你可以把这段过程排成三个顺序：雪积累，雪变得紧密，形成冰体并缓慢运动。这个顺序帮助理解冰盖，却不是所有冰的形成方式。冰箱里的水结冰、海水冻结和陆地积雪变冰，不能只因为最后都叫“冰”就当成完全相同的过程。",
+          "sourceRefs": [
+            "S01",
+            "S03"
+          ]
+        },
+        {
+          "id": "antarctica-snow-to-ice-v2-b5",
+          "title": "留下一个新问题",
+          "text": "哪一组顺序最符合雪变成冰的主要过程？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S01",
+            "S03"
+          ]
+        }
+      ],
+      "taskId": "antarctica-P01",
+      "sourceRefs": [
+        "S01",
+        "S03"
+      ],
+      "editorialCaution": "不写所有冰每年同样增厚或同速流动。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "落下的雪如果没有全部融化，就可能一层层积累。",
+      "mediaId": "antarctica-m02",
+      "term": "压实",
+      "definition": "材料在压力下变得更加紧密。",
+      "question": "哪一组顺序最符合雪变成冰的主要过程？",
+      "answer": "积累 → 压实 → 冰体形成",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+        "https://nsidc.org/learn/parts-cryosphere/ice-shelves/quick-facts-about-ice-shelves"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-snow",
+      "exerciseId": "antarctica-P01",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-ice-shelf",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ice",
+      "title": "大陆上的冰，怎样走进海里？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-ice-shelf-v2-b1",
+          "title": "从问题出发",
+          "text": "大陆上的冰在重力作用下向低处流动。有些冰流到海岸，继续向海上伸展，形成与陆地冰相连的漂浮冰架。\n想象从冰盖内部沿冰流方向来到海边。脚下起初是压在陆地上的冰，到了海上，一部分冰可以被海水托起，却仍与后方相连。这种漂浮而相连的冰体叫冰架。它像大陆冰向海伸出的一段平台，而不是由一整片海水刚刚结冰形成的。",
+          "sourceRefs": [
+            "S03"
+          ]
+        },
+        {
+          "id": "antarctica-ice-shelf-v2-b2",
+          "title": "冰架下面是海水",
+          "text": "画一张从侧面看的关系图，会发现陆地冰下面接触地面，冰架下面则有海水。两者相连，因此冰架不是一块独自在海上漂走的冰山。接地线也不是画在冰表面的一条真实油漆线，而是用来描述接触关系的位置。",
+          "sourceRefs": [
+            "S03"
+          ]
+        },
+        {
+          "id": "antarctica-ice-shelf-v2-b3",
+          "title": "把线索连起来",
+          "text": "冰从接触地面到开始漂浮的交界称为接地线。冰架前缘断裂产生的漂浮冰块可以形成冰山；它与海水冻结形成的海冰不同。\n剖面图好像把冰和地面从侧面切开，让我们看见平时隐藏在下面的关系。接地线附近的冰由接触地面转为漂浮；冰架前缘则是它伸向海洋的边界。两条边界不是同一条线。离开冰架、独自在海上漂浮的大块冰，通常称为冰山。",
+          "sourceRefs": [
+            "S03"
+          ]
+        },
+        {
+          "id": "antarctica-ice-shelf-v2-b4",
+          "title": "再向前想一步",
+          "text": "常见南极冰架与陆地冰流相连，和海水直接冻结的海冰有区别。\n冰架会与海洋、空气和后方冰流相互作用。它有时会断裂形成冰山，边缘也会改变。冰架还能对后方冰流产生支撑或阻碍作用，因此研究它不仅是量一量面积。科学家会比较不同日期的资料，了解变化的速度和原因，而不是只看一张照片。",
+          "sourceRefs": [
+            "S03"
+          ]
+        },
+        {
+          "id": "antarctica-ice-shelf-v2-b5",
+          "title": "留下一个新问题",
+          "text": "冰架与大陆冰的关系是什么？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S03"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C02",
+      "sourceRefs": [
+        "S03"
+      ],
+      "editorialCaution": "讲南极常见过程，补充来源并避免绝对化所有冰架形成。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "大陆上的冰在重力作用下向低处流动。",
+      "mediaId": "antarctica-m02",
+      "term": "接地线",
+      "definition": "陆地冰开始脱离地面、漂浮在水上的边界。",
+      "question": "冰架与大陆冰的关系是什么？",
+      "answer": "与陆地冰相连，向海上延伸并漂浮",
+      "sourceUrls": [
+        "https://nsidc.org/learn/parts-cryosphere/ice-shelves/quick-facts-about-ice-shelves"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-ice",
+      "exerciseId": "antarctica-C02",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-sea-ice",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ice",
+      "title": "海面上的冰，和冰架一样吗？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-sea-ice-v2-b1",
+          "title": "从问题出发",
+          "text": "海冰主要由海水冻结形成。它通常比冰架薄，会随着季节生长和消融。\n海水降到足够低的温度后，可以形成细小冰晶，冰晶逐渐聚合成海冰。风与海流会推动海冰，造成开裂、挤压和堆积。海面不一定永远覆盖一整块平滑白板，可能同时有碎冰、较大的冰片和开阔水面，照片中的裂隙就是观察线索。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        },
+        {
+          "id": "antarctica-sea-ice-v2-b2",
+          "title": "同样白色，不同来历",
+          "text": "冰盖、冰架和海冰都可能呈现白色或蓝色，但颜色不能单独告诉我们形成方式。海冰与海水冻结有关；冰架通常接受陆地冰流的补充。给照片配上拍摄地点、日期和对象说明，才能把好看的画面变成更有用的学习资料。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        },
+        {
+          "id": "antarctica-sea-ice-v2-b3",
+          "title": "把线索连起来",
+          "text": "冰架则通常与大陆冰流连接；冰山可以从冰川或冰架边缘断裂出来。看到海上一块白色的冰，只凭远处的外观未必能判断来历，还需要位置、形态和资料说明。\n季节改变时，海冰也会形成和融化。研究范围变化，要比较明确日期、同一地区和相同方法得到的资料。一次看到海面很白，并不能说明整个南大洋都是冰；一次看到水面，也不能说明所有地方都没有冰。局部景象和整体范围要分开。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        },
+        {
+          "id": "antarctica-sea-ice-v2-b4",
+          "title": "再向前想一步",
+          "text": "三张原创形成方式图与正文一起提供判断依据。\n用来源来分类比用颜色更可靠：陆地积雪形成的厚冰可以组成冰盖，与陆地冰相连并漂在海上的部分是冰架，海水冻结的是海冰。冰山又是脱离出来漂浮的大块冰。它们在海上可能相遇，但名字记录了不同的来历与状态。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        },
+        {
+          "id": "antarctica-sea-ice-v2-b5",
+          "title": "留下一个新问题",
+          "text": "哪一种冰主要由海水冻结形成？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        }
+      ],
+      "taskId": "antarctica-P02",
+      "sourceRefs": [
+        "S03",
+        "S04"
+      ],
+      "editorialCaution": "海冰、冰架与冰山分别定义，季节图必须标注时期。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "海冰主要由海水冻结形成。",
+      "mediaId": "antarctica-m16",
+      "term": "海冰",
+      "definition": "海水冻结形成的冰。",
+      "question": "哪一种冰主要由海水冻结形成？",
+      "answer": "海冰",
+      "sourceUrls": [
+        "https://nsidc.org/learn/parts-cryosphere/ice-shelves/quick-facts-about-ice-shelves",
+        "https://nsidc.org/learn/parts-cryosphere/sea-ice/quick-facts-about-sea-ice"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-ice",
+      "exerciseId": "antarctica-P02",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-polar-day",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "light",
+      "title": "为什么有时整天不落日？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-polar-day-v2-b1",
+          "title": "从问题出发",
+          "text": "地球一边自转，一边围绕太阳运行，自转轴是倾斜的。南半球夏季，南极方向更朝向太阳，高纬地区可能连续一整天看到太阳；冬季则相反。\n地球围绕太阳运行，同时绕着倾斜的自转轴转动。当地球南端朝向太阳的一侧时，高纬地区的一些地点会持续受到阳光照射。到了相反季节，南端背向太阳，白昼情况也改变了。这里说的朝向变化来自地球在轨道上的位置变化，不是地轴随意转向。",
+          "sourceRefs": [
+            "S05"
+          ]
+        },
+        {
+          "id": "antarctica-polar-day-v2-b2",
+          "title": "自转并没有停下来",
+          "text": "地球仍在转动，只是高纬地点在某些季节的转动过程中，一直处在被太阳照到的一侧。到了另一季节，情况会改变。把十二月和六月的图并排看时，地轴要保持相同的基本指向，不能靠随意扭转地轴来解释昼夜。",
+          "sourceRefs": [
+            "S05"
+          ]
+        },
+        {
+          "id": "antarctica-polar-day-v2-b3",
+          "title": "把线索连起来",
+          "text": "南极点与沿海科考站的纬度不同，连续白昼或黑夜的长短也不同。不能把南极点的情况套用到整个大陆。\n十二月与六月的示意图中，地轴保持同样倾斜方向，光从不同侧面照来。明亮区域表示被照到的一面，深色区域表示没有直接阳光的一面。图上球体和太阳距离没有按实际比例绘制，目的是让我们看清位置、照明与自转之间的关系。",
+          "sourceRefs": [
+            "S05"
+          ]
+        },
+        {
+          "id": "antarctica-polar-day-v2-b4",
+          "title": "再向前想一步",
+          "text": "地球仍在自转，不是太阳或地球停止运动。\n南极点和中山站并不处在同一纬度。越靠近极点，连续白昼或黑夜的季节时段通常越长；不能把极点的情形直接套在所有南极地点。看月份和地点，再判断太阳现象，才是读这张图的关键。天气中的云还会影响人们实际看见的天空。",
+          "sourceRefs": [
+            "S05"
+          ]
+        },
+        {
+          "id": "antarctica-polar-day-v2-b5",
+          "title": "留下一个新问题",
+          "text": "极昼和极夜主要与什么有关？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S05"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C03",
+      "sourceRefs": [
+        "S05"
+      ],
+      "editorialCaution": "不推广半年的白昼到整个南极洲，不给无定义的准确起止时间。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "地球一边自转，一边围绕太阳运行，自转轴是倾斜的。",
+      "mediaId": "antarctica-m08",
+      "term": "极昼",
+      "definition": "太阳在一段连续时间内不落到地平线以下的现象。",
+      "question": "极昼和极夜主要与什么有关？",
+      "answer": "地轴倾斜、季节和纬度",
+      "sourceUrls": [
+        "https://www.antarctica.gov.au/about-antarctica/weather-and-climate/weather/sunlight-hours/"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-light",
+      "exerciseId": "antarctica-C03",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-desert",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "light",
+      "title": "冰雪这么多，为什么还叫荒漠？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-desert-v2-b1",
+          "title": "从问题出发",
+          "text": "荒漠的关键是降水稀少，不是一定要有沙子。南极内陆很多地方每年降水很少，但长期积累的冰雪仍然很厚。\n说到荒漠，你可能想到炎热的沙地。但判断一个地方是否干燥，重要的是它得到多少降水，而不是脚下有没有黄沙。南极一些地区十分寒冷，降水也很少，属于极地荒漠。地表的厚冰记录了长期积累，不能直接告诉我们今年下了多少雪。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        },
+        {
+          "id": "antarctica-desert-v2-b2",
+          "title": "把时间放进比较",
+          "text": "想象一个每天只得到一点点材料的储物箱。如果保存很久，里面仍然可能积累很多。这个比喻能帮助理解积雪厚度与当年降水量的区别，但冰盖也会流动和失去冰，所以科学家还要同时研究输入与输出。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        },
+        {
+          "id": "antarctica-desert-v2-b3",
+          "title": "把线索连起来",
+          "text": "厚冰记录了漫长时间里的积累，不代表刚刚下过很多雪。沿海和内陆的降水条件不同，所以了解天气时还要说明地点。\n降水不仅包括雨，也包括雪等形式。测量需要记录地点、时间和方法，再把资料放在一起比较。南极内陆与沿海的情况并不完全一样，有些地方积雪多一些，有些地方裸露岩石更常见。不能从一张干谷照片推断整个大陆都没有积雪。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        },
+        {
+          "id": "antarctica-desert-v2-b4",
+          "title": "再向前想一步",
+          "text": "荒漠描述干旱条件，地表可以有多年累积的冰。\n如果有人说“这里冰很厚，所以每天一定下大雪”，你可以指出这句话把长期积累和一天的天气混在一起。还要想到冰会流入、流出，也会融化或通过其他方式失去。了解一个地方的冰，需要同时看积累、运动和损失，不能只数下雪天数。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        },
+        {
+          "id": "antarctica-desert-v2-b5",
+          "title": "留下一个新问题",
+          "text": "为什么南极内陆许多地方属于极地荒漠？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S01",
+            "S02"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C04",
+      "sourceRefs": [
+        "S01",
+        "S02"
+      ],
+      "editorialCaution": "不把积雪厚度当一年降雪量。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "荒漠的关键是降水稀少，不是一定要有沙子。",
+      "mediaId": "antarctica-m22",
+      "term": "极地荒漠",
+      "definition": "降水很少的寒冷地区。",
+      "question": "为什么南极内陆许多地方属于极地荒漠？",
+      "answer": "降水很少",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+        "https://www.nasa.gov/frequently-asked-questions-about-antarctica/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-C04",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-wind",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "light",
+      "title": "风怎样吹过冰雪大陆？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-wind-v2-b1",
+          "title": "从问题出发",
+          "text": "南极的高原和海岸有很大的高度差。寒冷而较密的空气可以沿坡向下运动，形成下坡风。\n冰雪表面会使附近空气变冷。冷空气通常比周围较暖空气更密，在适合的地形条件下，可以沿着坡面向低处流动。这种下降风是南极天气的重要现象之一。它并不意味着南极每个地方、每个时刻都在刮同样强的风，地形和天气条件都会影响结果。",
+          "sourceRefs": [
+            "S01",
+            "S05"
+          ]
+        },
+        {
+          "id": "antarctica-wind-v2-b2",
+          "title": "看见现象，再找原因",
+          "text": "照片中的雪雾、旗帜方向或地面雪纹，可以引出关于风的问题。不过不同物体会对风作出不同反应，拍摄的一瞬也不代表整天。把观察写成“这张照片里能看见什么”，比直接写“这里永远刮大风”更准确。",
+          "sourceRefs": [
+            "S01",
+            "S05"
+          ]
+        },
+        {
+          "id": "antarctica-wind-v2-b3",
+          "title": "把线索连起来",
+          "text": "风还会把地面的雪吹起来。照片能让我们看到雪被吹动的形态，却不能直接给出准确风速；研究人员需要仪器记录时间、地点和测量结果。\n天气仪器能记录风速与风向，还需要知道仪器放在哪里、何时测量。看见一面旗帜被吹起，只能说明当时存在风，无法靠眼睛直接得到准确数值。低处与高处、建筑旁与开阔处的观测可能不同，科学记录会尽量说明这些条件。",
+          "sourceRefs": [
+            "S01",
+            "S05"
+          ]
+        },
+        {
+          "id": "antarctica-wind-v2-b4",
+          "title": "再向前想一步",
+          "text": "不从画面猜出精确风速。\n观察照片时，可以先写下雪纹、衣物或旗帜的形态，再提出关于风的猜想。把“看见的细节”和“我想到的原因”分别记录，能让问题更清楚。如果没有可以测量的数据，就保留疑问，而不是给照片编出温度和风速。好问题也能推动下一步观察。",
+          "sourceRefs": [
+            "S01",
+            "S05"
+          ]
+        },
+        {
+          "id": "antarctica-wind-v2-b5",
+          "title": "留下一个新问题",
+          "text": "从吹雪照片中记录可见的雪与风的线索。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S01",
+            "S05"
+          ]
+        }
+      ],
+      "taskId": "antarctica-O01",
+      "sourceRefs": [
+        "S01",
+        "S05"
+      ],
+      "editorialCaution": "观察可见吹雪，不从单张照片读出风速或全国天气。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "南极的高原和海岸有很大的高度差。",
+      "mediaId": "antarctica-m20",
+      "term": "下降风",
+      "definition": "冷而较密的空气沿坡面向下流动形成的风。",
+      "question": "从吹雪照片中记录可见的雪与风的线索。",
+      "answer": "不从画面猜出精确风速。",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+        "https://www.antarctica.gov.au/about-antarctica/weather-and-climate/weather/sunlight-hours/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "",
+      "activity": {
+        "title": "观察雪面与气象设备，记录可见细节并提出一个关于风的问题。",
+        "prompt": "观察雪面与气象设备，记录可见细节并提出一个关于风的问题。"
+      }
+    },
+    {
+      "id": "antarctica-krill-web",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ocean",
+      "title": "一只小磷虾，连着谁？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-krill-web-v2-b1",
+          "title": "从问题出发",
+          "text": "南大洋的浮游植物能利用阳光。磷虾会取食这些微小生命，而磷虾又是许多企鹅、部分海豹和须鲸的食物。\n海洋里的浮游植物能利用阳光进行光合作用，为许多生物提供食物来源。磷虾会取食浮游植物，也连接着许多较大的动物。小小的身体并不意味着不重要：一种生物可能同时被不同动物吃，也可能吃不止一种食物，所以关系会织成一张网。",
+          "sourceRefs": [
+            "S06"
+          ]
+        },
+        {
+          "id": "antarctica-krill-web-v2-b2",
+          "title": "箭头有统一方向",
+          "text": "在本页关系图中，箭头从食物指向吃它的动物。例如从磷虾指向阿德利企鹅，表示企鹅可以吃磷虾。换一本书时，图形的约定可能不同，所以先读图例很重要。这里画出的只是几条关系，真正的海洋食物网复杂得多。",
+          "sourceRefs": [
+            "S06"
+          ]
+        },
+        {
+          "id": "antarctica-krill-web-v2-b3",
+          "title": "把线索连起来",
+          "text": "我们把这些关系连起来，就得到食物网的一部分。本专题的箭头从食物指向吃它的动物；这不是每种动物全部的食谱。\n图里从磷虾通向企鹅、须鲸和海豹的箭头表示食物关系，不表示它们一定同时出现在同一片海面，也不表示这些动物只吃磷虾。不同物种、季节和地点的食谱会不同。简化图帮助发现联系，但不能代替完整的生态调查。",
+          "sourceRefs": [
+            "S06"
+          ]
+        },
+        {
+          "id": "antarctica-krill-web-v2-b4",
+          "title": "再向前想一步",
+          "text": "图中统一约定食物指向取食者，只展示部分食物关系。\n试着选中图里一条箭头，用“谁可以吃谁”读出来，再沿着它向前追到浮游植物。如果其中一个环节发生变化，其他生物可能受到影响，但结果需要研究才能知道。不能简单断言一种食物少了，所有动物就会立刻消失；食物网比直线更复杂。",
+          "sourceRefs": [
+            "S06"
+          ]
+        },
+        {
+          "id": "antarctica-krill-web-v2-b5",
+          "title": "留下一个新问题",
+          "text": "食物网里的箭头从磷虾指向企鹅，表示什么？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S06"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C05",
+      "sourceRefs": [
+        "S06"
+      ],
+      "editorialCaution": "示意是部分关系；食蟹海豹名称不等于只吃蟹。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "南大洋的浮游植物能利用阳光。",
+      "mediaId": "antarctica-m05",
+      "term": "食物网",
+      "definition": "一个环境中许多相互连接的取食关系。",
+      "question": "食物网里的箭头从磷虾指向企鹅，表示什么？",
+      "answer": "企鹅能以磷虾为食",
+      "sourceUrls": [
+        "https://www.antarctica.gov.au/about-antarctica/animals/food-web/"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-food",
+      "exerciseId": "antarctica-C05",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-ocean-life",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ocean",
+      "title": "鲸和企鹅潜水以后，怎样呼吸？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-ocean-life-v2-b1",
+          "title": "从问题出发",
+          "text": "鲸是哺乳动物，企鹅是鸟类，它们都需要用肺呼吸空气。潜入海中寻找食物后，它们还需要回到水面呼吸。\n海洋里既有鱼，也有鸟类和哺乳动物。企鹅是鸟，海豹和鲸属于哺乳动物，它们都用肺呼吸，需要与空气交换气体。潜进水里寻找食物时，它们会暂时屏住呼吸，之后再回到水面。鱼通常通过鳃从水中获取氧气，呼吸方式与它们不同。",
+          "sourceRefs": [
+            "S06",
+            "S07"
+          ]
+        },
+        {
+          "id": "antarctica-ocean-life-v2-b2",
+          "title": "身体与生活方式",
+          "text": "企鹅的身体适合在水中游动，鲸也生活在海洋中，但生活在水里不等于一定是鱼。分类需要看许多特征，不能只看地点或外形。认识呼吸方式，可以帮助我们理解为什么它们需要在潜水与回到水面之间转换。",
+          "sourceRefs": [
+            "S06",
+            "S07"
+          ]
+        },
+        {
+          "id": "antarctica-ocean-life-v2-b3",
+          "title": "把线索连起来",
+          "text": "鱼的呼吸方式与它们不同。观察一张鲸露出水面的照片时，可以描述看见的身体部位，但潜水持续多久还需要连续观测资料。\n动物身体的形状与运动方式能提供线索，却不能只凭外形决定分类。鲸有适合游泳的身体，企鹅有帮助水下运动的翅膀，但它们并没有因此变成鱼。认识身体、繁殖和呼吸等多方面特征，才能理解看起来相似的动物为什么属于不同类别。",
+          "sourceRefs": [
+            "S06",
+            "S07"
+          ]
+        },
+        {
+          "id": "antarctica-ocean-life-v2-b4",
+          "title": "再向前想一步",
+          "text": "鲸用肺呼吸；照片与资料卡共同支持解释。\n在海面照片里看见动物露出身体，可以提出“它在呼吸吗”的问题，但单张照片不一定证明全部行为。可靠的物种资料和连续观察能提供更多证据。我们可以先学会区分资料明确告诉我们的知识，与照片里真正看见的细节，再作解释。",
+          "sourceRefs": [
+            "S06",
+            "S07"
+          ]
+        },
+        {
+          "id": "antarctica-ocean-life-v2-b5",
+          "title": "留下一个新问题",
+          "text": "依据呼吸资料卡，鲸需要怎样获得空气？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S06",
+            "S07"
+          ]
+        }
+      ],
+      "taskId": "antarctica-P03",
+      "sourceRefs": [
+        "S06",
+        "S07"
+      ],
+      "editorialCaution": "不把鲸当鱼，不根据一次潜水照片猜出精确能力。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "鲸是哺乳动物，企鹅是鸟类，它们都需要用肺呼吸空气。",
+      "mediaId": "antarctica-m05",
+      "term": "哺乳动物",
+      "definition": "用乳汁哺育幼崽的一类动物。",
+      "question": "依据呼吸资料卡，鲸需要怎样获得空气？",
+      "answer": "浮上水面呼吸",
+      "sourceUrls": [
+        "https://www.antarctica.gov.au/about-antarctica/animals/food-web/",
+        "https://www.antarctica.gov.au/about-antarctica/animals/penguins/emperor-penguin/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-P03",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-under-ice",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "ocean",
+      "title": "海冰下面，也有一个世界吗？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-under-ice-v2-b1",
+          "title": "从问题出发",
+          "text": "海冰表面下面也有生命活动。季节、光照和冰的情况会影响冰藻等生物，进而影响其他小型动物。\n从海面看，海冰像一道白色屋顶，下面却有水和生命活动。光可以在不同条件下穿过冰雪，冰中和冰下的环境也会随着季节变化。冰藻等微小生物与其他海洋生命存在联系。它们很小，许多需要放大设备或采样分析才能被认识。",
+          "sourceRefs": [
+            "S04",
+            "S06"
+          ]
+        },
+        {
+          "id": "antarctica-under-ice-v2-b2",
+          "title": "冰不是完全的隔墙",
+          "text": "光照会随季节、冰和雪的情况而改变，冰下环境也有自己的变化。浮游生物和冰藻等微小生命往往需要借助仪器观察。照片里没有拍到它们，不表示它们不存在；反过来，也不能把想象中的生物当作画面已经显示的事实。",
+          "sourceRefs": [
+            "S04",
+            "S06"
+          ]
+        },
+        {
+          "id": "antarctica-under-ice-v2-b3",
+          "title": "把线索连起来",
+          "text": "海面照片可能只让我们看到海冰和水的边界。把看得见的细节写下来，再问“冰下还有什么”，就是从观察走向科学问题的一步。\n海冰边缘、裂隙和开阔水面，是照片中可能观察到的地表线索。但看见一片海冰，并不能直接知道下面有哪些物种、各有多少。科学家结合水下观测、样品与测量，才能把表面的线索和水下的环境联系起来，而不是仅靠猜测。",
+          "sourceRefs": [
+            "S04",
+            "S06"
+          ]
+        },
+        {
+          "id": "antarctica-under-ice-v2-b4",
+          "title": "再向前想一步",
+          "text": "未出现在图中的生物写在疑问中，而非我看见。\n写观察时，可以在“我看见”中描述冰块形状、明暗和水面边界，把“冰下是否有藻类”写进“我还想知道”。问题不需要立刻得到答案，也不需要画面中出现动物才值得观察。分清事实和疑问，正是开始了解看不见的世界的一种方法。",
+          "sourceRefs": [
+            "S04",
+            "S06"
+          ]
+        },
+        {
+          "id": "antarctica-under-ice-v2-b5",
+          "title": "留下一个新问题",
+          "text": "观察海冰与海水的边界，并提出一个关于冰下世界的问题。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S04",
+            "S06"
+          ]
+        }
+      ],
+      "taskId": "antarctica-O02",
+      "sourceRefs": [
+        "S04",
+        "S06"
+      ],
+      "editorialCaution": "表面照片没有出现的生物不能记为亲眼观察。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "海冰表面下面也有生命活动。",
+      "mediaId": "antarctica-m16",
+      "term": "冰藻",
+      "definition": "生活在冰中或冰下等环境中的藻类。",
+      "question": "观察海冰与海水的边界，并提出一个关于冰下世界的问题。",
+      "answer": "未出现在图中的生物写在疑问中，而非我看见。",
+      "sourceUrls": [
+        "https://nsidc.org/learn/parts-cryosphere/sea-ice/quick-facts-about-sea-ice",
+        "https://www.antarctica.gov.au/about-antarctica/animals/food-web/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "",
+      "activity": {
+        "title": "观察海冰与海水的边界，并提出一个关于冰下世界的问题。",
+        "prompt": "观察海冰与海水的边界，并提出一个关于冰下世界的问题。"
+      }
+    },
+    {
+      "id": "antarctica-emperor",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "animals",
+      "title": "帝企鹅怎样度过寒冬？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-emperor-v2-b1",
+          "title": "从问题出发",
+          "text": "帝企鹅的生活与南极沿海和海冰密切相关。羽毛、皮下脂肪以及聚集等行为帮助它们减少热量流失。\n帝企鹅生活在南极地区，繁殖与海冰环境密切相关。成年鸟的体形和羽毛与灰色绒羽的幼鸟不同，幼鸟需要亲鸟照料。认识照片时，先分清生命阶段，再看身体姿态，就不会因为颜色不同，把成鸟和幼鸟误当成完全不同的企鹅种类。",
+          "sourceRefs": [
+            "S07"
+          ]
+        },
+        {
+          "id": "antarctica-emperor-v2-b2",
+          "title": "身体和行为一起起作用",
+          "text": "羽毛和脂肪与身体保温有关，聚集等行为也能帮助减少热量流失。亲鸟护住幼鸟的姿态，是值得仔细观察的线索。幼鸟和成鸟的外形不同，因此识别照片时还要看生命阶段，不能只根据大小给它们起名字。",
+          "sourceRefs": [
+            "S07"
+          ]
+        },
+        {
+          "id": "antarctica-emperor-v2-b3",
+          "title": "把线索连起来",
+          "text": "亲鸟还会照料幼鸟。在照片中，可以找找羽毛、身体姿态和聚集的线索。它们不是住在内陆地理南极点的居民，也不是完全不怕寒冷。\n密集的羽毛与皮下脂肪能够帮助保温，聚集也能减少暴露在寒风中的身体面积。在繁殖过程中，亲鸟还会用身体与姿态照顾卵或幼鸟。这些是身体特征与行为共同作用的例子，不是靠一种“神奇本领”就解决所有寒冷问题。",
+          "sourceRefs": [
+            "S07"
+          ]
+        },
+        {
+          "id": "antarctica-emperor-v2-b4",
+          "title": "再向前想一步",
+          "text": "不是因为它们完全感觉不到寒冷。\n观察亲鸟与幼鸟的距离、朝向和接触部位，可以写出具体发现。但照片里没有显示的行为，比如刚刚有没有喂食、等了多久，不能直接当作事实。查阅关于帝企鹅的资料，再回来看照片，能帮助你提出更细致的问题：幼鸟什么时候换羽，亲鸟怎样寻找食物？",
+          "sourceRefs": [
+            "S07"
+          ]
+        },
+        {
+          "id": "antarctica-emperor-v2-b5",
+          "title": "留下一个新问题",
+          "text": "哪些特点帮助帝企鹅减少热量流失？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S07"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C06",
+      "sourceRefs": [
+        "S07"
+      ],
+      "editorialCaution": "帝企鹅不住内陆南极点；不用生成图作物种鉴定。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "帝企鹅的生活与南极沿海和海冰密切相关。",
+      "mediaId": "antarctica-m24",
+      "term": "保温",
+      "definition": "减少身体与环境之间热量交换的过程。",
+      "question": "哪些特点帮助帝企鹅减少热量流失？",
+      "answer": "羽毛、脂肪和聚集等行为",
+      "sourceUrls": [
+        "https://www.antarctica.gov.au/about-antarctica/animals/penguins/emperor-penguin/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-C06",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-penguin-neighbours",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "animals",
+      "title": "不同企鹅，住的是同一种家吗？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-penguin-neighbours-v2-b1",
+          "title": "从问题出发",
+          "text": "企鹅有不同物种，适合的生活环境也不同。帝企鹅与海冰关系密切，阿德利企鹅常在沿岸无冰地面繁殖。\n南极及附近海域有不止一种企鹅。阿德利企鹅与帽带企鹅的头部花纹不同，帝企鹅的体形和成鸟颈侧颜色也有特点。辨认时应把照片的物种说明、拍摄地点与身体细节合起来看，不要只凭一处被阴影遮住的颜色判断。",
+          "sourceRefs": [
+            "S07",
+            "S08"
+          ]
+        },
+        {
+          "id": "antarctica-penguin-neighbours-v2-b2",
+          "title": "先认识照片中的物种",
+          "text": "有些企鹅头部的花纹很明显，有些则需要观察多个细节。帽带企鹅的黑色下巴线条是一个线索，阿德利企鹅的眼周与头部也有自己的特征。只有照片本身的物种和地点说明可靠，比较才有好的起点。",
+          "sourceRefs": [
+            "S07",
+            "S08"
+          ]
+        },
+        {
+          "id": "antarctica-penguin-neighbours-v2-b3",
+          "title": "把线索连起来",
+          "text": "帽带企鹅下巴附近有黑色带状线条。辨认时要看可靠的物种说明、外形和地点，不能把所有企鹅都叫帝企鹅，也不能说所有企鹅都生活在南极洲。\n这张帽带企鹅照片中，下巴附近的黑线是重要线索。阿德利企鹅的头部和眼周则呈现另一种样子。比较两张照片时，还要考虑年龄和换羽阶段：幼鸟可能不像成鸟，不同姿势也会把关键部位挡住。看不清时保留不确定，比强行给答案更好。",
+          "sourceRefs": [
+            "S07",
+            "S08"
+          ]
+        },
+        {
+          "id": "antarctica-penguin-neighbours-v2-b4",
+          "title": "再向前想一步",
+          "text": "照片须先正确识别物种，观察线索不等于单凭一处颜色完成所有鉴定。\n企鹅会在海里寻找食物，也需要合适的岸边或冰上环境完成其他生命活动。不同物种的栖息与繁殖习惯不完全一样，所以不能把一种企鹅的故事当成全部企鹅的生活。观察差别之后，再追问这些差别与环境有什么关系，是继续阅读的好方向。",
+          "sourceRefs": [
+            "S07",
+            "S08"
+          ]
+        },
+        {
+          "id": "antarctica-penguin-neighbours-v2-b5",
+          "title": "留下一个新问题",
+          "text": "在两张有物种说明的照片中，帽带企鹅的头部有什么线索？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S07",
+            "S08"
+          ]
+        }
+      ],
+      "taskId": "antarctica-P04",
+      "sourceRefs": [
+        "S07",
+        "S08"
+      ],
+      "editorialCaution": "用正确物种和地点照片，不称所有企鹅生活在南极。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "企鹅有不同物种，适合的生活环境也不同。",
+      "mediaId": "antarctica-m18",
+      "term": "物种",
+      "definition": "在生物分类中区分不同生物的一种基本单位。",
+      "question": "在两张有物种说明的照片中，帽带企鹅的头部有什么线索？",
+      "answer": "下巴附近的黑色带状线条",
+      "sourceUrls": [
+        "https://www.antarctica.gov.au/about-antarctica/animals/penguins/emperor-penguin/",
+        "https://www.antarctica.gov.au/about-antarctica/animals/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-P04",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-life-on-land",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "animals",
+      "title": "石头上为什么也能找到小生命？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-life-on-land-v2-b1",
+          "title": "从问题出发",
+          "text": "南极一些没有被冰覆盖的地面上，能找到苔藓、地衣以及小型无脊椎动物。地衣是不同生物共同生活形成的组合，不能简单当成一株普通植物。\n把目光从大动物转到脚边，南极露出的岩石与地表上也可能有小小的生命。苔藓、地衣和微小无脊椎动物等，提醒我们生命并不总是显眼的。它们的存在与可用水分、光照和局部环境有关，不能因为地区寒冷就推断完全没有陆地生命。",
+          "sourceRefs": [
+            "S08"
+          ]
+        },
+        {
+          "id": "antarctica-life-on-land-v2-b2",
+          "title": "微小也值得认真观察",
+          "text": "裸露地表看起来像没有生命，仔细观察却可能发现绿色的小块、贴着岩石的地衣和其他细小线索。照片中的颜色会受到光线影响，所以单凭颜色不能确定物种。保留疑问，查找可靠资料，是观察的一部分。",
+          "sourceRefs": [
+            "S08"
+          ]
+        },
+        {
+          "id": "antarctica-life-on-land-v2-b3",
+          "title": "把线索连起来",
+          "text": "它们可能生长得很慢。观察照片的颜色、形状和周围岩石，就能提出问题，不需要采集或踩踏它们。\n苔藓属于植物，地衣则是不同生物共同生活形成的共生体，不能把两者当作同一个名字。照片里绿色、黄色或深色的一片，未必足以确定种类。辨认需要更细致的形态资料，有时还需要专业观察，因此本页只介绍有来源的场景与基本概念。",
+          "sourceRefs": [
+            "S08"
+          ]
+        },
+        {
+          "id": "antarctica-life-on-land-v2-b4",
+          "title": "再向前想一步",
+          "text": "不以照片确定未知物种，不鼓励采集。\n可以记录植被集中在哪里、附近是岩石还是积雪、颜色和形态有什么差别。不要为了回答题目而想象照片外的情况，也不必采集实物来完成观察。学会认真看、查资料和提出问题，同样是在认识微小生命，并尊重它们的生存空间。",
+          "sourceRefs": [
+            "S08"
+          ]
+        },
+        {
+          "id": "antarctica-life-on-land-v2-b5",
+          "title": "留下一个新问题",
+          "text": "观察苔藓或地衣的颜色、形态与周围地表。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S08"
+          ]
+        }
+      ],
+      "taskId": "antarctica-O03",
+      "sourceRefs": [
+        "S08"
+      ],
+      "editorialCaution": "地衣不简单归为一种绿色植物；观察不采集。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "南极一些没有被冰覆盖的地面上，能找到苔藓、地衣以及小型无脊椎动物。",
+      "mediaId": "antarctica-m19",
+      "term": "地衣",
+      "definition": "真菌与藻类或蓝细菌共同组成的一类共生体。",
+      "question": "观察苔藓或地衣的颜色、形态与周围地表。",
+      "answer": "不以照片确定未知物种，不鼓励采集。",
+      "sourceUrls": [
+        "https://www.antarctica.gov.au/about-antarctica/animals/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "",
+      "activity": {
+        "title": "观察苔藓或地衣的颜色、形态与周围地表。",
+        "prompt": "观察苔藓或地衣的颜色、形态与周围地表。"
+      }
+    },
+    {
+      "id": "antarctica-ice-core",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "science",
+      "title": "冰里的小气泡，保存了什么？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-ice-core-v2-b1",
+          "title": "从问题出发",
+          "text": "科学家取得的圆柱形冰样叫冰芯。雪逐渐变成冰时，一些空气被封存在小气泡里。\n科学家用钻探设备取得柱状冰样，好像从厚厚的冰里取出一条竖直的切片。不同深度的冰保存着形成时期的线索。冰里的气泡含有过去封闭进去的空气，研究人员可以测量它的成分，帮助理解过去的大气环境，而不是用肉眼直接看出所有信息。",
+          "sourceRefs": [
+            "S09"
+          ]
+        },
+        {
+          "id": "antarctica-ice-core-v2-b2",
+          "title": "一段冰里有不同线索",
+          "text": "气泡保存的是封闭时的空气，而冰的其他特征也可以提供线索。研究人员会记录样品位置、深度和处理过程。只有把这些信息放在一起，才能知道一项测量代表什么；一张漂亮的冰芯照片本身不能给出完整的气候历史。",
+          "sourceRefs": [
+            "S09"
+          ]
+        },
+        {
+          "id": "antarctica-ice-core-v2-b3",
+          "title": "把线索连起来",
+          "text": "分析气泡，可以了解过去空气的成分；冰本身也能提供环境线索。气泡封闭的时间和周围冰的年龄可能不同，因此研究人员需要多种方法判断年代，而不是简单数白色条纹。\n冰芯中的层次、尘埃和化学成分也能提供资料。解释这些资料需要测量、比较和年代分析，不能把每一道可见条纹都随意说成一年。空气是在积雪压实过程中逐渐被封闭的，所以气泡里空气的年龄与周围冰的年龄可能不同，这是读懂资料的重要细节。",
+          "sourceRefs": [
+            "S09"
+          ]
+        },
+        {
+          "id": "antarctica-ice-core-v2-b4",
+          "title": "再向前想一步",
+          "text": "气泡的封闭时间与周围冰的年龄可能有差别。\n照片中的研究人员正在检查冰芯，这与直接从照片读出过去气温是两件事。仪器得到的是具体测量结果，科学家还要用方法把结果转成关于环境的解释。认识科学工作，可以顺着“提出问题、取得样品、测量分析、说明依据”这条线索一步一步看。",
+          "sourceRefs": [
+            "S09"
+          ]
+        },
+        {
+          "id": "antarctica-ice-core-v2-b5",
+          "title": "留下一个新问题",
+          "text": "冰芯封闭的小气泡可以帮助研究什么？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S09"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C07",
+      "sourceRefs": [
+        "S09"
+      ],
+      "editorialCaution": "冰与气体年龄可不同；不是所有冰芯逐层就是一年。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "科学家取得的圆柱形冰样叫冰芯。",
+      "mediaId": "antarctica-m07",
+      "term": "冰芯",
+      "definition": "从冰层中钻取的柱状冰样。",
+      "question": "冰芯封闭的小气泡可以帮助研究什么？",
+      "answer": "过去空气的成分",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/wp-content/uploads/2014/03/Ice-cores-and-climate-change_Feb14.pdf"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-core",
+      "exerciseId": "antarctica-C07",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-satellites",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "science",
+      "title": "卫星怎样帮助我们看冰？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-satellites-v2-b1",
+          "title": "从问题出发",
+          "text": "卫星能从高处反复观察南极。研究人员比较同一地点在不同时间的记录，了解冰的范围或其他变化。\n南极面积广阔，有些区域难以经常到达。卫星能从高处反复观察，为研究冰面、海岸与其他变化提供资料。但卫星不是一双会自动解释一切的眼睛，不同仪器记录不同类型的信息，云、光照和测量方式也会影响可获得的内容。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        },
+        {
+          "id": "antarctica-satellites-v2-b2",
+          "title": "比较需要共同条件",
+          "text": "如果一张照片拍在夏天，另一张拍在冬天，画面中的冰不同可能与季节有关。若拍摄地点也不同，就更不能直接比较。同地、相近季节、注明日期并了解测量方法的资料，才更适合帮助我们提出关于变化的问题。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        },
+        {
+          "id": "antarctica-satellites-v2-b3",
+          "title": "把线索连起来",
+          "text": "比较前要核对日期、季节、位置和测量方法。两张来自不同地方的冰川照片，即使一张冰多、一张冰少，也不能直接证明同一冰川发生了怎样的变化。\n比较冰的边缘时，要知道两次观测的日期、区域和尺度。如果一幅图是冬天、一幅图是夏天，季节差别也可能影响画面。把两个不同地方的照片拼在一起，并不能证明一个地方发生了变化；“前后对比”必须先保证比较对象合适。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        },
+        {
+          "id": "antarctica-satellites-v2-b4",
+          "title": "再向前想一步",
+          "text": "不同地点的漂亮照片不组成可靠的变化对照。\n卫星资料经常需要与地面测量互相配合。地面仪器提供某个位置的细节，高处观测则帮助了解更大的范围。两种资料各有长处，也可能需要校正。面对一张对比图，可以先问“在哪里、何时、怎么测”，再讨论它支持什么结论。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        },
+        {
+          "id": "antarctica-satellites-v2-b5",
+          "title": "留下一个新问题",
+          "text": "哪一组资料更适合比较同一冰区的变化？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S01",
+            "S11"
+          ]
+        }
+      ],
+      "taskId": "antarctica-P05",
+      "sourceRefs": [
+        "S01",
+        "S11"
+      ],
+      "editorialCaution": "不拿不同地点、不同季节照片证明长期变化。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "卫星能从高处反复观察南极。",
+      "mediaId": "antarctica-m21",
+      "term": "遥感",
+      "definition": "在一定距离外利用仪器获取对象信息的方法。",
+      "question": "哪一组资料更适合比较同一冰区的变化？",
+      "answer": "同地、同季节且注明日期和方法的记录",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+        "https://data.bas.ac.uk/items/e74543c0-4c4e-4b41-aa33-5bb2f67df389/index.html"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-P05",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-weather-record",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "science",
+      "title": "一天的天气，怎样变成一份记录？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-weather-record-v2-b1",
+          "title": "从问题出发",
+          "text": "一份有用的天气记录，要说明在哪里、什么时候、用什么仪器测量。气温、风和降水可以在一天中变化。\n天气会随时间改变，因此科学家需要持续记录，而不是只凭一次感觉说这个地方的气候怎样。气温、风、气压等都是可以观测的对象。每项数值都应配合时间、地点和单位，离开这些信息，一串数字就很难被别人正确理解或再次比较。",
+          "sourceRefs": [
+            "S01",
+            "S12"
+          ]
+        },
+        {
+          "id": "antarctica-weather-record-v2-b2",
+          "title": "记录要能让别人读懂",
+          "text": "只写一个温度数字，别人不知道它来自哪里。加入时间、地点、单位和仪器信息，记录就清楚得多。如果练习表使用虚构数字，也要写明是练习，不能把它包装成科考站实测。科学合作需要清楚地分享信息。",
+          "sourceRefs": [
+            "S01",
+            "S12"
+          ]
+        },
+        {
+          "id": "antarctica-weather-record-v2-b3",
+          "title": "把线索连起来",
+          "text": "长期重复记录，才能帮助研究较长时间的规律。今天的天气与长期气候不是同一个概念，单个寒冷的日子不能代表整个地区的长期变化。\n气象站里的仪器负责不同工作。照片中的设备能引出关于测量的问题，却不能让我们直接读出当天完整记录。没有公开数据时，本页不编造一张天气表来冒充真实观测。你可以观察设备的位置和外形，再查资料了解它可能测量什么。",
+          "sourceRefs": [
+            "S01",
+            "S12"
+          ]
+        },
+        {
+          "id": "antarctica-weather-record-v2-b4",
+          "title": "再向前想一步",
+          "text": "时间范围和数据身份必须明确。\n做自己的天气观察也需要一致的方法。例如在相同地点、相近时刻记录天空状况，再比较几天之间的变化。这样的练习与正式南极观测不同，不能当作南极资料，但可以帮助理解为什么记录条件很重要。遇到缺失数据，应写明缺失，不随意补一个数。",
+          "sourceRefs": [
+            "S01",
+            "S12"
+          ]
+        },
+        {
+          "id": "antarctica-weather-record-v2-b5",
+          "title": "留下一个新问题",
+          "text": "从有出处的天气记录中，写下一项变化与一个问题。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S01",
+            "S12"
+          ]
+        }
+      ],
+      "taskId": "antarctica-O04",
+      "sourceRefs": [
+        "S01",
+        "S12"
+      ],
+      "editorialCaution": "练习数据如为虚构需显著标注，不冒充科考站实测。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "一份有用的天气记录，要说明在哪里、什么时候、用什么仪器测量。",
+      "mediaId": "antarctica-m20",
+      "term": "观测记录",
+      "definition": "按照约定方式记下测量对象、时间、地点和结果的资料。",
+      "question": "从有出处的天气记录中，写下一项变化与一个问题。",
+      "answer": "时间范围和数据身份必须明确。",
+      "sourceUrls": [
+        "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+        "https://www.pric.org.cn/index.php?c=show&id=547"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "",
+      "activity": {
+        "title": "观察气象设备，写下你想记录的天气变化与一个问题。",
+        "prompt": "观察气象设备，写下你想记录的天气变化与一个问题。"
+      }
+    },
+    {
+      "id": "antarctica-station-map",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "station",
+      "title": "科考站为什么建在不同地方？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-station-map-v2-b1",
+          "title": "从问题出发",
+          "text": "科考站建在不同地方，与研究任务和补给条件有关。中山站位于东南极沿海，长城站位于南极半岛附近的乔治王岛，麦克默多站位于罗斯岛。\n南极科考站分布在不同区域，有些靠海，有些位于大陆内陆。选址要考虑研究任务与环境，也需要考虑运输、通信和生活保障。地图上中山站、长城站与秦岭站的位置并不相同，不能把三座站的照片或日常生活说明互相替换。",
+          "sourceRefs": [
+            "S12",
+            "S13",
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-station-map-v2-b2",
+          "title": "不同位置回答不同问题",
+          "text": "沿海可以研究海洋与冰的相互作用，内陆则有不同的冰雪和大气环境。地点的选择还需要考虑工作与保障条件。地图帮助我们看到位置差异，但仅凭一个点，不能知道站里当下有多少人或正在进行哪项任务。",
+          "sourceRefs": [
+            "S12",
+            "S13",
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-station-map-v2-b3",
+          "title": "把线索连起来",
+          "text": "内陆也有研究站和观测活动。地图上的运营机构说明工作组织，不应被当作领土边界。\n从全洲地图看，站点只是小小标记；放大后，再观察它与海岸、岛屿和冰原的关系。长城站位于乔治王岛，中山站在东南极沿岸，秦岭站位于罗斯海区域。知道一个站点在哪一侧，比只记住站房颜色更能帮助我们理解研究环境。",
+          "sourceRefs": [
+            "S12",
+            "S13",
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-station-map-v2-b4",
+          "title": "再向前想一步",
+          "text": "先看大区域，再从三个站点中选择；进入站点不自动提交答案。\n站点所属机构和周围地理范围是不同概念。建立研究设施，不等于拥有整个南极地区。读站点介绍时，可以依次寻找三类资料：位置、工作和生活支持，再检查照片是否确实拍摄于该站、是否注明年代，避免把历史景象当成今天的全部情况。",
+          "sourceRefs": [
+            "S12",
+            "S13",
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-station-map-v2-b5",
+          "title": "留下一个新问题",
+          "text": "在地图上找到东南极沿海的中山站。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S12",
+            "S13",
+            "S14"
+          ]
+        }
+      ],
+      "taskId": "antarctica-L03",
+      "sourceRefs": [
+        "S12",
+        "S13",
+        "S14"
+      ],
+      "editorialCaution": "站点运营机构不等于领土归属，不画国家主张扇区。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "科考站建在不同地方，与研究任务和补给条件有关。",
+      "mediaId": "antarctica-m06",
+      "term": "科考站",
+      "definition": "为科学考察提供工作与生活条件的设施。",
+      "question": "在地图上找到东南极沿海的中山站。",
+      "answer": "antarctica-zhongshan",
+      "sourceUrls": [
+        "https://www.pric.org.cn/index.php?c=show&id=547",
+        "https://www.pric.org.cn/index.php?c=category&id=127",
+        "https://www.usap.gov/sciencesupport/4134/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-L03",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-station-day",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "station",
+      "title": "科考站里的一天怎样安排？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-station-day-v2-b1",
+          "title": "从问题出发",
+          "text": "科考站不仅需要做研究，也要解决吃饭、饮水、维修、休息和联系等问题。不同站点、季节和任务的安排并不相同。\n科考站的一天不只有做实验。团队还需要吃饭、获得饮用水、保持通信、处理设备问题并管理废物。科学研究与日常保障相互依赖，少了稳定的支持，许多观测就难以持续。不同站点、季节和任务安排下，实际一天的作息也会不同。",
+          "sourceRefs": [
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-station-day-v2-b2",
+          "title": "生活保障也是重要工作",
+          "text": "食物、水、能源和设备都需要安排，极地环境让这些日常事情更需要协作。有人负责研究，也有人维护设施和准备餐食。看一个具体站点的记录时，要留意季节和日期，因为人员数量和任务可能随着时间改变。",
+          "sourceRefs": [
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-station-day-v2-b3",
+          "title": "把线索连起来",
+          "text": "有人需要轮班观测，有人负责保障设备运转。了解一个站点的一天时，要看具体资料，不能把一个例子的时间表当作所有人的生活。\n食物与设备常常需要提前计划和补给，水的获得方式也要看具体站点条件。某个站采用的方法，不一定适用于所有南极站。阅读生活故事时，要留意它说的是哪座站、哪个时期、哪一种情况，而不是把一个例子扩展成所有人的共同生活。",
+          "sourceRefs": [
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-station-day-v2-b4",
+          "title": "再向前想一步",
+          "text": "不同站点与季节安排不同，不能把一种例子当成统一时间表。\n可以选一种看似平常的工作，想一想它与研究有什么联系：维修帮助仪器保持运行，烹饪支持团队生活，通信帮助分享资料与协调任务。把这些关系写成“因为……所以……”，就会发现科学考察是许多人共同完成的事，而不是只有实验室里的一个角色。",
+          "sourceRefs": [
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-station-day-v2-b5",
+          "title": "留下一个新问题",
+          "text": "科考站日常生活为什么需要安排与协作？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S14"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C08",
+      "sourceRefs": [
+        "S14"
+      ],
+      "editorialCaution": "场景为一个有出处的站点例子，不概括所有站统一作息。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "科考站不仅需要做研究，也要解决吃饭、饮水、维修、休息和联系等问题。",
+      "mediaId": "antarctica-m06",
+      "term": "后勤",
+      "definition": "支持工作与生活所需的运输、补给、维修等事务。",
+      "question": "科考站日常生活为什么需要安排与协作？",
+      "answer": "科学工作和生活保障都需要多人配合",
+      "sourceUrls": [
+        "https://www.usap.gov/sciencesupport/4134/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-C08",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-teamwork",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "station",
+      "title": "一次科考，需要哪些伙伴？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-teamwork-v2-b1",
+          "title": "从问题出发",
+          "text": "一次科考需要许多伙伴。研究人员提出问题和观测，维修人员照顾设备，医务人员帮助保障健康，厨师与运输人员支持生活和补给。\n一个人很难独自完成从运输到观测、从维修到分析的全部任务。团队成员带来不同经验，在约定的流程中配合。科学人员提出问题和研究计划，技术与后勤人员提供设备和生活支持，数据整理与共享又把一次观测连接到更长时间的研究中。",
+          "sourceRefs": [
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-teamwork-v2-b2",
+          "title": "每个环节都互相连接",
+          "text": "仪器出了问题，需要有人检查维修；记录产生以后，需要有人整理；人员生活需要饮食、健康和休息支持。把这些工作画成关系图，能看出科学研究不是一个人独自完成的事，也不是只有站在镜头前的人才重要。",
+          "sourceRefs": [
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-teamwork-v2-b3",
+          "title": "把线索连起来",
+          "text": "这些工作互相配合。选择一种工作，想想如果缺少它，团队会遇到什么困难，也能帮助理解科学研究背后的协作。\n可靠的协作还需要清楚的记录。别人要知道样品来自哪里、仪器何时工作、数据是否有缺失，才能理解结果。分享资料不是把一堆数字交出去就结束，而是让其他人知道这些数字怎样得到、可以怎样使用，以及哪些地方仍存在不确定。",
+          "sourceRefs": [
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-teamwork-v2-b4",
+          "title": "再向前想一步",
+          "text": "用相关资料说明，不预填孩子的回答。\n把图中的观测、记录和共享连起来，可以看到一条合作过程。再把食物、医疗和维修加在旁边，就能发现它们虽然不一定直接出现在研究图表里，却帮助过程持续进行。观察任务中没有唯一的“最重要职业”，你可以选择一个角色说明它如何支持其他人。",
+          "sourceRefs": [
+            "S14"
+          ]
+        },
+        {
+          "id": "antarctica-teamwork-v2-b5",
+          "title": "留下一个新问题",
+          "text": "选一种科考工作，说说它怎样帮助团队。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S14"
+          ]
+        }
+      ],
+      "taskId": "antarctica-O05",
+      "sourceRefs": [
+        "S14"
+      ],
+      "editorialCaution": "不把所有成员称为科学家；职业不按性别分配。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "一次科考需要许多伙伴。",
+      "mediaId": "antarctica-m06",
+      "term": "协作",
+      "definition": "不同的人分工配合，共同完成一项工作。",
+      "question": "选一种科考工作，说说它怎样帮助团队。",
+      "answer": "用相关资料说明，不预填孩子的回答。",
+      "sourceUrls": [
+        "https://www.usap.gov/sciencesupport/4134/"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-team",
+      "exerciseId": "",
+      "activity": {
+        "title": "选一种科考工作，说说它怎样帮助团队。",
+        "prompt": "选一种科考工作，说说它怎样帮助团队。"
+      }
+    },
+    {
+      "id": "antarctica-sea-level",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "care",
+      "title": "远方的大陆冰，为什么与海平面有关？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-sea-level-v2-b1",
+          "title": "从问题出发",
+          "text": "浮在水里的冰与原本在陆地上的冰，对海平面的影响不同。陆地冰流入海洋并融化，会增加海洋中的水。\n陆地上的冰流入海洋并融化，会把原先在陆地上的水带入海里。这与已经漂浮在水中的冰融化不同。理解差别时，先问这块冰原来由什么支撑、在哪里，再讨论它与海水的关系。不能因为都发生在海边，就把两种过程混成同一种作用。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        },
+        {
+          "id": "antarctica-sea-level-v2-b2",
+          "title": "先分清冰原来在哪里",
+          "text": "讨论冰融化时，先问它原来在陆地上，还是已经漂在海里。冰架虽然漂浮，却与后方陆地冰流相连，所以还可能通过影响冰流产生间接作用。把直接影响与间接关系分别讲清楚，比一句“所有冰融化都一样”更准确。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        },
+        {
+          "id": "antarctica-sea-level-v2-b3",
+          "title": "把线索连起来",
+          "text": "漂浮冰架还可能影响后方冰流的速度，因此不能只看它自己融化的作用。海平面也受其他因素影响，判断变化需要长期、明确范围的测量。\n漂浮冰本来就排开了一部分水，所以它融化的直接作用与陆地冰进入海洋不一样。不过冰架还可能影响后方陆地冰的流动，这是一种间接联系。说“冰架漂浮，所以对任何变化都不重要”同样不准确，必须把直接作用和间接影响分开理解。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        },
+        {
+          "id": "antarctica-sea-level-v2-b4",
+          "title": "再向前想一步",
+          "text": "陆地冰入海会增加海洋中的水；浮冰及冰架作用要分别解释。\n海平面变化还涉及其他过程，不能用一小块冰的示意解释全部海洋。原理图强调水原来的位置，不按真实大小或速度绘制。科学家会综合冰量、海洋和时间记录进行研究；我们先学会比较两种冰的来历，就能更清楚地阅读关于变化的资料。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        },
+        {
+          "id": "antarctica-sea-level-v2-b5",
+          "title": "留下一个新问题",
+          "text": "为什么要区分陆地冰和浮在海里的冰？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S03",
+            "S04"
+          ]
+        }
+      ],
+      "taskId": "antarctica-C09",
+      "sourceRefs": [
+        "S03",
+        "S04"
+      ],
+      "editorialCaution": "不写浮冰融化是海平面上升唯一来源；不报无情景预测。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "浮在水里的冰与原本在陆地上的冰，对海平面的影响不同。",
+      "mediaId": "antarctica-m16",
+      "term": "海平面",
+      "definition": "用来描述海洋表面高度的基准与平均状态。",
+      "question": "为什么要区分陆地冰和浮在海里的冰？",
+      "answer": "它们与海平面变化的关系不同",
+      "sourceUrls": [
+        "https://nsidc.org/learn/parts-cryosphere/ice-shelves/quick-facts-about-ice-shelves",
+        "https://nsidc.org/learn/parts-cryosphere/sea-ice/quick-facts-about-sea-ice"
+      ],
+      "revision": 2,
+      "diagram": "antarctica-level",
+      "exerciseId": "antarctica-C09",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-treaty-history",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "care",
+      "title": "人们怎样一起认识与保护南极？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-treaty-history-v2-b1",
+          "title": "从问题出发",
+          "text": "1911年，阿蒙森远征队抵达地理南极点。1957至1958年，多国参与科学观测合作。\n早期远征故事帮助人们了解南极，但认识这片大陆不仅是抵达某个地点。长期观测、地图绘制、样品研究和跨国合作，都让知识逐渐积累。时间线挑选少数重要节点，帮助看清认识方式的变化，并不表示中间那些年份没有人工作或没有新发现。",
+          "sourceRefs": [
+            "S15",
+            "S16",
+            "S17"
+          ]
+        },
+        {
+          "id": "antarctica-treaty-history-v2-b2",
+          "title": "年份后面要有具体事件",
+          "text": "时间线上的数字需要和事件一起阅读。签署文件与文件正式生效是不同阶段，因此一份文件可能对应两个重要年份。历史还包括观测仪器、运输、医疗与团队协作的变化，不能只记住几位远征队员的名字。",
+          "sourceRefs": [
+            "S15",
+            "S16",
+            "S17"
+          ]
+        },
+        {
+          "id": "antarctica-treaty-history-v2-b3",
+          "title": "把线索连起来",
+          "text": "1959年签署的《南极条约》在1961年生效；1991年签署的环境保护议定书在1998年生效。认识南极的历史不只有远行，也包括科学工作、生活保障和共同保护环境。\n阿蒙森远征队在一九一一年抵达地理南极点。此后，国际地球物理年的合作观测成为科学交流的重要背景。南极条约在一九五九年签署，一九六一年生效；签署与生效不是同一天，也不是同一个法律步骤，因此时间线需要分别标明。",
+          "sourceRefs": [
+            "S15",
+            "S16",
+            "S17"
+          ]
+        },
+        {
+          "id": "antarctica-treaty-history-v2-b4",
+          "title": "再向前想一步",
+          "text": "1959是签署；1991与1998分别对应环保议定书签署与生效。\n环境保护议定书在一九九一年签署，一九九八年生效，进一步强调环境保护。了解这些节点时，记住它们与和平、科学和合作有关，而不是把科考站看成普通城市的领土标记。历史资料有具体年代；现代研究人员照片不能冒充早期远征的实拍。",
+          "sourceRefs": [
+            "S15",
+            "S16",
+            "S17"
+          ]
+        },
+        {
+          "id": "antarctica-treaty-history-v2-b5",
+          "title": "留下一个新问题",
+          "text": "时间线资料中，1961年对应哪一件事？你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S15",
+            "S16",
+            "S17"
+          ]
+        }
+      ],
+      "taskId": "antarctica-P06",
+      "sourceRefs": [
+        "S15",
+        "S16",
+        "S17"
+      ],
+      "editorialCaution": "不混签署与生效，不说2048自动到期；包括多种职业贡献。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "1911年，阿蒙森远征队抵达地理南极点。",
+      "mediaId": "antarctica-m16",
+      "term": "条约",
+      "definition": "国家之间以书面形式约定权利与义务的协议。",
+      "question": "时间线资料中，1961年对应哪一件事？",
+      "answer": "《南极条约》生效",
+      "sourceUrls": [
+        "https://www.antarctica.gov.au/about-antarctica/history/transportation/ground-transportation/",
+        "https://www.ats.aq/e/protocol.html",
+        "https://www.ats.aq/e/antarctictreaty.html"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "antarctica-P06",
+      "activity": {}
+    },
+    {
+      "id": "antarctica-protect",
+      "scope": {
+        "kind": "region",
+        "id": "antarctica"
+      },
+      "sectionId": "care",
+      "title": "怎样观察，才能少一些打扰？",
+      "readingMinutes": 4,
+      "wordRange": [
+        450,
+        650
+      ],
+      "blocks": [
+        {
+          "id": "antarctica-protect-v2-b1",
+          "title": "从问题出发",
+          "text": "观察动物时，给它们留下空间，不追赶、不投喂，也不为了拍照改变它们的行为。脆弱的地表和生境同样需要尊重。\n南极的冰雪、海洋、岩石和生命相互联系。认识这里的变化，不只是看一张壮观照片，也包括了解数据怎样获得、不同地区有什么差别。减少打扰与认真记录，可以帮助人们在接近自然时尊重这些联系，而不是把每一种生命都当作可以随手触碰的物品。",
+          "sourceRefs": [
+            "S16",
+            "S18"
+          ]
+        },
+        {
+          "id": "antarctica-protect-v2-b2",
+          "title": "给生命留出自己的空间",
+          "text": "动物需要进食、休息和照顾幼体。人的靠近、声音和追逐可能改变它们的行为。照片里拍得很近，并不告诉我们摄影者实际距离，也不是鼓励照做。了解可靠的保护资料，比模仿一张照片中的动作更重要。",
+          "sourceRefs": [
+            "S16",
+            "S18"
+          ]
+        },
+        {
+          "id": "antarctica-protect-v2-b3",
+          "title": "把线索连起来",
+          "text": "科考活动还需要认真处理废物并遵守环境管理要求。对我们来说，学习可靠知识、区分事实与猜测、提出好问题，都是理解保护的起点。\n观察野生动物时，外表安静并不一定表示没有受到影响。生物可能正在休息、繁殖或照料幼崽。我们在阅读和看图时，可以想象哪些行为会改变它们原来的活动，再查阅正规的环境保护资料。这里的思考用于认识保护原则，不替代实际考察的专业要求。",
+          "sourceRefs": [
+            "S16",
+            "S18"
+          ]
+        },
+        {
+          "id": "antarctica-protect-v2-b4",
+          "title": "再向前想一步",
+          "text": "这是开放思考，没有积分或标准句子。\n在家里也能练习负责任地学习：记录图片出处，不把生成画面说成真实证据，比较资料的时间和地点，遇到不确定的细节先提问。保护与科学并不是彼此分开的两件事。越愿意查清楚、说明依据，就越能理解一个地方为什么值得认真对待。",
+          "sourceRefs": [
+            "S16",
+            "S18"
+          ]
+        },
+        {
+          "id": "antarctica-protect-v2-b5",
+          "title": "留下一个新问题",
+          "text": "从一张有来源的观察场景中，想想怎样减少打扰。你可以先说出自己已经知道的部分，再指出还想查证的地方。阅读不需要答对题目才能继续。",
+          "sourceRefs": [
+            "S16",
+            "S18"
+          ]
+        }
+      ],
+      "taskId": "antarctica-O06",
+      "sourceRefs": [
+        "S16",
+        "S18"
+      ],
+      "editorialCaution": "不把保护简化成追着动物拍照或让孩子独自承担全球问题。",
+      "status": "implemented",
+      "countryId": "",
+      "regionId": "antarctica",
+      "summary": "观察动物时，给它们留下空间，不追赶、不投喂，也不为了拍照改变它们的行为。",
+      "mediaId": "antarctica-m19",
+      "term": "生境",
+      "definition": "生物生活所依赖的环境。",
+      "question": "从一张有来源的观察场景中，想想怎样减少打扰。",
+      "answer": "这是开放思考，没有积分或标准句子。",
+      "sourceUrls": [
+        "https://www.ats.aq/e/protocol.html",
+        "https://www.antarctica.gov.au/about-antarctica/tourism/visitor-guidelines/"
+      ],
+      "revision": 2,
+      "diagram": "",
+      "exerciseId": "",
+      "activity": {
+        "title": "从一张有来源的观察场景中，想想怎样减少打扰。",
+        "prompt": "从一张有来源的观察场景中，想想怎样减少打扰。"
+      }
+    }
+  ],
+  "journeys": [
+    {
+      "id": "ice-journey",
+      "title": "一块冰的旅程",
+      "articleIds": [
+        "antarctica-snow-to-ice",
+        "antarctica-ice-shelf",
+        "antarctica-sea-level"
+      ]
+    },
+    {
+      "id": "life-connections",
+      "title": "跟着磷虾认识生命",
+      "articleIds": [
+        "antarctica-krill-web",
+        "antarctica-emperor",
+        "antarctica-protect"
+      ]
+    },
+    {
+      "id": "science-day",
+      "title": "走进一次科学观察",
+      "articleIds": [
+        "antarctica-station-map",
+        "antarctica-ice-core",
+        "antarctica-treaty-history"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "antarctica-south-pole",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "地理南极点",
+      "category": "pole",
+      "latitude": -90,
+      "longitude": 0,
+      "region": "南极洲",
+      "summary": "地理位置示意",
+      "description": "地球自转轴在南端与地表相交的位置，就是地理南极点。在这里向外走，每一个方向都通向北方。它位于南极大陆内陆的高冰原上，和沿海的企鹅栖息地很不一样。冰盖在缓慢移动，所以冰面上立的标志并不会永远留在同一个地理位置。地理南极点、仪式性南极点和南极科考站是不同对象。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m14"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "south-pole",
+        "地理南极点"
+      ],
+      "view": "continent"
+    },
+    {
+      "id": "antarctica-peninsula",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "南极半岛",
+      "category": "region",
+      "latitude": -66,
+      "longitude": -64,
+      "region": "南极洲",
+      "summary": "海岸山地",
+      "description": "南极半岛从大陆伸向南美洲方向，像一条修长的手臂。它有山脉、冰川、海湾和许多近海岛屿，并不是一块平坦的冰。图中安德沃德湾位于半岛西侧。沿岸与内陆高原的气候条件不同；认识南极，不能用一个地方代表整个大陆。地图标记的是半岛代表位置，而不是整个半岛边界。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m21"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "peninsula",
+        "南极半岛"
+      ],
+      "view": "peninsula"
+    },
+    {
+      "id": "antarctica-ross-shelf",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "罗斯冰架",
+      "category": "iceShelf",
+      "latitude": -81,
+      "longitude": -175,
+      "region": "南极洲",
+      "summary": "冰架前缘",
+      "description": "罗斯冰架位于南极大陆的罗斯海一侧。陆地上的冰向海流动，延伸到海上后仍与大陆冰相连，形成大片漂浮的冰架。它与海水冻结形成的海冰不同。图中拍到的是冰架里的裂隙。冰架会流动、开裂和产生冰山，边缘并不是永远不变的一条线。观察时先辨认照片的视角，再判断它展示了冰的哪个部分。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m02"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "ross-shelf",
+        "罗斯冰架"
+      ],
+      "view": "ross"
+    },
+    {
+      "id": "antarctica-weddell-sea",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "威德尔海",
+      "category": "sea",
+      "latitude": -73,
+      "longitude": -45,
+      "region": "南极洲",
+      "summary": "有日期的海冰照片",
+      "description": "威德尔海位于南极半岛以东，海面会出现大片海冰。海冰主要由海水冻结形成，在季节变化中形成、漂移和融化。冰盖、冰架、冰山和海冰可能同时出现在南极海域，但来源不相同。照片只是拍摄时刻的一瞥，不能当作今天的海冰分布图。看这里时，可以把注意力放在冰块之间的裂隙和开阔水面上。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m16"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "weddell-sea",
+        "威德尔海"
+      ],
+      "view": "continent"
+    },
+    {
+      "id": "antarctica-transantarctic",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "横贯南极山脉",
+      "category": "mountains",
+      "latitude": -83,
+      "longitude": 160,
+      "region": "南极洲",
+      "summary": "山峰露出冰盖",
+      "description": "横贯南极山脉延伸穿过南极大陆，把东南极与西南极的主要区域分隔开来。厚冰之上会露出山峰与山脊，冰川在山间缓慢流动。照片中的赫歇尔山位于这一山系的沿海区域，并不代表整条山脉都临海。地图只标出山系的代表位置；山脉的长度和走向需要结合完整地形图理解。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m15"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "transantarctic",
+        "横贯南极山脉"
+      ],
+      "view": "continent"
+    },
+    {
+      "id": "antarctica-dry-valleys",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "麦克默多干谷",
+      "category": "landscape",
+      "latitude": -77.5,
+      "longitude": 162,
+      "region": "南极洲",
+      "summary": "裸露谷地",
+      "description": "麦克默多干谷位于罗斯海一侧的南极大陆。这里有些谷地大面积露出岩石和土壤，与想象中处处被白雪覆盖的南极不同。寒冷、干燥以及风的作用，共同塑造了这里的环境。照片展示泰勒谷的一处景观。没有大片积雪并不等于温暖，也不等于毫无生命；科学家研究这里的地表、冰、湖泊与微小生物。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m22"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "dry-valleys",
+        "麦克默多干谷"
+      ],
+      "view": "ross"
+    },
+    {
+      "id": "antarctica-deception-island",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "欺骗岛",
+      "category": "island",
+      "latitude": -62.97,
+      "longitude": -60.65,
+      "region": "南极洲",
+      "summary": "火山岛海湾",
+      "description": "欺骗岛位于南设得兰群岛，是一座火山岛。海水进入火山破火山口，形成被陆地环抱的海湾，所以照片里可以看见船只。岛上的深色岩石与白色积雪构成鲜明对照。这提醒我们：南极地区也有火山和地质活动，不只有冰雪。这里的地图点表示岛的位置，不表示适合登陆或进入的路线。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m10"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "deception-island",
+        "欺骗岛"
+      ],
+      "view": "peninsula"
+    },
+    {
+      "id": "antarctica-dome-a",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "冰穹A",
+      "category": "iceDome",
+      "latitude": -80.37,
+      "longitude": 77.35,
+      "region": "南极洲",
+      "summary": "来源明确的内陆冰原",
+      "description": "冰穹A位于东南极大陆内陆的高冰盖区域。这里远离海岸，冰雪的表面缓缓隆起，形成冰穹。海边的企鹅、船舶和露岩景观不能拿来代替这里的样貌。科学研究关注冰层、气象与高原环境。下方地图用真实经纬度标明代表位置；本页暂不使用未经核实的冰穹A实景照片。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "dome-a",
+        "冰穹A"
+      ],
+      "view": "continent"
+    },
+    {
+      "id": "antarctica-zhongshan",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "中山站",
+      "category": "station",
+      "latitude": -69.37,
+      "longitude": 76.38,
+      "region": "南极洲",
+      "summary": "真实站区",
+      "description": "中山站位于东南极拉斯曼丘陵沿岸区域，是中国的南极科学考察站之一。这里有露出的岩石、站区建筑，也靠近海洋与冰雪环境。研究人员利用仪器观测大气等自然现象，后勤人员共同保障工作与生活。照片记录的是较早时期的站区，不能据此判断今天的全部设施。科考站属于研究设施，不代表一个国家拥有周围土地。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m06"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "zhongshan",
+        "中山站"
+      ],
+      "view": "continent"
+    },
+    {
+      "id": "antarctica-great-wall",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "长城站",
+      "category": "station",
+      "latitude": -62.22,
+      "longitude": -58.96,
+      "region": "南极洲",
+      "summary": "真实站区与海岸",
+      "description": "长城站位于南设得兰群岛的乔治王岛。它在南极半岛附近的岛屿上，而不是地理南极点。站区可以接触海洋与陆地环境，适合从多个角度认识南极。看照片时，可以观察建筑、路面和周边地形，再到地图上比较它与中山站的位置。两座站相距遥远，所在区域和自然条件也不同。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m12"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "great-wall",
+        "长城站"
+      ],
+      "view": "peninsula"
+    },
+    {
+      "id": "antarctica-qinling",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "秦岭站",
+      "category": "station",
+      "latitude": -74.94,
+      "longitude": 163.7,
+      "region": "南极洲",
+      "summary": "真实建筑全貌",
+      "description": "秦岭站位于罗斯海区域的恩克斯堡岛，是中国南极科学考察站之一。认识它的位置，要先在全洲地图上找到罗斯海，再放大看沿岸。站房、能源与通信等设施为科学工作提供支持，但不能只看建筑外形猜测全部研究任务。它与同在罗斯海一侧的麦克默多站是不同站点，也不在同一座岛上。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m11"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "qinling",
+        "秦岭站"
+      ],
+      "view": "ross"
+    },
+    {
+      "id": "antarctica-mcmurdo",
+      "countryId": "",
+      "regionId": "antarctica",
+      "name": "麦克默多站",
+      "category": "station",
+      "latitude": -77.85,
+      "longitude": 166.67,
+      "region": "南极洲",
+      "summary": "罗斯岛站区",
+      "description": "麦克默多站位于罗斯岛，是美国南极计划的重要研究与后勤基地。照片从高处展示了站区建筑与周边地形。科学工作不仅需要实验室，也依赖运输、通信、维修、食物与医疗保障。麦克默多站和麦克默多干谷名字相近，但不是同一个地方：一个是站区，一个是大陆上的谷地群。",
+      "observation": "我看见了什么？还有哪些信息需要查资料？",
+      "mediaIds": [
+        "antarctica-m13"
+      ],
+      "sourceUrl": "https://www.bas.ac.uk/about/where-we-work/antarctica/",
+      "articleIds": [
+        "antarctica-where",
+        "antarctica-poles",
+        "antarctica-regions"
+      ],
+      "aliases": [
+        "mcmurdo",
+        "麦克默多站"
+      ],
+      "view": "ross"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "antarctica-L01",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-where",
+      "type": "choice",
+      "question": "在极地地图上找到地理南极点。",
+      "options": [
+        {
+          "id": "0",
+          "text": "地理南极点"
+        },
+        {
+          "id": "1",
+          "text": "南极半岛"
+        },
+        {
+          "id": "2",
+          "text": "罗斯冰架"
+        }
+      ],
+      "answerId": "0",
+      "explanation": "地理南极点是地球自转轴南端对应的地表点。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-where-v2-b3",
+        "antarctica-where-v2-b4"
+      ],
+      "mediaId": "antarctica-m15",
+      "mapScope": "antarctica"
+    },
+    {
+      "id": "antarctica-C01",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-poles",
+      "type": "choice",
+      "question": "南极与北极最重要的地理差别是什么？",
+      "options": [
+        {
+          "id": "0",
+          "text": "两极的中心都是大陆"
+        },
+        {
+          "id": "1",
+          "text": "南极洲是大陆，北极地区中心是海洋"
+        },
+        {
+          "id": "2",
+          "text": "两极中心都是海洋"
+        }
+      ],
+      "answerId": "1",
+      "explanation": "环境差别需要看陆地和海洋，不能只看冰雪外观。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-poles-v2-b3",
+        "antarctica-poles-v2-b4"
+      ],
+      "mediaId": "antarctica-m15",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-L02",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-regions",
+      "type": "choice",
+      "question": "找到伸向南美洲方向的南极半岛。",
+      "options": [
+        {
+          "id": "0",
+          "text": "罗斯海沿岸"
+        },
+        {
+          "id": "1",
+          "text": "东南极内陆"
+        },
+        {
+          "id": "2",
+          "text": "南极半岛"
+        }
+      ],
+      "answerId": "2",
+      "explanation": "对照同一投影的半岛与南美洲方向，不能凭界面上下猜。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-regions-v2-b3",
+        "antarctica-regions-v2-b4"
+      ],
+      "mediaId": "antarctica-m15",
+      "mapScope": "antarctica"
+    },
+    {
+      "id": "antarctica-P01",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-snow-to-ice",
+      "type": "choice",
+      "question": "哪一组顺序最符合雪变成冰的主要过程？",
+      "options": [
+        {
+          "id": "0",
+          "text": "积累 → 压实 → 冰体形成"
+        },
+        {
+          "id": "1",
+          "text": "积累 → 冰体形成 → 压实"
+        },
+        {
+          "id": "2",
+          "text": "压实 → 新雪落下 → 全部融化"
+        }
+      ],
+      "answerId": "0",
+      "explanation": "这是概括过程，不表示每一层冰都对应固定一年。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-snow-to-ice-v2-b3",
+        "antarctica-snow-to-ice-v2-b4"
+      ],
+      "mediaId": "antarctica-m02",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-C02",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-ice-shelf",
+      "type": "choice",
+      "question": "冰架与大陆冰的关系是什么？",
+      "options": [
+        {
+          "id": "0",
+          "text": "冰架是完全独立的冰山"
+        },
+        {
+          "id": "1",
+          "text": "与陆地冰相连，向海上延伸并漂浮"
+        },
+        {
+          "id": "2",
+          "text": "冰架就是每年海水冻结的薄冰"
+        }
+      ],
+      "answerId": "1",
+      "explanation": "常见南极冰架与陆地冰流相连，和海水直接冻结的海冰有区别。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-ice-shelf-v2-b3",
+        "antarctica-ice-shelf-v2-b4"
+      ],
+      "mediaId": "antarctica-m02",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-P02",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-sea-ice",
+      "type": "choice",
+      "question": "哪一种冰主要由海水冻结形成？",
+      "options": [
+        {
+          "id": "0",
+          "text": "冰盖"
+        },
+        {
+          "id": "1",
+          "text": "冰架"
+        },
+        {
+          "id": "2",
+          "text": "海冰"
+        }
+      ],
+      "answerId": "2",
+      "explanation": "三张原创形成方式图与正文一起提供判断依据。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-sea-ice-v2-b3",
+        "antarctica-sea-ice-v2-b4"
+      ],
+      "mediaId": "antarctica-m16",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-C03",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-polar-day",
+      "type": "choice",
+      "question": "极昼和极夜主要与什么有关？",
+      "options": [
+        {
+          "id": "0",
+          "text": "地轴倾斜、季节和纬度"
+        },
+        {
+          "id": "1",
+          "text": "地球与太阳距离变化是唯一原因"
+        },
+        {
+          "id": "2",
+          "text": "只有当天的云量决定白昼长度"
+        }
+      ],
+      "answerId": "0",
+      "explanation": "地球仍在自转，不是太阳或地球停止运动。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-polar-day-v2-b3",
+        "antarctica-polar-day-v2-b4"
+      ],
+      "mediaId": "antarctica-m08",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-C04",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-desert",
+      "type": "choice",
+      "question": "为什么南极内陆许多地方属于极地荒漠？",
+      "options": [
+        {
+          "id": "0",
+          "text": "冰厚说明每年降水很多"
+        },
+        {
+          "id": "1",
+          "text": "降水很少"
+        },
+        {
+          "id": "2",
+          "text": "荒漠只指气温很高的沙地"
+        }
+      ],
+      "answerId": "1",
+      "explanation": "荒漠描述干旱条件，地表可以有多年累积的冰。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-desert-v2-b3",
+        "antarctica-desert-v2-b4"
+      ],
+      "mediaId": "antarctica-m08",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-C05",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-krill-web",
+      "type": "choice",
+      "question": "食物网里的箭头从磷虾指向企鹅，表示什么？",
+      "options": [
+        {
+          "id": "0",
+          "text": "磷虾吃企鹅"
+        },
+        {
+          "id": "1",
+          "text": "它们只是住在相同地方"
+        },
+        {
+          "id": "2",
+          "text": "企鹅能以磷虾为食"
+        }
+      ],
+      "answerId": "2",
+      "explanation": "图中统一约定食物指向取食者，只展示部分食物关系。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-krill-web-v2-b3",
+        "antarctica-krill-web-v2-b4"
+      ],
+      "mediaId": "antarctica-m05",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-P03",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-ocean-life",
+      "type": "choice",
+      "question": "依据呼吸资料卡，鲸需要怎样获得空气？",
+      "options": [
+        {
+          "id": "0",
+          "text": "浮上水面呼吸"
+        },
+        {
+          "id": "1",
+          "text": "一直在水下用鳃呼吸"
+        },
+        {
+          "id": "2",
+          "text": "只用皮肤从海水中吸收空气"
+        }
+      ],
+      "answerId": "0",
+      "explanation": "鲸用肺呼吸；照片与资料卡共同支持解释。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-ocean-life-v2-b3",
+        "antarctica-ocean-life-v2-b4"
+      ],
+      "mediaId": "antarctica-m05",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-C06",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-emperor",
+      "type": "choice",
+      "question": "哪些特点帮助帝企鹅减少热量流失？",
+      "options": [
+        {
+          "id": "0",
+          "text": "羽毛颜色是保温的唯一原因"
+        },
+        {
+          "id": "1",
+          "text": "羽毛、脂肪和聚集等行为"
+        },
+        {
+          "id": "2",
+          "text": "所有企鹅都依靠完全相同的繁殖行为"
+        }
+      ],
+      "answerId": "1",
+      "explanation": "不是因为它们完全感觉不到寒冷。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-emperor-v2-b3",
+        "antarctica-emperor-v2-b4"
+      ],
+      "mediaId": "antarctica-m03",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-P04",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-penguin-neighbours",
+      "type": "choice",
+      "question": "在两张有物种说明的照片中，帽带企鹅的头部有什么线索？",
+      "options": [
+        {
+          "id": "0",
+          "text": "眼睛周围的白色圈状花纹"
+        },
+        {
+          "id": "1",
+          "text": "颈侧的黄色或橙色区域"
+        },
+        {
+          "id": "2",
+          "text": "下巴附近的黑色带状线条"
+        }
+      ],
+      "answerId": "2",
+      "explanation": "照片须先正确识别物种，观察线索不等于单凭一处颜色完成所有鉴定。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-penguin-neighbours-v2-b3",
+        "antarctica-penguin-neighbours-v2-b4"
+      ],
+      "mediaId": "antarctica-m03",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-C07",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-ice-core",
+      "type": "choice",
+      "question": "冰芯封闭的小气泡可以帮助研究什么？",
+      "options": [
+        {
+          "id": "0",
+          "text": "过去空气的成分"
+        },
+        {
+          "id": "1",
+          "text": "气泡封闭以后每一天的风向"
+        },
+        {
+          "id": "2",
+          "text": "把气泡大小直接当作过去气温"
+        }
+      ],
+      "answerId": "0",
+      "explanation": "气泡的封闭时间与周围冰的年龄可能有差别。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-ice-core-v2-b3",
+        "antarctica-ice-core-v2-b4"
+      ],
+      "mediaId": "antarctica-m07",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-P05",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-satellites",
+      "type": "choice",
+      "question": "哪一组资料更适合比较同一冰区的变化？",
+      "options": [
+        {
+          "id": "0",
+          "text": "不同地点的两张照片"
+        },
+        {
+          "id": "1",
+          "text": "同地、同季节且注明日期和方法的记录"
+        },
+        {
+          "id": "2",
+          "text": "没有日期的两幅风景图"
+        }
+      ],
+      "answerId": "1",
+      "explanation": "不同地点的漂亮照片不组成可靠的变化对照。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-satellites-v2-b3",
+        "antarctica-satellites-v2-b4"
+      ],
+      "mediaId": "antarctica-m07",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-L03",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-station-map",
+      "type": "choice",
+      "question": "在地图上找到东南极沿海的中山站。",
+      "options": [
+        {
+          "id": "0",
+          "text": "长城站"
+        },
+        {
+          "id": "1",
+          "text": "麦克默多站"
+        },
+        {
+          "id": "2",
+          "text": "中山站"
+        }
+      ],
+      "answerId": "2",
+      "explanation": "先看大区域，再从三个站点中选择；进入站点不自动提交答案。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-station-map-v2-b3",
+        "antarctica-station-map-v2-b4"
+      ],
+      "mediaId": "antarctica-m06",
+      "mapScope": "antarctica"
+    },
+    {
+      "id": "antarctica-C08",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-station-day",
+      "type": "choice",
+      "question": "科考站日常生活为什么需要安排与协作？",
+      "options": [
+        {
+          "id": "0",
+          "text": "科学工作和生活保障都需要多人配合"
+        },
+        {
+          "id": "1",
+          "text": "每个站点都使用同一时间表"
+        },
+        {
+          "id": "2",
+          "text": "生活保障与科学工作无关"
+        }
+      ],
+      "answerId": "0",
+      "explanation": "不同站点与季节安排不同，不能把一种例子当成统一时间表。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-station-day-v2-b3",
+        "antarctica-station-day-v2-b4"
+      ],
+      "mediaId": "antarctica-m06",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-C09",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-sea-level",
+      "type": "choice",
+      "question": "为什么要区分陆地冰和浮在海里的冰？",
+      "options": [
+        {
+          "id": "0",
+          "text": "所有冰对海平面的影响一样"
+        },
+        {
+          "id": "1",
+          "text": "它们与海平面变化的关系不同"
+        },
+        {
+          "id": "2",
+          "text": "只看一张照片就能确定未来海平面"
+        }
+      ],
+      "answerId": "1",
+      "explanation": "陆地冰入海会增加海洋中的水；浮冰及冰架作用要分别解释。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-sea-level-v2-b3",
+        "antarctica-sea-level-v2-b4"
+      ],
+      "mediaId": "antarctica-m16",
+      "mapScope": ""
+    },
+    {
+      "id": "antarctica-P06",
+      "countryId": "",
+      "regionId": "antarctica",
+      "articleId": "antarctica-treaty-history",
+      "type": "choice",
+      "question": "时间线资料中，1961年对应哪一件事？",
+      "options": [
+        {
+          "id": "0",
+          "text": "签署环境保护议定书"
+        },
+        {
+          "id": "1",
+          "text": "签署《南极条约》"
+        },
+        {
+          "id": "2",
+          "text": "《南极条约》生效"
+        }
+      ],
+      "answerId": "2",
+      "explanation": "1959是签署；1991与1998分别对应环保议定书签署与生效。",
+      "hint": "回到正文与图解，看看形成过程、位置和资料说明。",
+      "evidenceBlockIds": [
+        "antarctica-treaty-history-v2-b3",
+        "antarctica-treaty-history-v2-b4"
+      ],
+      "mediaId": "antarctica-m16",
+      "mapScope": ""
+    }
+  ],
+  "observations": [
+    {
+      "id": "antarctica-O01",
+      "kind": "observation",
+      "articleId": "antarctica-wind",
+      "prompt": "观察雪面与气象设备，记录可见细节并提出一个关于风的问题。",
+      "answer": null,
+      "explanation": "不从画面猜出精确风速。",
+      "evidenceBlockIds": [
+        "antarctica-wind-v2-b3"
+      ],
+      "evidenceStatus": "article and caption linked",
+      "status": "implemented"
+    },
+    {
+      "id": "antarctica-O02",
+      "kind": "observation",
+      "articleId": "antarctica-under-ice",
+      "prompt": "观察海冰与海水的边界，并提出一个关于冰下世界的问题。",
+      "answer": null,
+      "explanation": "未出现在图中的生物写在疑问中，而非我看见。",
+      "evidenceBlockIds": [
+        "antarctica-under-ice-v2-b3"
+      ],
+      "evidenceStatus": "article and caption linked",
+      "status": "implemented"
+    },
+    {
+      "id": "antarctica-O03",
+      "kind": "observation",
+      "articleId": "antarctica-life-on-land",
+      "prompt": "观察苔藓或地衣的颜色、形态与周围地表。",
+      "answer": null,
+      "explanation": "不以照片确定未知物种，不鼓励采集。",
+      "evidenceBlockIds": [
+        "antarctica-life-on-land-v2-b3"
+      ],
+      "evidenceStatus": "article and caption linked",
+      "status": "implemented"
+    },
+    {
+      "id": "antarctica-O04",
+      "kind": "observation",
+      "articleId": "antarctica-weather-record",
+      "prompt": "观察气象设备，写下你想记录的天气变化与一个问题。",
+      "answer": null,
+      "explanation": "时间范围和数据身份必须明确。",
+      "evidenceBlockIds": [
+        "antarctica-weather-record-v2-b3"
+      ],
+      "evidenceStatus": "article and caption linked",
+      "status": "implemented"
+    },
+    {
+      "id": "antarctica-O05",
+      "kind": "observation",
+      "articleId": "antarctica-teamwork",
+      "prompt": "选一种科考工作，说说它怎样帮助团队。",
+      "answer": null,
+      "explanation": "用相关资料说明，不预填孩子的回答。",
+      "evidenceBlockIds": [
+        "antarctica-teamwork-v2-b3"
+      ],
+      "evidenceStatus": "article and caption linked",
+      "status": "implemented"
+    },
+    {
+      "id": "antarctica-O06",
+      "kind": "observation",
+      "articleId": "antarctica-protect",
+      "prompt": "从一张有来源的观察场景中，想想怎样减少打扰。",
+      "answer": null,
+      "explanation": "这是开放思考，没有积分或标准句子。",
+      "evidenceBlockIds": [
+        "antarctica-protect-v2-b3"
+      ],
+      "evidenceStatus": "article and caption linked",
+      "status": "implemented"
+    }
+  ],
+  "media": [
+    {
+      "id": "antarctica-m02",
+      "asset": "assets/atlas/antarctica-m02.jpg",
+      "caption": "罗斯冰架中的裂隙。照片展示裂隙内部，不是冰架前缘。",
+      "credit": "No machine-readable author provided. Mbz1 assumed (based on copyright claims).",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_ice_shelf.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 782,
+      "sha256": "ff2898625efbe5e758fbb3c2a41df65a2e6ffbe23b4863543ce866441d3c7dd3",
+      "captureDate": "22 April 2007 (original upload date)",
+      "originalCaption": "A Crevasse in the Ross Ice Shelf on the Ross Sea\n\nPhotograped by Brocken Inaglory in January of 2001"
+    },
+    {
+      "id": "antarctica-m03",
+      "asset": "assets/atlas/antarctica-m03.jpg",
+      "caption": "正在换羽的帝企鹅幼鸟。 © François Guerraz",
+      "credit": "© François Guerraz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_Penguin_chicks_moulting.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 800,
+      "sha256": "c824ccfefecdee2430be97145c00369ecf2d72fb92f5ff023205164f8ce9017f",
+      "captureDate": "2012-12-31 19:28:47",
+      "originalCaption": "Emperor Penguin chicks moulting"
+    },
+    {
+      "id": "antarctica-m04",
+      "asset": "assets/atlas/antarctica-m04.jpg",
+      "caption": "雪地中的阿德利企鹅。",
+      "credit": "Christopher Michel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adelie_Penguins_(8373702449).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 1799,
+      "sha256": "c2c0de66de2499e9adafe9c1d76d10e97a076dd477be7b05a16ebdd16b5378b5",
+      "captureDate": "2013-01-03 18:42",
+      "originalCaption": "Adelie Penguins"
+    },
+    {
+      "id": "antarctica-m05",
+      "asset": "assets/atlas/antarctica-m05.jpg",
+      "caption": "南极磷虾。身体许多部位近乎透明。",
+      "credit": "Krill666.jpg: Uwe Kils I am willing to give the image in 1700 resolution to Wikipedia Uwe Kils",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antarctic_krill_(Euphausia_superba).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 815,
+      "sha256": "a751b64497c0373a1a7828a05b6419eb78f02e69e7e2a001a8e95cea37dd92b6",
+      "captureDate": "2011-04-11 06:49",
+      "originalCaption": "Antarctic krill Euphausia superba.  This is the startimage of the virtual microscope http://www.ecoscope.com/cybermic/index.htm of krill where you can click into details of the animal to get higher magnifications, like the gills, the feeding basket or the swimming legs, up to raster electron and transmission electron images, also some videos - there are many links to jumpoff sites for educators, like from the SCIENCE MAGAZINE. In natural hovering position - the red organs produce the bioluminescence - the hepatopancreas is filled with green phytoplankton, the food of krill, the strait gut in the back is filled with the empty shells of phytoplankton - in the front you see the compound eye"
+    },
+    {
+      "id": "antarctica-m06",
+      "asset": "assets/atlas/antarctica-m06.jpg",
+      "caption": "中山站站区历史照片；建筑与裸露岩石相邻。",
+      "credit": "Hannes Grobe, Alfred Wegener Institute",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zhong_shan-ant_hg.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 900,
+      "sha256": "2487e710a3be9910c56b5706bdf9759fb7dfd0517c6e62e455a6835a75e43242",
+      "captureDate": "2007-03-05",
+      "originalCaption": "Chinese station Zhongshan, Prydz Bay/Larsemann Hills, East Antarctica"
+    },
+    {
+      "id": "antarctica-m07",
+      "asset": "assets/atlas/antarctica-m07.jpg",
+      "caption": "研究人员检查西南极冰盖冰芯。",
+      "credit": "Kendrick15435",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scientist_examines_an_ice_core.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 900,
+      "sha256": "aea46fb1fb9d32f574f0a8c3fc7bd66de06f166dd4a8432d0a2007a4ff50bd82",
+      "captureDate": "2008-01-18 15:41:14",
+      "originalCaption": "This ice core was recovered as part of the WAIS DIvide ice core project, which recovered the most detailed record yet of atmospheric carbon dioxide spanning the last 68,000 years."
+    },
+    {
+      "id": "antarctica-m08",
+      "asset": "assets/atlas/antarctica-m08.jpg",
+      "caption": "南极夏季的低角度阳光与海冰。",
+      "credit": "Jason Auch",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Midnight_sun,_Antarctica.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 800,
+      "sha256": "7641e48f8c133f005c92025111dce5f098b2fde30245364024c723d41597a8d4",
+      "captureDate": "2008-12-25 18:21:34",
+      "originalCaption": "Midnight sun in Antarctica. Original caption:\n\n\"This is as close as the sun came to setting today. 24 hour daylight in the summer.\""
+    },
+    {
+      "id": "antarctica-m10",
+      "asset": "assets/atlas/antarctica-m10.jpg",
+      "caption": "欺骗岛火山破火山口内的海湾。",
+      "credit": "W. Bulach",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:.0_1439_volcanic_island_Deception_Island_(Antarctica)_-_cruise_ship_of_the_Hurtigruten.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 797,
+      "sha256": "26785ecced466e5a84fb37908506e80ace094114ecc18805df1addaefaae77b5",
+      "captureDate": "2005-12-08 14:00:32",
+      "originalCaption": "A cruise ship of the Hurtigruten (Norway) in the caldera of the volcanic island Deception Island (Antarctica)."
+    },
+    {
+      "id": "antarctica-m11",
+      "asset": "assets/atlas/antarctica-m11.jpg",
+      "caption": "秦岭站站区，位于罗斯海沿岸区域。",
+      "credit": "中国新闻社",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%9E%81%E8%80%83%E5%AF%9F%E7%AB%99%E7%A7%A6%E5%B2%AD%E7%AB%99.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 675,
+      "sha256": "f7cb6134fff859bf394495a8ba1bccb10bc157e04141059b31b045a3a5bb2bc4",
+      "captureDate": "2024-02-07",
+      "originalCaption": "​中国南极考察站秦岭站"
+    },
+    {
+      "id": "antarctica-m12",
+      "asset": "assets/atlas/antarctica-m12.jpg",
+      "caption": "长城站站区的建筑。",
+      "credit": "User:Seleonov",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antarctic_Great_Wall_Station.JPG",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 543,
+      "sha256": "076c108ba16efc14a6e9f2967358d3bf6022d548c089894a158fb7656e2c5c7a",
+      "captureDate": "2011-03-23",
+      "originalCaption": "Antarctic Great Wall Station"
+    },
+    {
+      "id": "antarctica-m13",
+      "asset": "assets/atlas/antarctica-m13.jpg",
+      "caption": "从观测山方向看到的麦克默多站。",
+      "credit": "Gaelen Marsden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:McMurdo_Station.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 488,
+      "sha256": "3b6c998fdfeb0baef7fe5f48efd82c9600e61afd38e0a9c2ebd8376b7a52a19e",
+      "captureDate": "2006-11-21",
+      "originalCaption": "McMurdo Station on Ross Island, Antarctica, taken from Observation Hill."
+    },
+    {
+      "id": "antarctica-m14",
+      "asset": "assets/atlas/antarctica-m14.jpg",
+      "caption": "地理南极点标志；冰面上的标记需要随冰体移动而调整。",
+      "credit": "Kuno Lechner",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geographic_Southpole.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 797,
+      "sha256": "c760ee7270b1fe2d8d42c08c6858cb2627be21ba310eb6ee54201e570e64c03b",
+      "captureDate": "2000",
+      "originalCaption": "Geographic Southpole"
+    },
+    {
+      "id": "antarctica-m15",
+      "asset": "assets/atlas/antarctica-m15.jpg",
+      "caption": "哈雷特角附近的赫歇尔山与海岸，属于横贯南极山脉区域。",
+      "credit": "Andrew Mandemaker",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt_Herschel,_Antarctica,_Jan_2006.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 900,
+      "sha256": "a332f1f0c2d29b4eac1204a34a38418011d72392c772e2a009f95d6ea97c428e",
+      "captureDate": "2006-01-20",
+      "originalCaption": "Mt Herschel (3335m asl) from Cape Hallet with Seabee Hook penguin colony in Foreground. Antarctica."
+    },
+    {
+      "id": "antarctica-m16",
+      "asset": "assets/atlas/antarctica-m16.jpg",
+      "caption": "威德尔海的海冰。照片记录拍摄当时的状况。",
+      "credit": "NASA ICE",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CryoSat_sea_ice_Weddell_Sea_D7000_DSC0781_(6245410446).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 758,
+      "sha256": "7bc6bddf6dabfaa8657623cc86cd08ca1d1bf6ac8977cd8f273ec409889fc77e",
+      "captureDate": "2011-10-13 14:14",
+      "originalCaption": "CryoSat sea_ice_Weddell_Sea_D7000_DSC0781"
+    },
+    {
+      "id": "antarctica-m18",
+      "asset": "assets/atlas/antarctica-m18.jpg",
+      "caption": "巴里恩托斯岛上的帽带企鹅，下巴有细黑线。",
+      "credit": "Gordon Leggett",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019-03-03_Chinstrap_penguin_on_Barrientos_Island,_Antarctica.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 801,
+      "sha256": "0f5762811b733586c28bcb5d90e6bb6c9edb8e19cdebb05491fd759f38654bbe",
+      "captureDate": "2019-03-03 17:21:45",
+      "originalCaption": "Chinstrap penguin (Pygoscelis antarcticus) on Barrientos Island, in Antarctica on March 3, 2019."
+    },
+    {
+      "id": "antarctica-m19",
+      "asset": "assets/atlas/antarctica-m19.jpg",
+      "caption": "南极群岛 Shingle Cove 的植被与裸露岩石。",
+      "credit": "Carina Gsottbauer",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shingle_Cove_4.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 900,
+      "sha256": "dc42dd3e5f247164b8438ef7d0f53f7484bd27c95f437f471f68c2276e4d6099",
+      "captureDate": "2026-02-07 08:52:15",
+      "originalCaption": "Antarctic hair grass, lichen, and moss at Shingle Cove, Iceberg Bay, Coronation Island, South Orkney Islands, Antarctica. Photo taken 7 Feb. 2026."
+    },
+    {
+      "id": "antarctica-m20",
+      "asset": "assets/atlas/antarctica-m20.jpg",
+      "caption": "埃里伯斯山附近的气象观测设备。",
+      "credit": "Tsy1980",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Weather_observations_in_Antarctica.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 800,
+      "sha256": "dcce7e4184238dba42034b51ea1b0831fcbd028fb6e05ddadba9f43b55a6a40b",
+      "captureDate": "2008-12-19 06:56:17",
+      "originalCaption": "Weather observations by using an automatic station at a camp on the foot of Mount Erebus (Ross Ice Shelf, Antarctica)"
+    },
+    {
+      "id": "antarctica-m21",
+      "asset": "assets/atlas/antarctica-m21.jpg",
+      "caption": "南极半岛西侧安德沃德湾的冰川与海岸。",
+      "credit": "W. Bulach",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_2188_Antarktis_-_Andvord_Bay.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 797,
+      "sha256": "710c6d8f5b9a091ad952d7a50b6c820b4561aa965d8a9e9de7fcfda3e672145e",
+      "captureDate": "2005-12-06 22:10:02",
+      "originalCaption": "Andvord Bay (Neko Harbour): a bay on the western side of the Antarctic Peninsula."
+    },
+    {
+      "id": "antarctica-m22",
+      "asset": "assets/atlas/antarctica-m22.jpg",
+      "caption": "麦克默多干谷中的泰勒谷，露出的地表以岩石为主。",
+      "credit": "owamux",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taylor_Valley_of_the_McMurdo_Dry_Valleys.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 675,
+      "sha256": "b3af308af4fef5fbf2400ff33207fe38d7a6200c32c78d4453421977fddb068d",
+      "captureDate": "2017-02-26 17:28:03",
+      "originalCaption": "Standing in Taylor Valley of the McMurdo Dry Valleys"
+    },
+    {
+      "id": "antarctica-m24",
+      "asset": "assets/atlas/antarctica-m24.jpg",
+      "caption": "成年帝企鹅与幼鸟。",
+      "credit": "Dafna Ben nun",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emperor_penguins_in_Antarctica.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1200,
+      "height": 800,
+      "sha256": "6c73c6742d0194b90507999a218ee9cb635ec17754b700529d6f305e66fa32dd",
+      "captureDate": "2009-10-26 23:06:19",
+      "originalCaption": "An adult penguin taking care of a group of chicks\nThis photo was exhibited and was chosen to be the main image of the National Geographic exhibition in Seol Korea"
+    }
+  ]
+}

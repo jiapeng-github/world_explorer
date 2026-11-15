@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-14",
+  "mode": "built-in image_gen edit",
+  "status": "completed",
+  "revisions": [
+    {
+      "id": "01-antarctica-overview",
+      "reason": "统一目录导航与首页工具",
+      "prompt": "Edit ONLY navigation details in the supplied two-screen UI board, keeping ALL photography, exact layout, color, Chinese text, eight topic cards, spacing and sizes intact. On RIGHT screen replace bottom reader toolbar with four global tabs exactly 发现 / 地图 / 百科 / 我的, 百科 selected in deep navy. On LEFT keep same four tabs with 百科 selected; remove the unused hamburger menu from the top right, keep search icon. Make selected navigation navy (orange may remain CTA accent). Do not alter anything else.",
+      "input": "images/01-antarctica-overview.png",
+      "output": "images/01-antarctica-overview-v2.png",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-d3471a6e-ff8b-479b-a17b-9f11dd0baa04.png"
+    },
+    {
+      "id": "02-antarctica-polar-map",
+      "reason": "地图导航选中状态与术语",
+      "prompt": "Edit ONLY navigation and one label in this supplied Antarctic map design board. Preserve overall tablet plus mobile layout, map concept, geography and all photographs. Tablet bottom four tabs must be 发现 / 地图 / 百科 / 我的 with 地图 selected in deep navy and other tabs unselected. Mobile bottom replace reader tools with same four global tabs and 地图 selected in navy. In map's dashed circle label replace 约66.5°S with 约66.56°S. Keep 地图示意 visible because this is a concept map. No extra toolbar, awards or labels.",
+      "input": "images/02-antarctica-polar-map.png",
+      "output": "images/02-antarctica-polar-map-v2.png",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-99ec368e-82de-4aa1-999e-0d146c15dd4d.png"
+    },
+    {
+      "id": "05-antarctica-science",
+      "reason": "地点页移除阅读工具栏",
+      "prompt": "Edit ONLY the bottom of the RIGHT mobile screen in this supplied two-screen board. This is a PLACE page for 中山站, not an article reader. Remove the entire bottom 目录 / 听讲解 / 收藏 / 笔记 toolbar and leave appropriate calm white safe-area spacing below the existing locator map and two orange action buttons. Retain top back, all photos, text including 建筑示意, and the two existing actions. LEFT screen is unchanged, preserving its global nav with 百科 selected. Do not add new controls or change the design style.",
+      "input": "images/05-antarctica-science.png",
+      "output": "images/05-antarctica-science-v2.png",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-14609143-61fc-43ac-8077-29852ad040ff.png"
+    },
+    {
+      "id": "06-antarctica-light-history",
+      "reason": "修正极昼光照与历史资料表达",
+      "prompt": "Revise the supplied two-screen UI board while preserving overall layout, photo headers, modern white/navy/orange style and Chinese headings. CRITICAL LEFT science diagram fix: December and June spheres have the SAME tilted rotation axis orientation, north pole upper-right and south pole lower-left. For 12月, sunlight comes FROM LEFT toward right, LEFT hemisphere lit, SOUTH POLE visibly in daylight. For 6月, sunlight comes FROM RIGHT toward left, RIGHT hemisphere lit, SOUTH POLE visibly in darkness. Both show multiple horizontal parallel rays, NOT same rays on same side. Label 原创原理示意 and keep correct two captions. LEFT bottom reader tools remain. RIGHT timeline: remove four faux historical photographs and fake physical treaty books from timeline cards. Replace each small thumbnail with a clean flat original editorial information graphic/icon on pale blue: route compass for1911, observation instrument for1957—1958, simple document icon for treaty, leaf with document for protocol. Label these 原创资料摘记, no fake seals/signatures. Dates must be 1911 抵达地理南极点; 1957—1958 多国协作观测; 1959 签署《南极条约》 with tiny 1961年生效; 1991 签署环保议定书 with tiny 1998年生效. Replace RIGHT bottom reader tools with global 发现 地图 百科 我的, 百科 navy selected. Do not add other text or fake progress.",
+      "input": "images/06-antarctica-light-history.png",
+      "output": "images/06-antarctica-light-history-v2.png",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-ca0fff8c-c660-46a4-ac46-9d5224ed515b.png"
+    },
+    {
+      "id": "07-antarctica-explore",
+      "reason": "任务页所属导航",
+      "prompt": "Make exactly one small edit to the supplied two-screen board: LEFT bottom navigation must show 百科 selected in deep navy, and 发现 unselected. Keep right 我的 selected as it is. Preserve every other pixel-level layout, photo, text, task cards, initial zero stats, empty state, colors and buttons. Do not add anything.",
+      "input": "images/07-antarctica-explore.png",
+      "output": "images/07-antarctica-explore-v2.png",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-ca8d0534-5661-45af-b0da-0392e06f4151.png"
+    },
+    {
+      "id": "08-antarctica-journey-note",
+      "reason": "路线页所属导航",
+      "prompt": "Make exactly one small edit to the supplied two-screen board: LEFT bottom navigation must show 百科 selected in deep navy, and 发现 unselected. RIGHT observation editor remains untouched with empty fields, disabled grey 保存观察 and no bottom navigation. Preserve all imagery, exact Chinese copy, title, route steps, dimensions, colors and layout. Do not add anything.",
+      "input": "images/08-antarctica-journey-note.png",
+      "output": "images/08-antarctica-journey-note-v2.png",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-1f1658b5-b490-400d-bb04-6f4c5bce53c4.png"
+    }
+  ]
+}

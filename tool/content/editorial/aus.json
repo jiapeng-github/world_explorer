@@ -1,0 +1,3747 @@
+{
+  "country": {
+    "id": "aus",
+    "coverage": "editorial",
+    "revision": 1,
+    "capital": "堪培拉",
+    "mediaId": "aus-sydney",
+    "tagline": "从海岸走向红土大陆",
+    "intro": "沿着港湾认识城市，再去河流、雨林与珊瑚礁，发现不同环境中的生活。",
+    "facts": [
+      {
+        "label": "首都",
+        "value": "堪培拉"
+      },
+      {
+        "label": "位置",
+        "value": "大洋洲"
+      },
+      {
+        "label": "范围",
+        "value": "南半球"
+      }
+    ],
+    "sections": {
+      "overview": [
+        "aus-find-on-map",
+        "aus-capital",
+        "aus-country-continent"
+      ],
+      "geography": [
+        "aus-dry-interior",
+        "aus-murray-river",
+        "aus-seasons"
+      ],
+      "people": [
+        "aus-first-peoples",
+        "aus-torres-strait",
+        "aus-languages"
+      ],
+      "daily": [
+        "aus-ferries",
+        "aus-tram-transfer",
+        "aus-public-space"
+      ],
+      "food": [
+        "aus-wheat-bread",
+        "aus-food-label",
+        "aus-market-origin"
+      ],
+      "culture": [
+        "aus-opera-house",
+        "aus-art-authors",
+        "aus-museum-evidence"
+      ],
+      "landmarks": [
+        "aus-canberra-lake",
+        "aus-uluru-country",
+        "aus-coast-change"
+      ],
+      "nature": [
+        "aus-coral",
+        "aus-kangaroo-pouch",
+        "aus-platypus"
+      ],
+      "history": [
+        "aus-before-colonisation",
+        "aus-colonisation",
+        "aus-federation"
+      ],
+      "questions": [
+        "aus-koala-not-bear",
+        "aus-reef-health",
+        "aus-animal-observation"
+      ]
+    },
+    "takeaways": [
+      "首都是堪培拉，悉尼不是首都。",
+      "国家、大陆与大洋洲表示不同范围。",
+      "观察、解释与资料来源要分开记录。"
+    ],
+    "timeline": [
+      {
+        "id": "aus-timeline-before-colonisation",
+        "period": "长期历史",
+        "title": "历史不从殖民开始",
+        "body": "认识具体社区、考古与持续的文化联系。",
+        "mediaId": "aus-history-before",
+        "articleIds": [
+          "aus-before-colonisation"
+        ]
+      },
+      {
+        "id": "aus-timeline-colonisation",
+        "period": "殖民时期",
+        "title": "谁的生活被改变",
+        "body": "结合不同群体的经历认识土地、权利与抵抗。",
+        "mediaId": "aus-history-colonial",
+        "articleIds": [
+          "aus-colonisation"
+        ]
+      },
+      {
+        "id": "aus-timeline-federation",
+        "period": "1901年",
+        "title": "联邦成立",
+        "body": "六个殖民地联合；制度形成不等于人人已平等参与。",
+        "mediaId": "aus-history-federal",
+        "articleIds": [
+          "aus-federation"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "geo",
+        "url": "https://www.ga.gov.au/scientific-topics/national-location-information/geography",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "people",
+        "url": "https://aiatsis.gov.au/explore/first-peoples-australia",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "languages",
+        "url": "https://aiatsis.gov.au/explore/languages-alive",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "coral",
+        "url": "https://www.gbrmpa.gov.au/learn/coral",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "polyps",
+        "url": "https://oceanservice.noaa.gov/facts/coral.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "history",
+        "url": "https://www.nma.gov.au/defining-moments/resources/federation",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "colonisation",
+        "url": "https://digital-classroom.nma.gov.au/defining-moments/first-fleet-arrives-sydney-cove",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "uluru",
+        "url": "https://uluru.gov.au/discover/culture/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "uluru-photo",
+        "url": "https://uluru.gov.au/things-do/activities/photography/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "seasons",
+        "url": "https://www.bom.gov.au/news-and-media/solstices-equinoxes-and-the-seasons",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "climate",
+        "url": "https://www.bom.gov.au/climate/maps/averages/rainfall/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "capital",
+        "url": "https://www.nca.gov.au/attraction/lake-burley-griffin",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "ferry",
+        "url": "https://transportnsw.info/travel-info/ways-to-get-around/ferry",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "tram",
+        "url": "https://transport.vic.gov.au/plan-a-journey/network-maps/melbourne-public-transport-maps",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "food",
+        "url": "https://www.foodstandards.gov.au/business/labelling",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "origin",
+        "url": "https://www.foodstandards.gov.au/consumer/labelling/coo",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "opera",
+        "url": "https://www.sydneyoperahouse.com/our-story/the-spherical-solution",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "coast",
+        "url": "https://www.parks.vic.gov.au/get-into-nature/conservation-and-science/our-amazing-diversity/virtual-exploration/fly-over-the-twelve-apostles",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "kangaroo",
+        "url": "https://australian.museum/learn/animals/mammals/eastern-grey-kangaroo/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "platypus",
+        "url": "https://australian.museum/learn/animals/mammals/platypus/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "koala",
+        "url": "https://australian.museum/learn/animals/mammals/koala/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "collection",
+        "url": "https://www.nma.gov.au/explore/collection",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "cradle",
+        "url": "https://parks.tas.gov.au/explore-our-parks/cradle-mountain",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "island",
+        "url": "https://southaustralia.com/products/kangaroo-island/attraction/remarkable-rocks-flinders-chase-national-park",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "kakadu",
+        "url": "https://kakadu.gov.au/discover/nature/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "daintree",
+        "url": "https://parks.qld.gov.au/parks/daintree",
+        "checkedAt": "2026-11-11"
+      }
+    ],
+    "editorial": {
+      "subtitle": "从海岸走向红土大陆",
+      "introduction": "沿着港湾认识城市，再去河流、雨林与珊瑚礁，发现不同环境中的生活。",
+      "startLabel": "从海岸开始",
+      "startJourneyId": "coast-city",
+      "questionArticleIds": [
+        "aus-coral",
+        "aus-capital"
+      ],
+      "factOverrides": [
+        {
+          "label": "首都",
+          "value": "堪培拉"
+        },
+        {
+          "label": "位置",
+          "value": "大洋洲"
+        },
+        {
+          "label": "范围",
+          "value": "南半球"
+        }
+      ],
+      "directoryTitle": "澳大利亚 · 探索目录",
+      "directory": {
+        "mediaIds": [
+          "aus-sydney",
+          "aus-murray",
+          "aus-reef"
+        ]
+      },
+      "journeys": [
+        {
+          "id": "coast-city",
+          "title": "海岸与城市",
+          "subtitle": "从一个问题出发，连接三个发现。",
+          "coverTitle": "海岸与城市",
+          "mediaId": "aus-sydney",
+          "articleIds": [
+            "aus-ferries",
+            "aus-capital",
+            "aus-tram-transfer"
+          ],
+          "stopTitles": [
+            "港湾的连接",
+            "找到首都",
+            "电车线路"
+          ]
+        },
+        {
+          "id": "land-water",
+          "title": "红土与水",
+          "subtitle": "从一个问题出发，连接三个发现。",
+          "coverTitle": "红土与水",
+          "mediaId": "aus-murray",
+          "articleIds": [
+            "aus-dry-interior",
+            "aus-uluru-country",
+            "aus-murray-river"
+          ],
+          "stopTitles": [
+            "干旱与记录",
+            "认识乌鲁鲁",
+            "沿着河流"
+          ]
+        },
+        {
+          "id": "animal-homes",
+          "title": "动物的家",
+          "subtitle": "从一个问题出发，连接三个发现。",
+          "coverTitle": "动物的家",
+          "mediaId": "aus-reef",
+          "articleIds": [
+            "aus-coral",
+            "aus-koala-not-bear",
+            "aus-platypus"
+          ],
+          "stopTitles": [
+            "珊瑚群落",
+            "桉树林",
+            "淡水环境"
+          ]
+        }
+      ],
+      "timeline": [
+        {
+          "id": "aus-timeline-before-colonisation",
+          "period": "长期历史",
+          "title": "历史不从殖民开始",
+          "body": "认识具体社区、考古与持续的文化联系。",
+          "mediaId": "aus-history-before",
+          "articleIds": [
+            "aus-before-colonisation"
+          ]
+        },
+        {
+          "id": "aus-timeline-colonisation",
+          "period": "殖民时期",
+          "title": "谁的生活被改变",
+          "body": "结合不同群体的经历认识土地、权利与抵抗。",
+          "mediaId": "aus-history-colonial",
+          "articleIds": [
+            "aus-colonisation"
+          ]
+        },
+        {
+          "id": "aus-timeline-federation",
+          "period": "1901年",
+          "title": "联邦成立",
+          "body": "六个殖民地联合；制度形成不等于人人已平等参与。",
+          "mediaId": "aus-history-federal",
+          "articleIds": [
+            "aus-federation"
+          ]
+        }
+      ],
+      "timelineTitle": "澳大利亚 · 历史线索",
+      "sections": {
+        "overview": {
+          "title": "国家概况",
+          "summary": "在世界地图上先找到赤道，再向南看。",
+          "mediaId": "aus-canberra"
+        },
+        "geography": {
+          "title": "山川地理",
+          "summary": "看到红土或稀疏植被，会让人想到干旱，但判断气候需要多年降雨与蒸发等记录。",
+          "mediaId": "aus-wheat"
+        },
+        "people": {
+          "title": "人群与语言",
+          "summary": "澳大利亚的 Aboriginal peoples 和 Torres Strait Islander peoples 包含众多不同群体，拥有不同语言、历史和文化。",
+          "mediaId": "aus-study"
+        },
+        "daily": {
+          "title": "日常生活",
+          "summary": "悉尼港湾中的渡轮连接不同码头。",
+          "mediaId": "aus-ferry",
+          "primaryMapPlaceId": "aus-melbourne",
+          "primaryLabel": "在地图上找墨尔本"
+        },
+        "food": {
+          "title": "食物的旅程",
+          "summary": "小麦是一种谷物，收获的籽粒可以经过加工制成面粉。",
+          "mediaId": "aus-wheat"
+        },
+        "culture": {
+          "title": "文化与创作",
+          "summary": "悉尼歌剧院位于港湾边，屋顶轮廓容易辨认。",
+          "mediaId": "aus-sydney"
+        },
+        "landmarks": {
+          "title": "风景与地标",
+          "summary": "伯利·格里芬湖是堪培拉城市景观的重要部分。",
+          "mediaId": "aus-canberra"
+        },
+        "nature": {
+          "title": "自然与动物",
+          "summary": "一些珊瑚群体有分枝，容易让人联想到植物，但珊瑚虫是动物。",
+          "mediaId": "aus-reef"
+        },
+        "history": {
+          "title": "历史线索",
+          "summary": "澳大利亚原住民族在欧洲殖民到来之前已经拥有长期历史、多样社会与知识。",
+          "mediaId": "aus-history-before"
+        },
+        "questions": {
+          "title": "好奇问答",
+          "summary": "考拉有时被叫作“树袋熊”，但它并不属于熊类。",
+          "mediaId": "aus-koala"
+        }
+      },
+      "featuredPlaceIds": [
+        "aus-great-barrier-reef",
+        "aus-canberra",
+        "aus-cradle-mountain"
+      ],
+      "explore": {
+        "mediaId": "aus-reef",
+        "featuredTaskIds": [
+          "aus-l01",
+          "aus-c12"
+        ],
+        "categories": [
+          {
+            "id": "location",
+            "title": "找地图",
+            "mediaId": "aus-canberra"
+          },
+          {
+            "id": "observation",
+            "title": "看照片",
+            "mediaId": "aus-joey"
+          },
+          {
+            "id": "choice",
+            "title": "找证据",
+            "mediaId": "aus-reef"
+          },
+          {
+            "id": "open",
+            "title": "写观察",
+            "mediaId": "aus-market"
+          }
+        ]
+      },
+      "discoveries": {
+        "mediaId": "aus-sydney",
+        "recommendedPlaceIds": [
+          "aus-great-barrier-reef",
+          "aus-cradle-mountain"
+        ],
+        "recommendationTitles": [
+          "再看珊瑚礁",
+          "认识塔斯马尼亚"
+        ]
+      }
+    }
+  },
+  "articles": [
+    {
+      "id": "aus-find-on-map",
+      "countryId": "aus",
+      "sectionId": "overview",
+      "title": "怎样在世界地图找到澳大利亚？",
+      "summary": "在世界地图上先找到赤道，再向南看。",
+      "mediaId": "aus-canberra",
+      "blocks": [
+        {
+          "id": "aus-find-on-map-b1",
+          "title": "先找南半球",
+          "text": "在世界地图上先找到赤道，再向南看。澳大利亚的大陆部分位于赤道以南，西侧是印度洋，东侧通向太平洋。寻找时可以先辨认大片陆地，再用海岸线确认，不要只记住一个图钉的位置。"
+        },
+        {
+          "id": "aus-find-on-map-b2",
+          "title": "留意塔斯马尼亚",
+          "text": "大陆东南方的塔斯马尼亚也是澳大利亚的一部分。它与大陆之间隔着巴斯海峡。国家范围不总是一块连在一起的陆地，因此看地图时要注意分开的岛屿，也要读清楚地图标题。"
+        },
+        {
+          "id": "aus-find-on-map-b3",
+          "title": "选择地图范围",
+          "text": "本应用的国家总览展示大陆和塔斯马尼亚，不表示澳大利亚全部外部领地。世界图适合认识相对位置，局部图适合寻找城市和河流。放大图片会改变看见的细节，不会改变真实距离。"
+        },
+        {
+          "id": "aus-find-on-map-b4",
+          "title": "说出寻找过程",
+          "text": "试着用“大洋洲、南半球、印度洋和太平洋之间”等线索，引导另一个人寻找。说明位置时应有参照物，而不是说它在屏幕右下角，因为地图可以拖动，屏幕方向不能代替地理位置。"
+        },
+        {
+          "id": "aus-find-on-map-b5",
+          "title": "把地图当成一张索引",
+          "text": "打开国家地图，试着依次找悉尼、堪培拉和摇篮山。前两个地点在大陆东南部，摇篮山在塔斯马尼亚。三个点的位置不同，却都属于同一个国家。地图中的蓝色通常用于水域，但河流、海峡和大洋的范围差别很大。先读图例，再决定自己要找的是一条线、一片区域，还是一个地点。"
+        },
+        {
+          "id": "aus-find-on-map-b6",
+          "title": "一次读图小实验",
+          "text": "把地图放大后再缩小，留意塔斯马尼亚是否还在视野里。刚才消失的岛没有离开澳大利亚，只是离开了屏幕。你可以在纸上画一个框表示当前视野，再用箭头指出框外还有哪里。这样就能把“我现在看见的范围”和“国家实际的范围”区分开来，也更容易理解局部地图为什么需要标题。"
+        }
+      ],
+      "term": "赤道",
+      "definition": "将地球分为南北半球的假想纬线。",
+      "glossary": [
+        {
+          "term": "赤道",
+          "definition": "将地球分为南北半球的假想纬线。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ga.gov.au/scientific-topics/national-location-information/geography"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-l01",
+      "placeId": "aus-perth"
+    },
+    {
+      "id": "aus-capital",
+      "countryId": "aus",
+      "sectionId": "overview",
+      "title": "悉尼是首都吗？",
+      "summary": "悉尼歌剧院和海港大桥很容易辨认，但澳大利亚的首都是堪培拉。",
+      "mediaId": "aus-canberra",
+      "blocks": [
+        {
+          "id": "aus-capital-b1",
+          "title": "著名不等于首都",
+          "text": "悉尼歌剧院和海港大桥很容易辨认，但澳大利亚的首都是堪培拉。一个城市的照片经常出现在宣传材料中，不表示它就是首都。城市的知名度和在国家机构中的角色，是两个不同问题。"
+        },
+        {
+          "id": "aus-capital-b2",
+          "title": "找到堪培拉",
+          "text": "堪培拉位于澳大利亚东南部的内陆。先在地图上找悉尼，再寻找堪培拉，留意它们不是同一地点。地图标记只代表城市中的一个位置，不是整座城市的边界。"
+        },
+        {
+          "id": "aus-capital-b3",
+          "title": "城市有不同功能",
+          "text": "城市里既有公共机构，也有住宅、学校、公园和工作场所。介绍首都不能只展示一座建筑，介绍悉尼也不能只展示歌剧院。真实生活比地标照片包含更多的人和事情。"
+        },
+        {
+          "id": "aus-capital-b4",
+          "title": "用资料核对",
+          "text": "回答首都问题时，应查国家资料和城市名称，不能依据照片里的楼有多高或港口有多少船。完成定位后，可以说出堪培拉的位置，再说明为什么没有选择悉尼。"
+        },
+        {
+          "id": "aus-capital-b5",
+          "title": "沿着港湾走向内陆",
+          "text": "在悉尼港照片里，船、桥和建筑共同组成水边城市的画面。转到堪培拉，封面里的伯利·格里芬湖又带来另一种城市景观。两个地方都有水面，不能据此认为它们在同一片港湾。可以同时打开地点名称和地图，用它们各自的位置帮助辨认，再把照片当作认识局部环境的窗口。"
+        },
+        {
+          "id": "aus-capital-b6",
+          "title": "给朋友一张首都卡",
+          "text": "自己制作一张小卡片，第一行写国家名称，第二行写首都，第三行写一个能在地图中核对的线索。画面可以选择湖或桥，但要把照片标题保留下来。若朋友问“为什么不是悉尼”，先指出首都资料中的名称，再解释旅游地标与首都是两种信息。找到可靠依据，比背诵一幅漂亮照片更有用。"
+        }
+      ],
+      "term": "首都",
+      "definition": "国家中央机构所在地，不等于最著名的城市。",
+      "glossary": [
+        {
+          "term": "首都",
+          "definition": "国家中央机构所在地，不等于最著名的城市。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nca.gov.au/attraction/lake-burley-griffin"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-l02",
+      "placeId": "aus-canberra"
+    },
+    {
+      "id": "aus-country-continent",
+      "countryId": "aus",
+      "sectionId": "overview",
+      "title": "大陆、国家和大洋洲有什么不同？",
+      "summary": "大陆通常指面积很大的连续陆地。",
+      "mediaId": "aus-canberra",
+      "blocks": [
+        {
+          "id": "aus-country-continent-b1",
+          "title": "大陆是地理概念",
+          "text": "大陆通常指面积很大的连续陆地。澳大利亚大陆是认识地形和自然环境时使用的范围；国家则是政治与行政范围。两个名称相似，不意味着所有情况下都可以互换。"
+        },
+        {
+          "id": "aus-country-continent-b2",
+          "title": "国家包含岛屿",
+          "text": "澳大利亚国家除了大陆，也包括塔斯马尼亚等岛屿及其他领土。国家总览通常选择主要陆地展示，因此要读范围说明，不能把图上没画出的地方直接判断为不存在。"
+        },
+        {
+          "id": "aus-country-continent-b3",
+          "title": "大洋洲更广",
+          "text": "大洋洲是更广的地理区域概念，包含澳大利亚、新西兰和太平洋许多岛屿地区。新西兰不是澳大利亚的一个州。相邻位置或同属某个地理区域，不等于同属一个国家。"
+        },
+        {
+          "id": "aus-country-continent-b4",
+          "title": "先问范围再比较",
+          "text": "看地图时先问：这张图讲国家、大陆还是区域？同一个词在不同语境里可能强调不同范围。用完整名称描述自己的发现，可以让别人知道你讨论的是哪一种地理对象。"
+        },
+        {
+          "id": "aus-country-continent-b5",
+          "title": "换一个分类问题",
+          "text": "同一个地方可以同时出现在不同分类里。例如塔斯马尼亚是岛屿，也属于澳大利亚这个国家。前一种说法讨论陆地与水的形状，后一种说法讨论国家归属，它们并不矛盾。认识地理时，先问“我们正在按什么分类”，就不会把岛屿、国家、洲和城市的名称放在同一层级比较。"
+        },
+        {
+          "id": "aus-country-continent-b6",
+          "title": "给名称做一组卡片",
+          "text": "写下澳大利亚、塔斯马尼亚、悉尼和大洋洲，然后为每张卡片选择“国家”“岛屿”“城市”或“地理区域”。接着说一说它们的联系，不必只画一棵简单的分类树：有的词表示位置，有的词表示范围，有的词表示管理单位。若地图使用不同的洲划分方法，先读它的图例和说明，再比较名称。"
+        }
+      ],
+      "term": "大陆",
+      "definition": "面积广大的陆地；与国家这种管理范围不同。",
+      "glossary": [
+        {
+          "term": "大陆",
+          "definition": "面积广大的陆地；与国家这种管理范围不同。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ga.gov.au/scientific-topics/national-location-information/geography"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-c01"
+    },
+    {
+      "id": "aus-dry-interior",
+      "countryId": "aus",
+      "sectionId": "geography",
+      "title": "为什么有些内陆地区很干燥？",
+      "summary": "看到红土或稀疏植被，会让人想到干旱，但判断气候需要多年降雨与蒸发等记录。",
+      "mediaId": "aus-wheat",
+      "blocks": [
+        {
+          "id": "aus-dry-interior-b1",
+          "title": "干燥需要记录",
+          "text": "看到红土或稀疏植被，会让人想到干旱，但判断气候需要多年降雨与蒸发等记录。一张晴天照片只能说明拍摄时的样子，不能证明一个地方全年不下雨。"
+        },
+        {
+          "id": "aus-dry-interior-b2",
+          "title": "水汽与空气运动",
+          "text": "海洋提供水汽，大气环流影响水汽怎样移动和哪里容易降雨。澳大利亚部分内陆的干旱与多个因素有关，不能只用“离海远”一句话解释全部情况。山地也可能影响降雨分布。"
+        },
+        {
+          "id": "aus-dry-interior-b3",
+          "title": "内陆不是空白",
+          "text": "干燥地区仍有动植物、人类社区和长期的土地知识。它们面对水资源条件形成不同生活方式。不要把植被稀疏的地方说成“没有生命”，也不能把一幅沙漠照片代表整个内陆。"
+        },
+        {
+          "id": "aus-dry-interior-b4",
+          "title": "选择公平证据",
+          "text": "比较两个地方时，应使用同一时期、相同指标的多年数据。今天的温度和多年的平均降雨不是同类信息。先确定问题，再选择合适资料，比根据土地颜色猜气候更可靠。"
+        },
+        {
+          "id": "aus-dry-interior-b5",
+          "title": "气候地图怎样阅读",
+          "text": "气象机构的平均降雨图，会用不同颜色表示不同的降水范围。比较内陆与沿海时，需要先看颜色所对应的数字区间，不能把红色自动理解为炎热、蓝色自动理解为寒冷。雨量图与气温图回答不同问题。图上还应标明统计时段，因为一年的情况和许多年的平均情况并不是同一种信息。"
+        },
+        {
+          "id": "aus-dry-interior-b6",
+          "title": "把晴天和少雨分开",
+          "text": "想象两个地方今天都很晴朗，一个地方此前经常下雨，另一个地方连续很久没有降水。仅看今天的照片，它们可能很相似，长期记录却显示不同特点。你可以画两排小格子模拟雨天记录，再比较一格与整排的信息。这个小实验说明为什么认识气候要观察更长时间，而不是由一次天气作判断。"
+        }
+      ],
+      "term": "气候",
+      "definition": "一个地方较长时间里的天气特征。",
+      "glossary": [
+        {
+          "term": "气候",
+          "definition": "一个地方较长时间里的天气特征。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bom.gov.au/climate/maps/averages/rainfall/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-c02",
+      "placeId": "aus-daintree"
+    },
+    {
+      "id": "aus-murray-river",
+      "countryId": "aus",
+      "sectionId": "geography",
+      "title": "墨累河的水流向哪里？",
+      "summary": "墨累河位于澳大利亚东南部，水系把不同地区联系起来。",
+      "mediaId": "aus-murray",
+      "blocks": [
+        {
+          "id": "aus-murray-river-b1",
+          "title": "沿真实河道看",
+          "text": "墨累河位于澳大利亚东南部，水系把不同地区联系起来。地图用真实河道的简化线表示位置，不是随意画一条蓝线。沿着河线寻找上游和下游，能够认识河流的连续关系。"
+        },
+        {
+          "id": "aus-murray-river-b2",
+          "title": "河流与流域不同",
+          "text": "河道是水流经过的通道，流域则是汇水的土地范围。墨累—达令流域不能用一条河线代替。达令河与墨累河相连，但它们仍有各自的名称和河段。"
+        },
+        {
+          "id": "aus-murray-river-b3",
+          "title": "水量会变化",
+          "text": "降雨、蒸发、取用水和水利设施等因素都会影响河流。地图上的线不表示每个季节都有同样水量，也不是当天的通航信息。了解变化，需要有日期的水文记录。"
+        },
+        {
+          "id": "aus-murray-river-b4",
+          "title": "把照片与地图配合",
+          "text": "照片可以显示一段河岸的树木和水面，地图更适合显示河流走向。先找照片描述的地点，再扩大范围观察水系。不要把一个河湾的外观当成整条河流的样子。"
+        },
+        {
+          "id": "aus-murray-river-b5",
+          "title": "沿着河线读地图",
+          "text": "地图里的墨累河是一条不断转弯的线，附近的达令河属于同一大水系。试着把地图放大，看河线与地点标记之间的距离。亚拉旺加照片只记录河流沿途的一小段，不能替代整条河的形状。河水可能穿过不同环境，因此上游、下游与岸边的景象不必完全一样，观察时要说明具体河段。"
+        },
+        {
+          "id": "aus-murray-river-b6",
+          "title": "水流和流域不同",
+          "text": "把一张纸稍微折出低处，再想象雨水从两侧向低处汇集。纸上的低处可以帮助理解河道，向河道汇水的范围则帮助理解流域。真实地形远比折纸复杂，地下水和人工设施也会影响水的运动。这只是关系模型，不是澳大利亚的真实地形图；在地图上仍要区分河线与流域边界。"
+        }
+      ],
+      "term": "流域",
+      "definition": "雨水等汇入某条河流或水体的陆地范围。",
+      "glossary": [
+        {
+          "term": "流域",
+          "definition": "雨水等汇入某条河流或水体的陆地范围。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ga.gov.au/scientific-topics/national-location-information/geography"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-l03",
+      "placeId": "aus-murray-yarrawonga"
+    },
+    {
+      "id": "aus-seasons",
+      "countryId": "aus",
+      "sectionId": "geography",
+      "title": "澳大利亚各地的季节一样吗？",
+      "summary": "地球自转轴相对公转轨道面倾斜。",
+      "mediaId": "aus-kakadu",
+      "blocks": [
+        {
+          "id": "aus-seasons-b1",
+          "title": "地轴与阳光",
+          "text": "地球自转轴相对公转轨道面倾斜。随着地球绕太阳运行，南北半球的日照角度与白昼长度变化不同，形成季节差异。季节不是简单由地球离太阳远近决定的。"
+        },
+        {
+          "id": "aus-seasons-b2",
+          "title": "南北半球比较",
+          "text": "澳大利亚位于南半球，温带地区的季节与北半球温带地区大致相反。但这不表示每个地方在同一天都有同样天气，也不能直接把北京的天气颠倒过来当成悉尼的预报。"
+        },
+        {
+          "id": "aus-seasons-b3",
+          "title": "热带的湿季与干季",
+          "text": "澳大利亚北部热带地区常用湿季与干季描述一年中的变化。不同地区和原住民族也有依据当地环境建立的季节知识。不要用一套四季图片概括所有地区。"
+        },
+        {
+          "id": "aus-seasons-b4",
+          "title": "看地点与时间",
+          "text": "比较季节时先确定地点、月份和使用的季节概念。照片里有人穿短袖，不足以确定全国都处于夏季。把气候记录与当地资料结合起来，才能看懂各地的不同。"
+        },
+        {
+          "id": "aus-seasons-b5",
+          "title": "从一年中的位置看",
+          "text": "在澳大利亚常用的四季划分里，十二月、一月和二月属于夏季，六月、七月和八月属于冬季。它们与中国许多地区的季节安排大致相反。这里说的是一般季节划分，不能据此判断某一天一定有多热，也不能让一张穿短袖的照片独自证明拍摄月份。具体天气仍需要当地记录。"
+        },
+        {
+          "id": "aus-seasons-b6",
+          "title": "日历可以不只有一种",
+          "text": "澳大利亚北部热带地区常用湿季和干季描述降雨变化，原住民族也有依据当地环境形成的季节知识。不同日历关注的线索可以不同，例如降雨、植物或动物活动。比较它们时，应保留具体地区和讲述来源，不能把某个社区的季节划分套给全国，也不能仅凭欧洲式四季判断哪种日历正确。"
+        }
+      ],
+      "term": "湿季",
+      "definition": "一年中通常降雨较集中的季节。",
+      "glossary": [
+        {
+          "term": "湿季",
+          "definition": "一年中通常降雨较集中的季节。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.bom.gov.au/news-and-media/solstices-equinoxes-and-the-seasons"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "diagram": "aus-seasons",
+      "exerciseId": "aus-c03",
+      "placeId": "aus-daintree"
+    },
+    {
+      "id": "aus-first-peoples",
+      "countryId": "aus",
+      "sectionId": "people",
+      "title": "澳大利亚原住民族是一种文化吗？",
+      "summary": "澳大利亚的 Aboriginal peoples 和 Torres Strait Islander peoples 包含众多不同群体，拥有不同语言、历史和文化。",
+      "mediaId": "aus-study",
+      "blocks": [
+        {
+          "id": "aus-first-peoples-b1",
+          "title": "许多不同群体",
+          "text": "澳大利亚的 Aboriginal peoples 和 Torres Strait Islander peoples 包含众多不同群体，拥有不同语言、历史和文化。介绍时应使用具体群体认可的名称，不能用一种服饰或纹样代表所有人。"
+        },
+        {
+          "id": "aus-first-peoples-b2",
+          "title": "土地与联系",
+          "text": "不同群体与土地、海域、家族和知识有持续联系。英文 Country 在特定原住民族语境中包含丰富含义，不只是地图上的一块地。学习时应听具体社区怎样说明，而不是替他们定义全部经验。"
+        },
+        {
+          "id": "aus-first-peoples-b3",
+          "title": "当代生活",
+          "text": "原住民族生活在城市、乡村和偏远地区，从事不同工作，创作艺术、研究科学并参与公共生活。只展示过去的器物，会让人误以为文化停留在历史中，忽略今天仍在发展的生活。"
+        },
+        {
+          "id": "aus-first-peoples-b4",
+          "title": "尊重讲述来源",
+          "text": "遇到故事和作品时，先看作者、所属社区与公开使用条件。公开看到不等于可以任意复制。我们可以记录自己学到了什么，但不编造神圣故事，不模仿未经授权的文化图案。"
+        },
+        {
+          "id": "aus-first-peoples-b5",
+          "title": "把总称变成具体认识",
+          "text": "当你读到一个社区的介绍，可以记下其认可的名称、所处地区以及资料由谁发布。先认识一个具体例子，再理解不同社区之间存在差异，会比收集一堆没有来源的图案更清楚。如果一张地图显示语言或文化群体，其边界通常也不能直接当作今天的州界，两种地图的用途和资料依据不同。"
+        },
+        {
+          "id": "aus-first-peoples-b6",
+          "title": "留意今天的声音",
+          "text": "认识原住民族不应只看古老物品。今天的作者、研究者、艺术家和社区机构也在持续分享知识、提出问题。阅读他们公开发布的内容时，可以关注作者希望读者理解什么，以及哪些信息可以分享。把讲述者的名字和作品标题写进笔记，能帮助你记住知识与具体的人有关，而不是匿名的装饰材料。"
+        }
+      ],
+      "term": "原住民族",
+      "definition": "在殖民之前已生活于当地、拥有持续文化联系的不同群体。",
+      "glossary": [
+        {
+          "term": "原住民族",
+          "definition": "在殖民之前已生活于当地、拥有持续文化联系的不同群体。"
+        }
+      ],
+      "sourceUrls": [
+        "https://aiatsis.gov.au/explore/first-peoples-australia"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-c04",
+      "placeId": "aus-kakadu"
+    },
+    {
+      "id": "aus-torres-strait",
+      "countryId": "aus",
+      "sectionId": "people",
+      "title": "托雷斯海峡在哪里？",
+      "summary": "托雷斯海峡位于澳大利亚约克角半岛与新几内亚岛之间。",
+      "mediaId": "aus-reef",
+      "blocks": [
+        {
+          "id": "aus-torres-strait-b1",
+          "title": "先找北方海域",
+          "text": "托雷斯海峡位于澳大利亚约克角半岛与新几内亚岛之间。世界图可以帮助找到大范围，局部图能看清岛屿。它不是澳大利亚东南方的巴斯海峡，两个名称对应不同位置。"
+        },
+        {
+          "id": "aus-torres-strait-b2",
+          "title": "岛屿与居民",
+          "text": "托雷斯海峡岛民拥有多样的岛屿文化与历史。海洋联系很重要，但不能把所有岛屿和家庭写成同一种生活方式。介绍具体社区时，应说明材料来自哪里、由谁讲述。"
+        },
+        {
+          "id": "aus-torres-strait-b3",
+          "title": "地图不能讲完文化",
+          "text": "地理图可以画岛屿和海峡，却不能独自说明语言、亲属关系与文化知识。位置是开始认识一个地方的线索，后续仍需当地机构和讲述者的资料。"
+        },
+        {
+          "id": "aus-torres-strait-b4",
+          "title": "说清范围",
+          "text": "把“位于澳大利亚北方的海峡”与“某座岛上的具体社区”分开描述。不要因为名字里有岛民，就猜测每个人现在都住在岛上。迁居与家庭经历需要具体来源才能说明。"
+        },
+        {
+          "id": "aus-torres-strait-b5",
+          "title": "在两个海峡之间比较",
+          "text": "国家地图上还可以找到巴斯海峡，它位于大陆东南方与塔斯马尼亚之间。把两个海峡同时放在地图中观察，会发现托雷斯海峡在北，巴斯海峡在南。它们都叫海峡，却不是同一个地方。名称相同的地形类别并不代表文化、岛屿分布或周围生活相同，比较时要保留各自的名字。"
+        },
+        {
+          "id": "aus-torres-strait-b6",
+          "title": "岛屿不是空白间隔",
+          "text": "地图的蓝色区域中可能分布许多岛屿，小比例尺地图不一定画出所有细节。没有显示某座岛，并不表示那里没有陆地或没有人生活。想进一步了解托雷斯海峡岛民，应阅读相关社区和机构提供的资料，将地点、语言与身份分别认识。不要把海上距离看成文化联系不存在的证明。"
+        }
+      ],
+      "term": "海峡",
+      "definition": "连接海域、位于陆地之间较狭窄的水域。",
+      "glossary": [
+        {
+          "term": "海峡",
+          "definition": "连接海域、位于陆地之间较狭窄的水域。"
+        }
+      ],
+      "sourceUrls": [
+        "https://aiatsis.gov.au/explore/first-peoples-australia",
+        "https://www.ga.gov.au/scientific-topics/national-location-information/geography"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-l04"
+    },
+    {
+      "id": "aus-languages",
+      "countryId": "aus",
+      "sectionId": "people",
+      "title": "一条街上能听到哪些语言？",
+      "summary": "照片可以显示建筑、招牌与公共空间，却不能让我们听见所有人的语言。",
+      "mediaId": "aus-study",
+      "blocks": [
+        {
+          "id": "aus-languages-b1",
+          "title": "街景先告诉什么",
+          "text": "照片可以显示建筑、招牌与公共空间，却不能让我们听见所有人的语言。即使招牌使用英语，也不能据此断定附近居民只会英语。看见文字与知道语言使用情况是不同问题。"
+        },
+        {
+          "id": "aus-languages-b2",
+          "title": "多语言生活",
+          "text": "澳大利亚居民有多样的家庭和迁徙背景，原住民族语言也有各自的历史与当代使用。一个人可能在家中、学校和工作场合使用不同语言。不能从外貌推断他的语言能力。"
+        },
+        {
+          "id": "aus-languages-b3",
+          "title": "听具体的人说",
+          "text": "认识社区时，可以阅读当地人的采访和作品，记住讲述者、地点和时间。一个人的经历有价值，但仍不是所有居民的共同经历。比较不同来源能帮助我们看到更多角度。"
+        },
+        {
+          "id": "aus-languages-b4",
+          "title": "写下问题",
+          "text": "在观察笔记里，先记录招牌上真正看清的文字，再写下想了解的问题。若不知道某种文字是什么语言，可以保留未知。猜测应写在猜想栏，不要写成已经确认的事实。"
+        },
+        {
+          "id": "aus-languages-b5",
+          "title": "一张语言记录卡",
+          "text": "如果遇到一个不认识的地名，可以先准确记录拼写，再查公开资料中的读音与来源。不同语言的书写方式未必能完全对应汉字音译，因此中文名称只是帮助阅读的一种方式。没有核对读音时可以先保持原文，不需要凭字母猜一个声音，再把自己的猜测当成当地人的真实发音。"
+        },
+        {
+          "id": "aus-languages-b6",
+          "title": "家里和学校可能不同",
+          "text": "一个人可能在不同场合使用不同语言，也可能正在学习或重新学习某种语言。不能只听见一句话，就替他判断家庭背景或文化身份。开放观察可以从自己的生活出发：你在家里、课堂或朋友之间会怎样表达同一件事？记录自己的经历，再把问题带回阅读材料，比替陌生人编写身份故事更合适。"
+        }
+      ],
+      "term": "多语言",
+      "definition": "使用或学习不止一种语言。",
+      "glossary": [
+        {
+          "term": "多语言",
+          "definition": "使用或学习不止一种语言。"
+        }
+      ],
+      "sourceUrls": [
+        "https://aiatsis.gov.au/explore/first-peoples-australia",
+        "https://aiatsis.gov.au/explore/languages-alive"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "aus-o01",
+        "type": "open",
+        "title": "一条街上能听到哪些语言？",
+        "prompt": "记录一个你想认识的地名或语言名称：看到了什么拼写，还需要哪份发音或来源资料？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "aus-study"
+        ],
+        "suggestedArticleIds": [
+          "aus-languages"
+        ]
+      }
+    },
+    {
+      "id": "aus-ferries",
+      "countryId": "aus",
+      "sectionId": "daily",
+      "title": "港湾里的渡轮怎样连接城市？",
+      "summary": "悉尼港湾中的渡轮连接不同码头。",
+      "mediaId": "aus-ferry",
+      "blocks": [
+        {
+          "id": "aus-ferries-b1",
+          "title": "水面也有交通",
+          "text": "悉尼港湾中的渡轮连接不同码头。船经过水面，乘客在码头上下船。河岸或海岸两边距离看起来很近，实际出行仍需要合适的连接方式，不能只看地图上的直线。"
+        },
+        {
+          "id": "aus-ferries-b2",
+          "title": "认出两个端点",
+          "text": "观察路线时，先找到出发码头和到达码头，再看中途是否停靠。照片中的一艘船无法说明整条线路。航线、方向和时刻需要从交通机构的当前资料中核对。"
+        },
+        {
+          "id": "aus-ferries-b3",
+          "title": "照片的作用",
+          "text": "渡轮照片可以帮助辨认船体、甲板和靠岸设施，却不是实时班次表。拍摄日期较早的船只图片，也不能证明今天仍在同一线路运行。百科使用照片介绍交通关系，不替代出行信息。"
+        },
+        {
+          "id": "aus-ferries-b4",
+          "title": "描述连接",
+          "text": "试着说“这条线路连接哪两个地方”，而不只说船向左开。方向取决于拍摄角度，起终点名称更容易核对。若缺少线路资料，就先提出问题，不替照片编造目的地。"
+        },
+        {
+          "id": "aus-ferries-b5",
+          "title": "水面也是连接空间",
+          "text": "观察悉尼港的渡轮时，可以把水面当作一种交通空间。桥从上方连接两岸，渡轮则在水面上连接码头，连接方式不同。照片里出现桥并不意味着船没有用途；不同起终点和不同使用者可能需要不同连接。先把“桥在哪里”和“船在哪里”分开描述，再查线路图理解它们各自服务的地点。"
+        },
+        {
+          "id": "aus-ferries-b6",
+          "title": "用三件资料拼图",
+          "text": "认识一次渡轮出行，可以分别阅读照片、线路图与时刻表。照片帮助看外形和环境，线路图说明站点怎样相连，时刻表说明在某个日期如何安排服务。三件材料不必由同一张图承担。若只拿到照片，你仍能提出有趣问题，但不应该猜出准确的发船时间，或把历史照片中的船当作今天的保证。"
+        }
+      ],
+      "term": "码头",
+      "definition": "船只停靠、人员上下或货物装卸的地方。",
+      "glossary": [
+        {
+          "term": "码头",
+          "definition": "船只停靠、人员上下或货物装卸的地方。"
+        }
+      ],
+      "sourceUrls": [
+        "https://transportnsw.info/travel-info/ways-to-get-around/ferry"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-p01",
+      "placeId": "aus-sydney-harbour"
+    },
+    {
+      "id": "aus-tram-transfer",
+      "countryId": "aus",
+      "sectionId": "daily",
+      "title": "怎样读懂电车线路图？",
+      "summary": "线路图用不同颜色、线条和站点表示连接关系。",
+      "mediaId": "aus-melbourne",
+      "blocks": [
+        {
+          "id": "aus-tram-transfer-b1",
+          "title": "看图例",
+          "text": "线路图用不同颜色、线条和站点表示连接关系。颜色帮助区分路线，但路线名称与站名同样重要。示意图可能没有按实际距离绘制，因此不能用纸上长短直接判断乘车时间。"
+        },
+        {
+          "id": "aus-tram-transfer-b2",
+          "title": "共同站点",
+          "text": "在原创练习里，蓝线连接甲站和乙站，橙线连接乙站和丙站。乙站同时出现在两条线路中，所以从甲到丙可以在乙换乘。它成为换乘点，是因为连接关系而不是画在正中间。"
+        },
+        {
+          "id": "aus-tram-transfer-b3",
+          "title": "用文字也能读",
+          "text": "即使不能清楚区分颜色，也可以按照“甲到乙，再从乙到丙”理解路线。文字路径与图形应表达相同关系。学习图不使用真实班次，避免让孩子把虚构线路用于出行。"
+        },
+        {
+          "id": "aus-tram-transfer-b4",
+          "title": "回到真实交通",
+          "text": "真正使用墨尔本电车时，应查看运营机构当前的站点和服务资料。线路图只是信息的一部分，还可能需要了解方向和临时变化。练习关注的是读图方法，不提供实时出行安排。"
+        },
+        {
+          "id": "aus-tram-transfer-b5",
+          "title": "方向比线条颜色更重要",
+          "text": "沿练习图从甲到丙走一遍，再反过来从丙到甲走一遍，你会发现换乘点仍是乙站，行进方向却不同。真实线路也需要确认前往哪个方向，不能只认出线路名称就认为随便哪一辆车都可以。先读起点、终点和中间连接，再讨论方向，会比单纯记住蓝色和橙色更牢靠。"
+        },
+        {
+          "id": "aus-tram-transfer-b6",
+          "title": "把练习画给别人看",
+          "text": "拿三张纸分别写甲、乙、丙，将甲和乙之间连一条实线，再把乙和丙连起来。请朋友不用看颜色，只根据站名说明怎么走。若他能说清楚先后顺序，就说明你的图有足够的文字线索。随后可以故意拿掉乙站，讨论缺少连接信息会造成什么困难，这也能帮助检查自己画的示意图是否清楚。"
+        }
+      ],
+      "term": "换乘",
+      "definition": "从一条交通线路转到另一条线路。",
+      "glossary": [
+        {
+          "term": "换乘",
+          "definition": "从一条交通线路转到另一条线路。"
+        }
+      ],
+      "sourceUrls": [
+        "https://transport.vic.gov.au/plan-a-journey/network-maps/melbourne-public-transport-maps"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "diagram": "aus-tram-transfer",
+      "exerciseId": "aus-c05",
+      "placeId": "aus-melbourne"
+    },
+    {
+      "id": "aus-public-space",
+      "countryId": "aus",
+      "sectionId": "daily",
+      "title": "公共空间怎样帮助不同的人？",
+      "summary": "湖边步道、市场通道和电车站都是城市公共空间的例子。",
+      "mediaId": "aus-canberra",
+      "blocks": [
+        {
+          "id": "aus-public-space-b1",
+          "title": "看一处具体地方",
+          "text": "湖边步道、市场通道和电车站都是城市公共空间的例子。照片只展示其中一个视角，不能代表整个城市的设施。先辨认道路、水面、入口或座椅等真正看见的部分。"
+        },
+        {
+          "id": "aus-public-space-b2",
+          "title": "不同的使用者",
+          "text": "儿童、老人、推婴儿车的人和使用轮椅的人可能需要不同的设施。判断空间是否方便，不能只看它漂亮不漂亮，还要考虑通行、休息与信息是否清楚。"
+        },
+        {
+          "id": "aus-public-space-b3",
+          "title": "照片有局限",
+          "text": "远景照片未必能看清坡度、路面和入口宽度，也不能告诉我们每个使用者的感受。可以根据画面提出问题，再寻找实地资料或使用者的意见，而不是仅凭一张图评分。"
+        },
+        {
+          "id": "aus-public-space-b4",
+          "title": "设计一个小改进",
+          "text": "写下一项直接观察，再提出一种希望改善的地方。把“现在有什么”和“我希望有什么”分开。你的想法不必与别人相同，但要说明它可能帮助谁，以及为什么。"
+        },
+        {
+          "id": "aus-public-space-b5",
+          "title": "从同一条路提出不同问题",
+          "text": "想象你和推婴儿车的家人一起到湖边，一处台阶对不同使用者的影响可能不同。你可以问旁边是否还有连续坡道、指示是否易读、停下来休息是否方便。这些问题与“景色漂亮吗”并不相同。照片不能回答的地方，可以在观察表里留出空格，等待地图、实地信息或使用者经验补充。"
+        },
+        {
+          "id": "aus-public-space-b6",
+          "title": "用图纸解释一个提议",
+          "text": "在纸上画出一条道路、一个入口和一个休息点，用箭头表示从哪里走到哪里。再添加你想改进的一处地方，并写明希望帮助谁。例如“希望入口信息更清楚”是一项设计提议，不等于你已经证明照片中的入口存在问题。把现状、问题和提议分开，别人就更容易理解并讨论你的想法。"
+        }
+      ],
+      "term": "公共空间",
+      "definition": "供人们共同使用的空间，如公园、步道和广场。",
+      "glossary": [
+        {
+          "term": "公共空间",
+          "definition": "供人们共同使用的空间，如公园、步道和广场。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nca.gov.au/attraction/lake-burley-griffin",
+        "https://transportnsw.info/travel-info/ways-to-get-around/ferry"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "aus-o02",
+        "type": "open",
+        "title": "公共空间怎样帮助不同的人？",
+        "prompt": "观察这处湖岸：你能看见哪些连接？你希望增加什么来帮助一位具体的使用者？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "aus-canberra"
+        ],
+        "suggestedArticleIds": [
+          "aus-public-space"
+        ]
+      },
+      "placeId": "aus-canberra"
+    },
+    {
+      "id": "aus-wheat-bread",
+      "countryId": "aus",
+      "sectionId": "food",
+      "title": "小麦怎样变成面包？",
+      "summary": "小麦是一种谷物，收获的籽粒可以经过加工制成面粉。",
+      "mediaId": "aus-wheat",
+      "blocks": [
+        {
+          "id": "aus-wheat-bread-b1",
+          "title": "从田里开始",
+          "text": "小麦是一种谷物，收获的籽粒可以经过加工制成面粉。麦田照片显示作物或收获后的环境，却不能告诉我们某一袋面粉全部来自哪块田。具体来源需要供应与产品资料。"
+        },
+        {
+          "id": "aus-wheat-bread-b2",
+          "title": "加工与制作",
+          "text": "面粉加水等材料形成面团，部分面包还利用酵母发酵。发酵产生的气体与面团结构共同影响膨起。不同面包配方不同，不能看到孔洞就推算所有材料和制作时间。"
+        },
+        {
+          "id": "aus-wheat-bread-b3",
+          "title": "看包装说明",
+          "text": "判断一款面包的成分，应查配料说明，不能根据面包颜色猜测所有原料。售卖地点也不等于小麦种植地点。认识食物时，把种植、加工、制作和售卖分开更清楚。"
+        },
+        {
+          "id": "aus-wheat-bread-b4",
+          "title": "追踪一条线索",
+          "text": "画出小麦、面粉、面团、面包的简单关系，再在每一步写出一个问题。图解帮助理解过程，不意味着每个产品都经过完全相同的步骤。没有资料的地方可以暂时留空。"
+        },
+        {
+          "id": "aus-wheat-bread-b5",
+          "title": "小麦粒与面粉的差别",
+          "text": "一粒小麦保留着籽粒的结构，面粉则已经经过碾磨等加工。它们可以来自同一种原料，却有不同的形态和用途。看麦田、面粉和面包的照片时，试着按原料与加工关系排列，再用箭头标出发生了哪些变化。这个顺序可以帮助认识生产过程，却不能证明图中的三个产品来自同一批小麦。"
+        },
+        {
+          "id": "aus-wheat-bread-b6",
+          "title": "每一步都有不同工作",
+          "text": "从田地到餐桌，会有种植、收获、储存、运输、加工和制作等不同工作。某个家庭制作面包与工厂生产的流程可能不一样，因此不要把教学图当作所有产品的完整生产线。你可以挑一步继续提问：磨粉改变了什么，运输需要什么记录，配料从哪里查询？具体的小问题比猜一整段旅程更容易查证。"
+        }
+      ],
+      "term": "加工",
+      "definition": "通过一定过程改变原料形态或用途。",
+      "glossary": [
+        {
+          "term": "加工",
+          "definition": "通过一定过程改变原料形态或用途。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.foodstandards.gov.au/business/labelling"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "diagram": "aus-wheat-bread",
+      "exerciseId": "aus-c06"
+    },
+    {
+      "id": "aus-food-label",
+      "countryId": "aus",
+      "sectionId": "food",
+      "title": "水果标签告诉我们什么？",
+      "summary": "标签上的名称说明食品是什么，单位说明怎样计量，产地说明标注的来源。",
+      "mediaId": "aus-food-label",
+      "blocks": [
+        {
+          "id": "aus-food-label-b1",
+          "title": "分清字段",
+          "text": "标签上的名称说明食品是什么，单位说明怎样计量，产地说明标注的来源。这些字段回答不同问题。一个很大的数字可能是价格，不能把它误认为重量或产地。"
+        },
+        {
+          "id": "aus-food-label-b2",
+          "title": "原创练习",
+          "text": "练习卡写着“名称：苹果；单位：千克；产地：澳大利亚”。这是一张教学标签，不代表照片中任何商品的真实信息。使用大字示例，是为了避免让孩子猜模糊的小字。"
+        },
+        {
+          "id": "aus-food-label-b3",
+          "title": "产地不能靠颜色猜",
+          "text": "在澳大利亚市场售卖的水果可能来自不同地区。水果红不红、摊主说什么语言，都不能证明种植地点。应核对产品标签和相关来源，必要时向经营者询问。"
+        },
+        {
+          "id": "aus-food-label-b4",
+          "title": "旧照片不是现价",
+          "text": "价格和商品供应会变化，历史照片不能当作今日购物信息。观察时记录日期和字段，无法辨认的部分写“看不清”。准确承认未知，比补一个看起来合理的答案更可靠。"
+        },
+        {
+          "id": "aus-food-label-b5",
+          "title": "把三个答案放回字段",
+          "text": "在教学卡上问“这是什么食品”，应该读名称；问“怎样计量”，应该读单位；问“标注来自哪里”，应该读产地。三个答案不能互相代替。先遮住一个字段，再尝试回答对应问题，你就会发现少了一项信息后，有些问题确实无法回答。留空比把另一个字段的内容搬过来更准确。"
+        },
+        {
+          "id": "aus-food-label-b6",
+          "title": "练习卡与真实包装",
+          "text": "真实商品的标示可能比练习卡复杂，食品原料的来源、加工地点和销售地点也可能不同。学习时先从清楚的字段入手，再与官方消费者说明对照，不把简化练习理解为所有标签必须长这样。记录商品信息时还要保留完整文字，不宜只抄一个国名就替整个生产过程下结论。"
+        }
+      ],
+      "term": "产地",
+      "definition": "产品或原料的来源地点；需结合完整标注理解。",
+      "glossary": [
+        {
+          "term": "产地",
+          "definition": "产品或原料的来源地点；需结合完整标注理解。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.foodstandards.gov.au/business/labelling",
+        "https://www.foodstandards.gov.au/consumer/labelling/coo"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "diagram": "aus-food-label",
+      "exerciseId": "aus-p02"
+    },
+    {
+      "id": "aus-market-origin",
+      "countryId": "aus",
+      "sectionId": "food",
+      "title": "市场里的食物都来自附近吗？",
+      "summary": "市场照片能让我们看见商品摆放、通道和部分标签。",
+      "mediaId": "aus-market",
+      "blocks": [
+        {
+          "id": "aus-market-origin-b1",
+          "title": "先观察摊位",
+          "text": "市场照片能让我们看见商品摆放、通道和部分标签。我们可以描述可见的食物与空间，但不能从一个摊位概括全城居民的饮食，也不能确定所有商品的生产地点。"
+        },
+        {
+          "id": "aus-market-origin-b2",
+          "title": "运输连接地区",
+          "text": "食物可能经过种植、采收、加工、储存与运输，才到达市场。城市的地理位置不等于每件商品的产地。想知道旅程，需要标签、供应记录或具体生产者的说明。"
+        },
+        {
+          "id": "aus-market-origin-b3",
+          "title": "季节也要核对",
+          "text": "一篮水果不能独自证明当地处于哪个季节。不同产区、储存方式和运输会影响市场供应。研究季节性，需要把日期和产地一起看，而不是只凭颜色或品种猜测。"
+        },
+        {
+          "id": "aus-market-origin-b4",
+          "title": "留下观察笔记",
+          "text": "第一栏写看见的食品或设施，第二栏写对来源的猜想，第三栏写还需要什么资料。你的问题可以很小，例如“这份水果在哪个地区采收”，具体问题更容易继续查证。"
+        },
+        {
+          "id": "aus-market-origin-b5",
+          "title": "入口照片告诉什么",
+          "text": "本页照片拍摄的是维多利亚女王市场的入口建筑，并没有显示某一摊水果的标签。因此你可以记录门口、文字和建筑形状，却不能据此说看到了苹果的价格。若想回答食品来源的问题，需要再找具体商品的资料。照片和问题没有完全对应时，明确指出缺少什么，就是有价值的观察结果。"
+        },
+        {
+          "id": "aus-market-origin-b6",
+          "title": "给一份食物建立档案",
+          "text": "如果家里有一份包装食品，可以在家长帮助下记录名称、标签中的来源文字和购买日期。接着把这些信息分别放入“直接读到”和“还不知道”两栏。生产原料可能来自哪里、经过什么运输，未必都能从包装得知。你的档案可以随着新资料增加而完善，不需要第一次就填满每一个问题。"
+        }
+      ],
+      "term": "供应",
+      "definition": "把产品送到使用或销售环节的过程。",
+      "glossary": [
+        {
+          "term": "供应",
+          "definition": "把产品送到使用或销售环节的过程。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.foodstandards.gov.au/consumer/labelling/coo"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "aus-o03",
+        "type": "open",
+        "title": "市场里的食物都来自附近吗？",
+        "prompt": "观察市场入口照片。它能告诉你什么，又缺少哪些商品来源信息？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "aus-market"
+        ],
+        "suggestedArticleIds": [
+          "aus-market-origin"
+        ]
+      },
+      "placeId": "aus-melbourne"
+    },
+    {
+      "id": "aus-opera-house",
+      "countryId": "aus",
+      "sectionId": "culture",
+      "title": "悉尼歌剧院的外形像什么？",
+      "summary": "悉尼歌剧院位于港湾边，屋顶轮廓容易辨认。",
+      "mediaId": "aus-sydney",
+      "blocks": [
+        {
+          "id": "aus-opera-house-b1",
+          "title": "从轮廓开始",
+          "text": "悉尼歌剧院位于港湾边，屋顶轮廓容易辨认。有人把它联想到帆或贝壳，这是一种观看感受。比喻可以帮助描述形状，但不能直接当成设计者原话或完整工程解释。"
+        },
+        {
+          "id": "aus-opera-house-b2",
+          "title": "不同角度",
+          "text": "从岸边、船上或空中看，同一建筑会显出不同轮廓。照片裁切也会改变各部分的相对大小。比较时应先认清摄影方向，不要因为形状不同就认定是另一座建筑。"
+        },
+        {
+          "id": "aus-opera-house-b3",
+          "title": "建筑有用途",
+          "text": "歌剧院是表演艺术场所，不只是供拍照的雕塑。认识建筑时可以同时询问外形、内部活动、工作人员与公众怎样使用空间。外部照片无法回答所有内部功能问题。"
+        },
+        {
+          "id": "aus-opera-house-b4",
+          "title": "说出自己的依据",
+          "text": "写下你觉得某一部分像什么，并指出具体曲线或形状。再区分这是自己的联想，还是查到的设计资料。艺术观察可以有不同答案，关键是说明依据，不替作者编造意图。"
+        },
+        {
+          "id": "aus-opera-house-b5",
+          "title": "外形背后的几何",
+          "text": "歌剧院官方资料介绍了屋顶设计中的球面解法：壳体形状可以从球面几何中理解。你可以想象从球面取出不同部分，比较弯曲表面与平纸的差别。这是帮助理解的模型，并不是把一个完整球壳直接放到港湾里。实际建筑还涉及材料、连接和施工，需要结合工程资料才能进一步解释。"
+        },
+        {
+          "id": "aus-opera-house-b6",
+          "title": "把两种描述并排写",
+          "text": "左边写“我觉得屋顶像展开的帆”，右边写“官方设计资料介绍球面几何”。左边是观看联想，右边是有明确出处的设计信息，它们可以并存，却不能互相冒充。下次遇到一座熟悉建筑，也可以用这个方法：先自由描述，再寻找作者或建筑机构的说明，让想象与查证一起帮助理解。"
+        }
+      ],
+      "term": "球面",
+      "definition": "球体的弯曲表面。",
+      "glossary": [
+        {
+          "term": "球面",
+          "definition": "球体的弯曲表面。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sydneyoperahouse.com/our-story/the-spherical-solution"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-p03",
+      "placeId": "aus-sydney-harbour"
+    },
+    {
+      "id": "aus-art-authors",
+      "countryId": "aus",
+      "sectionId": "culture",
+      "title": "看作品为什么先读作者介绍？",
+      "summary": "一件作品的名称、作者、年代和公开说明，是理解它的起点。",
+      "mediaId": "aus-study",
+      "blocks": [
+        {
+          "id": "aus-art-authors-b1",
+          "title": "先认作者",
+          "text": "一件作品的名称、作者、年代和公开说明，是理解它的起点。作品来自澳大利亚，不表示所有澳大利亚艺术都有相同风格。不同作者有自己的经历、材料选择与创作方法。"
+        },
+        {
+          "id": "aus-art-authors-b2",
+          "title": "文化归属",
+          "text": "涉及原住民族艺术时，应留意作者认可的群体名称和文化语境。某些图案或故事有特定使用规则。不能把一幅作品拆成装饰素材，更不能生成一个相似图案后声称它代表某个社区。"
+        },
+        {
+          "id": "aus-art-authors-b3",
+          "title": "观察与解释",
+          "text": "我们可以描述可见的线条、颜色和材料，也可以提出自己的感受。但个人解释不能代替作者的说明，作品的文化含义也不能只凭外形猜测。未知信息需要继续查资料。"
+        },
+        {
+          "id": "aus-art-authors-b4",
+          "title": "尊重使用条件",
+          "text": "看见作品不等于拥有复制或改编许可。学习笔记可以记录观察与问题，正式展示图像则需核对授权。这一页使用文字教学，不伪造或仿制具体原住民族作品。"
+        },
+        {
+          "id": "aus-art-authors-b5",
+          "title": "怎样写一张作品卡",
+          "text": "在作品名称旁写下作者和资料来源，再另起一行记录自己看见的颜色、线条或材料。若作者介绍中使用了具体群体名称，应准确保留，不随意缩成一个笼统标签。没有获得作品图像使用许可，也可以只写资料索引和自己的阅读问题。学习不一定要求把原图复制到自己的卡片中。"
+        },
+        {
+          "id": "aus-art-authors-b6",
+          "title": "个人感受可以改变",
+          "text": "第一次看作品时你可能想到河流，读到作者说明后又发现新的联系。可以保留最初感受，同时注明后来从哪里获得了补充信息。这样的笔记不是要选出唯一的审美答案，而是让读者知道哪些属于个人联想，哪些来自讲述者。尊重来源并不会限制好奇，反而会让问题更具体、更有方向。"
+        }
+      ],
+      "term": "署名",
+      "definition": "说明作品由谁创作。",
+      "glossary": [
+        {
+          "term": "署名",
+          "definition": "说明作品由谁创作。"
+        }
+      ],
+      "sourceUrls": [
+        "https://aiatsis.gov.au/explore/first-peoples-australia",
+        "https://www.nma.gov.au/explore/collection"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-c07"
+    },
+    {
+      "id": "aus-museum-evidence",
+      "countryId": "aus",
+      "sectionId": "culture",
+      "title": "博物馆中的物品怎样讲故事？",
+      "summary": "博物馆中的物品通常有名称、年代、材料或来源说明。",
+      "mediaId": "aus-study",
+      "blocks": [
+        {
+          "id": "aus-museum-evidence-b1",
+          "title": "说明牌是入口",
+          "text": "博物馆中的物品通常有名称、年代、材料或来源说明。先核对自己正在看的物品，再阅读相应标签，避免把邻近展品的资料套过来。资料没有注明的信息，不要随意补写。"
+        },
+        {
+          "id": "aus-museum-evidence-b2",
+          "title": "物品的不同经历",
+          "text": "一件物品可能经历制作、使用、交换、保存和收藏。展示地点不一定是制作地点，今天的用途也可能不同于过去。把这些阶段分开，可以更准确地提出历史问题。"
+        },
+        {
+          "id": "aus-museum-evidence-b3",
+          "title": "收藏来源也重要",
+          "text": "有些收藏涉及不平等的取得过程和归还讨论。认识物品时，不只问它好不好看，也要问谁制作、谁使用、怎样进入收藏。具体结论须依据该物品的档案，不能一概而论。"
+        },
+        {
+          "id": "aus-museum-evidence-b4",
+          "title": "让证据对应问题",
+          "text": "想知道材料，应看藏品说明；想知道使用经历，应看相关记录。照片适合观察外观，却不能自动告诉我们全部历史。记录来源和不确定之处，会让自己的参观笔记更有价值。"
+        },
+        {
+          "id": "aus-museum-evidence-b5",
+          "title": "把一件物品放回时间",
+          "text": "想象一只杯子先被制作，后来被使用，最后进入收藏。制作年代、使用年代和进入博物馆的日期可能不同，不能把其中一个日期当作它全部经历。阅读展签时可以给每个日期标上对应事件；如果只写了制作年代，就把其余两项留作问题。这种方法也能用于衣物、工具和照片。"
+        },
+        {
+          "id": "aus-museum-evidence-b6",
+          "title": "问一句有对象的问题",
+          "text": "“它有什么故事”很宽泛，可以改成“这份说明为什么认为它由这种材料制成”，或者“档案中有没有记录谁使用过它”。提问越具体，越容易知道应该找物品表面、藏品档案还是相关口述资料。对于没有记录的部分，博物馆也可能保留疑问；百科不应该为了让故事完整而替它补上人物和情节。"
+        }
+      ],
+      "term": "藏品档案",
+      "definition": "记录收藏物品来源、材料和经历的资料。",
+      "glossary": [
+        {
+          "term": "藏品档案",
+          "definition": "记录收藏物品来源、材料和经历的资料。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nma.gov.au/explore/collection"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-c08"
+    },
+    {
+      "id": "aus-canberra-lake",
+      "countryId": "aus",
+      "sectionId": "landmarks",
+      "title": "堪培拉的湖与城市怎样相处？",
+      "summary": "伯利·格里芬湖是堪培拉城市景观的重要部分。",
+      "mediaId": "aus-canberra",
+      "blocks": [
+        {
+          "id": "aus-canberra-lake-b1",
+          "title": "湖与城市",
+          "text": "伯利·格里芬湖是堪培拉城市景观的重要部分。照片中可以观察水面、桥和岸边空间。它不是海洋，也不是澳大利亚所有城市都有的布局。认识一座城，要从具体地点开始。"
+        },
+        {
+          "id": "aus-canberra-lake-b2",
+          "title": "桥与步道",
+          "text": "桥连接水面两侧，岸边道路让人沿湖移动。这两种连接方向不同。用手指分别描出跨水和沿岸的路线，可以更清楚理解城市空间，而不是只把水面当作背景。"
+        },
+        {
+          "id": "aus-canberra-lake-b3",
+          "title": "人工与自然",
+          "text": "城市中的水体、道路和绿地可能包含不同程度的规划与建设。要了解湖泊的形成与建设历史，需要城市机构的资料，不能仅凭形状整齐就判断全部过程。"
+        },
+        {
+          "id": "aus-canberra-lake-b4",
+          "title": "回到地图",
+          "text": "在地图上找到堪培拉，再把照片中的湖岸放回城市位置。地图点是代表锚点，不是整个湖的轮廓。描述时说明自己指的是城市、湖泊还是桥，避免把不同尺度混在一起。"
+        },
+        {
+          "id": "aus-canberra-lake-b5",
+          "title": "在照片里找连接",
+          "text": "封面从桥梁附近观察伯利·格里芬湖，桥下结构与水面构成明显的空间关系。你可以先沿桥的方向看，再沿水面方向看，比较哪种移动是在跨越水面，哪种是在顺着岸线。观察的重点是连接关系，不需要从照片估计桥的真实长度；透视会改变远近部分在画面中的大小。"
+        },
+        {
+          "id": "aus-canberra-lake-b6",
+          "title": "城市图与照片互相帮助",
+          "text": "国家地图只能告诉你堪培拉大致在哪里，认识湖岸还需要更大比例的城市资料。照片则能展示桥、水与天空的局部样子，但不能直接提供整座城市的道路布局。把地图上的地点名称和照片标题对应起来，你就建立了一条可追溯的线索，也更容易发现某张照片是否被放错了城市。"
+        }
+      ],
+      "term": "规划",
+      "definition": "为地方的布局和使用作安排。",
+      "glossary": [
+        {
+          "term": "规划",
+          "definition": "为地方的布局和使用作安排。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nca.gov.au/attraction/lake-burley-griffin"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-l05",
+      "placeId": "aus-canberra"
+    },
+    {
+      "id": "aus-uluru-country",
+      "countryId": "aus",
+      "sectionId": "landmarks",
+      "title": "乌鲁鲁为什么不只是一块石头？",
+      "summary": "乌鲁鲁是澳大利亚内陆著名的岩体，同时对当地 Aṉangu 具有重要文化意义。",
+      "mediaId": "aus-study",
+      "blocks": [
+        {
+          "id": "aus-uluru-country-b1",
+          "title": "地形与文化",
+          "text": "乌鲁鲁是澳大利亚内陆著名的岩体，同时对当地 Aṉangu 具有重要文化意义。只介绍高度、颜色或照片，会漏掉人们与这个地方持续的联系。自然与文化需要一起理解。"
+        },
+        {
+          "id": "aus-uluru-country-b2",
+          "title": "听当地说明",
+          "text": "公园和当地文化机构提供公开学习资料。不同知识有不同分享条件，不是所有故事都可以随意转述。百科应采用明确允许公开的说明，不编造或补写神圣故事。"
+        },
+        {
+          "id": "aus-uluru-country-b3",
+          "title": "影像也有范围",
+          "text": "部分地点有摄影限制，商业使用图像还涉及许可条件。没有完成授权核验时，本页不展示乌鲁鲁照片，也不使用生成图片替代。文字介绍与相关图像必须分别确认来源。"
+        },
+        {
+          "id": "aus-uluru-country-b4",
+          "title": "尊重地学习",
+          "text": "认识一个地方，可以通过公开资料学习它的地形和文化意义，不必把接近、攀登或拍摄当作探索成绩。观察任务关注读资料和提出问题，不设计攀登或进入敏感地点的任务。"
+        },
+        {
+          "id": "aus-uluru-country-b5",
+          "title": "先学会准确命名",
+          "text": "阅读资料时保留乌鲁鲁和当地 Aṉangu 的名称，认识地形与认识当地文化不是互相替代的任务。公园公开资料可以帮助了解哪些知识适合分享，哪些地方有特定的访问或拍摄要求。对一个地方感到好奇，可以从认真阅读它的介绍开始，并不需要拿到所有图像或进入所有空间才算完成探索。"
+        },
+        {
+          "id": "aus-uluru-country-b6",
+          "title": "把尊重放进问题里",
+          "text": "可以提出“这里的公开介绍由谁提供”“人们怎样说明与土地的联系”等问题，而不要求别人讲述不能公开的故事。在笔记中记录资料标题和阅读日期，也可以画简单的文字关系图，将地点、讲述者和公开来源连接起来。这种学习卡帮助组织信息，不仿制当地文化图案，也不替当地人表达信仰。"
+        }
+      ],
+      "term": "文化联系",
+      "definition": "人们与地方、知识和生活之间延续的关系。",
+      "glossary": [
+        {
+          "term": "文化联系",
+          "definition": "人们与地方、知识和生活之间延续的关系。"
+        }
+      ],
+      "sourceUrls": [
+        "https://uluru.gov.au/discover/culture/",
+        "https://uluru.gov.au/things-do/activities/photography/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-l06",
+      "placeId": "aus-uluru"
+    },
+    {
+      "id": "aus-coast-change",
+      "countryId": "aus",
+      "sectionId": "landmarks",
+      "title": "海浪怎样改变十二使徒岩海岸？",
+      "summary": "澳大利亚南部的十二使徒岩景观包含海蚀柱与临海岩壁。",
+      "mediaId": "aus-apostles",
+      "blocks": [
+        {
+          "id": "aus-coast-change-b1",
+          "title": "海岸留下形状",
+          "text": "澳大利亚南部的十二使徒岩景观包含海蚀柱与临海岩壁。名称并不意味着任何时候都恰好能看见十二根石柱。照片有自己的拍摄时间与角度，计数前先说明范围。"
+        },
+        {
+          "id": "aus-coast-change-b2",
+          "title": "长期的作用",
+          "text": "波浪作用、风化和岩石性质共同影响海岸变化。裂缝可能逐渐扩大，部分岩体可能坍塌。并不是每一处海岸都会按同一个固定步骤变化，示意图只能帮助理解关系。"
+        },
+        {
+          "id": "aus-coast-change-b3",
+          "title": "照片不能测速度",
+          "text": "单张照片可以展示柱状岩体和水面，却不能算出侵蚀速度。比较变化时应找同地点、可比角度、有日期的材料，并参考地质研究，不能把两处海岸拼成前后对照。"
+        },
+        {
+          "id": "aus-coast-change-b4",
+          "title": "描述可见线索",
+          "text": "先说岩柱的形状、与岸壁的关系，再提出形成原因的问题。不要只凭颜色认定岩石种类。观察与解释分开后，就能知道哪些问题需要地质资料来回答。"
+        },
+        {
+          "id": "aus-coast-change-b5",
+          "title": "形状与材料一起看",
+          "text": "官方公园资料把这里的海蚀柱和悬崖描述为石灰岩景观。认识材料依靠地质资料，而不是单看照片颜色；阳光、阴影和潮湿程度都会影响画面。海浪长期作用在海岸上，岩石的裂缝与性质也参与变化。因此同一张风景照片既可以引出形状问题，也可以引出需要查资料的材料问题。"
+        },
+        {
+          "id": "aus-coast-change-b6",
+          "title": "做一份比较记录",
+          "text": "假设你找到两张同地点不同日期的照片，先检查拍摄方向和画面范围，再记录能够对应的岩体。只有确认它们确实可以比较，才讨论哪里发生了变化。镜头转向可能让岩柱被遮住，裁切也可能让它离开画面，这与真实坍塌不同。仔细核对这些条件，是研究海岸变化前很重要的一步。"
+        }
+      ],
+      "term": "侵蚀",
+      "definition": "水、风等作用使地表物质逐渐被移走的过程。",
+      "glossary": [
+        {
+          "term": "侵蚀",
+          "definition": "水、风等作用使地表物质逐渐被移走的过程。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.parks.vic.gov.au/get-into-nature/conservation-and-science/our-amazing-diversity/virtual-exploration/fly-over-the-twelve-apostles"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "diagram": "aus-coast-erosion",
+      "exerciseId": "aus-p04",
+      "placeId": "aus-twelve-apostles"
+    },
+    {
+      "id": "aus-coral",
+      "countryId": "aus",
+      "sectionId": "nature",
+      "title": "珊瑚是动物吗？",
+      "summary": "一些珊瑚群体有分枝，容易让人联想到植物，但珊瑚虫是动物。",
+      "mediaId": "aus-reef",
+      "blocks": [
+        {
+          "id": "aus-coral-b1",
+          "title": "看起来像树枝",
+          "text": "一些珊瑚群体有分枝，容易让人联想到植物，但珊瑚虫是动物。它们有触手和口，能够获取食物。外形像树枝，不意味着它们是海草，分类需要依据身体与生命特征。"
+        },
+        {
+          "id": "aus-coral-b2",
+          "title": "许多个体的群体",
+          "text": "许多珊瑚由多个珊瑚虫连接形成群体，但并非所有珊瑚都采用同一种生活方式。照片中的一大团外形，可能包含很多小个体，不能把群体大小直接当作一个个体的体型。"
+        },
+        {
+          "id": "aus-coral-b3",
+          "title": "怎样参与造礁",
+          "text": "造礁珊瑚形成的坚硬骨骼经过长期积累，参与珊瑚礁的形成。珊瑚礁还有其他生物和物质，是复杂生态系统。图解中的箭头表示关系，不是珊瑚虫瞬间变成一整座礁。"
+        },
+        {
+          "id": "aus-coral-b4",
+          "title": "观察不打扰",
+          "text": "通过照片认识珊瑚颜色、分枝和周围生物，不需要触碰或采集。照片里的鲜艳颜色不能单独证明整个礁区健康。研究状态还需要长期监测、环境数据和清楚的方法。"
+        },
+        {
+          "id": "aus-coral-b5",
+          "title": "一小部分与大环境",
+          "text": "把镜头拉近，可以讨论珊瑚虫的结构；把镜头拉远，则会看到群体、其他生物和水下空间。不同尺度对应不同问题。问“是不是动物”时要看生命特征，问“礁区怎样形成”时则要研究材料积累和长期过程。只认识一张宏观照片，不能替代微小个体与生态系统两个层面的知识。"
+        },
+        {
+          "id": "aus-coral-b6",
+          "title": "画一条有说明的箭头",
+          "text": "在纸上写下珊瑚虫、群体、珊瑚礁，并在箭头旁补充“许多个体连接生活”“骨骼等材料长期积累”。这些说明比单独的箭头更准确，因为箭头容易让人误以为是一只动物依次变成三种东西。也可以在旁边加一句：并非所有珊瑚都一样，示意图只呈现其中重要的关系，而不是全部种类。"
+        }
+      ],
+      "term": "珊瑚虫",
+      "definition": "组成许多珊瑚群体的微小动物个体。",
+      "glossary": [
+        {
+          "term": "珊瑚虫",
+          "definition": "组成许多珊瑚群体的微小动物个体。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gbrmpa.gov.au/learn/coral",
+        "https://oceanservice.noaa.gov/facts/coral.html"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "diagram": "aus-coral",
+      "exerciseId": "aus-c09",
+      "placeId": "aus-great-barrier-reef"
+    },
+    {
+      "id": "aus-kangaroo-pouch",
+      "countryId": "aus",
+      "sectionId": "nature",
+      "title": "袋鼠的育儿袋有什么作用？",
+      "summary": "袋鼠属于有袋类哺乳动物，幼崽出生时发育程度较低，会继续在母体的育儿袋中发育。",
+      "mediaId": "aus-joey",
+      "blocks": [
+        {
+          "id": "aus-kangaroo-pouch-b1",
+          "title": "先看幼崽",
+          "text": "袋鼠属于有袋类哺乳动物，幼崽出生时发育程度较低，会继续在母体的育儿袋中发育。育儿袋不是装食物的口袋，也不是每只袋鼠都有同样的育幼角色。"
+        },
+        {
+          "id": "aus-kangaroo-pouch-b2",
+          "title": "袋里继续成长",
+          "text": "幼崽在育儿袋中吸乳，逐渐长大。照片可能只显示头或身体的一部分，不能据此精确判断年龄。认识生长过程，需要观察记录与动物学资料，不靠一次拍摄猜测全部经历。"
+        },
+        {
+          "id": "aus-kangaroo-pouch-b3",
+          "title": "身体与环境",
+          "text": "袋鼠有不同种类，生活环境和体型并不完全相同。不能把一张动物园照片当作野外分布证据，也不能说所有袋鼠都住在沙漠。图注中的地点与情境同样重要。"
+        },
+        {
+          "id": "aus-kangaroo-pouch-b4",
+          "title": "提出观察问题",
+          "text": "先描述幼崽在哪里、哪些身体部位看得见，再问它怎样进出育儿袋。照片中无法看见的部分可以标记未知。观察时不靠近或惊扰动物，公开影像已经能提供许多学习线索。"
+        },
+        {
+          "id": "aus-kangaroo-pouch-b5",
+          "title": "认识不同生命阶段",
+          "text": "照片里成年袋鼠与幼崽的身体大小不同，但大小差别并不能提供准确出生日期。动物学资料描述幼崽在育儿袋中继续发育，逐渐能够在袋外活动；这是一段成长过程。比较时可以记录哪些部位已经露出、身体在什么位置，再把这些观察与资料联系起来，不需要为照片中的幼崽编一个年龄。"
+        },
+        {
+          "id": "aus-kangaroo-pouch-b6",
+          "title": "袋鼠与考拉的共同线索",
+          "text": "袋鼠和考拉外形很不同，却都属于有袋类哺乳动物。这个例子说明分类不只是找长得像的动物，还会考虑繁殖与发育等特征。你可以把两种动物分别画成名称卡，再写出“育儿袋中的继续发育”这条共同线索。共同特点不表示它们吃相同食物，也不表示它们住在同一种环境。"
+        }
+      ],
+      "term": "有袋类",
+      "definition": "幼体通常在母体育儿袋等育幼结构中继续发育的哺乳动物类群。",
+      "glossary": [
+        {
+          "term": "有袋类",
+          "definition": "幼体通常在母体育儿袋等育幼结构中继续发育的哺乳动物类群。"
+        }
+      ],
+      "sourceUrls": [
+        "https://australian.museum/learn/animals/mammals/eastern-grey-kangaroo/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "diagram": "aus-kangaroo-pouch",
+      "exerciseId": "aus-c10"
+    },
+    {
+      "id": "aus-platypus",
+      "countryId": "aus",
+      "sectionId": "nature",
+      "title": "鸭嘴兽有哪些特别的身体结构？",
+      "summary": "鸭嘴兽的嘴部形状让人想到鸭子，但它是哺乳动物，不是鸟。",
+      "mediaId": "aus-platypus",
+      "blocks": [
+        {
+          "id": "aus-platypus-b1",
+          "title": "名字不是分类",
+          "text": "鸭嘴兽的嘴部形状让人想到鸭子，但它是哺乳动物，不是鸟。它属于会产卵的单孔类，幼体由母体提供乳汁。仅凭一个外形比喻，不能决定动物属于哪一类。"
+        },
+        {
+          "id": "aus-platypus-b2",
+          "title": "适应水边生活",
+          "text": "鸭嘴兽有适合水中活动的身体特征，会在淡水环境寻找食物。观察照片时可以辨认嘴部、身体与水面的关系，但一张水面照片不能展示全部水下行为。"
+        },
+        {
+          "id": "aus-platypus-b3",
+          "title": "特别的感觉",
+          "text": "鸭嘴兽嘴部具有感知环境的特殊能力，帮助它在水中寻找食物。具体机制需要动物学研究解释，不能从嘴的颜色直接看出。图解说明身体关系，不冒充仪器测量。"
+        },
+        {
+          "id": "aus-platypus-b4",
+          "title": "把未知留下来",
+          "text": "看到动物浮出水面，可以描述位置和姿态，却不能马上断言它饿了或在玩耍。行为判断需要连续观察。写下一条确实看见的线索，再写一个需要更多资料的问题。"
+        },
+        {
+          "id": "aus-platypus-b5",
+          "title": "从名字转向生命特征",
+          "text": "鸭嘴兽会产卵，却仍然属于哺乳动物，因为分类需要综合多种特征。母体给幼体提供乳汁就是重要线索。把“像鸭子的嘴”和“产卵”单独拿出来猜分类，容易忽略其他证据。可以制作一张两列表格，左边记外观，右边记需要资料才能知道的繁殖与育幼特点，再一起认识这种动物。"
+        },
+        {
+          "id": "aus-platypus-b6",
+          "title": "水面之下还有问题",
+          "text": "照片里能看见鸭嘴兽与水面的关系，却不能直接显示水下的所有食物和活动。它的嘴部能感受与寻找猎物有关的信号，这种能力要靠研究才能解释。观察记录可以先问“哪些部位在水面上”，再问“研究者怎样了解水下觅食”。把可见部分与需要进一步研究的部分分开，就不会只凭一个姿态编出完整故事。"
+        }
+      ],
+      "term": "单孔类",
+      "definition": "包括鸭嘴兽和针鼹等产卵的哺乳动物。",
+      "glossary": [
+        {
+          "term": "单孔类",
+          "definition": "包括鸭嘴兽和针鼹等产卵的哺乳动物。"
+        }
+      ],
+      "sourceUrls": [
+        "https://australian.museum/learn/animals/mammals/platypus/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "diagram": "aus-platypus",
+      "exerciseId": "aus-p05",
+      "placeId": "aus-cradle-mountain"
+    },
+    {
+      "id": "aus-before-colonisation",
+      "countryId": "aus",
+      "sectionId": "history",
+      "title": "欧洲殖民之前，这里有哪些生活？",
+      "summary": "澳大利亚原住民族在欧洲殖民到来之前已经拥有长期历史、多样社会与知识。",
+      "mediaId": "aus-history-before",
+      "blocks": [
+        {
+          "id": "aus-before-colonisation-b1",
+          "title": "历史不从殖民开始",
+          "text": "澳大利亚原住民族在欧洲殖民到来之前已经拥有长期历史、多样社会与知识。介绍国家历史时，不能把殖民者到来写成这片土地才开始有人生活或才被认识。"
+        },
+        {
+          "id": "aus-before-colonisation-b2",
+          "title": "不同地方不同经历",
+          "text": "海岸、岛屿、河流与内陆地区的环境不同，各地群体有不同语言、联系和生活知识。考古与社区口述资料可以提供不同线索，不能用一个地点的发现概括整片大陆。"
+        },
+        {
+          "id": "aus-before-colonisation-b3",
+          "title": "历史仍与今天相连",
+          "text": "这些文化和联系并未只留在过去。今天的社区继续传承、创作、研究并表达自己的历史。历史页应与当代人文页相连接，让孩子看到持续的生活而不是静止的展品。"
+        },
+        {
+          "id": "aus-before-colonisation-b4",
+          "title": "看谁在讲述",
+          "text": "阅读资料时关注讲述者和来源。有些知识只能由特定群体分享，不应因资料缺失就编故事。允许保留未知，也尊重社区对公开材料的说明，是认识历史的重要部分。"
+        },
+        {
+          "id": "aus-before-colonisation-b5",
+          "title": "不同材料保存不同线索",
+          "text": "考古遗物可以提供材料、位置和年代方面的线索，社区公开分享的口述与知识则可能帮助理解地点和生活的联系。两者并不是简单竞争谁更重要，而是在具体研究中回答不同问题。阅读时要看方法与出处，不能把没有标明来源的旅游故事当成社区认可的知识，也不能将缺少文字记录等同于没有历史。"
+        },
+        {
+          "id": "aus-before-colonisation-b6",
+          "title": "在时间线上留出空间",
+          "text": "一条从殖民时期才开始的短时间线，很容易让读者忽略此前漫长的生活。你可以在时间线前端画一个延续标记，注明这里有更长、更多样的历史，再为具体社区保留资料索引。这并不是要用一个数字概括所有群体，而是提醒自己：现代国家制度只是历史的一部分，人们与地方的联系远比这个制度更早。"
+        }
+      ],
+      "term": "口述资料",
+      "definition": "通过讲述记录和传递的经历与知识。",
+      "glossary": [
+        {
+          "term": "口述资料",
+          "definition": "通过讲述记录和传递的经历与知识。"
+        }
+      ],
+      "sourceUrls": [
+        "https://aiatsis.gov.au/explore/first-peoples-australia"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-p06"
+    },
+    {
+      "id": "aus-colonisation",
+      "countryId": "aus",
+      "sectionId": "history",
+      "title": "殖民到来改变了谁的生活？",
+      "summary": "欧洲殖民扩张改变了澳大利亚许多地区的土地使用、制度与人口关系。",
+      "mediaId": "aus-history-colonial",
+      "blocks": [
+        {
+          "id": "aus-colonisation-b1",
+          "title": "具体的历史事件",
+          "text": "欧洲殖民扩张改变了澳大利亚许多地区的土地使用、制度与人口关系。不能只把它讲成船只远航的冒险故事，也要认识原有居民的生活与权利受到怎样的影响。"
+        },
+        {
+          "id": "aus-colonisation-b2",
+          "title": "土地与生活变化",
+          "text": "土地被占用、疾病传播、暴力和限制性政策给原住民族带来深刻伤害。不同地区经历并不完全相同。儿童内容以清楚而非血腥的语言说明这些事实，不把不平等美化成自然发生的变化。"
+        },
+        {
+          "id": "aus-colonisation-b3",
+          "title": "人们并非被动",
+          "text": "原住民族持续抵抗、适应、维系家庭与文化，并争取土地和权利。历史不仅是外来者做了什么，也包含当地人的行动与声音。了解具体人物时，必须使用可靠记录。"
+        },
+        {
+          "id": "aus-colonisation-b4",
+          "title": "比较资料视角",
+          "text": "同一事件可能在不同材料中被不同地讲述。先确认作者、年代与目的，再问哪些人没有被记录。承认资料的局限，不表示所有说法都同样可靠，而是提醒我们继续寻找证据。"
+        },
+        {
+          "id": "aus-colonisation-b5",
+          "title": "一个明确的时间地点",
+          "text": "一七八八年，第一舰队抵达悉尼湾并建立殖民定居点，这是理解英国殖民澳大利亚的重要事件。把年份、地点和事件放在一起，会比只记住“有人乘船到来”更清楚。认识这个事件还要同时考虑原先居住在当地的人，而不能把地图上已经有人生活的地方当作等待外来者发现的空白。"
+        },
+        {
+          "id": "aus-colonisation-b6",
+          "title": "阅读时给视角做标记",
+          "text": "一份由殖民管理者写的报告可能特别关心土地、人员和制度，却未充分记录当地居民的经验。你可以在资料旁写下作者身份和写作目的，再寻找相关社区公开的历史资料作补充。比较视角不是随意挑选自己喜欢的说法，而是让证据更完整，理解同一变化为什么会给不同群体带来不同影响。"
+        }
+      ],
+      "term": "殖民",
+      "definition": "外来力量在某地建立支配、占用土地和资源的历史过程。",
+      "glossary": [
+        {
+          "term": "殖民",
+          "definition": "外来力量在某地建立支配、占用土地和资源的历史过程。"
+        }
+      ],
+      "sourceUrls": [
+        "https://digital-classroom.nma.gov.au/defining-moments/first-fleet-arrives-sydney-cove",
+        "https://aiatsis.gov.au/explore/first-peoples-australia"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "aus-o04",
+        "type": "open",
+        "title": "殖民到来改变了谁的生活？",
+        "prompt": "读历史资料：作者是谁？记录了谁的经历？还想寻找哪一方的声音？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "aus-history-colonial"
+        ],
+        "suggestedArticleIds": [
+          "aus-colonisation"
+        ]
+      }
+    },
+    {
+      "id": "aus-federation",
+      "countryId": "aus",
+      "sectionId": "history",
+      "title": "1901年联邦成立意味着什么？",
+      "summary": "一九〇一年，六个英国殖民地联合成立澳大利亚联邦，并成为州。",
+      "mediaId": "aus-history-federal",
+      "blocks": [
+        {
+          "id": "aus-federation-b1",
+          "title": "六个殖民地联合",
+          "text": "一九〇一年，六个英国殖民地联合成立澳大利亚联邦，并成为州。这个事件与今天国家制度的发展有关，但不能说这里的全部历史从这一年才开始。"
+        },
+        {
+          "id": "aus-federation-b2",
+          "title": "不同层级",
+          "text": "联邦成立后，联邦与州承担不同职责。孩子可以先理解“有共同的国家机构，也有州级机构”，不必一次背完所有制度。地图上的州界与自然河流也不是同一种线。"
+        },
+        {
+          "id": "aus-federation-b3",
+          "title": "并非人人平等参与",
+          "text": "制度形成并不意味着当时所有人已经享有相同权利。原住民族和其他群体受到排斥及歧视性政策影响。介绍庆典或纪念物时，也要说明谁没有同等参与。"
+        },
+        {
+          "id": "aus-federation-b4",
+          "title": "文件与实践",
+          "text": "历史文件说明制度如何规定，生活记录帮助了解实际影响。把一张纪念图片当作所有人共同欢庆的证明，会漏掉不同经历。练习关注的是具体事件与证据，不要求孩子替历史人物表达统一态度。"
+        },
+        {
+          "id": "aus-federation-b5",
+          "title": "州和国家不是同一个词",
+          "text": "联邦与州是理解澳大利亚制度时会遇到的不同层级。一个城市位于某个州，不意味着这个州就是另一个独立国家。地理课上可以先用文字框表示国家和州，再把城市名称放到相应层级中。这样的关系图帮助理解组织方式，但不能代替真实边界地图，更不能解释每项公共事务的具体权限。"
+        },
+        {
+          "id": "aus-federation-b6",
+          "title": "庆典之外还要问什么",
+          "text": "照片或纪念文字可能特别突出联邦成立时的庆典。认识历史时，可以再问：哪些人的声音被记录，谁拥有参与的权利，后来的社会怎样讨论这些问题？制度建立是一件具体事件，平等权利的变化则需要继续沿时间线研究。保留这两种问题，能避免把一次庆典解释成所有人从此拥有相同生活。"
+        }
+      ],
+      "term": "联邦",
+      "definition": "由州等组成单位共同构成的国家组织形式。",
+      "glossary": [
+        {
+          "term": "联邦",
+          "definition": "由州等组成单位共同构成的国家组织形式。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nma.gov.au/defining-moments/resources/federation"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-c11"
+    },
+    {
+      "id": "aus-koala-not-bear",
+      "countryId": "aus",
+      "sectionId": "questions",
+      "title": "考拉为什么不是熊？",
+      "summary": "考拉有时被叫作“树袋熊”，但它并不属于熊类。",
+      "mediaId": "aus-koala",
+      "blocks": [
+        {
+          "id": "aus-koala-not-bear-b1",
+          "title": "俗称与分类",
+          "text": "考拉有时被叫作“树袋熊”，但它并不属于熊类。它是有袋类哺乳动物。名字里的一个字可以帮助记忆外观，却不能代替动物分类依据。"
+        },
+        {
+          "id": "aus-koala-not-bear-b2",
+          "title": "看身体与繁殖",
+          "text": "分类需要比较身体结构、繁殖方式与演化关系，而不只是看脸圆不圆、毛厚不厚。考拉幼体会在育儿袋中继续发育，这也是认识有袋类的一条线索。"
+        },
+        {
+          "id": "aus-koala-not-bear-b3",
+          "title": "树与食物",
+          "text": "考拉与桉树等栖息环境密切相关。照片可以显示它抱着树或休息，但不能据此断定它一天所有时间都在做同一件事。了解食物和活动仍要参考研究资料。"
+        },
+        {
+          "id": "aus-koala-not-bear-b4",
+          "title": "纠正一个误会",
+          "text": "如果有人因为名称里有“熊”就认为它是熊，可以温和解释：俗称不等于分类。用一个具体事实支持解释，比只说“你错了”更有帮助，也让我们学会核对其他动物的名字。"
+        },
+        {
+          "id": "aus-koala-not-bear-b5",
+          "title": "把常用名字和科学分类分开",
+          "text": "生活中，人们会用熟悉的词帮助记住新动物，俗称因此可能带来误会。认识考拉时，可以同时保留常用名称与“有袋类哺乳动物”这个分类信息。两个名称的作用不同：一个方便交流，一个帮助理解生命特征。遇到其他带着“鱼”“熊”或“鼠”的名称，也可以先查资料，再判断它实际属于哪一类。"
+        },
+        {
+          "id": "aus-koala-not-bear-b6",
+          "title": "照片里还有栖息环境",
+          "text": "考拉抱着树的照片不仅展示动物，也展示它与植物的位置关系。你可以先记录树干、枝叶和姿态，再继续阅读它的食物与栖息环境。不要因为一张照片只拍到一棵树，就认为它一生只使用这一棵树；相机取景范围很小。把动物放回周围环境中看，会比只盯着可爱的脸发现更多问题。"
+        }
+      ],
+      "term": "分类",
+      "definition": "依据特征和关系把生物等分为不同类群。",
+      "glossary": [
+        {
+          "term": "分类",
+          "definition": "依据特征和关系把生物等分为不同类群。"
+        }
+      ],
+      "sourceUrls": [
+        "https://australian.museum/learn/animals/mammals/koala/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "exerciseId": "aus-c12"
+    },
+    {
+      "id": "aus-reef-health",
+      "countryId": "aus",
+      "sectionId": "questions",
+      "title": "一张照片能证明珊瑚健康吗？",
+      "summary": "照片中的珊瑚可能颜色鲜艳，也可能较浅。",
+      "mediaId": "aus-reef",
+      "blocks": [
+        {
+          "id": "aus-reef-health-b1",
+          "title": "先观察颜色与形状",
+          "text": "照片中的珊瑚可能颜色鲜艳，也可能较浅。我们能够描述画面，但水下光线、相机设置和拍摄时间会影响颜色。不能只凭亮不亮就为整个珊瑚礁下结论。"
+        },
+        {
+          "id": "aus-reef-health-b2",
+          "title": "白化不是简单变白",
+          "text": "珊瑚白化与珊瑚和共生藻之间关系受干扰等因素有关。白化与死亡不是完全相同的概念，具体状态需要专业判断。百科图解不提供凭单张图片诊断的捷径。"
+        },
+        {
+          "id": "aus-reef-health-b3",
+          "title": "需要多种记录",
+          "text": "研究礁区健康，应看有地点、日期和方法的监测，结合珊瑚覆盖、温度等资料。不同区域的照片不能自动当作同一地点的前后变化，更不能用一张旅游照片代表整片大堡礁。"
+        },
+        {
+          "id": "aus-reef-health-b4",
+          "title": "写出证据边界",
+          "text": "在笔记中先写“我看见的颜色和形状”，再写“想知道是否发生白化”。第三栏列出还需要什么记录。这样既保留好奇，也不会把尚未核验的判断写成事实。"
+        },
+        {
+          "id": "aus-reef-health-b5",
+          "title": "同一颜色可能有不同原因",
+          "text": "水深、光照和拍摄条件会影响图像中的颜色，研究者因此不会只拿一张漂亮照片给整个礁区评分。照片若要用于比较，需要保留时间、地点与拍摄方法等信息。你可以先把这些条件列成一张检查卡，再查看材料是否齐全。条件缺失时可以继续欣赏画面，但应暂缓把它用于判断长期变化。"
+        },
+        {
+          "id": "aus-reef-health-b6",
+          "title": "给问题安排下一步",
+          "text": "写完“我想知道这里有没有白化”，下一步可以寻找同一礁区的正式监测资料，看看研究者采用了哪些指标和日期。白化也不简单等同于已经死亡，具体状态需要专业判断。孩子的观察笔记可以提出有根据的问题，却不承担诊断工作；知道下一份资料应该是什么，也是一种实实在在的学习收获。"
+        }
+      ],
+      "term": "白化",
+      "definition": "珊瑚与共生藻关系受干扰后失去颜色等变化，不等同于已经死亡。",
+      "glossary": [
+        {
+          "term": "白化",
+          "definition": "珊瑚与共生藻关系受干扰后失去颜色等变化，不等同于已经死亡。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gbrmpa.gov.au/learn/coral"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "aus-o05",
+        "type": "open",
+        "title": "一张照片能证明珊瑚健康吗？",
+        "prompt": "记录珊瑚照片里的颜色和形状；若想了解健康状态，还需要什么监测资料？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "aus-reef"
+        ],
+        "suggestedArticleIds": [
+          "aus-reef-health"
+        ]
+      },
+      "placeId": "aus-great-barrier-reef"
+    },
+    {
+      "id": "aus-animal-observation",
+      "countryId": "aus",
+      "sectionId": "questions",
+      "title": "看见袋鼠，就能知道它在做什么吗？",
+      "summary": "一张动物照片记录某个瞬间。",
+      "mediaId": "aus-joey",
+      "blocks": [
+        {
+          "id": "aus-animal-observation-b1",
+          "title": "照片只是一瞬",
+          "text": "一张动物照片记录某个瞬间。袋鼠低头可能与觅食有关，但具体行为仍要看前后过程与情境。不要把一张静态图片当作完整的一天，也不要随意给动物编心理活动。"
+        },
+        {
+          "id": "aus-animal-observation-b2",
+          "title": "先描述姿态",
+          "text": "可以描述身体朝向、腿的位置或幼崽露出的部分。这些是画面里能够直接核对的线索。说“它很开心”则属于解释，需要更多依据，不能与直接观察混写。"
+        },
+        {
+          "id": "aus-animal-observation-b3",
+          "title": "连续观察更有帮助",
+          "text": "视频、长期记录和研究资料可以补充动作顺序与环境信息。即使有更多材料，也要注意是否来自同一只动物、同一地点和同一时间，避免把不相关图片拼成一个故事。"
+        },
+        {
+          "id": "aus-animal-observation-b4",
+          "title": "保存自己的问题",
+          "text": "笔记分为“我看见”“我猜想”“我还想知道”，由孩子自己填写。至少写下一项即可保存，不需要猜中唯一答案。下次获得更多证据时，可以修改自己的解释。"
+        },
+        {
+          "id": "aus-animal-observation-b5",
+          "title": "把一句话拆成两部分",
+          "text": "试着把“它低着头，所以一定在找食物”拆开。前半句描述姿态，后半句作出行为解释，两者需要的证据不一样。如果照片没有清楚显示食物，也没有连续动作记录，就应把后半句改成一个问题。这样不会削弱你的好奇，反而让别人知道应该寻找什么新线索来支持或修改这个解释。"
+        },
+        {
+          "id": "aus-animal-observation-b6",
+          "title": "让记录能够再回来使用",
+          "text": "给笔记保留动物名称、图片来源和观察日期，再写下最想继续了解的一件事。过一段时间获得新资料时，可以回来看原来的判断，标出哪些已经得到支持、哪些需要调整。学习记录不必像考试一样一次写对；愿意根据证据修改解释，能帮助你从一张照片逐步认识更完整的动物生活。"
+        }
+      ],
+      "term": "推断",
+      "definition": "根据线索提出的解释，需要更多证据检验。",
+      "glossary": [
+        {
+          "term": "推断",
+          "definition": "根据线索提出的解释，需要更多证据检验。"
+        }
+      ],
+      "sourceUrls": [
+        "https://australian.museum/learn/animals/mammals/eastern-grey-kangaroo/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "reviewStatus": "reviewed",
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "aus-o06",
+        "type": "open",
+        "title": "看见袋鼠，就能知道它在做什么吗？",
+        "prompt": "观察袋鼠与幼崽的位置。分别写下看见的姿态、行为猜想和待验证的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "aus-joey"
+        ],
+        "suggestedArticleIds": [
+          "aus-animal-observation"
+        ]
+      },
+      "placeId": "aus-kangaroo-island"
+    }
+  ],
+  "places": [
+    {
+      "id": "aus-sydney-harbour",
+      "countryId": "aus",
+      "name": "悉尼港",
+      "category": "城市",
+      "latitude": -33.857,
+      "longitude": 151.215,
+      "region": "悉尼 · 新南威尔士",
+      "summary": "港湾、歌剧院与桥共同构成城市景观。",
+      "description": "悉尼港把水上交通、城市地标和岸边生活放在一起。先看歌剧院，再找海港大桥，最后观察它们与水面的关系。封面为黄昏景观，不能用天空亮度判断全年天气。",
+      "observation": "找出屋顶轮廓、桥与水面。哪些结构跨过水面，哪些位于岸边？",
+      "mediaIds": [
+        "aus-sydney"
+      ],
+      "sourceUrl": "https://www.sydneyoperahouse.com/our-story/the-spherical-solution",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "sydney-harbour",
+        "悉尼港",
+        "Sydney",
+        "悉尼歌剧院"
+      ],
+      "articleIds": [
+        "aus-ferries",
+        "aus-opera-house"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-canberra",
+      "countryId": "aus",
+      "name": "堪培拉 · 伯利·格里芬湖",
+      "category": "城市",
+      "latitude": -35.293,
+      "longitude": 149.125,
+      "region": "首都领地",
+      "summary": "湖面、桥与步道连接城市空间。",
+      "description": "堪培拉是澳大利亚首都。伯利·格里芬湖与桥、步道和公共空间共同构成城市景观。地点标记代表湖岸附近，照片从桥梁附近看水面，并不等于整座首都的全景。",
+      "observation": "观察桥下结构的方向，再找水面。跨越水面与沿岸移动有什么区别？",
+      "mediaIds": [
+        "aus-canberra"
+      ],
+      "sourceUrl": "https://www.nca.gov.au/attraction/lake-burley-griffin",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "canberra",
+        "堪培拉 · 伯利·格里芬湖",
+        "Canberra",
+        "堪培拉"
+      ],
+      "articleIds": [
+        "aus-capital",
+        "aus-canberra-lake",
+        "aus-public-space"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-melbourne",
+      "countryId": "aus",
+      "name": "墨尔本市中心",
+      "category": "城市",
+      "latitude": -37.818,
+      "longitude": 144.967,
+      "region": "维多利亚州",
+      "summary": "观察电车与街道，不把历史照片当实时班次。",
+      "description": "墨尔本的电车与街道共同组成城市交通空间。本页照片拍摄于2008年，适合观察车体与轨道，不能代替当前运营资料。文章用虚构甲乙丙站点练习换乘，再说明如何查阅真实线路图。",
+      "observation": "找到车体、轨道和架空线。照片能告诉你下一班车何时到吗？",
+      "mediaIds": [
+        "aus-melbourne"
+      ],
+      "sourceUrl": "https://transport.vic.gov.au/plan-a-journey/network-maps/melbourne-public-transport-maps",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "melbourne",
+        "墨尔本市中心",
+        "Melbourne"
+      ],
+      "articleIds": [
+        "aus-tram-transfer",
+        "aus-market-origin"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-great-barrier-reef",
+      "countryId": "aus",
+      "name": "大堡礁 · Flynn Reef",
+      "category": "自然",
+      "latitude": -16.73,
+      "longitude": 146.27,
+      "region": "昆士兰外海",
+      "summary": "此点是具体礁区的观察锚点，不是整片大堡礁边界。",
+      "description": "大堡礁由许多礁体、岛屿和周围海域共同构成复杂环境。这里使用Flynn Reef的水下照片作为具体观察点。多种外形的珊瑚群体相邻生长；标记不是大堡礁整体轮廓或海洋公园边界。",
+      "observation": "点击照片里的珊瑚群体，描述分枝、片状外形与周围水体。颜色不能单独证明整个礁区健康。",
+      "mediaIds": [
+        "aus-reef"
+      ],
+      "sourceUrl": "https://www.gbrmpa.gov.au/learn/coral",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "great-barrier-reef",
+        "大堡礁 · Flynn Reef",
+        "Great Barrier Reef",
+        "Flynn Reef",
+        "大堡礁"
+      ],
+      "articleIds": [
+        "aus-coral",
+        "aus-reef-health"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "aus-reef",
+          "x": 0.38,
+          "y": 0.58,
+          "label": "片状外形",
+          "explanation": "这部分珊瑚群体呈现层叠的片状外形。形状描述不等于确定物种。"
+        },
+        {
+          "mediaId": "aus-reef",
+          "x": 0.75,
+          "y": 0.24,
+          "label": "周围水体",
+          "explanation": "群体周围还有水下空间；照片只记录礁区的一小部分。"
+        }
+      ]
+    },
+    {
+      "id": "aus-daintree",
+      "countryId": "aus",
+      "name": "丹特里雨林",
+      "category": "自然",
+      "latitude": -16.17,
+      "longitude": 145.42,
+      "region": "昆士兰",
+      "summary": "植物、林冠与水共同构成栖息环境。",
+      "description": "丹特里位于昆士兰北部，是认识热带雨林的地点之一。照片里不同高度的植物、叶片与林下空间提供观察线索。把这里与内陆干旱区域比较，可以发现澳大利亚并不是只有一种自然环境。",
+      "observation": "沿画面从地面看到林冠，寻找植物在不同高度占据的空间。不要只凭一片叶子推断整片森林的物种。",
+      "mediaIds": [
+        "aus-daintree"
+      ],
+      "sourceUrl": "https://parks.qld.gov.au/parks/daintree",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "daintree",
+        "丹特里雨林"
+      ],
+      "articleIds": [
+        "aus-dry-interior",
+        "aus-seasons"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-kakadu",
+      "countryId": "aus",
+      "name": "卡卡杜国家公园",
+      "category": "自然",
+      "latitude": -12.43,
+      "longitude": 132.95,
+      "region": "北领地",
+      "summary": "观察湿地与季节变化；代表点不标记敏感文化地点。",
+      "description": "卡卡杜位于北领地，具有自然与文化两方面的重要意义。封面展示公开观景区域的岩壁与植被。北部的湿季和干季帮助理解环境变化，但这张照片只记录一个时刻；本页不展示敏感文化地点。",
+      "observation": "记录岩壁与植被的分布，再提出一个需要季节记录才能回答的问题。",
+      "mediaIds": [
+        "aus-kakadu"
+      ],
+      "sourceUrl": "https://kakadu.gov.au/discover/nature/",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "kakadu",
+        "卡卡杜国家公园"
+      ],
+      "articleIds": [
+        "aus-seasons",
+        "aus-first-peoples"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-uluru",
+      "countryId": "aus",
+      "name": "乌鲁鲁",
+      "category": "自然",
+      "latitude": -25.344,
+      "longitude": 131.037,
+      "region": "北领地",
+      "summary": "本页采用地图定位，未使用尚未核验授权的照片。学习公开的地形与Aṉangu文化资料。",
+      "description": "乌鲁鲁是岩体，也是与当地Aṉangu生活和文化持续相连的地方。这里使用原创学习卡和地图位置，配合公园公开资料理解地形与文化。部分文化知识和摄影有明确分享条件；学习以当地公开说明为依据。",
+      "observation": "阅读公开资料，记下讲述者与地点的关系。你还想向资料提出什么问题？",
+      "mediaIds": [
+        "aus-study"
+      ],
+      "sourceUrl": "https://uluru.gov.au/discover/culture/",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "uluru",
+        "乌鲁鲁"
+      ],
+      "articleIds": [
+        "aus-uluru-country"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-murray-yarrawonga",
+      "countryId": "aus",
+      "name": "墨累河 · 亚拉旺加",
+      "category": "自然",
+      "latitude": -36.008,
+      "longitude": 146.005,
+      "region": "维多利亚与新南威尔士交界附近",
+      "summary": "河流代表锚点不等于整条河，也不是流域边界。",
+      "description": "墨累河流经澳大利亚东南部。亚拉旺加附近的照片记录一个河段的水面与岸边环境，国家地图则显示更长的河道。河道、岸边湿地与流域不是同一种范围，不要把代表点当作河流起点。",
+      "observation": "观察水面与岸边的相对位置，再沿地图河线寻找上游和下游方向。",
+      "mediaIds": [
+        "aus-murray"
+      ],
+      "sourceUrl": "https://www.ga.gov.au/scientific-topics/national-location-information/geography",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "murray-yarrawonga",
+        "墨累河 · 亚拉旺加",
+        "Murray",
+        "Yarrawonga"
+      ],
+      "articleIds": [
+        "aus-murray-river"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-twelve-apostles",
+      "countryId": "aus",
+      "name": "十二使徒岩海岸",
+      "category": "自然",
+      "latitude": -38.665,
+      "longitude": 143.105,
+      "region": "维多利亚州",
+      "summary": "海蚀柱、海岸岩壁与海水留下地质线索。",
+      "description": "十二使徒岩位于维多利亚州海岸。石灰岩海蚀柱与临海悬崖是长期海岸变化留下的景观。名称不表示每个时期、每个角度都能看见十二根石柱。照片拍摄于2019年，适合观察形状，不代表今日数量。",
+      "observation": "找出与岸壁分开的岩柱。哪些部分是直接看见的，哪些形成过程需要地质资料解释？",
+      "mediaIds": [
+        "aus-apostles"
+      ],
+      "sourceUrl": "https://www.parks.vic.gov.au/get-into-nature/conservation-and-science/our-amazing-diversity/virtual-exploration/fly-over-the-twelve-apostles",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "twelve-apostles",
+        "十二使徒岩海岸"
+      ],
+      "articleIds": [
+        "aus-coast-change"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-perth",
+      "countryId": "aus",
+      "name": "珀斯 · 天鹅河",
+      "category": "城市",
+      "latitude": -31.96,
+      "longitude": 115.85,
+      "region": "西澳大利亚",
+      "summary": "从河岸认识城市与水面的位置关系。",
+      "description": "珀斯位于澳大利亚西部。本页从国王公园方向看城市与天鹅河，水面和建筑帮助建立城市空间的印象。它与东海岸的悉尼相距很远，不能把两地的河流、港湾或气候资料混用。",
+      "observation": "描述水面与建筑的位置。切换国家地图，看看珀斯与悉尼分别位于大陆哪一侧。",
+      "mediaIds": [
+        "aus-perth"
+      ],
+      "sourceUrl": "https://www.ga.gov.au/scientific-topics/national-location-information/geography",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "perth",
+        "珀斯 · 天鹅河"
+      ],
+      "articleIds": [
+        "aus-find-on-map",
+        "aus-public-space"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-kangaroo-island",
+      "countryId": "aus",
+      "name": "袋鼠岛",
+      "category": "自然",
+      "latitude": -36.048735,
+      "longitude": 136.757276,
+      "region": "南澳大利亚",
+      "summary": "代表点位于公开岩石景观附近，不代表动物巢穴或全岛范围。",
+      "description": "袋鼠岛位于南澳大利亚外海。这里的照片展示弗林德斯蔡斯国家公园的Remarkable Rocks岩石景观。名字中有袋鼠，不表示每张岛上照片都有袋鼠；风景与动物都应按具体画面和资料认识。",
+      "observation": "观察大岩石的外形与周围地面。能从照片直接判断岩石形成用了多久吗？",
+      "mediaIds": [
+        "aus-kangaroo-island"
+      ],
+      "sourceUrl": "https://southaustralia.com/products/kangaroo-island/attraction/remarkable-rocks-flinders-chase-national-park",
+      "coordinateSource": "South Australian Tourism Commission 景点页 Open in Maps 公共代表点（WGS84）；不等于摄影点",
+      "aliases": [
+        "kangaroo-island",
+        "袋鼠岛"
+      ],
+      "articleIds": [
+        "aus-coast-change",
+        "aus-animal-observation"
+      ],
+      "hotspots": []
+    },
+    {
+      "id": "aus-cradle-mountain",
+      "countryId": "aus",
+      "name": "塔斯马尼亚 · 摇篮山",
+      "category": "自然",
+      "latitude": -41.68,
+      "longitude": 145.95,
+      "region": "塔斯马尼亚",
+      "summary": "山地与湖泊；塔斯马尼亚是澳大利亚的一部分。",
+      "description": "摇篮山位于塔斯马尼亚。山体与鸽湖帮助认识澳大利亚岛屿上的山地环境，不能把澳大利亚全部想象成炎热沙漠。地图把塔斯马尼亚与大陆放在相同地理位置关系中，便于比较海峡和陆地。",
+      "observation": "找湖面与山脊的轮廓，再回到地图找大陆和塔斯马尼亚之间的巴斯海峡。",
+      "mediaIds": [
+        "aus-cradle"
+      ],
+      "sourceUrl": "https://parks.tas.gov.au/explore-our-parks/cradle-mountain",
+      "coordinateSource": "WGS84 公共景观代表锚点，不等于摄影点或区域边界",
+      "aliases": [
+        "cradle-mountain",
+        "塔斯马尼亚 · 摇篮山",
+        "Tasmania",
+        "Cradle Mountain",
+        "塔斯马尼亚"
+      ],
+      "articleIds": [
+        "aus-find-on-map",
+        "aus-platypus"
+      ],
+      "hotspots": []
+    }
+  ],
+  "exercises": [
+    {
+      "id": "aus-l01",
+      "countryId": "aus",
+      "articleId": "aus-find-on-map",
+      "type": "location",
+      "question": "在世界地图找到澳大利亚。",
+      "options": [
+        {
+          "id": "china",
+          "text": "中国"
+        },
+        {
+          "id": "egypt",
+          "text": "埃及"
+        },
+        {
+          "id": "aus",
+          "text": "澳大利亚"
+        }
+      ],
+      "answerId": "aus",
+      "evidenceBlockIds": [
+        "aus-find-on-map-b1",
+        "aus-find-on-map-b2",
+        "aus-find-on-map-b3",
+        "aus-find-on-map-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "在世界地图上先找到赤道，再向南看。澳大利亚的大陆部分位于赤道以南，西侧是印度洋，东侧通向太平洋。寻找时可以先辨认大片陆地，再用海岸线确认，不要只记住一个图钉的位置。",
+      "mapScope": "world"
+    },
+    {
+      "id": "aus-l02",
+      "countryId": "aus",
+      "articleId": "aus-capital",
+      "type": "location",
+      "question": "找到澳大利亚的首都。",
+      "options": [
+        {
+          "id": "aus-melbourne",
+          "text": "墨尔本"
+        },
+        {
+          "id": "aus-canberra",
+          "text": "堪培拉"
+        },
+        {
+          "id": "aus-sydney-harbour",
+          "text": "悉尼"
+        }
+      ],
+      "answerId": "aus-canberra",
+      "evidenceBlockIds": [
+        "aus-capital-b1",
+        "aus-capital-b2",
+        "aus-capital-b3",
+        "aus-capital-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "悉尼歌剧院和海港大桥很容易辨认，但澳大利亚的首都是堪培拉。一个城市的照片经常出现在宣传材料中，不表示它就是首都。城市的知名度和在国家机构中的角色，是两个不同问题。",
+      "mapScope": "country"
+    },
+    {
+      "id": "aus-c01",
+      "countryId": "aus",
+      "articleId": "aus-country-continent",
+      "type": "choice",
+      "question": "大洋洲与澳大利亚国家是同一范围吗？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "是，两个名字完全相同"
+        },
+        {
+          "id": "option-3",
+          "text": "是，新西兰是澳大利亚的州"
+        },
+        {
+          "id": "option-1",
+          "text": "不是，大洋洲是更广的地理区域"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-country-continent-b1",
+        "aus-country-continent-b3"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "大陆通常指面积很大的连续陆地。澳大利亚大陆是认识地形和自然环境时使用的范围；国家则是政治与行政范围。两个名称相似，不意味着所有情况下都可以互换。"
+    },
+    {
+      "id": "aus-c02",
+      "countryId": "aus",
+      "articleId": "aus-dry-interior",
+      "type": "choice",
+      "question": "判断气候应优先查看什么？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "地面的颜色"
+        },
+        {
+          "id": "option-1",
+          "text": "同一时期的多年记录"
+        },
+        {
+          "id": "option-2",
+          "text": "一张晴天照片"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-dry-interior-b1",
+        "aus-dry-interior-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "看到红土或稀疏植被，会让人想到干旱，但判断气候需要多年降雨与蒸发等记录。一张晴天照片只能说明拍摄时的样子，不能证明一个地方全年不下雨。"
+    },
+    {
+      "id": "aus-l03",
+      "countryId": "aus",
+      "articleId": "aus-murray-river",
+      "type": "location",
+      "question": "找到墨累河。",
+      "options": [
+        {
+          "id": "aus-darling",
+          "text": "达令河"
+        },
+        {
+          "id": "aus-murray",
+          "text": "墨累河"
+        }
+      ],
+      "answerId": "aus-murray",
+      "evidenceBlockIds": [
+        "aus-murray-river-b1",
+        "aus-murray-river-b2",
+        "aus-murray-river-b3",
+        "aus-murray-river-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "墨累河位于澳大利亚东南部，水系把不同地区联系起来。地图用真实河道的简化线表示位置，不是随意画一条蓝线。沿着河线寻找上游和下游，能够认识河流的连续关系。",
+      "mapScope": "country"
+    },
+    {
+      "id": "aus-c03",
+      "countryId": "aus",
+      "articleId": "aus-seasons",
+      "type": "choice",
+      "question": "澳大利亚各地都用完全相同的四季描述吗？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "不是，不同地区表现不同"
+        },
+        {
+          "id": "option-2",
+          "text": "是，每地天气完全相同"
+        },
+        {
+          "id": "option-3",
+          "text": "是，季节只由衣服决定"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-seasons-b3",
+        "aus-seasons-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "澳大利亚北部热带地区常用湿季与干季描述一年中的变化。不同地区和原住民族也有依据当地环境建立的季节知识。不要用一套四季图片概括所有地区。",
+      "diagram": "aus-seasons"
+    },
+    {
+      "id": "aus-c04",
+      "countryId": "aus",
+      "articleId": "aus-first-peoples",
+      "type": "choice",
+      "question": "介绍原住民族时怎样更准确？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "用一种纹样代表所有人"
+        },
+        {
+          "id": "option-3",
+          "text": "只介绍过去，不介绍今天"
+        },
+        {
+          "id": "option-1",
+          "text": "使用具体群体和来源"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-first-peoples-b1",
+        "aus-first-peoples-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "澳大利亚的 Aboriginal peoples 和 Torres Strait Islander peoples 包含众多不同群体，拥有不同语言、历史和文化。介绍时应使用具体群体认可的名称，不能用一种服饰或纹样代表所有人。"
+    },
+    {
+      "id": "aus-l04",
+      "countryId": "aus",
+      "articleId": "aus-torres-strait",
+      "type": "location",
+      "question": "找到托雷斯海峡位置。",
+      "options": [
+        {
+          "id": "aus-torres-strait",
+          "text": "托雷斯海峡"
+        },
+        {
+          "id": "aus-bass-strait",
+          "text": "巴斯海峡"
+        }
+      ],
+      "answerId": "aus-torres-strait",
+      "evidenceBlockIds": [
+        "aus-torres-strait-b1",
+        "aus-torres-strait-b2",
+        "aus-torres-strait-b3",
+        "aus-torres-strait-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "托雷斯海峡位于澳大利亚约克角半岛与新几内亚岛之间。世界图可以帮助找到大范围，局部图能看清岛屿。它不是澳大利亚东南方的巴斯海峡，两个名称对应不同位置。",
+      "mapScope": "country"
+    },
+    {
+      "id": "aus-p01",
+      "countryId": "aus",
+      "articleId": "aus-ferries",
+      "type": "observation",
+      "question": "哪项信息不能只靠渡轮照片确定？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "船体的可见外形"
+        },
+        {
+          "id": "option-3",
+          "text": "照片中船的位置"
+        },
+        {
+          "id": "option-1",
+          "text": "今天的发船时刻"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-ferries-b2",
+        "aus-ferries-b3"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "观察路线时，先找到出发码头和到达码头，再看中途是否停靠。照片中的一艘船无法说明整条线路。航线、方向和时刻需要从交通机构的当前资料中核对。",
+      "mediaId": "aus-ferry"
+    },
+    {
+      "id": "aus-c05",
+      "countryId": "aus",
+      "articleId": "aus-tram-transfer",
+      "type": "choice",
+      "question": "练习线路在哪站换乘？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "只有橙线的丙站"
+        },
+        {
+          "id": "option-1",
+          "text": "两线共有的乙站"
+        },
+        {
+          "id": "option-2",
+          "text": "只有蓝线的甲站"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-tram-transfer-b2"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "在原创练习里，蓝线连接甲站和乙站，橙线连接乙站和丙站。乙站同时出现在两条线路中，所以从甲到丙可以在乙换乘。它成为换乘点，是因为连接关系而不是画在正中间。",
+      "diagram": "aus-tram-transfer"
+    },
+    {
+      "id": "aus-c06",
+      "countryId": "aus",
+      "articleId": "aus-wheat-bread",
+      "type": "choice",
+      "question": "核对面包成分应看什么？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "配料说明"
+        },
+        {
+          "id": "option-2",
+          "text": "包装颜色"
+        },
+        {
+          "id": "option-3",
+          "text": "面包大小"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-wheat-bread-b3"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "判断一款面包的成分，应查配料说明，不能根据面包颜色猜测所有原料。售卖地点也不等于小麦种植地点。认识食物时，把种植、加工、制作和售卖分开更清楚。",
+      "diagram": "aus-wheat-bread"
+    },
+    {
+      "id": "aus-p02",
+      "countryId": "aus",
+      "articleId": "aus-food-label",
+      "type": "observation",
+      "question": "练习标签哪个字段说明来源？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "名称"
+        },
+        {
+          "id": "option-1",
+          "text": "产地"
+        },
+        {
+          "id": "option-2",
+          "text": "单位"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-food-label-b1",
+        "aus-food-label-b2"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "标签上的名称说明食品是什么，单位说明怎样计量，产地说明标注的来源。这些字段回答不同问题。一个很大的数字可能是价格，不能把它误认为重量或产地。",
+      "mediaId": "aus-food-label",
+      "diagram": "aus-food-label"
+    },
+    {
+      "id": "aus-p03",
+      "countryId": "aus",
+      "articleId": "aus-opera-house",
+      "type": "observation",
+      "question": "照片中哪一项可以直接看见？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "港湾边的弯曲屋顶轮廓"
+        },
+        {
+          "id": "option-2",
+          "text": "设计者当时的想法"
+        },
+        {
+          "id": "option-3",
+          "text": "今晚的演出节目"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-opera-house-b1",
+        "aus-opera-house-b3"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "照片展示港湾边的屋顶外形。设计意图与演出安排需要其他资料。",
+      "mediaId": "aus-sydney"
+    },
+    {
+      "id": "aus-c07",
+      "countryId": "aus",
+      "articleId": "aus-art-authors",
+      "type": "choice",
+      "question": "介绍作品文化含义应依据什么？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "自己猜测的故事"
+        },
+        {
+          "id": "option-3",
+          "text": "任意生成的相似图案"
+        },
+        {
+          "id": "option-1",
+          "text": "作者与相关社区的公开说明"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-art-authors-b2",
+        "aus-art-authors-b3"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "涉及原住民族艺术时，应留意作者认可的群体名称和文化语境。某些图案或故事有特定使用规则。不能把一幅作品拆成装饰素材，更不能生成一个相似图案后声称它代表某个社区。"
+    },
+    {
+      "id": "aus-c08",
+      "countryId": "aus",
+      "articleId": "aus-museum-evidence",
+      "type": "choice",
+      "question": "想了解藏品材料先看什么？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "展厅窗户"
+        },
+        {
+          "id": "option-1",
+          "text": "藏品说明"
+        },
+        {
+          "id": "option-2",
+          "text": "游客数量"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-museum-evidence-b1",
+        "aus-museum-evidence-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "博物馆中的物品通常有名称、年代、材料或来源说明。先核对自己正在看的物品，再阅读相应标签，避免把邻近展品的资料套过来。资料没有注明的信息，不要随意补写。"
+    },
+    {
+      "id": "aus-l05",
+      "countryId": "aus",
+      "articleId": "aus-canberra-lake",
+      "type": "location",
+      "question": "找到堪培拉湖岸。",
+      "options": [
+        {
+          "id": "aus-sydney-harbour",
+          "text": "悉尼港"
+        },
+        {
+          "id": "aus-canberra",
+          "text": "堪培拉湖岸"
+        },
+        {
+          "id": "aus-perth",
+          "text": "珀斯"
+        }
+      ],
+      "answerId": "aus-canberra",
+      "evidenceBlockIds": [
+        "aus-canberra-lake-b1",
+        "aus-canberra-lake-b2",
+        "aus-canberra-lake-b3",
+        "aus-canberra-lake-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "伯利·格里芬湖是堪培拉城市景观的重要部分。照片中可以观察水面、桥和岸边空间。它不是海洋，也不是澳大利亚所有城市都有的布局。认识一座城，要从具体地点开始。",
+      "mapScope": "country"
+    },
+    {
+      "id": "aus-l06",
+      "countryId": "aus",
+      "articleId": "aus-uluru-country",
+      "type": "location",
+      "question": "找到乌鲁鲁。",
+      "options": [
+        {
+          "id": "aus-uluru",
+          "text": "乌鲁鲁"
+        },
+        {
+          "id": "aus-cradle-mountain",
+          "text": "摇篮山"
+        },
+        {
+          "id": "aus-perth",
+          "text": "珀斯"
+        }
+      ],
+      "answerId": "aus-uluru",
+      "evidenceBlockIds": [
+        "aus-uluru-country-b1",
+        "aus-uluru-country-b2",
+        "aus-uluru-country-b3",
+        "aus-uluru-country-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "乌鲁鲁是澳大利亚内陆著名的岩体，同时对当地 Aṉangu 具有重要文化意义。只介绍高度、颜色或照片，会漏掉人们与这个地方持续的联系。自然与文化需要一起理解。",
+      "mapScope": "country"
+    },
+    {
+      "id": "aus-p04",
+      "countryId": "aus",
+      "articleId": "aus-coast-change",
+      "type": "observation",
+      "question": "哪种材料适合研究海岸变化？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "两处海岸的任意照片"
+        },
+        {
+          "id": "option-3",
+          "text": "只看颜色深浅"
+        },
+        {
+          "id": "option-1",
+          "text": "同地点可比角度的有日期记录"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-coast-change-b3"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "单张照片可以展示柱状岩体和水面，却不能算出侵蚀速度。比较变化时应找同地点、可比角度、有日期的材料，并参考地质研究，不能把两处海岸拼成前后对照。",
+      "mediaId": "aus-apostles",
+      "diagram": "aus-coast-erosion"
+    },
+    {
+      "id": "aus-c09",
+      "countryId": "aus",
+      "articleId": "aus-coral",
+      "type": "choice",
+      "question": "珊瑚虫属于什么？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "动物"
+        },
+        {
+          "id": "option-2",
+          "text": "海草"
+        },
+        {
+          "id": "option-3",
+          "text": "石头"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-coral-b1",
+        "aus-coral-b2"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "一些珊瑚群体有分枝，容易让人联想到植物，但珊瑚虫是动物。它们有触手和口，能够获取食物。外形像树枝，不意味着它们是海草，分类需要依据身体与生命特征。",
+      "diagram": "aus-coral"
+    },
+    {
+      "id": "aus-c10",
+      "countryId": "aus",
+      "articleId": "aus-kangaroo-pouch",
+      "type": "choice",
+      "question": "育儿袋与什么有关？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "储藏树叶"
+        },
+        {
+          "id": "option-3",
+          "text": "携带石头"
+        },
+        {
+          "id": "option-1",
+          "text": "幼崽继续发育和吸乳"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-kangaroo-pouch-b1",
+        "aus-kangaroo-pouch-b2"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "袋鼠属于有袋类哺乳动物，幼崽出生时发育程度较低，会继续在母体的育儿袋中发育。育儿袋不是装食物的口袋，也不是每只袋鼠都有同样的育幼角色。",
+      "diagram": "aus-kangaroo-pouch"
+    },
+    {
+      "id": "aus-p05",
+      "countryId": "aus",
+      "articleId": "aus-platypus",
+      "type": "observation",
+      "question": "单张鸭嘴兽照片能直接显示什么？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "它此刻的全部感受"
+        },
+        {
+          "id": "option-1",
+          "text": "画面中的姿态"
+        },
+        {
+          "id": "option-2",
+          "text": "它完整的一天"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-platypus-b2",
+        "aus-platypus-b4"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "鸭嘴兽有适合水中活动的身体特征，会在淡水环境寻找食物。观察照片时可以辨认嘴部、身体与水面的关系，但一张水面照片不能展示全部水下行为。",
+      "mediaId": "aus-platypus",
+      "diagram": "aus-platypus"
+    },
+    {
+      "id": "aus-p06",
+      "countryId": "aus",
+      "articleId": "aus-before-colonisation",
+      "type": "observation",
+      "question": "这张历史学习卡是哪一种材料？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "帮助整理问题的原创文字卡"
+        },
+        {
+          "id": "option-2",
+          "text": "殖民之前拍摄的现场照片"
+        },
+        {
+          "id": "option-3",
+          "text": "所有社区认可的统一图案"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-before-colonisation-b4",
+        "aus-before-colonisation-b6"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "图注明确标注原创学习卡，并非历史影像，也不代表某个社区的文化图案。",
+      "mediaId": "aus-history-before"
+    },
+    {
+      "id": "aus-c11",
+      "countryId": "aus",
+      "articleId": "aus-federation",
+      "type": "choice",
+      "question": "1901年发生了什么？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "所有人立即享有相同权利"
+        },
+        {
+          "id": "option-1",
+          "text": "六个殖民地联合成立联邦"
+        },
+        {
+          "id": "option-2",
+          "text": "这片土地第一次有人生活"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-federation-b1",
+        "aus-federation-b3"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "一九〇一年，六个英国殖民地联合成立澳大利亚联邦，并成为州。这个事件与今天国家制度的发展有关，但不能说这里的全部历史从这一年才开始。"
+    },
+    {
+      "id": "aus-c12",
+      "countryId": "aus",
+      "articleId": "aus-koala-not-bear",
+      "type": "choice",
+      "question": "考拉属于熊类吗？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "不是，它是有袋类"
+        },
+        {
+          "id": "option-2",
+          "text": "是，因为俗称有熊字"
+        },
+        {
+          "id": "option-3",
+          "text": "是，因为毛很厚"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "aus-koala-not-bear-b1",
+        "aus-koala-not-bear-b2"
+      ],
+      "hint": "回到正文对应段落，核对材料能回答什么。",
+      "explanation": "考拉有时被叫作“树袋熊”，但它并不属于熊类。它是有袋类哺乳动物。名字里的一个字可以帮助记忆外观，却不能代替动物分类依据。"
+    }
+  ],
+  "media": [
+    {
+      "id": "aus-sydney",
+      "asset": "assets/atlas/aus-sydney.jpg",
+      "caption": "悉尼歌剧院与海港大桥，黄昏景观。",
+      "alt": "悉尼歌剧院与海港大桥，黄昏景观。",
+      "credit": "Benh LIEU SONG (Flickr)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_and_Harbour_Bridge_Dusk_(2)_2019-06-21.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 640,
+      "sha256": "f1bd5976c01386a05bdf5f7fc43eb9cc73097cea3af3c3c9a99c31fe53c88f09",
+      "captureDate": "2019-06-21 17:34",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/1280px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-canberra",
+      "asset": "assets/atlas/aus-canberra.jpg",
+      "caption": "堪培拉伯利·格里芬湖与桥梁。",
+      "alt": "堪培拉伯利·格里芬湖与桥梁。",
+      "credit": "Dietmar Rabich",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canberra_(AU),_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 853,
+      "sha256": "567b004d9dfa8aa4cd54a0c9ccc3b59bac5bfa5d1f7824ec803d1833b98a5842",
+      "captureDate": "Taken on 20 October 2019, 17:58",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg/1280px-Canberra_%28AU%29%2C_Commonwealth_Avenue_Bridge_--_2019_--_1811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-melbourne",
+      "asset": "assets/atlas/aus-melbourne.jpg",
+      "caption": "墨尔本的电车与城市街道，2008年。",
+      "alt": "墨尔本的电车与城市街道，2008年。",
+      "credit": "Diliff",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:C_Class_Tram,_Melbourne_-_Jan_2008.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 629,
+      "sha256": "7dd7c838b7103f7188439ec5ea2c9cf243e000fe1c420c232fca8babcf80ad8b",
+      "captureDate": "2008-01-08",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/C_Class_Tram%2C_Melbourne_-_Jan_2008.jpg/1280px-C_Class_Tram%2C_Melbourne_-_Jan_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-reef",
+      "asset": "assets/atlas/aus-reef.jpg",
+      "caption": "大堡礁 Flynn Reef 的珊瑚群落。",
+      "alt": "大堡礁 Flynn Reef 的珊瑚群落。",
+      "credit": "Toby Hudson",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 960,
+      "sha256": "04323d0c03e7880be18c613cfba452a2637f2a5334e2e6690e48db903a8e3b1d",
+      "captureDate": "2010-07-24",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/1280px-Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-daintree",
+      "asset": "assets/atlas/aus-daintree.jpg",
+      "caption": "丹特里雨林中的植被景观。",
+      "alt": "丹特里雨林中的植被景观。",
+      "credit": "Killerscene",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daintree_Rainforest_2.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 1707,
+      "sha256": "e5a27c803f066e7dbf9ac522c5af0a13e08061e968fe7aa6babd3f8033dc2548",
+      "captureDate": "2011-01-07",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Daintree_Rainforest_2.jpg/1280px-Daintree_Rainforest_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-kakadu",
+      "asset": "assets/atlas/aus-kakadu.jpg",
+      "caption": "卡卡杜国家公园观景区域。",
+      "alt": "卡卡杜国家公园观景区域。",
+      "credit": "Dietmar Rabich",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakadu_(AU),_Kakadu_National_Park,_Gunwarrdehwarrde_Lookout_--_2019_--_4118.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 853,
+      "sha256": "a8c2800e7939aa66c82edb05d279e92a35d540a10533b77755427cbe3439ad34",
+      "captureDate": "Taken on 31 October 2019, 12:19",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kakadu_%28AU%29%2C_Kakadu_National_Park%2C_Gunwarrdehwarrde_Lookout_--_2019_--_4118.jpg/1280px-Kakadu_%28AU%29%2C_Kakadu_National_Park%2C_Gunwarrdehwarrde_Lookout_--_2019_--_4118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-murray",
+      "asset": "assets/atlas/aus-murray.jpg",
+      "caption": "亚拉旺加附近的墨累河景观。",
+      "alt": "亚拉旺加附近的墨累河景观。",
+      "credit": "Dancar79",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murray_River_scenery,_Yarrawonga,_Victoria,_Australia.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 960,
+      "sha256": "09ce8ec388652c2789b69bec435fc93e3ce001e97ba50daf2bc9dd44b977a90b",
+      "captureDate": "2022-04-28 17:40:42",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg/1280px-Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-apostles",
+      "asset": "assets/atlas/aus-apostles.jpg",
+      "caption": "十二使徒岩海岸，2019年。",
+      "alt": "十二使徒岩海岸，2019年。",
+      "credit": "Dietmar Rabich",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Princetown_(AU),_Port_Campbell_National_Park,_Twelve_Apostles_--_2019_--_0969.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 853,
+      "sha256": "dcb00c149ad8e56bcebee0f6098062ebd6e495eabf45c2156c70d53526276825",
+      "captureDate": "Taken on 11 October 2019, 15:42",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0969.jpg/1280px-Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-perth",
+      "asset": "assets/atlas/aus-perth.jpg",
+      "caption": "从国王公园看珀斯与天鹅河。",
+      "alt": "从国王公园看珀斯与天鹅河。",
+      "credit": "Dietmar Rabich",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perth_(AU),_View_from_Kings_Park_--_2019_--_0525-30.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 308,
+      "sha256": "3ef042d817721aca79df195e81b93cd1038fc0f0fbb8b663ee5fada1b374615a",
+      "captureDate": "Taken on 5 October 2019, 14:04",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Perth_%28AU%29%2C_View_from_Kings_Park_--_2019_--_0525-30.jpg/1280px-Perth_%28AU%29%2C_View_from_Kings_Park_--_2019_--_0525-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-joey",
+      "asset": "assets/atlas/aus-joey.jpg",
+      "caption": "袋鼠与育儿袋中露头的幼崽。",
+      "alt": "袋鼠与育儿袋中露头的幼崽。",
+      "credit": "Sheba_Also 43,000 photos",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kangaroo_with_Joey_in_pouch-01and_(3154242515).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 1623,
+      "sha256": "cbd4adb259ceceb761170f13373934b167b87531656e5e98c750662631dc1e7b",
+      "captureDate": "Taken on 23 December 2008, 16:06:09",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Kangaroo_with_Joey_in_pouch-01and_%283154242515%29.jpg/1280px-Kangaroo_with_Joey_in_pouch-01and_%283154242515%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-platypus",
+      "asset": "assets/atlas/aus-platypus.jpg",
+      "caption": "Scottsdale 拍摄的鸭嘴兽。",
+      "alt": "Scottsdale 拍摄的鸭嘴兽。",
+      "credit": "Charles J. Sharp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 853,
+      "sha256": "6f046cf8fca2be420719ea375a1ea3f6e73dead283c7b0284feb193778327a33",
+      "captureDate": "2023-11-14 13:52:49",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-koala",
+      "asset": "assets/atlas/aus-koala.jpg",
+      "caption": "抱着桉树的考拉。",
+      "alt": "抱着桉树的考拉。",
+      "credit": "User Thomasgl on de.wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koala_clinging_onto_a_Eucalyptus_tree.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "kind": "realPhoto",
+      "width": 320,
+      "height": 240,
+      "sha256": "6e20fcddf2341984127e0336452491861f33592162eb471c29608a47e5225fb7",
+      "captureDate": "2000-12",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Koala_clinging_onto_a_Eucalyptus_tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-ferry",
+      "asset": "assets/atlas/aus-ferry.jpg",
+      "caption": "悉尼的 Balmoral 渡轮。",
+      "alt": "悉尼的 Balmoral 渡轮。",
+      "credit": "Zax71",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Ferry_Balmoral.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 720,
+      "sha256": "425ded0e7e4924ee41b5c175f2300e269971fc8e26f19e728f21042e6fead579",
+      "captureDate": "2025-08-12 18:06:56",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sydney_Ferry_Balmoral.jpg/1280px-Sydney_Ferry_Balmoral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-market",
+      "asset": "assets/atlas/aus-market.jpg",
+      "caption": "墨尔本维多利亚女王市场，2019年。",
+      "alt": "墨尔本维多利亚女王市场，2019年。",
+      "credit": "Dietmar Rabich",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Queen_Victoria_Market_--_2019_--_1535.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 853,
+      "sha256": "f6b407cab6c9106d5d711bb4f1a983acb25c704bccf724f18dbbbd7edc803788",
+      "captureDate": "Taken on 15 October 2019, 09:53",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1535.jpg/1280px-Melbourne_%28AU%29%2C_Queen_Victoria_Market_--_2019_--_1535.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-wheat",
+      "asset": "assets/atlas/aus-wheat.jpg",
+      "caption": "西澳大利亚 Brookton 的麦田。",
+      "alt": "西澳大利亚 Brookton 的麦田。",
+      "credit": "Ronnievonjohnson",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wheat_fields_in_Brookton,_Western_Australia_07.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 960,
+      "sha256": "c44e100b33f4fea2762e73a20cfe847c541274eb9f3f624545d159aff7cd22ca",
+      "captureDate": "2026-10-29",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Wheat_fields_in_Brookton%2C_Western_Australia_07.jpg/1280px-Wheat_fields_in_Brookton%2C_Western_Australia_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-cradle",
+      "asset": "assets/atlas/aus-cradle.jpg",
+      "caption": "塔斯马尼亚摇篮山与鸽湖。",
+      "alt": "塔斯马尼亚摇篮山与鸽湖。",
+      "credit": "Bjørn Christian Tørrissen",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cradle_Mountain_Behind_Dove_Lake.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "kind": "realPhoto",
+      "width": 1280,
+      "height": 960,
+      "sha256": "f005f4c043981bcfc221dbadd5b5f615d7760c2eb9648e28747e01d506d3baea",
+      "captureDate": "2008-12-23",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Cradle_Mountain_Behind_Dove_Lake.jpg/1280px-Cradle_Mountain_Behind_Dove_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-kangaroo-island",
+      "asset": "assets/atlas/aus-kangaroo-island.jpg",
+      "caption": "袋鼠岛 Remarkable Rocks 的岩石景观。",
+      "alt": "袋鼠岛 Remarkable Rocks 的岩石景观。",
+      "credit": "Diceman at English Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Remarkable_Rocks,_Kangaroo_Island.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "kind": "realPhoto",
+      "width": 640,
+      "height": 480,
+      "sha256": "f639732586e706d5c6a6a82ecc6715c8be53886c3c29e2e0f35c9a88d1e64fd1",
+      "captureDate": "27 January 2005 (original upload date)",
+      "checkedAt": "2026-11-11",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Remarkable_Rocks%2C_Kangaroo_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "processing": "来源缩略图，未改变内容",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-study",
+      "asset": "assets/atlas/aus-study.png",
+      "caption": "阅读人与土地的故事 · 原创学习卡，非实景或历史影像。",
+      "alt": "阅读人与土地的故事",
+      "credit": "世界大百科 · 原创排版与文字示意",
+      "sourceUrl": "https://aiatsis.gov.au/explore/first-peoples-australia",
+      "license": "CC BY 4.0（原创学习卡）",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "diagram",
+      "width": 1200,
+      "height": 750,
+      "sha256": "476e8fcd89a4b0025d12ab2a350c5d270288a27f3572d607c9eb1ded6ad052bc",
+      "captureDate": "不适用：原创学习卡",
+      "checkedAt": "2026-11-11",
+      "processing": "tool/content/render_aus_cards.swift；资料链接为知识依据，不表示原机构制作此图。",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-history-before",
+      "asset": "assets/atlas/aus-history-before.png",
+      "caption": "历史不从殖民开始 · 原创学习卡，非实景或历史影像。",
+      "alt": "历史不从殖民开始",
+      "credit": "世界大百科 · 原创排版与文字示意",
+      "sourceUrl": "https://aiatsis.gov.au/explore/first-peoples-australia",
+      "license": "CC BY 4.0（原创学习卡）",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "diagram",
+      "width": 1200,
+      "height": 750,
+      "sha256": "31c002be8d8949509468a78d7c0c226b65ff534e71467630cf0e7e9b72b8ba6c",
+      "captureDate": "不适用：原创学习卡",
+      "checkedAt": "2026-11-11",
+      "processing": "tool/content/render_aus_cards.swift；资料链接为知识依据，不表示原机构制作此图。",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-history-colonial",
+      "asset": "assets/atlas/aus-history-colonial.png",
+      "caption": "殖民到来与生活变化 · 原创学习卡，非实景或历史影像。",
+      "alt": "殖民到来与生活变化",
+      "credit": "世界大百科 · 原创排版与文字示意",
+      "sourceUrl": "https://digital-classroom.nma.gov.au/defining-moments/first-fleet-arrives-sydney-cove",
+      "license": "CC BY 4.0（原创学习卡）",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "diagram",
+      "width": 1200,
+      "height": 750,
+      "sha256": "7392b5c0cd442a773a5fd581ed6fbf15ee7afb941bad9d94a46b52130cb086ae",
+      "captureDate": "不适用：原创学习卡",
+      "checkedAt": "2026-11-11",
+      "processing": "tool/content/render_aus_cards.swift；资料链接为知识依据，不表示原机构制作此图。",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-history-federal",
+      "asset": "assets/atlas/aus-history-federal.png",
+      "caption": "1901年联邦成立 · 原创学习卡，非实景或历史影像。",
+      "alt": "1901年联邦成立",
+      "credit": "世界大百科 · 原创排版与文字示意",
+      "sourceUrl": "https://www.nma.gov.au/defining-moments/resources/federation",
+      "license": "CC BY 4.0（原创学习卡）",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "diagram",
+      "width": 1200,
+      "height": 750,
+      "sha256": "d88bf5c6419c53bc933d5e54b4da946ce959d68dc21056a5e55f4b1576fac082",
+      "captureDate": "不适用：原创学习卡",
+      "checkedAt": "2026-11-11",
+      "processing": "tool/content/render_aus_cards.swift；资料链接为知识依据，不表示原机构制作此图。",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    },
+    {
+      "id": "aus-food-label",
+      "asset": "assets/atlas/aus-food-label.png",
+      "caption": "名称、单位与产地 · 原创学习卡，非实景或历史影像。",
+      "alt": "名称、单位与产地",
+      "credit": "世界大百科 · 原创排版与文字示意",
+      "sourceUrl": "https://www.foodstandards.gov.au/consumer/labelling/coo",
+      "license": "CC BY 4.0（原创学习卡）",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "diagram",
+      "width": 1200,
+      "height": 750,
+      "sha256": "4910cfae5ede2e5dc8fe9a7f2afed075d90337b9230ab775b84a80a8561d6444",
+      "captureDate": "不适用：原创学习卡",
+      "checkedAt": "2026-11-11",
+      "processing": "tool/content/render_aus_cards.swift；资料链接为知识依据，不表示原机构制作此图。",
+      "reviewStatus": "reviewed",
+      "displayCrop": "页面封面使用居中裁切；观察热点使用完整原图。"
+    }
+  ]
+}

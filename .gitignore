@@ -1,0 +1,93 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Local narration work files
+/tool/audio/.production/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Widget Preview related
+.widget_preview/
+
+# Reproducible narration previews and duplicate delivery archives
+/tool/audio/generated/
+/tool/audio/friendly-guide-narrations.zip
+/docs/redesign/world-atlas-redesign-v1.zip
+/docs/review/*.zip
+
+# Bulk QA traversal artifacts; keep screenshots cited by the review
+/docs/review/dumps/
+/docs/review/recheck/
+/docs/review/*_stdout.txt
+/docs/review/*_log.jsonl
+/docs/review/screenshots/*
+!/docs/review/screenshots/00-discover-home.png
+!/docs/review/screenshots/01-egypt-explore.png
+!/docs/review/screenshots/02-egypt-nile-route.png
+!/docs/review/screenshots/03-route-continue.png
+!/docs/review/screenshots/04-article-map.png
+!/docs/review/screenshots/05-encyclopedia.png
+!/docs/review/screenshots/06-me.png
+!/docs/review/screenshots/07-search.png
+!/docs/review/screenshots/08-search-nile.png
+!/docs/review/screenshots/09-world-map.png
+!/docs/review/screenshots/20-s27-rest.png
+!/docs/review/screenshots/23-s20-reading-settings.png
+!/docs/review/screenshots/23b-reading-settings-changed.png
+!/docs/review/screenshots/24-s16-bookmarks.png
+!/docs/review/screenshots/25-s17-history.png
+!/docs/review/screenshots/26-s18-notes.png
+!/docs/review/screenshots/27-s19-note-new.png
+!/docs/review/screenshots/28-s21-parent-gate.png
+!/docs/review/screenshots/29-s22-parent.png
+!/docs/review/screenshots/30-s22-parent-scrolled.png
+!/docs/review/screenshots/31-s23-packs.png
+!/docs/review/screenshots/32-s24-pack-detail.png
+!/docs/review/screenshots/32b-pack-detail-scrolled.png
+!/docs/review/screenshots/33-s25-backup.png
+!/docs/review/screenshots/34-s26-credits-waited.png
+!/docs/review/screenshots/34b-credits-scrolled.png
+!/docs/review/screenshots/40-s09-topics-via-ency.png
+!/docs/review/screenshots/41-antarctica-hub.png
+!/docs/review/screenshots/41d-antarctica-scrolled.png

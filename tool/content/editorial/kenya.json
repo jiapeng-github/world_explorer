@@ -1,0 +1,3220 @@
+{
+  "country": {
+    "id": "kenya",
+    "name": "肯尼亚",
+    "code": "KE",
+    "englishName": "Kenya",
+    "coverage": "editorial",
+    "revision": 2,
+    "capital": "内罗毕",
+    "mediaId": "kenya-m01",
+    "intro": "从赤道附近的高山走向城市、森林与海岸，用地图、照片和证据认识肯尼亚。",
+    "tagline": "从赤道高山走向印度洋",
+    "facts": [
+      {
+        "label": "首都",
+        "value": "内罗毕"
+      },
+      {
+        "label": "位置",
+        "value": "非洲东部"
+      },
+      {
+        "label": "官方语言",
+        "value": "斯瓦希里语、英语"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "kenya-timeline-coast-trade",
+        "period": "长期的海岸联系",
+        "title": "海岸交流",
+        "body": "认识文化联系，也理解强迫迁移与不平等。",
+        "mediaId": "kenya-m05",
+        "articleIds": [
+          "kenya-coast-trade"
+        ]
+      },
+      {
+        "id": "kenya-timeline-independence",
+        "period": "1963年",
+        "title": "殖民统治与独立",
+        "body": "土地、劳动与权利的不平等，以及争取自主的历史。",
+        "mediaId": "kenya-m34",
+        "articleIds": [
+          "kenya-independence"
+        ]
+      },
+      {
+        "id": "kenya-timeline-constitution",
+        "period": "2010年",
+        "title": "宪法与公共生活",
+        "body": "分清基本规则、资料摘记与现实中的落实。",
+        "mediaId": "kenya-m35",
+        "articleIds": [
+          "kenya-constitution"
+        ]
+      }
+    ],
+    "takeaways": [
+      "纬度之外，海拔等条件也会影响环境。",
+      "具体社区与个人的生活不能代表所有人。",
+      "把看见、猜想和资料证据分开。"
+    ],
+    "sources": [
+      {
+        "title": "UNESCO · 肯尼亚山",
+        "url": "https://whc.unesco.org/en/list/800/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "Kenya Law · 2010宪法",
+        "url": "https://kenyalaw.org/kl/fileadmin/pdfdownloads/Constitution/Constitution_of_Kenya2010.pdf",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "KLRC · 宪法第7条",
+        "url": "https://klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/173-7-national-official-and-other-languages",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "肯尼亚旅游局 · 内罗毕",
+        "url": "https://magicalkenya.com/download/14326/?tmstv=1748249615",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "USGS · 东非裂谷",
+        "url": "https://www.usgs.gov/publications/seismicity-earth-1900-2013-east-african-rift",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "USGS · 流域与水循环",
+        "url": "https://www.usgs.gov/water-science-school/science/watersheds-and-drainage-basins",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "肯尼亚农业部 · 玉米利用手册",
+        "url": "https://statistics.kilimo.go.ke/files/bookpage/KENYA_Maize-Extension-Manual.pdf",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "华盛顿州立大学 · 茶叶加工",
+        "url": "https://vegetables.wsu.edu/tea-types-and-home-processing/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "UNESCO · Isukha和Idakho社区Isukuti传统",
+        "url": "https://ich.unesco.org/en/USL/isukuti-dance-of-isukha-and-idakho-communities-of-western-kenya-00981",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "UNESCO · 拉穆古镇",
+        "url": "https://whc.unesco.org/en/list/1055/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "肯尼亚港务局 · 蒙巴萨港",
+        "url": "https://www.kwatos.kpa.co.ke/main/main.jsp",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "肯尼亚国家博物馆",
+        "url": "https://museums.or.ke/museum-story/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "KWS · 安博塞利",
+        "url": "https://kws.go.ke/park/amboseli-national-park/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "KWS · 瓦塔穆",
+        "url": "https://kws.go.ke/park/watamu-marine-national-park-reserve/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "KWS · 卡卡梅加森林",
+        "url": "https://kws.go.ke/park/kakamega-forest-national-reserve/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "肯尼亚国家博物馆 · 独立历史",
+        "url": "https://museums.or.ke/kapenguria-museum/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "肯尼亚政府 · 独立与共和国日期",
+        "url": "https://tourkenya.go.ke/event/jamuhuri-day-republic-day/",
+        "checkedAt": "2026-11-12"
+      },
+      {
+        "title": "Natural Earth · 地理实体",
+        "url": "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/",
+        "checkedAt": "2026-11-12"
+      }
+    ],
+    "sections": {
+      "overview": [
+        "kenya-find-map",
+        "kenya-counties",
+        "kenya-nairobi"
+      ],
+      "geography": [
+        "kenya-geography",
+        "kenya-rift",
+        "kenya-water"
+      ],
+      "people": [
+        "kenya-people",
+        "kenya-names",
+        "kenya-language-life"
+      ],
+      "daily": [
+        "kenya-daily",
+        "kenya-transport",
+        "kenya-market"
+      ],
+      "food": [
+        "kenya-food",
+        "kenya-tea",
+        "kenya-meal"
+      ],
+      "culture": [
+        "kenya-culture",
+        "kenya-patterns",
+        "kenya-stories"
+      ],
+      "landmarks": [
+        "kenya-history",
+        "kenya-mombasa",
+        "kenya-museum"
+      ],
+      "nature": [
+        "kenya-nature",
+        "kenya-mangrove",
+        "kenya-forest"
+      ],
+      "history": [
+        "kenya-coast-trade",
+        "kenya-independence",
+        "kenya-constitution"
+      ],
+      "questions": [
+        "kenya-questions",
+        "kenya-equator",
+        "kenya-compare"
+      ]
+    },
+    "editorial": {
+      "subtitle": "从赤道高山走向印度洋",
+      "introduction": "从赤道附近的高山走向城市、森林与海岸，用地图、照片和证据认识肯尼亚。",
+      "startLabel": "从肯尼亚山开始",
+      "startJourneyId": "mountain-water",
+      "questionArticleIds": [
+        "kenya-geography",
+        "kenya-questions"
+      ],
+      "factOverrides": [
+        {
+          "label": "首都",
+          "value": "内罗毕"
+        },
+        {
+          "label": "位置",
+          "value": "非洲东部"
+        },
+        {
+          "label": "官方语言",
+          "value": "斯瓦希里语、英语"
+        }
+      ],
+      "directoryTitle": "肯尼亚 · 探索目录",
+      "directory": {
+        "mediaIds": [
+          "kenya-m01",
+          "kenya-m03",
+          "kenya-m05"
+        ]
+      },
+      "timelineTitle": "肯尼亚 · 历史线索",
+      "timeline": [
+        {
+          "id": "kenya-timeline-coast-trade",
+          "period": "长期的海岸联系",
+          "title": "海岸交流",
+          "body": "认识文化联系，也理解强迫迁移与不平等。",
+          "mediaId": "kenya-m05",
+          "articleIds": [
+            "kenya-coast-trade"
+          ]
+        },
+        {
+          "id": "kenya-timeline-independence",
+          "period": "1963年",
+          "title": "殖民统治与独立",
+          "body": "土地、劳动与权利的不平等，以及争取自主的历史。",
+          "mediaId": "kenya-m34",
+          "articleIds": [
+            "kenya-independence"
+          ]
+        },
+        {
+          "id": "kenya-timeline-constitution",
+          "period": "2010年",
+          "title": "宪法与公共生活",
+          "body": "分清基本规则、资料摘记与现实中的落实。",
+          "mediaId": "kenya-m35",
+          "articleIds": [
+            "kenya-constitution"
+          ]
+        }
+      ],
+      "explore": {
+        "mediaId": "kenya-m03"
+      },
+      "discoveries": {
+        "mediaId": "kenya-m05",
+        "recommendedPlaceIds": [
+          "kenya-lamu",
+          "kenya-kakamega"
+        ]
+      },
+      "journeys": [
+        {
+          "id": "mountain-water",
+          "title": "高山与水",
+          "subtitle": "三站 · 阅读顺序，不是交通路线。",
+          "coverTitle": "高山与水",
+          "mediaId": "kenya-m01",
+          "articleIds": [
+            "kenya-geography",
+            "kenya-rift",
+            "kenya-water"
+          ],
+          "stopTitles": [
+            "赤道附近的高山",
+            "裂谷与湖泊",
+            "水流的去向"
+          ]
+        },
+        {
+          "id": "city-coast",
+          "title": "城市与海岸",
+          "subtitle": "三站 · 阅读顺序，不是交通路线。",
+          "coverTitle": "城市与海岸",
+          "mediaId": "kenya-m05",
+          "articleIds": [
+            "kenya-daily",
+            "kenya-mombasa",
+            "kenya-history"
+          ],
+          "stopTitles": [
+            "内罗毕的城市生活",
+            "蒙巴萨的港口",
+            "拉穆的木门"
+          ]
+        },
+        {
+          "id": "living-space",
+          "title": "生命的空间",
+          "subtitle": "三站 · 阅读顺序，不是交通路线。",
+          "coverTitle": "生命的空间",
+          "mediaId": "kenya-m09",
+          "articleIds": [
+            "kenya-nature",
+            "kenya-forest",
+            "kenya-mangrove"
+          ],
+          "stopTitles": [
+            "大象的栖息地",
+            "卡卡梅加森林",
+            "海岸红树林"
+          ]
+        }
+      ],
+      "sections": {
+        "overview": {
+          "title": "国家名片",
+          "summary": "把世界地图缩小，先找到非洲，再看它的东侧。",
+          "mediaId": "kenya-m01"
+        },
+        "geography": {
+          "title": "地理与气候",
+          "summary": "赤道附近常让人联想到温暖，但肯尼亚还有高山。",
+          "mediaId": "kenya-m01"
+        },
+        "people": {
+          "title": "人们与语言",
+          "summary": "肯尼亚的人们使用多种语言。",
+          "mediaId": "kenya-m29"
+        },
+        "daily": {
+          "title": "日常生活",
+          "summary": "提到肯尼亚，有人最先想到草原和野生动物。",
+          "mediaId": "kenya-m03",
+          "primaryMapPlaceId": "kenya-nairobi-city",
+          "primaryLabel": "看看内罗毕在哪里"
+        },
+        "food": {
+          "title": "饮食与物产",
+          "summary": "玉米可以有不同的食用和加工方式。",
+          "mediaId": "kenya-m26"
+        },
+        "culture": {
+          "title": "艺术与文化",
+          "summary": "Isukuti是肯尼亚西部Isukha和Idakho社区的一种表演传统，包含鼓乐、歌唱和舞蹈。",
+          "mediaId": "kenya-m30"
+        },
+        "landmarks": {
+          "title": "城市与地标",
+          "summary": "拉穆古镇位于肯尼亚海岸的拉穆岛上，是认识斯瓦希里海岸文化的重要地点。",
+          "mediaId": "kenya-m06"
+        },
+        "nature": {
+          "title": "动物与生态",
+          "summary": "大象生活需要水、食物和足够的活动空间。",
+          "mediaId": "kenya-m09"
+        },
+        "history": {
+          "title": "历史线索",
+          "summary": "海岸城镇可以通过海路与远方联系。",
+          "mediaId": "kenya-m05"
+        },
+        "questions": {
+          "title": "有趣问题",
+          "summary": "一张大象照片能让我们观察它的外形和周围一小片环境，却不能告诉我们肯尼亚所有地方的样子。",
+          "mediaId": "kenya-m09"
+        }
+      },
+      "featuredPlaceIds": [
+        "kenya-mount-kenya",
+        "kenya-lamu",
+        "kenya-amboseli"
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "kenya-find-map",
+      "countryId": "kenya",
+      "sectionId": "overview",
+      "title": "在世界地图上找到肯尼亚",
+      "summary": "把世界地图缩小，先找到非洲，再看它的东侧。",
+      "mediaId": "kenya-m01",
+      "blocks": [
+        {
+          "id": "kenya-find-map-v2-b1",
+          "title": "从非洲出发",
+          "text": "把世界地图缩小，先找到非洲，再看它的东侧。肯尼亚就在非洲东部，东南面朝向印度洋。地图上的国家颜色是为了便于区分范围，并不是地面的真实颜色。海岸、湖泊与邻国能帮助我们辨认位置，比只记一个橙色图钉更可靠。"
+        },
+        {
+          "id": "kenya-find-map-v2-b2",
+          "title": "一条特殊纬线",
+          "text": "赤道是纬度为零的假想线，它穿过肯尼亚。地面上并没有一条绕地球的天然白线。地图把它画出来，帮助人们讨论南北位置。国界表示国家范围，与赤道的用途不同；一条线即使穿过陆地，也不一定是国家边界。"
+        },
+        {
+          "id": "kenya-find-map-v2-b3",
+          "title": "看看周围",
+          "text": "肯尼亚周围有乌干达、坦桑尼亚、埃塞俄比亚、索马里和南苏丹。湖泊与河流有时延伸到不止一个国家。看维多利亚湖时，要同时注意湖岸和国界，不能因为点选了肯尼亚，就把整个湖都当作属于肯尼亚。"
+        },
+        {
+          "id": "kenya-find-map-v2-b4",
+          "title": "点与面不同",
+          "text": "城市通常用点表示，国家范围用面表示。点选国家时，应看轮廓里的陆地；寻找首都时，再观察城市标记。图钉为了方便点击可能画得很大，它不是城市的真实面积。缩放地图改变画面大小，却不会把两个地点之间的实际距离改变。"
+        },
+        {
+          "id": "kenya-find-map-v2-b5",
+          "title": "带着问题定位",
+          "text": "现在试着从世界地图找到肯尼亚，再说出一条判断依据，例如非洲东部或印度洋旁。边界数据有来源和制图尺度，争议或未确定的部分需要看说明。我们用地图学习位置关系，不把这张教学地图当作旅行导航或精确土地测量图。找到国家后，还可以观察它与海洋相接的方向。"
+        }
+      ],
+      "term": "赤道",
+      "definition": "纬度为零的假想参考线。",
+      "glossary": [
+        {
+          "term": "赤道",
+          "definition": "纬度为零的假想参考线。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-mount-kenya",
+      "exerciseId": "kenya-l01"
+    },
+    {
+      "id": "kenya-counties",
+      "countryId": "kenya",
+      "sectionId": "overview",
+      "title": "国家和郡有什么不同？",
+      "summary": "打开肯尼亚地图，最先看到的是国家范围。",
+      "mediaId": "kenya-m03",
+      "blocks": [
+        {
+          "id": "kenya-counties-v2-b1",
+          "title": "两种范围",
+          "text": "打开肯尼亚地图，最先看到的是国家范围。一个国家内部还可以分成不同的行政单位。肯尼亚宪法列出了四十七个郡。郡是国家内部的组成部分，不是四十七个独立国家，也不是把地图任意切成四十七块颜色就算完成了划分。"
+        },
+        {
+          "id": "kenya-counties-v2-b2",
+          "title": "共同办理事情",
+          "text": "国家层级和郡层级分别承担宪法规定的职责，并需要合作。可以把它理解为有些公共事情要从全国考虑，有些需要结合地方情况处理。但这只是帮助理解的比喻，不能把真实政府简单当作班级小组，具体职责仍要查阅正式资料。"
+        },
+        {
+          "id": "kenya-counties-v2-b3",
+          "title": "自然不照着线走",
+          "text": "山地、森林和水流不会因为行政线而突然停止。一个流域可能经过不同的郡，居民的往来与语言使用也不一定被郡界整齐隔开。因此，看行政范围和看自然环境是在回答不同的问题，不能用一种颜色解释一个地方的所有特点。"
+        },
+        {
+          "id": "kenya-counties-v2-b4",
+          "title": "名字需要核对",
+          "text": "有些城市和所在郡的名称相同，读到名称时还要看说明说的是城市还是郡。图上的一个点可能代表城市中心，郡则需要一个有来源的面。我们不会把城市图钉放大，冒充整个郡的边界，也不凭想象添加行政区域。"
+        },
+        {
+          "id": "kenya-counties-v2-b5",
+          "title": "怎样回答问题",
+          "text": "当你看到“肯尼亚的郡是什么”时，可以回答国家内部的行政单位，并补充它与国家层级有不同职责。本版地图优先呈现国家、湖泊和地点，尚未加入完整郡界。知道地图展示了什么、没有展示什么，也是认真读图的一部分。"
+        }
+      ],
+      "term": "郡",
+      "definition": "肯尼亚国家内部的行政单位。",
+      "glossary": [
+        {
+          "term": "郡",
+          "definition": "肯尼亚国家内部的行政单位。"
+        }
+      ],
+      "sourceUrls": [
+        "https://kenyalaw.org/kl/fileadmin/pdfdownloads/Constitution/Constitution_of_Kenya2010.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "exerciseId": "kenya-c01"
+    },
+    {
+      "id": "kenya-nairobi",
+      "countryId": "kenya",
+      "sectionId": "overview",
+      "title": "内罗毕在哪里？",
+      "summary": "内罗毕是肯尼亚的首都，位于国家南部的内陆地区。",
+      "mediaId": "kenya-m03",
+      "blocks": [
+        {
+          "id": "kenya-nairobi-v2-b1",
+          "title": "在地图上找城市",
+          "text": "内罗毕是肯尼亚的首都，位于国家南部的内陆地区。先找肯尼亚，再找内罗毕标记，可以避免把首都与海岸港口混在一起。地图上的代表点帮助我们定位城市，不表示所有中央机构、居民区和公共设施都挤在同一个位置。"
+        },
+        {
+          "id": "kenya-nairobi-v2-b2",
+          "title": "城市有许多面",
+          "text": "照片中可能出现道路、办公楼、公交车辆、市场和树木。它们是城市生活的一些组成部分。高楼照片没有展示所有街区，公园照片也不能说明整座城市都是森林。认识一座城市，需要把不同地方、不同时间的观察放在一起比较。"
+        },
+        {
+          "id": "kenya-nairobi-v2-b3",
+          "title": "留意公共空间",
+          "text": "观察街景时，可以先找行人经过的地方、车辆使用的道路，以及人们停留的空间。看得见道路，并不等于知道每条线路的目的地；看见一辆车，也不能据此猜当天的票价。具体出行信息需要查当时的交通服务资料。"
+        },
+        {
+          "id": "kenya-nairobi-v2-b4",
+          "title": "和海岸比较",
+          "text": "蒙巴萨和拉穆在肯尼亚海岸一带，内罗毕则在内陆。它们之间有联系，但环境和历史并不相同。不要把拉穆的古镇木门照片写成内罗毕街景，也不要把港口里的海水当成首都旁的河流。地点说明能帮助我们把材料放回正确位置。"
+        },
+        {
+          "id": "kenya-nairobi-v2-b5",
+          "title": "完成一次定位",
+          "text": "在地图题里比较内罗毕、蒙巴萨和基苏木三个真实城市。先看它们与海岸、湖泊的相对位置，再选择首都。如果点错了，可以读解释后重新尝试。进入地点详情可以保存一次查看记录，只在地图上选中图钉不会自动算作看过这个地点。"
+        }
+      ],
+      "term": "首都",
+      "definition": "国家主要中央机构所在地。",
+      "glossary": [
+        {
+          "term": "首都",
+          "definition": "国家主要中央机构所在地。"
+        }
+      ],
+      "sourceUrls": [
+        "https://magicalkenya.com/download/14326/?tmstv=1748249615"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "exerciseId": "kenya-l02"
+    },
+    {
+      "id": "kenya-geography",
+      "countryId": "kenya",
+      "sectionId": "geography",
+      "title": "赤道附近为什么也有高山？",
+      "summary": "赤道附近常让人联想到温暖，但肯尼亚还有高山。",
+      "mediaId": "kenya-m01",
+      "blocks": [
+        {
+          "id": "kenya-geography-v2-b1",
+          "title": "纬度不是全部",
+          "text": "赤道附近常让人联想到温暖，但肯尼亚还有高山。肯尼亚山是一座古老的火山，最高峰海拔超过五千米。认识这里的环境，除了纬度，还要考虑海拔、地形和天气等条件。赤道位置与山地高度是两种不同的信息，不能只选其中一种。"
+        },
+        {
+          "id": "kenya-geography-v2-b2",
+          "title": "向高处看",
+          "text": "一般来说，随着海拔升高，气温会降低，但具体气温还会受到季节、时段和天气影响。我们的图解只表示环境随高度变化的关系，不给每一条高度线编一个固定温度。山上的实测温度必须有地点、日期和测量方法，不能从照片颜色算出来。"
+        },
+        {
+          "id": "kenya-geography-v2-b3",
+          "title": "植物也有变化",
+          "text": "肯尼亚山有森林、高山植被和岩石裸露的区域。不同高度和坡向的环境条件不同，植物的分布也会变化。这些区域并不是围着山体画出的整齐彩带。图中的分层是帮助理解的概括，不代表每片山坡都在同一高度突然换成另一种植物。",
+          "mediaId": "kenya-m02"
+        },
+        {
+          "id": "kenya-geography-v2-b4",
+          "title": "先认清山名",
+          "text": "肯尼亚山与乞力马扎罗山不是同一座山。乞力马扎罗位于坦桑尼亚境内，从肯尼亚安博塞利的一些位置可以望见它。因此，一张在肯尼亚拍摄的照片，远处的山也可能位于邻国。辨认照片时，要一起核对拍摄地点、山名和画面说明。"
+        },
+        {
+          "id": "kenya-geography-v2-b5",
+          "title": "用条件解释",
+          "text": "如果有人说“赤道附近所有地方都一样热”，你可以用高山环境提出补充：还要看海拔等条件。观察岩峰和植被时，只描述画面中看得到的线索。单张照片不能测出当时气温，也不能用来统计今天剩余的冰川数量；这些问题需要可靠的记录。"
+        }
+      ],
+      "term": "海拔",
+      "definition": "地点相对于平均海平面的高度。",
+      "glossary": [
+        {
+          "term": "海拔",
+          "definition": "地点相对于平均海平面的高度。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/800/",
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-mount-kenya",
+      "diagram": "kenya-altitude",
+      "exerciseId": "kenya-c02"
+    },
+    {
+      "id": "kenya-rift",
+      "countryId": "kenya",
+      "sectionId": "geography",
+      "title": "裂谷和湖泊在哪里？",
+      "summary": "东非裂谷系统与地壳长期伸展、断裂等过程有关。",
+      "mediaId": "kenya-m13",
+      "blocks": [
+        {
+          "id": "kenya-rift-v2-b1",
+          "title": "地形中的低地",
+          "text": "东非裂谷系统与地壳长期伸展、断裂等过程有关。它不是一个突然裂开的细缝，也不是一条处处相同的沟。肯尼亚部分地区可以观察到起伏的地形与湖泊。认识这种大尺度地貌，需要地图和地质资料，不能只从一张山坡照片判断全部范围。"
+        },
+        {
+          "id": "kenya-rift-v2-b2",
+          "title": "湖泊各有特点",
+          "text": "奈瓦沙湖、纳库鲁湖和图尔卡纳湖都可以成为观察地形与水的线索。它们并不是同一个湖的不同名字，位置、水文和生态也各不相同。看地图时先核对名称，再比较湖泊所在的地方，不要因为水面都画成蓝色，就认为它们完全一样。"
+        },
+        {
+          "id": "kenya-rift-v2-b3",
+          "title": "用面找到湖",
+          "text": "湖泊有岸线和水面范围，因此定位湖泊时要观察真实的面，而不只是一个图钉。地图资料会对细小岸线进行概括，湖面也可能随着时期和水位变化。图上的轮廓是特定资料条件下的表达，不是今天每一处岸边水位的即时测量。"
+        },
+        {
+          "id": "kenya-rift-v2-b4",
+          "title": "不同线有不同意思",
+          "text": "自然区域的范围和国家边界回答不同的问题。图尔卡纳湖向北延伸至埃塞俄比亚，维多利亚湖也由多个国家共享。自然景观不会在国界处变成另一类东西。本版用已核验的湖面开展定位练习，不凭想象画出一整块所谓裂谷行政区。"
+        },
+        {
+          "id": "kenya-rift-v2-b5",
+          "title": "把观察连起来",
+          "text": "在题目中找到图尔卡纳湖，然后比较它与维多利亚湖和内罗毕的相对位置。可以先描述更靠北、更靠西或更接近内罗毕，再查看文字解释。位置判断与形成原因是两步学习：找到湖，不等于已经解释了它为什么在那里。"
+        }
+      ],
+      "term": "裂谷",
+      "definition": "与地壳伸展和断裂等过程相关的地貌。",
+      "glossary": [
+        {
+          "term": "裂谷",
+          "definition": "与地壳伸展和断裂等过程相关的地貌。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.usgs.gov/publications/seismicity-earth-1900-2013-east-african-rift",
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-naivasha",
+      "diagram": "kenya-rift",
+      "exerciseId": "kenya-l03"
+    },
+    {
+      "id": "kenya-water",
+      "countryId": "kenya",
+      "sectionId": "geography",
+      "title": "雨水最后会流向哪里？",
+      "summary": "一滴雨落到地面以后，可能渗入土壤、被植物利用、蒸发回空气，或者沿地表流动。",
+      "mediaId": "kenya-m15",
+      "blocks": [
+        {
+          "id": "kenya-water-v2-b1",
+          "title": "雨滴的去向",
+          "text": "一滴雨落到地面以后，可能渗入土壤、被植物利用、蒸发回空气，或者沿地表流动。地势高低会影响地表径流的方向。把这些过程连起来看，才能理解水不是只存在于蓝色河道中，也不是每一滴雨都会沿着同一条路前进。"
+        },
+        {
+          "id": "kenya-water-v2-b2",
+          "title": "认识流域",
+          "text": "流域是水汇向共同出口的地表区域。山脊等地形可以把水引向不同方向，形成不同的集水范围。图解里的分水岭帮助我们理解这种关系，但它没有画出所有地下水过程。真实流域范围需要地形数据和水文资料，不应靠国界线替代。"
+        },
+        {
+          "id": "kenya-water-v2-b3",
+          "title": "有些水进入湖泊",
+          "text": "肯尼亚有不同类型的湖泊和水系。流入湖中的水，可能经出口流走，也可能主要通过蒸发等过程离开。不能把所有湖泊都画上一条通向海洋的河。本篇的水流图表示几种可能关系，不是假称所有肯尼亚湖泊都有一样的出路。"
+        },
+        {
+          "id": "kenya-water-v2-b4",
+          "title": "人与自然共享水",
+          "text": "城市、农田、湿地和野生动物都与水有关。看到湿地中有动物，可以提出它们怎样利用水的问题，但单张照片不能给出全部用水量。研究水的分配，需要连续观察，也需要了解上游和下游的关系，不能只看一处景色是否绿色。"
+        },
+        {
+          "id": "kenya-water-v2-b5",
+          "title": "带着证据思考",
+          "text": "题目问水会流向哪里时，应先考虑地形和流域，并承认渗透、蒸发等不同过程。若要比较雨季和旱季，还要核对同一地点的日期及记录长度。肯尼亚各地的降雨条件不完全一样，一场雨不能代表整个国家一年的气候。地图上的水面与日常用水之间，还有许多值得追问的环节。"
+        }
+      ],
+      "term": "流域",
+      "definition": "水汇向共同出口的地表区域。",
+      "glossary": [
+        {
+          "term": "流域",
+          "definition": "水汇向共同出口的地表区域。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.usgs.gov/water-science-school/science/watersheds-and-drainage-basins"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-turkana",
+      "diagram": "kenya-water",
+      "exerciseId": "kenya-c03"
+    },
+    {
+      "id": "kenya-people",
+      "countryId": "kenya",
+      "sectionId": "people",
+      "title": "肯尼亚的人们说什么语言？",
+      "summary": "肯尼亚的人们使用多种语言。",
+      "mediaId": "kenya-m29",
+      "blocks": [
+        {
+          "id": "kenya-people-v2-b1",
+          "title": "一种语言不够概括",
+          "text": "肯尼亚的人们使用多种语言。宪法规定斯瓦希里语是国家语言，斯瓦希里语和英语是官方语言。这里的国家语言和官方语言是法律中的类别，不意味着每个居民只会这两种语言，也不意味着每个人在家中都使用同一种语言。"
+        },
+        {
+          "id": "kenya-people-v2-b2",
+          "title": "不同场合的选择",
+          "text": "一个人可能在家庭、学校、工作或公共服务中使用不同语言。具体选择与家庭经历、地区、教育和交流对象有关。认识多语生活，可以从可核对的公共信息出发，但不能根据一个人的衣服、外貌或姓名，替他判断母语和语言能力。"
+        },
+        {
+          "id": "kenya-people-v2-b3",
+          "title": "还有社区语言",
+          "text": "肯尼亚存在多样的社区语言，宪法也提出保护语言多样性，以及促进肯尼亚手语等交流方式的发展。手语并不是把口语简单换成几个手势。不同交流方式帮助人们获取信息、表达想法；介绍语言时，也要想到看不见或听不见的人怎样参与。"
+        },
+        {
+          "id": "kenya-people-v2-b4",
+          "title": "标牌能说明多少",
+          "text": "如果照片上出现英语或斯瓦希里语，我们能说的是这块标牌使用了这些文字。它不能证明附近所有人都只说这两种语言，也不能证明作者是谁。遇到不认识的词，可以查可靠词典或请懂该语言的人解释，而不是凭字母形状猜意思。"
+        },
+        {
+          "id": "kenya-people-v2-b5",
+          "title": "尊重具体的人",
+          "text": "回答官方语言问题时，使用宪法规定的名称；讨论日常生活时，则给多种语言和不同个人留下空间。学习一句问候语是认识文化的起点，不是了解整个国家的终点。我们可以把不知道的词记下来，连同它出现的场景一起继续查证。"
+        }
+      ],
+      "term": "官方语言",
+      "definition": "法律规定在公共事务中具有官方地位的语言。",
+      "glossary": [
+        {
+          "term": "官方语言",
+          "definition": "法律规定在公共事务中具有官方地位的语言。"
+        }
+      ],
+      "sourceUrls": [
+        "https://klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/173-7-national-official-and-other-languages",
+        "https://kenyalaw.org/kl/fileadmin/pdfdownloads/Constitution/Constitution_of_Kenya2010.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "exerciseId": "kenya-c04"
+    },
+    {
+      "id": "kenya-names",
+      "countryId": "kenya",
+      "sectionId": "people",
+      "title": "Nairobi和内罗毕是两个地方吗？",
+      "summary": "Nairobi和内罗毕是同一座城市的不同语言写法。",
+      "mediaId": "kenya-m29",
+      "blocks": [
+        {
+          "id": "kenya-names-v2-b1",
+          "title": "同一个城市",
+          "text": "Nairobi和内罗毕是同一座城市的不同语言写法。字母与汉字看起来差别很大，却可以指向同一个地点。名称卡把两种写法放在一起，帮助我们在资料和地图之间寻找对应关系。卡片是原创教学材料，不是某条真实街道的路牌照片。"
+        },
+        {
+          "id": "kenya-names-v2-b2",
+          "title": "名称需要语境",
+          "text": "读到一个名称时，还要看它指的是城市、道路、机构还是更大的地区。例如，在一个名称后面加上表示道路的词，就可能是在说一条街道，而不是整个城市。只认出相同的一串字母还不够，旁边的小字往往提供重要的范围说明。"
+        },
+        {
+          "id": "kenya-names-v2-b3",
+          "title": "译名不是逐字拼图",
+          "text": "中文地名常通过音译等方式形成，并不总能逐字解释成一个物体。学习译名时，不应编造看起来有趣却没有根据的故事。若想知道原名称的来历，需要查有出处的语言或历史资料，并分清普遍接受的解释与仍有不同说法的解释。"
+        },
+        {
+          "id": "kenya-names-v2-b4",
+          "title": "用地图核对",
+          "text": "可以先在卡片上找到Nairobi，再到地图中搜索内罗毕。两种输入应指向同一地点。城市代表点方便识别，不表示整个城市的边界。地图上相近的名字也可能指不同地点，所以搜索结果里的国家、地区和类别同样值得阅读。"
+        },
+        {
+          "id": "kenya-names-v2-b5",
+          "title": "练习怎样比较",
+          "text": "观察题要求判断两种名称是否表示同一个城市，而不是测试谁更会背外语。作答后可以回到名称卡核对。如果遇到陌生名称，先记录原文，再寻找对应资料。这样既能保留准确线索，也能避免只凭自己熟悉的读音误认地点。"
+        }
+      ],
+      "term": "译名",
+      "definition": "同一名称在另一种语言中的表达。",
+      "glossary": [
+        {
+          "term": "译名",
+          "definition": "同一名称在另一种语言中的表达。"
+        }
+      ],
+      "sourceUrls": [
+        "https://magicalkenya.com/download/14326/?tmstv=1748249615"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "exerciseId": "kenya-p01"
+    },
+    {
+      "id": "kenya-language-life",
+      "countryId": "kenya",
+      "sectionId": "people",
+      "title": "一张街头标牌能告诉我们什么？",
+      "summary": "一张街头标牌可能包含地点、方向、商品或公共服务信息。",
+      "mediaId": "kenya-m04",
+      "blocks": [
+        {
+          "id": "kenya-language-life-v2-b1",
+          "title": "先看清文字",
+          "text": "一张街头标牌可能包含地点、方向、商品或公共服务信息。观察时，先把看得清的文字记下来；模糊的部分可以注明看不清。我们不需要为了让记录显得完整而猜字。照片的裁切、反光和拍摄角度，都可能让信息缺少一部分。"
+        },
+        {
+          "id": "kenya-language-life-v2-b2",
+          "title": "区分材料类型",
+          "text": "本页可以结合真实街景和原创名称卡进行练习。名称卡专门用于说明同一地点的不同写法，不应被称作内罗毕真实街道上的双语标牌。读图片说明，就能知道哪些内容来自现场摄影，哪些是为了学习而重新排版的资料。"
+        },
+        {
+          "id": "kenya-language-life-v2-b3",
+          "title": "文字之外的线索",
+          "text": "标牌的箭头、图标、颜色和摆放位置，也可能帮助人们理解信息。但颜色的意义并不在所有地方完全一样，图标也可能需要解释。先描述形状和位置，再提出它可能有什么用途，比直接宣布“它一定表示某条规则”更稳妥。"
+        },
+        {
+          "id": "kenya-language-life-v2-b4",
+          "title": "不能替人作答",
+          "text": "看见英语文字，只能证明这个材料中出现了英语，不能说明每一位路人都会英语。语言使用与个人经历、场合和交流对象有关。观察公共空间时，也不需要记录陌生人的姓名、脸部特征或私人谈话，关注公开可见的信息就足够了。"
+        },
+        {
+          "id": "kenya-language-life-v2-b5",
+          "title": "写下自己的问题",
+          "text": "在三个空白栏中，分别写直接看见的内容、暂时的解释，以及还想知道的问题。例如，可以观察两个名称的字形，但不要把示例照抄成自己的发现。只要记录一条真实观察就可以保存，答案不会按语言知识的多少评分。保留原文，比自行改写陌生词语更容易继续查证。"
+        }
+      ],
+      "term": "语境",
+      "definition": "信息出现的场合与背景。",
+      "glossary": [
+        {
+          "term": "语境",
+          "definition": "信息出现的场合与背景。"
+        }
+      ],
+      "sourceUrls": [
+        "https://klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/173-7-national-official-and-other-languages"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "activity": {
+        "id": "kenya-o01",
+        "type": "open",
+        "title": "语言标牌",
+        "prompt": "记录可见文字和仍需查证的信息。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "kenya-m29",
+          "kenya-m04"
+        ],
+        "suggestedArticleIds": [
+          "kenya-language-life"
+        ]
+      }
+    },
+    {
+      "id": "kenya-daily",
+      "countryId": "kenya",
+      "sectionId": "daily",
+      "title": "肯尼亚只有草原与野生动物吗？",
+      "summary": "提到肯尼亚，有人最先想到草原和野生动物。",
+      "mediaId": "kenya-m03",
+      "blocks": [
+        {
+          "id": "kenya-daily-v2-b1",
+          "title": "走进城市画面",
+          "text": "提到肯尼亚，有人最先想到草原和野生动物。然而，内罗毕的街道、市场、办公楼和公共交通也属于这个国家的生活。照片中的城市景观能帮助我们扩大认识，但同样不能用一幅高楼照片代替所有城市居民或乡村居民的生活。"
+        },
+        {
+          "id": "kenya-daily-v2-b2",
+          "title": "看人们怎样使用空间",
+          "text": "街景里，行人可能沿人行空间移动，车辆在道路上通行，商店与其他建筑排列在街边。观察这些关系时，可以提出“哪些设施帮助人们出行”的问题。照片截取的只是某个时刻，不能说明一天里总是同样拥挤或同样安静。",
+          "mediaId": "kenya-m04"
+        },
+        {
+          "id": "kenya-daily-v2-b3",
+          "title": "认识一种交通",
+          "text": "Matatu是肯尼亚公共交通中常见的一类小型客运车辆，有些车身装饰醒目。并不是每辆车都相同，也不是所有人都依靠同一种方式出行。照片里的路线牌、票价和车况都属于拍摄时刻，不能当作今天实际出行的保证。"
+        },
+        {
+          "id": "kenya-daily-v2-b4",
+          "title": "食物与语言的联系",
+          "text": "市场里的食物经历种植、运输与售卖，公共信息则帮助不同人交流。这些日常细节与自然地理、经济联系和语言生活有关。我们可以沿着一件商品或一个名称追问来源，不必把城市页面变成只认识高楼名字的目录。"
+        },
+        {
+          "id": "kenya-daily-v2-b5",
+          "title": "让认识更完整",
+          "text": "开放观察邀请你描述一处街景，再写下一个还需要资料的问题。可以比较城市与海岸照片里可见的空间，但不能给人们的生活条件或文化打分。一个国家包含许多生活方式，认真认识具体地方，比寻找一种能够代表所有人的画面更有收获。街道照片也是了解不同公共空间的入口。"
+        }
+      ],
+      "term": "公共空间",
+      "definition": "人们共同使用的空间。",
+      "glossary": [
+        {
+          "term": "公共空间",
+          "definition": "人们共同使用的空间。"
+        }
+      ],
+      "sourceUrls": [
+        "https://magicalkenya.com/download/14326/?tmstv=1748249615"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "activity": {
+        "id": "kenya-o02",
+        "type": "open",
+        "title": "城市的一角",
+        "prompt": "看街道、建筑与公共空间，记录一条可见关系。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "kenya-m03",
+          "kenya-m04"
+        ],
+        "suggestedArticleIds": [
+          "kenya-daily"
+        ]
+      }
+    },
+    {
+      "id": "kenya-transport",
+      "countryId": "kenya",
+      "sectionId": "daily",
+      "title": "城市里的交通怎样连接？",
+      "summary": "人们在城市中上学、工作、购物和探访亲友，需要在不同地点之间移动。",
+      "mediaId": "kenya-m04",
+      "blocks": [
+        {
+          "id": "kenya-transport-v2-b1",
+          "title": "城市里的连接",
+          "text": "人们在城市中上学、工作、购物和探访亲友，需要在不同地点之间移动。道路、步行空间和公共交通共同参与这种连接。只看一张车辆照片，能认识外观，却很难知道全部线路。理解交通，还要看站点、目的地和不同方式如何衔接。"
+        },
+        {
+          "id": "kenya-transport-v2-b2",
+          "title": "先用虚构线路练习",
+          "text": "为了把换乘讲清楚，我们画了两条原创线路：蓝线连接甲站与乙站，橙线连接乙站与丙站。两条线都经过乙站，所以从甲到丙可以在乙站换到另一条线。这张图只解释换乘关系，不代表内罗毕真实车站、班次或票价。"
+        },
+        {
+          "id": "kenya-transport-v2-b3",
+          "title": "看清共同站点",
+          "text": "换乘并不是看到两条线在画面上交叉，就一定能从一条走到另一条。有时道路上下分层，实际并没有共同站点。因此，读图要看站点标记和说明，而不是只看线条颜色。正式出行需要确认服务运营信息和可以到达的换乘位置。"
+        },
+        {
+          "id": "kenya-transport-v2-b4",
+          "title": "照片里的车辆",
+          "text": "Matatu车辆是认识肯尼亚城市交通的一个入口。装饰、车型和服务情况可能不同，不能从一辆车推断所有车辆。摄影日期说明这幅画面记录的时刻，车上的字也可能被遮挡。百科不会把旧照片中的车牌或线路号推荐为当前出行方案。"
+        },
+        {
+          "id": "kenya-transport-v2-b5",
+          "title": "把方法带回生活",
+          "text": "完成题目时，找到蓝线和橙线共有的乙站，并说明为什么选择它。之后也可以观察自己熟悉的交通示意图，区分站点、方向和线路。学习这些关系，是练习读信息的方法；如果真的外出，应由家长根据当地实际情况安排。图例中的每种符号都有需要先读懂的含义。"
+        }
+      ],
+      "term": "换乘",
+      "definition": "在共同站点转到另一条线路或交通方式。",
+      "glossary": [
+        {
+          "term": "换乘",
+          "definition": "在共同站点转到另一条线路或交通方式。"
+        }
+      ],
+      "sourceUrls": [
+        "https://magicalkenya.com/download/14326/?tmstv=1748249615"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "diagram": "kenya-transfer",
+      "exerciseId": "kenya-c05"
+    },
+    {
+      "id": "kenya-market",
+      "countryId": "kenya",
+      "sectionId": "daily",
+      "title": "食品标签上的信息怎样读？",
+      "summary": "市场或商店里的标签，可能告诉我们商品名称、计量单位、价格和产地。",
+      "mediaId": "kenya-m28",
+      "blocks": [
+        {
+          "id": "kenya-market-v2-b1",
+          "title": "标签回答什么",
+          "text": "市场或商店里的标签，可能告诉我们商品名称、计量单位、价格和产地。这些字段回答不同的问题。名称说明是什么，单位说明怎样计量，产地表示标签声明的生产或收获地点。不能因为几个字段挨在一起，就把它们的意思混为一谈。"
+        },
+        {
+          "id": "kenya-market-v2-b2",
+          "title": "一张原创练习卡",
+          "text": "本页使用虚构食品标签，写着“名称：玉米粉”“单位：千克”“产地：肯尼亚”。它是为学习排版的例子，不是某张照片里商品的真实包装。观察题让你找出回答“来自哪里”的字段，不要求你猜测实际商品或品牌。"
+        },
+        {
+          "id": "kenya-market-v2-b3",
+          "title": "销售地点与产地",
+          "text": "一个商品在内罗毕售卖，并不能证明它就在内罗毕生产。种植、加工、包装和销售可能发生在不同地方。即使标签写了一个国家，也不一定告诉我们农田的具体位置。想知道更多，要继续查看生产者、批次或供应资料，而不是自行补全。"
+        },
+        {
+          "id": "kenya-market-v2-b4",
+          "title": "留意日期与可见范围",
+          "text": "真实标签可能被遮挡，照片也可能只拍到一部分。看不清时应当记录未知，不凭常识替它填上答案。价格随时间和地点改变，本篇不提供购物报价。食品是否适合食用，也不能只看照片外观，需要成人核对包装和保存条件。"
+        },
+        {
+          "id": "kenya-market-v2-b5",
+          "title": "让问题更准确",
+          "text": "选择产地字段之后，可以再说说名称与单位分别回答什么。把问题拆开，能帮助我们阅读其他信息卡。开放观察时也可以写“我想知道这份玉米粉在哪里加工”，这与已经看见的产地声明不同，清楚区分两者会让记录更可靠。来源字段可以引出问题，却不能补出标签没有写出的事实。"
+        }
+      ],
+      "term": "产地",
+      "definition": "标签声明的生产或收获地点。",
+      "glossary": [
+        {
+          "term": "产地",
+          "definition": "标签声明的生产或收获地点。"
+        }
+      ],
+      "sourceUrls": [
+        "https://statistics.kilimo.go.ke/files/bookpage/KENYA_Maize-Extension-Manual.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "exerciseId": "kenya-p02"
+    },
+    {
+      "id": "kenya-food",
+      "countryId": "kenya",
+      "sectionId": "food",
+      "title": "玉米能变成哪些食物？",
+      "summary": "玉米可以有不同的食用和加工方式。",
+      "mediaId": "kenya-m26",
+      "blocks": [
+        {
+          "id": "kenya-food-v2-b1",
+          "title": "从玉米粒开始",
+          "text": "玉米可以有不同的食用和加工方式。在肯尼亚，人们会用玉米粉制作ugali，也会食用其他玉米食品。ugali通常以玉米粉与水加热搅拌而成，但不能把所有玉米料理都叫作ugali，更不能用一道食物代表每个家庭每天的餐桌。"
+        },
+        {
+          "id": "kenya-food-v2-b2",
+          "title": "加工改变形态",
+          "text": "玉米粒经过适当处理和研磨，可以成为粉。粉与水一起加热、搅拌后，外形和口感会发生变化。我们的图解把玉米、粉和做好的食物分开，帮助认识加工步骤。图上的箭头表示先后关系，不是完整食谱，也不规定每家使用相同配比。",
+          "mediaId": "kenya-m25"
+        },
+        {
+          "id": "kenya-food-v2-b3",
+          "title": "一餐不只有主食",
+          "text": "ugali可以与不同的菜肴搭配，具体食物随家庭、地区和条件变化。看到照片中的搭配，可以描述有哪些可见食材，但不应该据此给出全国统一菜单。孩子也不必通过模仿吃法来证明自己了解一种文化，认真听取具体介绍更有帮助。"
+        },
+        {
+          "id": "kenya-food-v2-b4",
+          "title": "种植与运输",
+          "text": "食物来到餐桌之前，还涉及种植、收获、储存、加工和运输等环节。销售地点不一定是种植地点，包装名称也可能没有写出完整旅程。把这些环节连起来，能发现自然环境与人们工作之间的联系，而不只是记住一个陌生食物名字。"
+        },
+        {
+          "id": "kenya-food-v2-b5",
+          "title": "观察变化的证据",
+          "text": "题目会请你辨认玉米粒、玉米粉和成品之间的加工关系。根据材料说明作答，不把一张照片中看不见的配料猜成事实。涉及热水、炉火和食品处理的操作由成人负责；这里的任务是读图与理解，不要求你独自烹饪。同一种粮食，也可以经过不同的加工走向餐桌。"
+        }
+      ],
+      "term": "加工",
+      "definition": "使原料形态或性质发生改变的处理。",
+      "glossary": [
+        {
+          "term": "加工",
+          "definition": "使原料形态或性质发生改变的处理。"
+        }
+      ],
+      "sourceUrls": [
+        "https://statistics.kilimo.go.ke/files/bookpage/KENYA_Maize-Extension-Manual.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "diagram": "kenya-maize",
+      "exerciseId": "kenya-c06"
+    },
+    {
+      "id": "kenya-tea",
+      "countryId": "kenya",
+      "sectionId": "food",
+      "title": "茶叶从叶片到杯中有什么变化？",
+      "summary": "茶来自茶树的叶芽，肯尼亚也生产茶。",
+      "mediaId": "kenya-m27",
+      "blocks": [
+        {
+          "id": "kenya-tea-v2-b1",
+          "title": "叶片怎样变化",
+          "text": "茶来自茶树的叶芽，肯尼亚也生产茶。采下来的叶片需要经过不同加工，才成为我们在包装中看到的茶叶。并不是所有茶都使用完全相同的工艺，也不能只看一杯茶的颜色，就确定它的种植地点、茶树品种或加工方式。"
+        },
+        {
+          "id": "kenya-tea-v2-b2",
+          "title": "认识红茶的一种流程",
+          "text": "本页用原创阶段卡概括红茶加工：鲜叶先经过萎凋，减少部分水分，再进行揉捻或切碎等处理，之后发生氧化，最后干燥。真实工厂还涉及分级等步骤。阶段卡用于认识顺序，不提供加工温度、时间或可直接照做的生产配方。"
+        },
+        {
+          "id": "kenya-tea-v2-b3",
+          "title": "词语需要解释",
+          "text": "这里的氧化与叶片成分接触空气后的变化有关。有些资料沿用“发酵”来称呼这个环节，但不能把它简单理解为制作酸奶时同样的微生物过程。遇到同一个词在不同场合使用，要结合材料解释，而不是只凭熟悉的词义判断。",
+          "mediaId": "kenya-m36"
+        },
+        {
+          "id": "kenya-tea-v2-b4",
+          "title": "照片和卡片各做什么",
+          "text": "真实茶园照片能展示拍摄地点的植物与环境，阶段卡则把看不见的过程按文字说明串起来。绿色叶片照片不能证明后续每一步已经完成。我们会明确标记卡片为原创教学示意，不把画出的工艺步骤冒充某家工厂的现场记录。"
+        },
+        {
+          "id": "kenya-tea-v2-b5",
+          "title": "把顺序排清楚",
+          "text": "观察任务请你根据阶段名称选择合理顺序，而不是通过颜色猜茶类。还可以提出“茶园到加工厂之间如何运输”的问题。茶文化包含种植者、加工者和饮用者的不同经验，一张叶片照片只是起点，不是整个行业的全部介绍。先辨认材料类型，再讨论加工过程，会更容易理解。"
+        }
+      ],
+      "term": "氧化",
+      "definition": "这里指茶叶成分接触氧气后发生的变化。",
+      "glossary": [
+        {
+          "term": "氧化",
+          "definition": "这里指茶叶成分接触氧气后发生的变化。"
+        }
+      ],
+      "sourceUrls": [
+        "https://vegetables.wsu.edu/tea-types-and-home-processing/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "kenya-p03"
+    },
+    {
+      "id": "kenya-meal",
+      "countryId": "kenya",
+      "sectionId": "food",
+      "title": "一顿饭能代表所有家庭吗？",
+      "summary": "一张餐桌照片记录某个人或某个家庭在某个时刻的食物。",
+      "mediaId": "kenya-m26",
+      "blocks": [
+        {
+          "id": "kenya-meal-v2-b1",
+          "title": "一顿饭的范围",
+          "text": "一张餐桌照片记录某个人或某个家庭在某个时刻的食物。它可能很有意思，却不能代表整个肯尼亚。人们的饮食会受到地区、家庭习惯、宗教、个人喜好、食材供应和经济条件等因素影响，同一个家庭不同日子的饭菜也会变化。"
+        },
+        {
+          "id": "kenya-meal-v2-b2",
+          "title": "描述可见食物",
+          "text": "观察时可以先记录盘子、碗、食物颜色与摆放关系。如果图片说明确认了食物名称，再把名称写入笔记。看不清的配料不必猜测；一道外观相似的食物，也可能有不同做法。把直接看见和根据说明得知的内容分开，会更清楚。"
+        },
+        {
+          "id": "kenya-meal-v2-b3",
+          "title": "把材料放回生活",
+          "text": "一份玉米食品与蔬菜的照片，可以引出种植和加工的问题；市场照片则让我们想到销售与运输。这些联系帮助我们理解食物如何进入生活，但不能把几幅不同来源的照片拼成同一家庭的一天，也不能假装它们是在同一次用餐拍摄的。"
+        },
+        {
+          "id": "kenya-meal-v2-b4",
+          "title": "比较而不评高低",
+          "text": "不同的餐具、食物和用餐习惯各有具体背景。比较时可以问“这些食物经过哪些加工”，而不问“哪种家庭更先进”。熟悉的吃法不等于唯一正确的吃法。对于自己不了解的做法，可以保留问题，寻找来自当事人或可靠资料的解释。"
+        },
+        {
+          "id": "kenya-meal-v2-b5",
+          "title": "写自己的发现",
+          "text": "开放任务不要求列出一份所谓肯尼亚标准菜单。你可以选择一张材料，描述一条看见的线索，再提出有关食材、来源或做法的问题。笔记三栏分别保存观察、猜想和疑问；留下一条有依据的小发现，比填满许多没有来源的结论更重要。"
+        }
+      ],
+      "term": "样本",
+      "definition": "观察材料中的一个或一部分例子。",
+      "glossary": [
+        {
+          "term": "样本",
+          "definition": "观察材料中的一个或一部分例子。"
+        }
+      ],
+      "sourceUrls": [
+        "https://statistics.kilimo.go.ke/files/bookpage/KENYA_Maize-Extension-Manual.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "activity": {
+        "id": "kenya-o03",
+        "type": "open",
+        "title": "一顿饭的范围",
+        "prompt": "区分这一份食物与对所有家庭的推测。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "kenya-m26",
+          "kenya-m25"
+        ],
+        "suggestedArticleIds": [
+          "kenya-meal"
+        ]
+      }
+    },
+    {
+      "id": "kenya-culture",
+      "countryId": "kenya",
+      "sectionId": "culture",
+      "title": "鼓声怎样把一群人连接起来？",
+      "summary": "Isukuti是肯尼亚西部Isukha和Idakho社区的一种表演传统，包含鼓乐、歌唱和舞蹈。",
+      "mediaId": "kenya-m30",
+      "blocks": [
+        {
+          "id": "kenya-culture-v2-b1",
+          "title": "先认识具体传统",
+          "text": "Isukuti是肯尼亚西部Isukha和Idakho社区的一种表演传统，包含鼓乐、歌唱和舞蹈。介绍它时，要说清楚具体社区，而不是简单称为所有肯尼亚人的同一种舞蹈。一个国家中可以存在许多不同的艺术实践，也可以有个人不同的兴趣。"
+        },
+        {
+          "id": "kenya-culture-v2-b2",
+          "title": "声音与动作配合",
+          "text": "在这类表演中，音乐和身体动作相互联系，参与者需要听取节奏与回应。相关传统有自己的乐器、场合和传承方式，不能只凭看到一面鼓就判断整场表演。照片只能展示一个片刻，真正了解声音还需要有来源、获许可的录音与解释。"
+        },
+        {
+          "id": "kenya-culture-v2-b3",
+          "title": "先做一个原创练习",
+          "text": "本页提供四拍等间隔的视觉练习：一、二、三、四。亮点依次出现，帮助你观察有规律的时间间隔。它是原创教学练习，不是Isukuti原曲、节奏转录或社区表演的替代品。不会播放声音时，仍可通过数字和文字参与。",
+          "mediaId": "kenya-m31"
+        },
+        {
+          "id": "kenya-culture-v2-b4",
+          "title": "传承需要人",
+          "text": "艺术的延续与表演者、学习者、家人和社区有关。联合国教科文组织将这项传统列入急需保护的非物质文化遗产名录，提醒人们关注传承条件。列入名录不意味着它被冻结不变，也不表示其他没有列名的文化就不重要。"
+        },
+        {
+          "id": "kenya-culture-v2-b5",
+          "title": "听见不同的回应",
+          "text": "观察题比较几组回应中哪一组保持四拍等间隔。判断的是本页原创示范，不是评价真实社区表演是否正确。如果继续阅读文化资料，可以留意谁在讲述、在哪里表演、资料何时记录。理解这些背景，比只记住一个鼓的外形更接近文化学习。我们尊重具体的传承者，也尊重每个人不同的学习方式。"
+        }
+      ],
+      "term": "节拍",
+      "definition": "音乐中有规律的时间单位。",
+      "glossary": [
+        {
+          "term": "节拍",
+          "definition": "音乐中有规律的时间单位。"
+        }
+      ],
+      "sourceUrls": [
+        "https://ich.unesco.org/en/USL/isukuti-dance-of-isukha-and-idakho-communities-of-western-kenya-00981"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "diagram": "kenya-rhythm",
+      "exerciseId": "kenya-p04"
+    },
+    {
+      "id": "kenya-patterns",
+      "countryId": "kenya",
+      "sectionId": "culture",
+      "title": "怎样观察木门的纹样？",
+      "summary": "拉穆木门上可能出现重复的植物形纹样、几何安排和金属构件。",
+      "mediaId": "kenya-m32",
+      "blocks": [
+        {
+          "id": "kenya-patterns-v2-b1",
+          "title": "把目光放慢",
+          "text": "拉穆木门上可能出现重复的植物形纹样、几何安排和金属构件。先看整体，再看一小块细节，可以发现原来没有注意到的排列。不同门的纹样与年代不一定相同，本页材料只呈现被拍摄的门，不能自动代表古镇里的每一扇门。"
+        },
+        {
+          "id": "kenya-patterns-v2-b2",
+          "title": "观察与解释分开",
+          "text": "“门框上有重复花纹”是一条可从清晰照片观察的描述。“这个花纹代表某个家族”则需要资料支持。外形相似不等于含义相同，不能把自己想出的象征故事写成确定事实。即使一个解释很有吸引力，也应该继续寻找出处。",
+          "mediaId": "kenya-m32"
+        },
+        {
+          "id": "kenya-patterns-v2-b3",
+          "title": "近景与远景",
+          "text": "远景帮助我们看门与墙面、街道的关系，近景则展示雕刻和构件。两张照片如果来自不同的门，必须在图注中说明，不能拼成同一对象的整体与局部。摄影的光线和角度还可能改变纹样的可见程度，比较时要注意这些条件。"
+        },
+        {
+          "id": "kenya-patterns-v2-b4",
+          "title": "手艺与日常生活",
+          "text": "门既有实际使用功能，也可能呈现工匠的设计与制作选择。认识手艺可以追问材料、工具、维修和传承，但不应仅凭照片判断制作时间或作者身份。对具体木材和历史来源的介绍，需要可靠建筑研究或保存机构资料来支持。"
+        },
+        {
+          "id": "kenya-patterns-v2-b5",
+          "title": "留下一个清楚的问题",
+          "text": "开放笔记可以从一条中性描述开始，例如“门框边缘有一列相似图案”。接着写自己的猜想，再问还需要什么资料。我们不提供预填的答案，也不按照猜测是否浪漫来评分。学习观察，是给证据留位置，也给未知留位置。详细的图注能帮助我们确认究竟在观察哪一扇门。"
+        }
+      ],
+      "term": "纹样",
+      "definition": "装饰中的图形与排列。",
+      "glossary": [
+        {
+          "term": "纹样",
+          "definition": "装饰中的图形与排列。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1055/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-lamu",
+      "activity": {
+        "id": "kenya-o04",
+        "type": "open",
+        "title": "木门上的纹样",
+        "prompt": "分开看见的形状与需要资料解释的含义。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "kenya-m06",
+          "kenya-m32"
+        ],
+        "suggestedArticleIds": [
+          "kenya-patterns"
+        ]
+      }
+    },
+    {
+      "id": "kenya-stories",
+      "countryId": "kenya",
+      "sectionId": "culture",
+      "title": "讲故事为什么要注明讲述者？",
+      "summary": "读一段故事，除了关心发生了什么，也可以问是谁讲述、何时记录、来自哪个地方。",
+      "mediaId": "kenya-m06",
+      "blocks": [
+        {
+          "id": "kenya-stories-v2-b1",
+          "title": "故事来自谁",
+          "text": "读一段故事，除了关心发生了什么，也可以问是谁讲述、何时记录、来自哪个地方。肯尼亚有多样的社区和个人经验，不同人可能用不同方式讲述同一主题。注明讲述者和语境，是尊重材料来源，不是让故事变得不有趣。"
+        },
+        {
+          "id": "kenya-stories-v2-b2",
+          "title": "几种材料不同",
+          "text": "口述回忆、文学创作、民间故事和历史档案各有用途。一个虚构角色的话不能直接证明历史事件，一个人的回忆也未必包含所有人的经历。阅读时先看材料类型，能帮助我们提出合适的问题，而不是把所有文字都当成同样的事实记录。"
+        },
+        {
+          "id": "kenya-stories-v2-b3",
+          "title": "翻译也是一个环节",
+          "text": "故事从一种语言转为另一种语言时，译者需要选择词语和表达方式。部分含义可能需要注释，不能因为中文版没有解释，就认定原文也没有相关背景。引用故事时，应保留作者或讲述者、译者、出处以及允许使用的范围。"
+        },
+        {
+          "id": "kenya-stories-v2-b4",
+          "title": "图像不能替代来源",
+          "text": "一幅好看的插图可以帮助想象，但它不是故事所描述事件的摄影证据。生成图尤其不能冒充历史现场或真实传承人的肖像。若使用原创教学故事，应明确说明原创；若介绍某个社区传统，则需要查具体文化机构或经授权讲述者的资料。"
+        },
+        {
+          "id": "kenya-stories-v2-b5",
+          "title": "带着来源继续读",
+          "text": "选择题会问为什么要注明讲述者。答案与理解背景、尊重来源有关，不是为了让故事显得更古老。读完后可以提出一个问题：同一主题还有哪些人的讲法？比较不同材料时，既看相同之处，也保留各自没有说到的部分。"
+        }
+      ],
+      "term": "讲述者",
+      "definition": "讲述故事或经验的人。",
+      "glossary": [
+        {
+          "term": "讲述者",
+          "definition": "讲述故事或经验的人。"
+        }
+      ],
+      "sourceUrls": [
+        "https://ich.unesco.org/en/USL/isukuti-dance-of-isukha-and-idakho-communities-of-western-kenya-00981"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-lamu",
+      "exerciseId": "kenya-c07"
+    },
+    {
+      "id": "kenya-history",
+      "countryId": "kenya",
+      "sectionId": "landmarks",
+      "title": "拉穆的木门藏着什么线索？",
+      "summary": "拉穆古镇位于肯尼亚海岸的拉穆岛上，是认识斯瓦希里海岸文化的重要地点。",
+      "mediaId": "kenya-m06",
+      "blocks": [
+        {
+          "id": "kenya-history-v2-b1",
+          "title": "走近海边古镇",
+          "text": "拉穆古镇位于肯尼亚海岸的拉穆岛上，是认识斯瓦希里海岸文化的重要地点。海边建筑、街巷和木门提供了具体观察入口。古镇不是只为游客保存的空布景，理解建筑时，也要想到这里持续存在的生活、使用与维护。"
+        },
+        {
+          "id": "kenya-history-v2-b2",
+          "title": "建筑留下的线索",
+          "text": "相关遗产资料介绍了珊瑚石、木材、庭院和雕刻木门等建筑特点。看照片可以描述墙面与门的位置，材料名称则要结合说明确认。照片上看起来像石头的表面，并不能让我们独自鉴定其成分，更不能由外观准确推算建造年代。",
+          "mediaId": "kenya-m06"
+        },
+        {
+          "id": "kenya-history-v2-b3",
+          "title": "海岸之间的联系",
+          "text": "拉穆与印度洋沿岸的贸易、文化和人员往来有关。不同地区的人带来物品、技术和观念，也在长期生活中形成当地的文化表达。这种联系不是把几个外来元素简单相加，更不能仅凭一个门钉的形状，断定某扇门来自哪个国家。"
+        },
+        {
+          "id": "kenya-history-v2-b4",
+          "title": "交流也有复杂历史",
+          "text": "海岸历史不只有美丽船只和自由交换，还涉及奴隶贸易、强迫迁移和权力不平等。学习时需要尊重受影响的人，不能把所有往来都描写成轻松愉快的旅行。本篇不展示暴力画面，而是引导你认识文化联系背后也可能存在艰难经历。"
+        },
+        {
+          "id": "kenya-history-v2-b5",
+          "title": "从一扇门继续问",
+          "text": "观察门框、雕刻和构件时，把看见的形状与需要查证的含义分开。题目关注海港如何联系不同地方，而不是让你猜一个工匠的身份。查看来源和照片信息，能把一处景观变成有依据的问题；这比只记住“古老而漂亮”更有收获。"
+        }
+      ],
+      "term": "文化交流",
+      "definition": "人们在联系中分享和改变知识、技术与观念。",
+      "glossary": [
+        {
+          "term": "文化交流",
+          "definition": "人们在联系中分享和改变知识、技术与观念。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1055/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-lamu",
+      "exerciseId": "kenya-c08"
+    },
+    {
+      "id": "kenya-mombasa",
+      "countryId": "kenya",
+      "sectionId": "landmarks",
+      "title": "蒙巴萨港口在哪里？",
+      "summary": "蒙巴萨位于肯尼亚印度洋海岸一带，与内陆的内罗毕、维多利亚湖边的基苏木位置不同。",
+      "mediaId": "kenya-m07",
+      "blocks": [
+        {
+          "id": "kenya-mombasa-v2-b1",
+          "title": "沿着海岸找",
+          "text": "蒙巴萨位于肯尼亚印度洋海岸一带，与内陆的内罗毕、维多利亚湖边的基苏木位置不同。地图上先找海岸，再寻找蒙巴萨的代表点，有助于理解港口为什么与水路联系紧密。港区的具体范围远大于一个图钉，图钉不是可直接抵达的入口。"
+        },
+        {
+          "id": "kenya-mombasa-v2-b2",
+          "title": "港口怎样工作",
+          "text": "船只把货物运到港口后，需要通过码头设备装卸，再与陆地运输衔接。集装箱是其中一种运输容器，能帮助不同运输环节连接起来。照片上看到起重机和集装箱，可以描述这些设施，但不能由颜色判断货物种类、来源或目的地。"
+        },
+        {
+          "id": "kenya-mombasa-v2-b3",
+          "title": "联系不止一座城",
+          "text": "蒙巴萨港口与肯尼亚及更广的东非、中非地区运输联系有关。港口不是所有货物的生产地点，经过这里的物品可能来自不同地方，也可能继续前往内陆。把生产、装卸和最终使用分开，可以避免把码头上的一切都说成当地制造。"
+        },
+        {
+          "id": "kenya-mombasa-v2-b4",
+          "title": "不同材料的范围",
+          "text": "远景照片展示港口与水面的关系，近一点的照片可能展示船舶或装卸设备。它们未必在同一天、同一码头拍摄，不能拼成一艘船完整工作的连续过程。图注提供拍摄日期与来源，无法确认的货物信息就保持未知。"
+        },
+        {
+          "id": "kenya-mombasa-v2-b5",
+          "title": "定位并解释",
+          "text": "题目让你在蒙巴萨、内罗毕和基苏木之间找到海岸港口。作答时可以说明它靠近印度洋，而不只是记住点的颜色。百科帮助理解水路与陆路连接，不提供港区进入指引、船期或实时运输安排。想了解更多，可以从一件商品继续追问它的旅程。"
+        }
+      ],
+      "term": "港口",
+      "definition": "水路与陆路等运输衔接的设施和区域。",
+      "glossary": [
+        {
+          "term": "港口",
+          "definition": "水路与陆路等运输衔接的设施和区域。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.kwatos.kpa.co.ke/main/main.jsp"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-mombasa-port",
+      "exerciseId": "kenya-l04"
+    },
+    {
+      "id": "kenya-museum",
+      "countryId": "kenya",
+      "sectionId": "landmarks",
+      "title": "一件展品的说明卡能告诉我们什么？",
+      "summary": "走进博物馆，一件物品旁的小标签常常和物品本身一样重要。",
+      "mediaId": "kenya-m23",
+      "blocks": [
+        {
+          "id": "kenya-museum-v2-b1",
+          "title": "展品不只看外形",
+          "text": "走进博物馆，一件物品旁的小标签常常和物品本身一样重要。它可能记录名称、材料、年代、地点或收藏信息。仅看一件东西的外形，通常不能确定它是谁制作、何时使用以及怎样进入馆藏。说明卡为继续查证提供线索。"
+        },
+        {
+          "id": "kenya-museum-v2-b2",
+          "title": "把字段分开读",
+          "text": "本页用原创展品信息卡练习阅读，字段包括“名称”“年代”“资料来源”。卡片不对应某件真实馆藏，也不是博物馆原标签的复制品。它帮助你分清哪些文字回答是什么、哪些回答何时、哪些帮助追溯记录，而不是让你背一个虚构藏品的历史。",
+          "mediaId": "kenya-m33"
+        },
+        {
+          "id": "kenya-museum-v2-b3",
+          "title": "认识机构的工作",
+          "text": "肯尼亚国家博物馆系统涉及研究、收藏、展示和文化遗产等工作。内罗毕国家博物馆是一个了解这些主题的入口。建筑外观照片只能说明这处建筑的样貌，不能证明每个展厅今天正在展出什么，也不能代替具体展品的馆藏资料。"
+        },
+        {
+          "id": "kenya-museum-v2-b4",
+          "title": "资料也会更新",
+          "text": "博物馆对物品的解释可能随着研究而调整。阅读标签时，要留意这是确定年代、大致范围还是一种推测。无法确定并不等于没有价值，认真说明不确定性恰好是研究的一部分。不同来源若有差异，应保留问题，而不是随意挑一个更好听的说法。"
+        },
+        {
+          "id": "kenya-museum-v2-b5",
+          "title": "练习追问来源",
+          "text": "观察题会请你找到能够追溯资料的字段。随后可以想一想：如果想知道作者或使用者，还需要哪些信息？不要把生成图片当作真实藏品，也不要把一张资料卡当作全部证据。学习博物馆里的阅读方式，可以帮助我们更谨慎地认识其他历史材料。"
+        }
+      ],
+      "term": "馆藏",
+      "definition": "博物馆等机构收藏并记录的材料。",
+      "glossary": [
+        {
+          "term": "馆藏",
+          "definition": "博物馆等机构收藏并记录的材料。"
+        }
+      ],
+      "sourceUrls": [
+        "https://museums.or.ke/museum-story/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-national-museum",
+      "exerciseId": "kenya-p05"
+    },
+    {
+      "id": "kenya-nature",
+      "countryId": "kenya",
+      "sectionId": "nature",
+      "title": "大象的家为什么不能只有一小块？",
+      "summary": "大象生活需要水、食物和足够的活动空间。",
+      "mediaId": "kenya-m09",
+      "blocks": [
+        {
+          "id": "kenya-nature-v2-b1",
+          "title": "一个家需要什么",
+          "text": "大象生活需要水、食物和足够的活动空间。安博塞利的环境包含草地、灌丛、湿地等不同部分，照片中的水草和动物只是其中一个片刻。动物并不是只站在最适合拍照的位置，它们的生活与周围更大的环境联系在一起。"
+        },
+        {
+          "id": "kenya-nature-v2-b2",
+          "title": "空间为什么要连通",
+          "text": "如果原本相连的栖息环境被分割，动物接近水和食物的方式就可能受到影响。我们的图解用几块环境和连接关系帮助理解这个问题。图上的箭头不是安博塞利真实迁徙路线，也不表示所有大象每天都会按同一顺序到达同一地点。",
+          "mediaId": "kenya-m10"
+        },
+        {
+          "id": "kenya-nature-v2-b3",
+          "title": "变化发生在时间里",
+          "text": "降雨、植物生长与水源条件会变化，动物利用空间的方式也可能变化。要了解这些关系，需要长期观察和研究，而不是凭一张照片安排所谓固定迁徙日历。照片上的动物数量，只能作为这幅画面的记录，不能当成整个保护区的总数。"
+        },
+        {
+          "id": "kenya-nature-v2-b4",
+          "title": "也要考虑人们生活",
+          "text": "动物栖息环境周围也有人生活和工作。保护自然需要考虑土地使用、水资源与社区需要，不能把人简单从图上擦掉，就宣布问题已经解决。具体措施应结合当地情况与可靠研究，我们的教学图只解释连通空间这一基本关系。"
+        },
+        {
+          "id": "kenya-nature-v2-b5",
+          "title": "用证据回答",
+          "text": "题目会问为什么大象的家不能只有一小块。可以从水、食物和活动空间的联系寻找解释，而不是只说动物很大。观察照片时保持看见与推测的区别；了解野生动物不需要接近、投喂或追赶，安全距离和保护规则应由现场专业人员指导。"
+        }
+      ],
+      "term": "栖息地",
+      "definition": "生物生活并获取所需条件的环境。",
+      "glossary": [
+        {
+          "term": "栖息地",
+          "definition": "生物生活并获取所需条件的环境。"
+        }
+      ],
+      "sourceUrls": [
+        "https://kws.go.ke/park/amboseli-national-park/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-amboseli",
+      "diagram": "kenya-habitat",
+      "exerciseId": "kenya-c09"
+    },
+    {
+      "id": "kenya-mangrove",
+      "countryId": "kenya",
+      "sectionId": "nature",
+      "title": "红树林怎样连接陆地与海？",
+      "summary": "肯尼亚海岸有红树林环境。",
+      "mediaId": "kenya-m22",
+      "blocks": [
+        {
+          "id": "kenya-mangrove-v2-b1",
+          "title": "陆地与海的交界",
+          "text": "肯尼亚海岸有红树林环境。它们生长在受潮汐影响的海岸地带，与泥沙、水和多种生物联系在一起。瓦塔穆附近的米达溪区域提供了一个观察入口，但红树林不是每一段肯尼亚海岸都有的相同景观，也不能与所有海边树林混为一谈。"
+        },
+        {
+          "id": "kenya-mangrove-v2-b2",
+          "title": "先看根和水面",
+          "text": "照片里可能看到根系露在泥面或水面附近，也可能因为水位和拍摄角度而看不清。不同红树植物的根形并不完全相同，不能把一种形状套用到所有种类。根系与土壤、水流之间的关系，需要结合可靠生态资料理解，不能单靠外观猜功能。",
+          "mediaId": "kenya-m21"
+        },
+        {
+          "id": "kenya-mangrove-v2-b3",
+          "title": "潮水往返",
+          "text": "潮汐改变一部分地面被水覆盖的情况。原创图解用同一剖面展示水位高低的变化，帮助我们理解潮间带。图里的高低水位不是当地今天的潮时预报，也没有给出可步行穿越的安全窗口。真实海岸活动需要当地专业信息与成人安排。"
+        },
+        {
+          "id": "kenya-mangrove-v2-b4",
+          "title": "生命之间的联系",
+          "text": "红树林环境可以为不同生物提供栖息和觅食空间，也与海岸物质循环有关。具体有哪些动物，要根据地点和观察资料说明。看到一个小洞，不一定能立刻知道是谁挖的；看到一条鱼，也不能凭照片判断整个区域的种类数量。"
+        },
+        {
+          "id": "kenya-mangrove-v2-b5",
+          "title": "把图与照片结合",
+          "text": "选择题帮助认识根系、潮水和栖息环境的联系。可以先从照片写下根的位置，再用图解提出水位变化的问题。照片的拍摄时刻、潮位和季节如果未知，就明确保留这些未知。不要把两处不同地点的画面当成同一处涨潮前后的连续记录。"
+        }
+      ],
+      "term": "潮间带",
+      "definition": "高潮与低潮水位之间受潮汐影响的地带。",
+      "glossary": [
+        {
+          "term": "潮间带",
+          "definition": "高潮与低潮水位之间受潮汐影响的地带。"
+        }
+      ],
+      "sourceUrls": [
+        "https://kws.go.ke/park/watamu-marine-national-park-reserve/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-watamu",
+      "diagram": "kenya-mangrove",
+      "exerciseId": "kenya-c10"
+    },
+    {
+      "id": "kenya-forest",
+      "countryId": "kenya",
+      "sectionId": "nature",
+      "title": "卡卡梅加森林在哪里？",
+      "summary": "卡卡梅加森林位于肯尼亚西部，是认识森林环境的重要地点。",
+      "mediaId": "kenya-m19",
+      "blocks": [
+        {
+          "id": "kenya-forest-v2-b1",
+          "title": "从西部找到森林",
+          "text": "卡卡梅加森林位于肯尼亚西部，是认识森林环境的重要地点。在地图上，它与南部的安博塞利和海岸的瓦塔穆位置不同。先找到国家，再比较这些地点的方位，可以帮助我们理解肯尼亚的自然环境并不只有一种草原景观。"
+        },
+        {
+          "id": "kenya-forest-v2-b2",
+          "title": "看森林的层次",
+          "text": "一张森林照片可能展示高大的树木、下面的灌木、藤本以及地面的落叶。光线经过林冠后，地面的明暗和开阔草地不同。照片只记录一个角度，不能用它测出整片森林高度，也不能从看不见动物推断这里没有动物生活。",
+          "mediaId": "kenya-m20"
+        },
+        {
+          "id": "kenya-forest-v2-b3",
+          "title": "活物与落叶相连",
+          "text": "植物、动物、真菌和土壤之间存在联系。落叶与枯木会参与分解过程，为一些生物提供环境。认识这些关系，不意味着所有倒木都在同样时间变成土壤，也不意味着我们需要翻动每一块木头。可以先从公开照片观察，保留现场环境的完整。"
+        },
+        {
+          "id": "kenya-forest-v2-b4",
+          "title": "范围名称要仔细",
+          "text": "森林整体、森林保护地和某个管理区域的范围可能不同。地图中的地点代表点帮助定位，不冒充完整保护区边界。介绍时会说明资料说的是哪一种范围，不能把一个管理单位的面积直接当成整个森林的面积，也不使用没有日期的数量统计。"
+        },
+        {
+          "id": "kenya-forest-v2-b5",
+          "title": "比较位置和环境",
+          "text": "定位题要求在卡卡梅加、安博塞利和瓦塔穆之间找到森林地点。之后可以比较三处照片里可见的植物与水面，提出环境差异的问题。不同照片的季节、角度和拍摄范围可能不同，因此比较能产生线索，却不能自动证明一处比另一处更重要。"
+        }
+      ],
+      "term": "林冠",
+      "definition": "森林上部树冠形成的层次。",
+      "glossary": [
+        {
+          "term": "林冠",
+          "definition": "森林上部树冠形成的层次。"
+        }
+      ],
+      "sourceUrls": [
+        "https://kws.go.ke/park/kakamega-forest-national-reserve/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-kakamega",
+      "exerciseId": "kenya-l05"
+    },
+    {
+      "id": "kenya-coast-trade",
+      "countryId": "kenya",
+      "sectionId": "history",
+      "title": "海岸交流只有货物往来吗？",
+      "summary": "海岸城镇可以通过海路与远方联系。",
+      "mediaId": "kenya-m05",
+      "blocks": [
+        {
+          "id": "kenya-coast-trade-v2-b1",
+          "title": "从海岸想联系",
+          "text": "海岸城镇可以通过海路与远方联系。拉穆等斯瓦希里海岸聚居地的历史，包含长期贸易、人员往来和文化互动。我们看到的建筑与日常生活，是不同条件下逐渐形成的，不是一次航行就把一整套文化搬到另一个地方。"
+        },
+        {
+          "id": "kenya-coast-trade-v2-b2",
+          "title": "货物只是其中一部分",
+          "text": "船只可能运输物品，人们也会交流技术、语言、观念和生活经验。但“可能”不是对每一件具体物品的确定解释。要判断一扇门、一件器物或一个词的来源，需要相关研究或记录，不能仅凭外形与另一地区相似就宣布传播路线。"
+        },
+        {
+          "id": "kenya-coast-trade-v2-b3",
+          "title": "不是所有人都自由旅行",
+          "text": "印度洋海岸历史也涉及奴隶贸易和强迫迁移。有些人被剥夺自由，被迫离开熟悉的地方。适龄地了解这些事实，是为了尊重人的经历，不是把痛苦变成猎奇故事。我们不会把所有海上往来都美化成自愿冒险和热闹交换。"
+        },
+        {
+          "id": "kenya-coast-trade-v2-b4",
+          "title": "怎样认识复杂过去",
+          "text": "可以同时看见工艺交流和不平等，承认不同人的处境不同。史料的作者、时间和立场会影响它记录什么、遗漏什么。阅读一份材料时，既要看它提供的线索，也要问还缺少谁的声音。保存材料和继续研究能帮助后人把问题问得更完整。"
+        },
+        {
+          "id": "kenya-coast-trade-v2-b5",
+          "title": "把问题问清楚",
+          "text": "题目让你判断海岸交流是否只有货物往来。答案要包含人员与文化联系，也不能忽略强迫和权力关系。观察现代街景时，它不是古代贸易现场的照片；建筑今天的使用与过去的经历有关，却需要不同资料来分别理解。不同年代的材料，需要放回各自的历史背景。"
+        }
+      ],
+      "term": "强迫迁移",
+      "definition": "人在不自由的条件下被迫离开原居地。",
+      "glossary": [
+        {
+          "term": "强迫迁移",
+          "definition": "人在不自由的条件下被迫离开原居地。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1055/",
+        "https://museums.or.ke/kapenguria-museum/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-lamu",
+      "exerciseId": "kenya-c11"
+    },
+    {
+      "id": "kenya-independence",
+      "countryId": "kenya",
+      "sectionId": "history",
+      "title": "怎样用资料认识1963年的独立？",
+      "summary": "肯尼亚在一九六三年十二月十二日独立，次年成为共和国。",
+      "mediaId": "kenya-m34",
+      "blocks": [
+        {
+          "id": "kenya-independence-v2-b1",
+          "title": "先分清日期",
+          "text": "肯尼亚在一九六三年十二月十二日独立，次年成为共和国。两个年份关系密切，但不是同一天发生的同一件事。本页用有出处的事实摘记帮助区分时间，不把一张没有日期的旗帜照片当作独立当天的现场记录。"
+        },
+        {
+          "id": "kenya-independence-v2-b2",
+          "title": "独立之前",
+          "text": "在英国殖民统治下，当地人民经历土地、劳动和政治权利方面的不平等。许多人以不同方式反抗统治、争取自主。认识这段历史，不能只讲铁路、建筑或旅游景色，也不能假装所有人的经历完全相同；具体事件需要结合可靠史料了解。"
+        },
+        {
+          "id": "kenya-independence-v2-b3",
+          "title": "怎样看待历史材料",
+          "text": "照片、书信、报纸、回忆和公共档案可以提供不同线索。查考时应寻找制作或保存机构、形成日期和资料出处。人物身份不能靠外貌猜测，一幅现代纪念地照片也不是历史事件本身。材料说明比看起来像旧照片的颜色更重要。",
+          "mediaId": "kenya-m34"
+        },
+        {
+          "id": "kenya-independence-v2-b4",
+          "title": "本页材料的身份",
+          "text": "这里的独立日期卡是依据资料制作的原创摘记，不是档案原件。卡片明确告诉我们它的用途和来源，避免让读者把重新排版的文字误认为当年的文件。若进一步展示历史影像，需要逐件核对事件、年份和使用许可，不能生成伪档案。"
+        },
+        {
+          "id": "kenya-independence-v2-b5",
+          "title": "带着尊重继续问",
+          "text": "观察题比较有出处的事实材料与无日期的景观照片，选择更适合查考独立年代的材料。学习历史不是猜人物或背一个孤立日期，而是理解人们为什么争取自主，并认真对待不同经历。我们使用非血腥的语言，把注意力放在证据和人的尊严上。"
+        }
+      ],
+      "term": "独立",
+      "definition": "这里指肯尼亚结束殖民统治、成为独立国家。",
+      "glossary": [
+        {
+          "term": "独立",
+          "definition": "这里指肯尼亚结束殖民统治、成为独立国家。"
+        }
+      ],
+      "sourceUrls": [
+        "https://tourkenya.go.ke/event/jamuhuri-day-republic-day/",
+        "https://museums.or.ke/kapenguria-museum/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-national-museum",
+      "exerciseId": "kenya-p06"
+    },
+    {
+      "id": "kenya-constitution",
+      "countryId": "kenya",
+      "sectionId": "history",
+      "title": "宪法怎样描述共同生活？",
+      "summary": "宪法规定国家的基本制度、公共权力和权利等重要内容。",
+      "mediaId": "kenya-m35",
+      "blocks": [
+        {
+          "id": "kenya-constitution-v2-b1",
+          "title": "共同生活的基本规则",
+          "text": "宪法规定国家的基本制度、公共权力和权利等重要内容。肯尼亚二〇一〇年宪法是认识当代公共生活的重要资料。它不是某个人的日记，也不是所有日常事情的操作手册；了解具体问题时，还可能需要相关法律和实际制度的信息。"
+        },
+        {
+          "id": "kenya-constitution-v2-b2",
+          "title": "语言条款的例子",
+          "text": "宪法第七条区分国家语言与官方语言，并提出保护语言多样性等要求。通过这个例子，我们能看到基本规则与沟通、信息和文化生活的联系。但知道条文的文字，不等于知道每一个人实际获得服务的情况，具体实践还需要其他资料。"
+        },
+        {
+          "id": "kenya-constitution-v2-b3",
+          "title": "国家与地方",
+          "text": "宪法也说明国家和郡层级的关系。不同层级的职责有规定，彼此需要合作。学习时可以把它与地图中的国家和行政区域联系起来，却不能从一条边界线直接推断所有职责。地图回答位置和范围，制度文本回答另一类问题。"
+        },
+        {
+          "id": "kenya-constitution-v2-b4",
+          "title": "资料卡不是原件",
+          "text": "本页提供注明出处的原创资料摘记，帮助儿童阅读主题和年份。它并不是宪法原件的照片，也不是完整条文翻译。摘记会省略许多细节，因此遇到具体法律问题，不能把短卡片当作完整答案；可以在来源入口继续查看原文。",
+          "mediaId": "kenya-m35"
+        },
+        {
+          "id": "kenya-constitution-v2-b5",
+          "title": "规则与现实分开",
+          "text": "题目会问宪法属于哪类材料。理解它是基本规则之后，还可以提出“人们怎样参与公共生活”的问题。规则提出的保障与现实中的落实需要分别了解，不因读到一条文字就宣称所有问题已经解决。用清楚的材料类型开始，是认真学习公共生活的一步。"
+        }
+      ],
+      "term": "宪法",
+      "definition": "规定国家基本制度与重要权利等内容的基本法律。",
+      "glossary": [
+        {
+          "term": "宪法",
+          "definition": "规定国家基本制度与重要权利等内容的基本法律。"
+        }
+      ],
+      "sourceUrls": [
+        "https://kenyalaw.org/kl/fileadmin/pdfdownloads/Constitution/Constitution_of_Kenya2010.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-nairobi-city",
+      "exerciseId": "kenya-c12"
+    },
+    {
+      "id": "kenya-questions",
+      "countryId": "kenya",
+      "sectionId": "questions",
+      "title": "一张动物照片能代表一个国家吗？",
+      "summary": "一张大象照片能让我们观察它的外形和周围一小片环境，却不能告诉我们肯尼亚所有地方的样子。",
+      "mediaId": "kenya-m09",
+      "blocks": [
+        {
+          "id": "kenya-questions-v2-b1",
+          "title": "一张照片的边界",
+          "text": "一张大象照片能让我们观察它的外形和周围一小片环境，却不能告诉我们肯尼亚所有地方的样子。摄影者选择了地点、时间、镜头方向和画面范围。照片外还有很多没有被记录的事情，认识这些边界能让观察更准确。"
+        },
+        {
+          "id": "kenya-questions-v2-b2",
+          "title": "先记录看见的",
+          "text": "如果画面中有水、草和几头大象，可以描述它们的位置关系。若看不清数量，就写大概或不确定。不要从一张照片直接宣布整个国家只有动物，也不要把没有出现的城市、居民或森林当作不存在。画面没有展示与现实没有存在是两回事。"
+        },
+        {
+          "id": "kenya-questions-v2-b3",
+          "title": "再考虑解释",
+          "text": "“动物可能在接近水源”是一种解释，是否成立还要看行为和时间记录。“这是全年唯一水源”则需要更强的证据。把解释写在猜想栏，能够提醒自己继续核对。承认还不知道，并不会让笔记变差，反而让下一步的问题更清晰。"
+        },
+        {
+          "id": "kenya-questions-v2-b4",
+          "title": "增加不同材料",
+          "text": "可以再看内罗毕街景、拉穆海岸和肯尼亚山照片，发现它们展示不同的环境。更多材料有助于扩展认识，但也不能随意拼成同一地点、同一家庭或同一天的记录。每张图的地点与日期仍然需要保留，不能为了故事顺畅而抹掉差异。"
+        },
+        {
+          "id": "kenya-questions-v2-b5",
+          "title": "留下真实发现",
+          "text": "开放任务邀请你写一条看见、一条猜想或一个疑问，不要求填满所有栏。记录只来自你的实际输入，不会自动生成“已经探索整个肯尼亚”的奖章。学会问一张照片能说明什么、不能说明什么，是以后阅读新闻和百科时都能用到的方法。"
+        }
+      ],
+      "term": "观察",
+      "definition": "认真记录材料中可直接看见的信息。",
+      "glossary": [
+        {
+          "term": "观察",
+          "definition": "认真记录材料中可直接看见的信息。"
+        }
+      ],
+      "sourceUrls": [
+        "https://kws.go.ke/park/amboseli-national-park/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-amboseli",
+      "activity": {
+        "id": "kenya-o05",
+        "type": "open",
+        "title": "看见与猜想",
+        "prompt": "一张照片能说明什么？还有什么没有展示？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "kenya-m09",
+          "kenya-m03"
+        ],
+        "suggestedArticleIds": [
+          "kenya-questions"
+        ]
+      }
+    },
+    {
+      "id": "kenya-equator",
+      "countryId": "kenya",
+      "sectionId": "questions",
+      "title": "赤道和国界是一种线吗？",
+      "summary": "赤道是一条假想纬线，纬度为零，用来说明地球上的南北位置。",
+      "mediaId": "kenya-m01",
+      "blocks": [
+        {
+          "id": "kenya-equator-v2-b1",
+          "title": "两种线回答两种问题",
+          "text": "赤道是一条假想纬线，纬度为零，用来说明地球上的南北位置。国家边界用来表示国家范围。两者有时都在地图上表现为线，却不能因为外观相似就当成同一种东西。读线之前，先看图例说明它代表什么。"
+        },
+        {
+          "id": "kenya-equator-v2-b2",
+          "title": "赤道穿过国土",
+          "text": "赤道穿过肯尼亚，但并没有把这里分成两个国家。它也不是地面上一条天然道路或河流。某些地方会设立赤道标志，方便人们认识位置；标志本身不等于整条纬线，更不意味着附近所有地点的海拔、天气和生活方式都相同。"
+        },
+        {
+          "id": "kenya-equator-v2-b3",
+          "title": "海岸是另一种边界",
+          "text": "海岸线表示陆地与海洋相接的地方，与国家陆地边界和赤道又不同。潮汐与制图尺度会影响海岸线的具体表达。定位题用不同颜色和线型区分这些概念，但颜色是教学选择，不是说地面上的海岸和国界真的涂成了这些颜色。"
+        },
+        {
+          "id": "kenya-equator-v2-b4",
+          "title": "地图怎样生成",
+          "text": "本页赤道根据纬度为零的坐标生成，国界和海岸则使用有来源的地理数据。投影把球面关系放到屏幕上，会影响形状和方向的表现。因此，我们不会为了让线条更好看而移动它们，也不会把生成图片中的装饰虚线当作真实赤道。"
+        },
+        {
+          "id": "kenya-equator-v2-b5",
+          "title": "试着说出依据",
+          "text": "在题目中选择赤道时，可以依据图例和零度纬度说明，而不是只记它在屏幕的高度。缩放或移动地图以后，同一条线仍代表相同概念。掌握这种方法，就能在其他国家地图上继续分辨自然边缘、行政范围和帮助定位的参考线。先读图例，可以减少把不同线条混淆的情况。"
+        }
+      ],
+      "term": "纬线",
+      "definition": "表示相同纬度位置的假想线。",
+      "glossary": [
+        {
+          "term": "纬线",
+          "definition": "表示相同纬度位置的假想线。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-mount-kenya",
+      "exerciseId": "kenya-l06"
+    },
+    {
+      "id": "kenya-compare",
+      "countryId": "kenya",
+      "sectionId": "questions",
+      "title": "两张照片能证明季节变化吗？",
+      "summary": "把两张森林或湖岸照片放在一起，很容易想知道发生了什么变化。",
+      "mediaId": "kenya-m19",
+      "blocks": [
+        {
+          "id": "kenya-compare-v2-b1",
+          "title": "两张照片之间",
+          "text": "把两张森林或湖岸照片放在一起，很容易想知道发生了什么变化。但在解释之前，应先问它们是不是同一地点、同一视角，以及各自何时拍摄。如果条件不同，颜色和景物的差别可能来自拍摄方式，而不是环境真的改变了。"
+        },
+        {
+          "id": "kenya-compare-v2-b2",
+          "title": "日期并不自动解决问题",
+          "text": "即使两张图都有日期，也需要知道画面范围、季节、光线和水位等条件。一个晴天和一个阴天的照片看起来不同，不一定说明气候已经改变。研究长期变化需要合适的时间记录与方法，不能把两个随意选出的时刻当作完整证据。",
+          "mediaId": "kenya-m19"
+        },
+        {
+          "id": "kenya-compare-v2-b3",
+          "title": "先比较可见内容",
+          "text": "可以描述一幅画面树木更密，另一幅水面占比更大，但要注意这只是画面中的比例。如果镜头朝向不同，照片比例不等于土地覆盖面积。颜色更绿也不能直接转换为降雨量，更不能据此计算动物数量或森林减少的速度。"
+        },
+        {
+          "id": "kenya-compare-v2-b4",
+          "title": "把未知写出来",
+          "text": "本页对照资料明确说明照片的地点与日期是否相同，不把两处森林伪装成同一地方的前后变化。看不到资料时，可以写“拍摄条件未知”。这样的记录会提示我们下一步需要补什么信息，而不是为了讲出一个完整故事就随意填空。",
+          "mediaId": "kenya-m20"
+        },
+        {
+          "id": "kenya-compare-v2-b5",
+          "title": "练习提出下一步",
+          "text": "开放观察可以选择两张材料，分别写出可见差别，再提出需要核对的条件。例如，想知道是否同一湖岸，就应先查地点和视角。任务不要求给出变化结论；能说清楚证据还缺什么，也是一项有价值的发现，可以保存在自己的笔记中。"
+        }
+      ],
+      "term": "对照条件",
+      "definition": "比较材料时需核对的地点、时间和视角等。",
+      "glossary": [
+        {
+          "term": "对照条件",
+          "definition": "比较材料时需核对的地点、时间和视角等。"
+        }
+      ],
+      "sourceUrls": [
+        "https://kws.go.ke/park/kakamega-forest-national-reserve/",
+        "https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      ],
+      "readingMinutes": 4,
+      "revision": 2,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-12",
+      "reviewStatus": "sourceChecked",
+      "placeId": "kenya-kakamega",
+      "activity": {
+        "id": "kenya-o06",
+        "type": "open",
+        "title": "比较的条件",
+        "prompt": "核对两张照片是否同地点、同视角、同日期。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "kenya-m19",
+          "kenya-m20"
+        ],
+        "suggestedArticleIds": [
+          "kenya-compare"
+        ]
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "kenya-mount-kenya",
+      "countryId": "kenya",
+      "name": "肯尼亚山",
+      "category": "自然",
+      "latitude": -0.152,
+      "longitude": 37.308,
+      "region": "肯尼亚中部 · 高山",
+      "summary": "赤道附近也有高山；岩峰与植被展示不同环境。",
+      "description": "赤道附近也有高山；岩峰与植被展示不同环境。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m01",
+        "kenya-m02"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/800/",
+      "aliases": [
+        "Mount Kenya",
+        "Batian",
+        "肯尼亚山"
+      ],
+      "articleIds": [
+        "kenya-find-map",
+        "kenya-geography",
+        "kenya-equator"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": [
+        {
+          "mediaId": "kenya-m01",
+          "x": 0.43,
+          "y": 0.3,
+          "label": "岩峰",
+          "explanation": "高处可见陡峭岩壁；这张照片不能说明山上的全年天气。"
+        },
+        {
+          "mediaId": "kenya-m01",
+          "x": 0.63,
+          "y": 0.7,
+          "label": "浅色斑块",
+          "explanation": "岩面之间可见浅色积雪；面积会随季节与年份变化。"
+        }
+      ]
+    },
+    {
+      "id": "kenya-nairobi-city",
+      "countryId": "kenya",
+      "name": "内罗毕",
+      "category": "城市",
+      "latitude": -1.286,
+      "longitude": 36.817,
+      "region": "肯尼亚南部 · 内陆城市",
+      "summary": "从街道、建筑和公共交通认识首都生活。",
+      "description": "从街道、建筑和公共交通认识首都生活。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m03",
+        "kenya-m04"
+      ],
+      "sourceUrl": "https://magicalkenya.com/download/14326/?tmstv=1748249615",
+      "aliases": [
+        "Nairobi",
+        "内罗毕"
+      ],
+      "articleIds": [
+        "kenya-counties",
+        "kenya-nairobi",
+        "kenya-people",
+        "kenya-names",
+        "kenya-language-life",
+        "kenya-daily",
+        "kenya-transport",
+        "kenya-market",
+        "kenya-constitution"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-lamu",
+      "countryId": "kenya",
+      "name": "拉穆古镇",
+      "category": "城市",
+      "latitude": -2.269,
+      "longitude": 40.903,
+      "region": "肯尼亚海岸 · 拉穆岛",
+      "summary": "海岸街巷与木门留下长期生活的线索。",
+      "description": "海岸街巷与木门留下长期生活的线索。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m05",
+        "kenya-m06"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/1055/",
+      "aliases": [
+        "Lamu",
+        "拉穆",
+        "拉姆"
+      ],
+      "articleIds": [
+        "kenya-patterns",
+        "kenya-stories",
+        "kenya-history",
+        "kenya-coast-trade"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": [
+        {
+          "mediaId": "kenya-m06",
+          "x": 0.35,
+          "y": 0.08,
+          "label": "重复纹样",
+          "explanation": "门楣上可见连续排列的装饰图形；年代和含义需要资料核对。"
+        }
+      ]
+    },
+    {
+      "id": "kenya-mombasa-port",
+      "countryId": "kenya",
+      "name": "蒙巴萨港",
+      "category": "城市",
+      "latitude": -4.054,
+      "longitude": 39.651,
+      "region": "肯尼亚东南部 · 印度洋海岸",
+      "summary": "从码头理解海路与陆路运输的衔接。",
+      "description": "从码头理解海路与陆路运输的衔接。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m07",
+        "kenya-m08"
+      ],
+      "sourceUrl": "https://www.kwatos.kpa.co.ke/main/main.jsp",
+      "aliases": [
+        "Mombasa",
+        "蒙巴萨",
+        "蒙巴薩"
+      ],
+      "articleIds": [
+        "kenya-mombasa"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-amboseli",
+      "countryId": "kenya",
+      "name": "安博塞利国家公园",
+      "category": "自然",
+      "latitude": -2.652,
+      "longitude": 37.26,
+      "region": "肯尼亚南部 · 湿地与草原",
+      "summary": "水、食物与连通空间共同支持动物生活。",
+      "description": "水、食物与连通空间共同支持动物生活。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m09",
+        "kenya-m10"
+      ],
+      "sourceUrl": "https://kws.go.ke/park/amboseli-national-park/",
+      "aliases": [
+        "Amboseli",
+        "安博塞利"
+      ],
+      "articleIds": [
+        "kenya-nature",
+        "kenya-questions"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-nakuru",
+      "countryId": "kenya",
+      "name": "纳库鲁湖",
+      "category": "自然",
+      "latitude": -0.365,
+      "longitude": 36.082,
+      "region": "肯尼亚中西部 · 湖泊",
+      "summary": "湖岸与鸟类照片记录特定时刻，不表示实时数量。",
+      "description": "湖岸与鸟类照片记录特定时刻，不表示实时数量。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m11",
+        "kenya-m12"
+      ],
+      "sourceUrl": "https://www.usgs.gov/water-science-school/science/watersheds-and-drainage-basins",
+      "aliases": [
+        "Nakuru",
+        "纳库鲁"
+      ],
+      "articleIds": [],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-naivasha",
+      "countryId": "kenya",
+      "name": "奈瓦沙湖",
+      "category": "自然",
+      "latitude": -0.772,
+      "longitude": 36.35,
+      "region": "肯尼亚中部 · 湖泊",
+      "summary": "湖岸、植被和水面为理解环境提供线索。",
+      "description": "湖岸、植被和水面为理解环境提供线索。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m13",
+        "kenya-m14"
+      ],
+      "sourceUrl": "https://www.usgs.gov/water-science-school/science/watersheds-and-drainage-basins",
+      "aliases": [
+        "Naivasha",
+        "奈瓦沙"
+      ],
+      "articleIds": [
+        "kenya-rift"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-turkana",
+      "countryId": "kenya",
+      "name": "图尔卡纳湖",
+      "category": "自然",
+      "latitude": 3.5,
+      "longitude": 36.1,
+      "region": "肯尼亚北部 · 跨境湖泊",
+      "summary": "湖面向北延伸至埃塞俄比亚，不全属于一个国家。",
+      "description": "湖面向北延伸至埃塞俄比亚，不全属于一个国家。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m15",
+        "kenya-m16"
+      ],
+      "sourceUrl": "https://www.usgs.gov/water-science-school/science/watersheds-and-drainage-basins",
+      "aliases": [
+        "Turkana",
+        "Rudolf",
+        "图尔卡纳"
+      ],
+      "articleIds": [
+        "kenya-water"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-kisumu",
+      "countryId": "kenya",
+      "name": "基苏木 · 维多利亚湖岸",
+      "category": "城市",
+      "latitude": -0.102,
+      "longitude": 34.753,
+      "region": "肯尼亚西部 · 湖岸城市",
+      "summary": "从城市走向跨境湖泊，比较点与水面范围。",
+      "description": "从城市走向跨境湖泊，比较点与水面范围。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m17",
+        "kenya-m18"
+      ],
+      "sourceUrl": "https://magicalkenya.com/download/14326/?tmstv=1748249615",
+      "aliases": [
+        "Kisumu",
+        "Victoria",
+        "基苏木"
+      ],
+      "articleIds": [],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-kakamega",
+      "countryId": "kenya",
+      "name": "卡卡梅加森林",
+      "category": "自然",
+      "latitude": 0.281,
+      "longitude": 34.856,
+      "region": "肯尼亚西部 · 森林",
+      "summary": "观察林冠与林下，森林地点不等于全部保护区边界。",
+      "description": "观察林冠与林下，森林地点不等于全部保护区边界。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m19",
+        "kenya-m20"
+      ],
+      "sourceUrl": "https://kws.go.ke/park/kakamega-forest-national-reserve/",
+      "aliases": [
+        "Kakamega",
+        "卡卡梅加"
+      ],
+      "articleIds": [
+        "kenya-forest",
+        "kenya-compare"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-watamu",
+      "countryId": "kenya",
+      "name": "瓦塔穆与米达溪",
+      "category": "自然",
+      "latitude": -3.323,
+      "longitude": 39.985,
+      "region": "肯尼亚海岸 · 海洋与红树林",
+      "summary": "海岸与红树林为理解潮间带提供不同材料。",
+      "description": "海岸与红树林为理解潮间带提供不同材料。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m21",
+        "kenya-m22"
+      ],
+      "sourceUrl": "https://kws.go.ke/park/watamu-marine-national-park-reserve/",
+      "aliases": [
+        "Watamu",
+        "Mida",
+        "瓦塔穆",
+        "米达溪"
+      ],
+      "articleIds": [
+        "kenya-mangrove"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    },
+    {
+      "id": "kenya-national-museum",
+      "countryId": "kenya",
+      "name": "内罗毕国家博物馆",
+      "category": "城市",
+      "latitude": -1.274,
+      "longitude": 36.815,
+      "region": "肯尼亚首都 · 博物馆",
+      "summary": "说明卡帮助追问名称、年代与资料来源。",
+      "description": "说明卡帮助追问名称、年代与资料来源。 地图标记为地点代表位置，不是摄影坐标或导航入口。不同照片的拍摄地点、视角与日期请查看说明。",
+      "observation": "描述一条直接可见的线索，再提出需要查证的问题。",
+      "mediaIds": [
+        "kenya-m23",
+        "kenya-m24"
+      ],
+      "sourceUrl": "https://museums.or.ke/museum-story/",
+      "aliases": [
+        "National Museum",
+        "博物馆"
+      ],
+      "articleIds": [
+        "kenya-museum",
+        "kenya-independence"
+      ],
+      "coordinateSource": "WGS84 地点代表位置；非边界、摄影点或导航入口",
+      "hotspots": []
+    }
+  ],
+  "exercises": [
+    {
+      "id": "kenya-l01",
+      "countryId": "kenya",
+      "articleId": "kenya-find-map",
+      "type": "location",
+      "question": "在世界地图找到肯尼亚。",
+      "hint": "回到「从非洲出发」寻找依据。",
+      "explanation": "把世界地图缩小，先找到非洲，再看它的东侧。肯尼亚就在非洲东部，东南面朝向印度洋。地图上的国家颜色是为了便于区分范围，并不是地面的真实颜色。海岸、湖泊与邻国能帮助我们辨认位置，比只记一个橙色图钉更可靠。",
+      "options": [
+        {
+          "id": "kenya",
+          "text": "肯尼亚"
+        },
+        {
+          "id": "egypt",
+          "text": "埃及"
+        },
+        {
+          "id": "china",
+          "text": "中国"
+        }
+      ],
+      "answerId": "kenya",
+      "evidenceBlockIds": [
+        "kenya-find-map-v2-b1",
+        "kenya-find-map-v2-b2"
+      ],
+      "mapScope": "world"
+    },
+    {
+      "id": "kenya-c01",
+      "countryId": "kenya",
+      "articleId": "kenya-counties",
+      "type": "choice",
+      "question": "肯尼亚的郡是什么？",
+      "hint": "回到「两种范围」寻找依据。",
+      "explanation": "打开肯尼亚地图，最先看到的是国家范围。一个国家内部还可以分成不同的行政单位。肯尼亚宪法列出了四十七个郡。郡是国家内部的组成部分，不是四十七个独立国家，也不是把地图任意切成四十七块颜色就算完成了划分。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "国家内部的行政单位"
+        },
+        {
+          "id": "option-2",
+          "text": "四十七个独立国家"
+        },
+        {
+          "id": "option-3",
+          "text": "地图上的四十七条河"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-counties-v2-b1",
+        "kenya-counties-v2-b2"
+      ]
+    },
+    {
+      "id": "kenya-l02",
+      "countryId": "kenya",
+      "articleId": "kenya-nairobi",
+      "type": "location",
+      "question": "找到肯尼亚首都内罗毕。",
+      "hint": "回到「在地图上找城市」寻找依据。",
+      "explanation": "内罗毕是肯尼亚的首都，位于国家南部的内陆地区。先找肯尼亚，再找内罗毕标记，可以避免把首都与海岸港口混在一起。地图上的代表点帮助我们定位城市，不表示所有中央机构、居民区和公共设施都挤在同一个位置。",
+      "options": [
+        {
+          "id": "kenya-mombasa-port",
+          "text": "蒙巴萨"
+        },
+        {
+          "id": "kenya-kisumu",
+          "text": "基苏木"
+        },
+        {
+          "id": "kenya-nairobi-city",
+          "text": "内罗毕"
+        }
+      ],
+      "answerId": "kenya-nairobi-city",
+      "evidenceBlockIds": [
+        "kenya-nairobi-v2-b1",
+        "kenya-nairobi-v2-b4"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "kenya-c02",
+      "countryId": "kenya",
+      "articleId": "kenya-geography",
+      "type": "choice",
+      "question": "比较赤道附近的环境，还应看什么？",
+      "hint": "回到「纬度不是全部」寻找依据。",
+      "explanation": "赤道附近常让人联想到温暖，但肯尼亚还有高山。肯尼亚山是一座古老的火山，最高峰海拔超过五千米。认识这里的环境，除了纬度，还要考虑海拔、地形和天气等条件。赤道位置与山地高度是两种不同的信息，不能只选其中一种。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "只看纬度就足够"
+        },
+        {
+          "id": "option-3",
+          "text": "只看照片颜色"
+        },
+        {
+          "id": "option-1",
+          "text": "海拔等条件"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-geography-v2-b1",
+        "kenya-geography-v2-b2"
+      ],
+      "diagram": "kenya-altitude"
+    },
+    {
+      "id": "kenya-l03",
+      "countryId": "kenya",
+      "articleId": "kenya-rift",
+      "type": "location",
+      "question": "找到向北延伸到埃塞俄比亚的图尔卡纳湖。",
+      "hint": "回到「湖泊各有特点」寻找依据。",
+      "explanation": "奈瓦沙湖、纳库鲁湖和图尔卡纳湖都可以成为观察地形与水的线索。它们并不是同一个湖的不同名字，位置、水文和生态也各不相同。看地图时先核对名称，再比较湖泊所在的地方，不要因为水面都画成蓝色，就认为它们完全一样。",
+      "options": [
+        {
+          "id": "kenya-lake-turkana",
+          "text": "图尔卡纳湖"
+        },
+        {
+          "id": "kenya-lake-victoria",
+          "text": "维多利亚湖"
+        }
+      ],
+      "answerId": "kenya-lake-turkana",
+      "evidenceBlockIds": [
+        "kenya-rift-v2-b2",
+        "kenya-rift-v2-b4"
+      ],
+      "mapScope": "country",
+      "diagram": "kenya-rift"
+    },
+    {
+      "id": "kenya-c03",
+      "countryId": "kenya",
+      "articleId": "kenya-water",
+      "type": "choice",
+      "question": "怎样理解雨水的去向？",
+      "hint": "回到「雨滴的去向」寻找依据。",
+      "explanation": "一滴雨落到地面以后，可能渗入土壤、被植物利用、蒸发回空气，或者沿地表流动。地势高低会影响地表径流的方向。把这些过程连起来看，才能理解水不是只存在于蓝色河道中，也不是每一滴雨都会沿着同一条路前进。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "所有湖泊都有同一种出口"
+        },
+        {
+          "id": "option-1",
+          "text": "结合地形、流域和不同水循环过程"
+        },
+        {
+          "id": "option-2",
+          "text": "所有水一定直接流进海"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-water-v2-b1",
+        "kenya-water-v2-b2",
+        "kenya-water-v2-b3"
+      ],
+      "diagram": "kenya-water"
+    },
+    {
+      "id": "kenya-c04",
+      "countryId": "kenya",
+      "articleId": "kenya-people",
+      "type": "choice",
+      "question": "怎样描述肯尼亚的语言更准确？",
+      "hint": "回到「一种语言不够概括」寻找依据。",
+      "explanation": "肯尼亚的人们使用多种语言。宪法规定斯瓦希里语是国家语言，斯瓦希里语和英语是官方语言。这里的国家语言和官方语言是法律中的类别，不意味着每个居民只会这两种语言，也不意味着每个人在家中都使用同一种语言。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "官方语言不等于每个人只会使用这些语言"
+        },
+        {
+          "id": "option-2",
+          "text": "所有家庭都只说英语"
+        },
+        {
+          "id": "option-3",
+          "text": "可以根据外貌判断母语"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-people-v2-b1",
+        "kenya-people-v2-b2",
+        "kenya-people-v2-b3"
+      ]
+    },
+    {
+      "id": "kenya-p01",
+      "countryId": "kenya",
+      "articleId": "kenya-names",
+      "type": "observation",
+      "question": "Nairobi和内罗毕表示什么？",
+      "hint": "回到「同一个城市」寻找依据。",
+      "explanation": "Nairobi和内罗毕是同一座城市的不同语言写法。字母与汉字看起来差别很大，却可以指向同一个地点。名称卡把两种写法放在一起，帮助我们在资料和地图之间寻找对应关系。卡片是原创教学材料，不是某条真实街道的路牌照片。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "同一座城市的不同语言名称"
+        },
+        {
+          "id": "option-2",
+          "text": "两个不同国家"
+        },
+        {
+          "id": "option-3",
+          "text": "两个不同人物"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-names-v2-b1"
+      ],
+      "mediaId": "kenya-m29"
+    },
+    {
+      "id": "kenya-c05",
+      "countryId": "kenya",
+      "articleId": "kenya-transport",
+      "type": "choice",
+      "question": "从虚构蓝线甲站到橙线丙站在哪里换乘？",
+      "hint": "回到「先用虚构线路练习」寻找依据。",
+      "explanation": "为了把换乘讲清楚，我们画了两条原创线路：蓝线连接甲站与乙站，橙线连接乙站与丙站。两条线都经过乙站，所以从甲到丙可以在乙站换到另一条线。这张图只解释换乘关系，不代表内罗毕真实车站、班次或票价。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "只在蓝线上的甲站"
+        },
+        {
+          "id": "option-3",
+          "text": "没有共同站点也随处换乘"
+        },
+        {
+          "id": "option-1",
+          "text": "两线共有的乙站"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-transport-v2-b2",
+        "kenya-transport-v2-b3"
+      ],
+      "diagram": "kenya-transfer"
+    },
+    {
+      "id": "kenya-p02",
+      "countryId": "kenya",
+      "articleId": "kenya-market",
+      "type": "observation",
+      "question": "哪一项回答“来自哪里”？",
+      "hint": "回到「标签回答什么」寻找依据。",
+      "explanation": "市场或商店里的标签，可能告诉我们商品名称、计量单位、价格和产地。这些字段回答不同的问题。名称说明是什么，单位说明怎样计量，产地表示标签声明的生产或收获地点。不能因为几个字段挨在一起，就把它们的意思混为一谈。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "①名称：玉米粉"
+        },
+        {
+          "id": "option-3",
+          "text": "②单位：千克"
+        },
+        {
+          "id": "option-1",
+          "text": "③产地：肯尼亚"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-market-v2-b1",
+        "kenya-market-v2-b2"
+      ],
+      "mediaId": "kenya-m28"
+    },
+    {
+      "id": "kenya-c06",
+      "countryId": "kenya",
+      "articleId": "kenya-food",
+      "type": "choice",
+      "question": "玉米变成ugali需要区分哪些阶段？",
+      "hint": "回到「从玉米粒开始」寻找依据。",
+      "explanation": "玉米可以有不同的食用和加工方式。在肯尼亚，人们会用玉米粉制作ugali，也会食用其他玉米食品。ugali通常以玉米粉与水加热搅拌而成，但不能把所有玉米料理都叫作ugali，更不能用一道食物代表每个家庭每天的餐桌。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "包装地点就是种植地点"
+        },
+        {
+          "id": "option-1",
+          "text": "玉米粒、研磨成粉和烹调成品"
+        },
+        {
+          "id": "option-2",
+          "text": "生玉米粒就是ugali"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-food-v2-b1",
+        "kenya-food-v2-b2"
+      ],
+      "diagram": "kenya-maize"
+    },
+    {
+      "id": "kenya-p03",
+      "countryId": "kenya",
+      "articleId": "kenya-tea",
+      "type": "observation",
+      "question": "哪组符合阶段卡中的红茶加工顺序？",
+      "hint": "回到「认识红茶的一种流程」寻找依据。",
+      "explanation": "本页用原创阶段卡概括红茶加工：鲜叶先经过萎凋，减少部分水分，再进行揉捻或切碎等处理，之后发生氧化，最后干燥。真实工厂还涉及分级等步骤。阶段卡用于认识顺序，不提供加工温度、时间或可直接照做的生产配方。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "只凭杯中色彩判断流程"
+        },
+        {
+          "id": "option-1",
+          "text": "萎凋→揉捻或切碎→氧化→干燥"
+        },
+        {
+          "id": "option-2",
+          "text": "干燥→采下鲜叶→萎凋"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-tea-v2-b2",
+        "kenya-tea-v2-b3"
+      ],
+      "mediaId": "kenya-m36"
+    },
+    {
+      "id": "kenya-p04",
+      "countryId": "kenya",
+      "articleId": "kenya-culture",
+      "type": "observation",
+      "question": "哪组回应保持四拍等间隔？",
+      "hint": "回到「先做一个原创练习」寻找依据。",
+      "explanation": "本页提供四拍等间隔的视觉练习：一、二、三、四。亮点依次出现，帮助你观察有规律的时间间隔。它是原创教学练习，不是Isukuti原曲、节奏转录或社区表演的替代品。不会播放声音时，仍可通过数字和文字参与。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "1—2—3—4，间隔相同"
+        },
+        {
+          "id": "option-2",
+          "text": "1—2——3—4，间隔不同"
+        },
+        {
+          "id": "option-3",
+          "text": "只拍两下"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-culture-v2-b3"
+      ],
+      "mediaId": "kenya-m31",
+      "diagram": "kenya-rhythm"
+    },
+    {
+      "id": "kenya-c07",
+      "countryId": "kenya",
+      "articleId": "kenya-stories",
+      "type": "choice",
+      "question": "为什么要注明故事的讲述者和来源？",
+      "hint": "回到「故事来自谁」寻找依据。",
+      "explanation": "读一段故事，除了关心发生了什么，也可以问是谁讲述、何时记录、来自哪个地方。肯尼亚有多样的社区和个人经验，不同人可能用不同方式讲述同一主题。注明讲述者和语境，是尊重材料来源，不是让故事变得不有趣。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "帮助理解背景并尊重来源"
+        },
+        {
+          "id": "option-2",
+          "text": "证明每个人经历完全相同"
+        },
+        {
+          "id": "option-3",
+          "text": "让故事显得更古老"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-stories-v2-b1",
+        "kenya-stories-v2-b2",
+        "kenya-stories-v2-b3"
+      ]
+    },
+    {
+      "id": "kenya-c08",
+      "countryId": "kenya",
+      "articleId": "kenya-history",
+      "type": "choice",
+      "question": "海港怎样联系不同地方？",
+      "hint": "回到「海岸之间的联系」寻找依据。",
+      "explanation": "拉穆与印度洋沿岸的贸易、文化和人员往来有关。不同地区的人带来物品、技术和观念，也在长期生活中形成当地的文化表达。这种联系不是把几个外来元素简单相加，更不能仅凭一个门钉的形状，断定某扇门来自哪个国家。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "每扇相似木门都来自同一国家"
+        },
+        {
+          "id": "option-3",
+          "text": "海港只有景观没有生活"
+        },
+        {
+          "id": "option-1",
+          "text": "人员、物品和文化可以在长期往来中联系"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-history-v2-b3",
+        "kenya-history-v2-b4"
+      ]
+    },
+    {
+      "id": "kenya-l04",
+      "countryId": "kenya",
+      "articleId": "kenya-mombasa",
+      "type": "location",
+      "question": "找到印度洋海岸的蒙巴萨港。",
+      "hint": "回到「沿着海岸找」寻找依据。",
+      "explanation": "蒙巴萨位于肯尼亚印度洋海岸一带，与内陆的内罗毕、维多利亚湖边的基苏木位置不同。地图上先找海岸，再寻找蒙巴萨的代表点，有助于理解港口为什么与水路联系紧密。港区的具体范围远大于一个图钉，图钉不是可直接抵达的入口。",
+      "options": [
+        {
+          "id": "kenya-mombasa-port",
+          "text": "蒙巴萨"
+        },
+        {
+          "id": "kenya-nairobi-city",
+          "text": "内罗毕"
+        },
+        {
+          "id": "kenya-kisumu",
+          "text": "基苏木"
+        }
+      ],
+      "answerId": "kenya-mombasa-port",
+      "evidenceBlockIds": [
+        "kenya-mombasa-v2-b1",
+        "kenya-mombasa-v2-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "kenya-p05",
+      "countryId": "kenya",
+      "articleId": "kenya-museum",
+      "type": "observation",
+      "question": "资料卡中哪个字段帮助追溯记录？",
+      "hint": "回到「展品不只看外形」寻找依据。",
+      "explanation": "走进博物馆，一件物品旁的小标签常常和物品本身一样重要。它可能记录名称、材料、年代、地点或收藏信息。仅看一件东西的外形，通常不能确定它是谁制作、何时使用以及怎样进入馆藏。说明卡为继续查证提供线索。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "装饰颜色"
+        },
+        {
+          "id": "option-3",
+          "text": "卡片圆角"
+        },
+        {
+          "id": "option-1",
+          "text": "资料来源"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-museum-v2-b1",
+        "kenya-museum-v2-b2"
+      ],
+      "mediaId": "kenya-m33"
+    },
+    {
+      "id": "kenya-c09",
+      "countryId": "kenya",
+      "articleId": "kenya-nature",
+      "type": "choice",
+      "question": "大象的家为什么需要连通空间？",
+      "hint": "回到「一个家需要什么」寻找依据。",
+      "explanation": "大象生活需要水、食物和足够的活动空间。安博塞利的环境包含草地、灌丛、湿地等不同部分，照片中的水草和动物只是其中一个片刻。动物并不是只站在最适合拍照的位置，它们的生活与周围更大的环境联系在一起。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "所有大象必须每天走固定路线"
+        },
+        {
+          "id": "option-1",
+          "text": "帮助连接水、食物和活动环境"
+        },
+        {
+          "id": "option-2",
+          "text": "只是为了让照片更宽"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-nature-v2-b1",
+        "kenya-nature-v2-b2"
+      ],
+      "diagram": "kenya-habitat"
+    },
+    {
+      "id": "kenya-c10",
+      "countryId": "kenya",
+      "articleId": "kenya-mangrove",
+      "type": "choice",
+      "question": "红树林环境与什么联系密切？",
+      "hint": "回到「陆地与海的交界」寻找依据。",
+      "explanation": "肯尼亚海岸有红树林环境。它们生长在受潮汐影响的海岸地带，与泥沙、水和多种生物联系在一起。瓦塔穆附近的米达溪区域提供了一个观察入口，但红树林不是每一段肯尼亚海岸都有的相同景观，也不能与所有海边树林混为一谈。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "潮汐、根系与栖息空间"
+        },
+        {
+          "id": "option-2",
+          "text": "所有树根外形完全一样"
+        },
+        {
+          "id": "option-3",
+          "text": "高低潮图就是现场安全步行时间"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-mangrove-v2-b1",
+        "kenya-mangrove-v2-b2",
+        "kenya-mangrove-v2-b3",
+        "kenya-mangrove-v2-b4"
+      ],
+      "diagram": "kenya-mangrove"
+    },
+    {
+      "id": "kenya-l05",
+      "countryId": "kenya",
+      "articleId": "kenya-forest",
+      "type": "location",
+      "question": "找到肯尼亚西部的卡卡梅加森林。",
+      "hint": "回到「从西部找到森林」寻找依据。",
+      "explanation": "卡卡梅加森林位于肯尼亚西部，是认识森林环境的重要地点。在地图上，它与南部的安博塞利和海岸的瓦塔穆位置不同。先找到国家，再比较这些地点的方位，可以帮助我们理解肯尼亚的自然环境并不只有一种草原景观。",
+      "options": [
+        {
+          "id": "kenya-amboseli",
+          "text": "安博塞利"
+        },
+        {
+          "id": "kenya-watamu",
+          "text": "瓦塔穆"
+        },
+        {
+          "id": "kenya-kakamega",
+          "text": "卡卡梅加森林"
+        }
+      ],
+      "answerId": "kenya-kakamega",
+      "evidenceBlockIds": [
+        "kenya-forest-v2-b1",
+        "kenya-forest-v2-b5"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "kenya-c11",
+      "countryId": "kenya",
+      "articleId": "kenya-coast-trade",
+      "type": "choice",
+      "question": "海岸历史是否只有自由的货物交换？",
+      "hint": "回到「货物只是其中一部分」寻找依据。",
+      "explanation": "船只可能运输物品，人们也会交流技术、语言、观念和生活经验。但“可能”不是对每一件具体物品的确定解释。要判断一扇门、一件器物或一个词的来源，需要相关研究或记录，不能仅凭外形与另一地区相似就宣布传播路线。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "所有人都是自由旅行"
+        },
+        {
+          "id": "option-3",
+          "text": "只有船只没有人"
+        },
+        {
+          "id": "option-1",
+          "text": "还有文化联系，也有强迫迁移和不平等"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-coast-trade-v2-b2",
+        "kenya-coast-trade-v2-b3"
+      ]
+    },
+    {
+      "id": "kenya-p06",
+      "countryId": "kenya",
+      "articleId": "kenya-independence",
+      "type": "observation",
+      "question": "哪份材料更适合核对独立日期？",
+      "hint": "回到「先分清日期」寻找依据。",
+      "explanation": "肯尼亚在一九六三年十二月十二日独立，次年成为共和国。两个年份关系密切，但不是同一天发生的同一件事。本页用有出处的事实摘记帮助区分时间，不把一张没有日期的旗帜照片当作独立当天的现场记录。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "想象中的历史插图"
+        },
+        {
+          "id": "option-1",
+          "text": "注明来源与日期的事实摘记"
+        },
+        {
+          "id": "option-2",
+          "text": "没有日期的风景照片"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-independence-v2-b1",
+        "kenya-independence-v2-b3",
+        "kenya-independence-v2-b4"
+      ],
+      "mediaId": "kenya-m34"
+    },
+    {
+      "id": "kenya-c12",
+      "countryId": "kenya",
+      "articleId": "kenya-constitution",
+      "type": "choice",
+      "question": "宪法属于哪类材料？",
+      "hint": "回到「共同生活的基本规则」寻找依据。",
+      "explanation": "宪法规定国家的基本制度、公共权力和权利等重要内容。肯尼亚二〇一〇年宪法是认识当代公共生活的重要资料。它不是某个人的日记，也不是所有日常事情的操作手册；了解具体问题时，还可能需要相关法律和实际制度的信息。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "所有日常事项的操作手册"
+        },
+        {
+          "id": "option-1",
+          "text": "规定国家基本制度和重要权利的法律"
+        },
+        {
+          "id": "option-2",
+          "text": "个人日记"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "kenya-constitution-v2-b1",
+        "kenya-constitution-v2-b4",
+        "kenya-constitution-v2-b5"
+      ]
+    },
+    {
+      "id": "kenya-l06",
+      "countryId": "kenya",
+      "articleId": "kenya-equator",
+      "type": "location",
+      "question": "哪条线是纬度为零的赤道？",
+      "hint": "回到「两种线回答两种问题」寻找依据。",
+      "explanation": "赤道是一条假想纬线，纬度为零，用来说明地球上的南北位置。国家边界用来表示国家范围。两者有时都在地图上表现为线，却不能因为外观相似就当成同一种东西。读线之前，先看图例说明它代表什么。",
+      "options": [
+        {
+          "id": "kenya-coast",
+          "text": "海岸"
+        },
+        {
+          "id": "kenya-equator",
+          "text": "赤道"
+        },
+        {
+          "id": "kenya-border",
+          "text": "陆地国界"
+        }
+      ],
+      "answerId": "kenya-equator",
+      "evidenceBlockIds": [
+        "kenya-equator-v2-b1",
+        "kenya-equator-v2-b3",
+        "kenya-equator-v2-b4"
+      ],
+      "mapScope": "country"
+    }
+  ],
+  "archivedExercises": [
+    {
+      "id": "kenya-geography-check",
+      "countryId": "kenya",
+      "articleId": "kenya-geography",
+      "replacementExerciseId": "kenya-c02",
+      "reason": "完整专题更新，保留历史作答记录。"
+    },
+    {
+      "id": "kenya-nature-check",
+      "countryId": "kenya",
+      "articleId": "kenya-nature",
+      "replacementExerciseId": "kenya-c09",
+      "reason": "完整专题更新，保留历史作答记录。"
+    },
+    {
+      "id": "kenya-history-check",
+      "countryId": "kenya",
+      "articleId": "kenya-history",
+      "replacementExerciseId": "kenya-c08",
+      "reason": "完整专题更新，保留历史作答记录。"
+    }
+  ]
+}

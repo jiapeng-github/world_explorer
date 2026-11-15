@@ -1,0 +1,38 @@
+[
+  {
+    "id": "02-norway-map",
+    "prompt": "Preserve the entire two-screen UI layout, palette, photos and typography. Correct ONLY the inset region cards: labels 本土, 斯瓦尔巴, 扬马延; below silhouettes use 本土与近岸岛屿, 北方群岛, 北方岛屿 respectively. REMOVE all 挪威属地 labels. Mainland Norway silhouette must be its actual narrow coastal territory, not entire Scandinavia. Keep 分图比例尺不同. Retain explicit 地图为概念示意 and avoid claiming these generated geographic outlines are production GIS. Use correct place text 盖朗厄尔峡湾 consistently.",
+    "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-4489a540-fd8d-45d5-901d-3c2c1e8f7a66.png",
+    "selectedPath": "images/02-norway-map-v2.png"
+  },
+  {
+    "id": "03-norway-fjord",
+    "prompt": "Keep both photo layouts, educational diagram, cards, all main content and palette. Remove the desktop-style extra navigation row 首页 地理名录 自然概貌 国家与地区 on the RIGHT completely; use a simple back arrow plus 挪威 · 地点 instead. Both are mobile pages. Remove duplicate branding on LEFT so its top is one back/title toolbar followed by article content, retain its bottom 目录 听讲解 收藏 笔记. Keep exactly one navigation bar per location. Keep representative-point warning and disabled question confirm.",
+    "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-3204f89c-4473-417c-9ee7-d2e236f60fd2.png",
+    "selectedPath": "images/03-norway-fjord-v2.png"
+  },
+  {
+    "id": "04-norway-history",
+    "prompt": "Preserve layout, wood photos, two evidence cards, colors and text hierarchy. Replace the two aged brown historical paper thumbnails on LEFT with clean WHITE and pale-blue original fact cards, no parchment or simulated original records. Each prominently says 原创资料摘记; first card shows 1814 宪法 / 1905 联合解体. Second shows 1940—1945 占领与解放. Update associated short body to 1940年，纳粹德国入侵。人们经历占领、迫害与抵抗；1945年迎来解放。 Nonviolent and concise, no invented archive or people. Use 布吕根 consistently instead of 布吕根/布吕根 alternate errors. Keep remaining screen unchanged.",
+    "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-4f01462e-a736-4b73-ae5c-dcdfb87fb39e.png",
+    "selectedPath": "images/04-norway-history-v2.png"
+  },
+  {
+    "id": "05-norway-daily-light",
+    "prompt": "Preserve two screens, hero photos, layout, colors, cards and typography. Correct only these educational details. LEFT replace the fake photographed bilingual street sign Oslo/奥斯陆 with an explicitly original teaching card on pale blue: Bokmål / Nynorsk / 挪威语的两种书面规范 / 原创术语卡. Card title 两种书面规范, body 书面规范与口语方言不同。 Remove Chinese text from photographed tram destination; use ordinary small route 12. Replace wrong bottom nav with standard 发现 地图 百科 我的 icons, 百科 selected. RIGHT fix the scientific illumination diagram: Sun on right emitting parallel rays leftward, north axis tilted right toward Sun; a SMALL daily rotation circle AROUND THE NORTH POLAR CAP clearly entirely on lit hemisphere, not an equatorial orbit. Dashed small Arctic circle, label 北极圈; remove the giant white equatorial ring. Show 夏季关系示意 · 不按比例 and 地轴. Keep correct note 不是整个挪威全年都有极昼. No aurora in summer photo. Maintain reader footer.",
+    "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-b8ac0e69-1bed-4216-bbd6-42adc3bbf395.png",
+    "selectedPath": "images/05-norway-daily-light-v2.png"
+  },
+  {
+    "id": "06-norway-tasks-discoveries",
+    "prompt": "Preserve both screen layouts, images, truthful zero counts, empty state, two-column recommendation cards. Standardize both bottom navigation bars to exactly 发现 地图 百科 我的 in that order, left screen 百科 selected and right screen 我的 selected; line icons compass/map/book/person. Replace bells in header with menu icon. Change task 观察木屋细节 thumbnail from generic lone turf-roof cabin to Bryggen red and ochre timber passage closeup matching this module's wooden urban heritage subject. Keep all remaining layout and copy.",
+    "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-eb263b0e-8900-4190-89ba-3b9a43a915c2.png",
+    "selectedPath": "images/06-norway-tasks-discoveries-v2.png"
+  },
+  {
+    "id": "07-norway-journey-note",
+    "prompt": "Preserve entire two-screen layout, all cards, blank note fields, footer, colours and typography. Correct ONLY route stop3 乌尔内斯木教堂 image: show a real-world plausible SIMPLE Urnes stave church, dark brown timber rectangular nave with one long steep gabled shingle roof, small square bell tower with modest pyramidal cap, low simple chancel, surrounded by a grassy churchyard above a fjord. Not Borgund, no multi-tiered stacked pagoda-like roof or fantasy dragons. Keep note fields completely empty and save disabled. Third-card caption 世界遗产中的木建筑实例。",
+    "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-887c9c84-ac9d-45c6-9588-837123ed6bfd.png",
+    "selectedPath": "images/07-norway-journey-note-v2.png"
+  }
+]

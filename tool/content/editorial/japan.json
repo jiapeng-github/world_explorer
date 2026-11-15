@@ -1,0 +1,3663 @@
+{
+  "country": {
+    "id": "japan",
+    "coverage": "editorial",
+    "capital": "东京",
+    "tagline": "从岛屿读懂山海与生活",
+    "intro": "日本位于亚洲东部，由许多岛屿组成。海洋包围山地与平原，南北环境也各有不同。我们从地图、文字、校园生活和富士山出发，认识自然与人文怎样彼此联系。",
+    "facts": [
+      {
+        "label": "首都",
+        "value": "东京"
+      },
+      {
+        "label": "位置",
+        "value": "亚洲东部"
+      },
+      {
+        "label": "主要语言",
+        "value": "日语"
+      },
+      {
+        "label": "代表地形",
+        "value": "岛屿与山地"
+      }
+    ],
+    "takeaways": [
+      "日本由许多岛屿组成，南北气候与动物分布不同。",
+      "日语书写常使用汉字、平假名和片假名。",
+      "富士山既是一座火山，也是重要的文化景观。"
+    ],
+    "timeline": [
+      {
+        "period": "1868 年",
+        "title": "江户改称东京",
+        "body": "江户改称东京。"
+      },
+      {
+        "period": "1964 年",
+        "title": "新干线启程",
+        "body": "东海道新干线开始运营。"
+      },
+      {
+        "period": "2013 年",
+        "title": "富士山文化遗产",
+        "body": "富士山列入世界文化遗产名录。"
+      }
+    ],
+    "sections": {
+      "overview": [
+        "japan-find-map",
+        "japan-four-islands",
+        "japan-capital"
+      ],
+      "geography": [
+        "japan-geography",
+        "japan-volcano",
+        "japan-river"
+      ],
+      "people": [
+        "japan-people",
+        "japan-ainu",
+        "japan-okinawa-names"
+      ],
+      "daily": [
+        "japan-daily",
+        "japan-transfer",
+        "japan-labels"
+      ],
+      "food": [
+        "japan-food",
+        "japan-rice",
+        "japan-miso"
+      ],
+      "culture": [
+        "japan-culture",
+        "japan-woodblock",
+        "japan-origami"
+      ],
+      "landmarks": [
+        "japan-tokyo-river",
+        "japan-kyoto-street",
+        "japan-himeji"
+      ],
+      "nature": [
+        "japan-nature",
+        "japan-forest",
+        "japan-crane"
+      ],
+      "history": [
+        "japan-pottery",
+        "japan-railway",
+        "japan-peace"
+      ],
+      "questions": [
+        "japan-history",
+        "japan-questions",
+        "japan-scale"
+      ]
+    },
+    "sources": [
+      {
+        "title": "听阿伊努人讲自己的文化 · 参考资料",
+        "url": "https://ainu-upopoy.go.jp/en/facility/upopoy/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "木版画怎样把图案印出来？ · 参考资料",
+        "url": "https://art-design-glossary.musabi.ac.jp/registration-marks/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "京都的老街与今天的生活 · 参考资料",
+        "url": "https://kyoto.travel/en/destinations/running-coursekamogawa-river/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "铁路档案怎样记录变化？ · 参考资料",
+        "url": "https://recommend.jr-central.co.jp/gooddayexpress/history/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "稻谷怎样变成米饭？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/cook/rice/rice01.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "人偶也能在舞台上讲故事吗？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/explore/culture/index.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "富士山为什么也是文化遗产？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/explore/history/index.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "日本的饭桌上只有寿司吗？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/explore/housing/index.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "日语里为什么有不同的文字？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/explore/language/index.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "日本为什么像一串岛屿？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/explore/nature/index.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "日本的南北住着相同动物吗？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/explore/nature/q3.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "日本小学生的一天是什么样？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/explore/schools/index.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "折纸怎样从平面变成立体？ · 参考资料",
+        "url": "https://web-japan.org/kidsweb/virtual/origami/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "富士山为什么也是文化遗产？ · 参考资料",
+        "url": "https://whc.unesco.org/en/list/1418/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "姬路城为什么有多层空间？ · 参考资料",
+        "url": "https://whc.unesco.org/en/list/661/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "屋久岛森林里有哪些层次？ · 参考资料",
+        "url": "https://whc.unesco.org/en/list/662/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "怎样通过历史资料理解战争与和平？ · 参考资料",
+        "url": "https://whc.unesco.org/en/list/775/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "市场标签告诉我们什么？ · 参考资料",
+        "url": "https://www.caa.go.jp/en/policy/food_labeling/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "富士山为什么像一座锥体？ · 参考资料",
+        "url": "https://www.data.jma.go.jp/vois/data/report/activity_info/314.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "丹顶鹤为什么需要湿地？ · 参考资料",
+        "url": "https://www.env.go.jp/en/nature/npr/ramsar_wetland/pamph/ramsarpamphen/RamsarSites_en_web17.pdf",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "东京是一座怎样的城市？ · 参考资料",
+        "url": "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/index.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "河流怎样从山地走向海洋？ · 参考资料",
+        "url": "https://www.lberi.jp/english-pages/biwako",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "味噌制作中发生了什么？ · 参考资料",
+        "url": "https://www.maff.go.jp/e/policies/market/dento_syoku/bunrui/syouyu-miso.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "怎样通过历史资料理解战争与和平？ · 参考资料",
+        "url": "https://www.mofa.go.jp/announce/press/pm/murayama/9508.html",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "冲绳的地名藏着哪些故事？ · 参考资料",
+        "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/009/626/guidebook_eng1.pdf",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "陶器怎样留下生活线索？ · 参考资料",
+        "url": "https://www.um.u-tokyo.ac.jp/UMUTopenlab/en/library/f_1.html",
+        "checkedAt": "2026-11-11"
+      }
+    ],
+    "revision": 4,
+    "editorial": {
+      "subtitle": "从岛屿读懂山海与生活",
+      "introduction": "日本位于亚洲东部，由许多岛屿组成。海洋包围山地与平原，南北环境也各有不同。我们从地图、文字、校园生活和富士山出发，认识自然与人文怎样彼此联系。",
+      "startLabel": "从岛屿开始",
+      "startJourneyId": "islands",
+      "questionArticleIds": [
+        "japan-geography",
+        "japan-questions"
+      ],
+      "factOverrides": [
+        {
+          "label": "首都",
+          "value": "东京"
+        },
+        {
+          "label": "位置",
+          "value": "亚洲东部"
+        },
+        {
+          "label": "主要语言",
+          "value": "日语"
+        }
+      ],
+      "directoryTitle": "日本 · 探索目录",
+      "journeys": [
+        {
+          "id": "islands",
+          "title": "岛屿与山海",
+          "subtitle": "找到列岛，认识火山，再走进森林。 阅读顺序，不是交通路线。",
+          "coverTitle": "岛屿与山海",
+          "mediaId": "mount-fuji",
+          "articleIds": [
+            "japan-find-map",
+            "japan-volcano",
+            "japan-forest"
+          ],
+          "stopTitles": [
+            "怎样在世界地图上找到日本？",
+            "富士山为什么像一座锥体？",
+            "屋久岛森林里有哪些层次？"
+          ]
+        },
+        {
+          "id": "daily",
+          "title": "城市的一天",
+          "subtitle": "读懂连接与标签，观察城市公共空间。 阅读顺序，不是交通路线。",
+          "coverTitle": "城市的一天",
+          "mediaId": "japan-photo-tokyo",
+          "articleIds": [
+            "japan-transfer",
+            "japan-labels",
+            "japan-tokyo-river"
+          ],
+          "stopTitles": [
+            "怎样看懂换乘示意图？",
+            "市场标签告诉我们什么？",
+            "在隅田川边认识东京"
+          ]
+        },
+        {
+          "id": "objects",
+          "title": "物件里的时间",
+          "subtitle": "从陶器、版画和铁路档案寻找时间线索。 阅读顺序，不是交通路线。",
+          "coverTitle": "物件里的时间",
+          "mediaId": "japan-photo-himeji",
+          "articleIds": [
+            "japan-pottery",
+            "japan-woodblock",
+            "japan-railway"
+          ],
+          "stopTitles": [
+            "陶器怎样留下生活线索？",
+            "木版画怎样把图案印出来？",
+            "铁路档案怎样记录变化？"
+          ]
+        }
+      ],
+      "sections": {
+        "overview": {
+          "title": "初识日本",
+          "summary": "日本位于亚洲东部、太平洋西侧。先找到亚洲大陆，再向东寻找沿海的一串岛屿。",
+          "mediaId": "japan-photo-tokyo"
+        },
+        "geography": {
+          "title": "地理与山海",
+          "summary": "沿地图从北往南，看看海洋、山地和不同的季节。",
+          "mediaId": "japan-photo-kushiro"
+        },
+        "people": {
+          "title": "人们与语言",
+          "summary": "把文字当成线索，发现交流与文化之间的联系。",
+          "mediaId": "japan-card-language"
+        },
+        "daily": {
+          "title": "城市的一天",
+          "summary": "从课堂、午餐和共同劳动，认识一些学校里的日常。",
+          "mediaId": "japan-card-school"
+        },
+        "food": {
+          "title": "餐桌与食物",
+          "summary": "米饭、配菜和来自世界各地的食物，可以一起出现。",
+          "mediaId": "japan-card-food"
+        },
+        "culture": {
+          "title": "艺术与手作",
+          "summary": "认识文乐：把人偶、声音和音乐放在一起的艺术。",
+          "mediaId": "japan-card-stage"
+        },
+        "landmarks": {
+          "title": "地标与城市",
+          "summary": "隅田川是认识东京滨水空间的入口。先看河流与岸边，再寻找照片中的桥和步道。",
+          "mediaId": "japan-photo-tokyo"
+        },
+        "nature": {
+          "title": "自然与生命",
+          "summary": "从北海道到南方岛屿，看看栖息地带来的差别。",
+          "mediaId": "japan-photo-iriomote"
+        },
+        "history": {
+          "title": "物件里的时间",
+          "summary": "陶器碎片也可以成为了解过去的线索。研究者会记录它的出土位置、材料与周围遗存，而不只看纹样。",
+          "mediaId": "japan-card-pottery"
+        },
+        "questions": {
+          "title": "带着问题观察",
+          "summary": "一座山，既能留下自然线索，也能留下人的故事。",
+          "mediaId": "mount-fuji"
+        }
+      },
+      "featuredPlaceIds": [
+        "japan-fuji",
+        "japan-yakushima",
+        "japan-tokyo"
+      ],
+      "directory": {
+        "mediaIds": [
+          "mount-fuji",
+          "japan-photo-tokyo",
+          "japan-photo-yakushima"
+        ]
+      },
+      "explore": {
+        "mediaId": "japan-photo-yakushima",
+        "featuredTaskIds": [
+          "japan-kushiro-location-check",
+          "japan-people-check",
+          "japan-nature-check"
+        ],
+        "categories": [
+          {
+            "id": "location",
+            "title": "找地图",
+            "mediaId": "japan-photo-tokyo"
+          },
+          {
+            "id": "observation",
+            "title": "看照片",
+            "mediaId": "japan-photo-yakushima"
+          },
+          {
+            "id": "choice",
+            "title": "找证据",
+            "mediaId": "japan-photo-himeji"
+          },
+          {
+            "id": "open",
+            "title": "写观察",
+            "mediaId": "japan-photo-kyoto"
+          }
+        ]
+      },
+      "discoveries": {
+        "mediaId": "japan-photo-tokyo",
+        "recommendedPlaceIds": [
+          "japan-fuji",
+          "japan-yakushima"
+        ],
+        "recommendationTitles": [
+          "再看富士山",
+          "走进森林"
+        ]
+      },
+      "timelineTitle": "日本 · 物件与时间",
+      "timelineIntro": {
+        "title": "先看物件，再问年代",
+        "summary": "把实物、档案与今天的景观分开，顺着资料理解历史。",
+        "articleId": "japan-pottery"
+      },
+      "timeline": [
+        {
+          "id": "japan-time-pottery",
+          "period": "史前时期",
+          "title": "陶器留下的生活线索",
+          "body": "不同陶器年代不同，需要结合出土背景与检测资料，不能只凭颜色判断。",
+          "mediaId": "japan-card-pottery",
+          "articleIds": [
+            "japan-pottery"
+          ]
+        },
+        {
+          "id": "japan-time-peace",
+          "period": "1945 年",
+          "title": "战争记忆与和平纪念",
+          "body": "1945年8月6日广岛遭受原子弹轰炸。把平民经历放回第二次世界大战与日本侵略战争的背景中理解。",
+          "mediaId": "japan-photo-hiroshima",
+          "articleIds": [
+            "japan-peace"
+          ]
+        },
+        {
+          "id": "japan-time-railway",
+          "period": "1964 年",
+          "title": "东海道新干线开始运营",
+          "body": "开通日期来自铁路机构历史资料；本页城市照片不是1964年开通现场。",
+          "mediaId": "japan-photo-tokyo",
+          "articleIds": [
+            "japan-railway"
+          ]
+        },
+        {
+          "id": "japan-time-history",
+          "period": "2013 年",
+          "title": "富士山成为世界文化遗产",
+          "body": "遗产资料介绍山峰与信仰、旅行和艺术之间的文化联系。",
+          "mediaId": "mount-fuji",
+          "articleIds": [
+            "japan-history"
+          ]
+        }
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "japan-geography",
+      "countryId": "japan",
+      "sectionId": "geography",
+      "title": "日本为什么像一串岛屿？",
+      "summary": "沿地图从北往南，看看海洋、山地和不同的季节。",
+      "mediaId": "japan-photo-kushiro",
+      "blocks": [
+        {
+          "id": "japan-geography-b1",
+          "title": "先找到四座大岛",
+          "text": "日本由许多岛屿组成，主要岛屿包括北海道、本州、四国和九州。它们南北延伸，四周被海洋环绕。"
+        },
+        {
+          "id": "japan-geography-b2",
+          "title": "山地与平原相间",
+          "text": "日本约四分之三的国土是山地，其余部分包括平原和盆地。地图上的深浅颜色，可以帮助我们寻找地势差别。"
+        },
+        {
+          "id": "japan-geography-b3",
+          "title": "同一天，也可能不同天气",
+          "text": "日本南北距离很长，北部和南部的气候有差别。春天花开、秋天叶色变化，也不会在每个地方同时发生。"
+        },
+        {
+          "id": "japan-geography-b4",
+          "title": "岛屿中的山与平地",
+          "text": "海水围绕着岛屿，岛屿内部还包含山地、平原、河流与城镇。北海道的钏路湿地和本州的东京，处在不同地方，有不同的自然与城市景观。先找大岛，再找地点，可以让这些名字连接成有位置关系的知识，而不是彼此分开的词语。"
+        },
+        {
+          "id": "japan-geography-b5",
+          "title": "阅读地形颜色",
+          "text": "地形图常用颜色表达高度，具体含义必须查看图例。绿色不一定总代表森林，蓝色通常与水有关，却不能直接说明深度。照片里看到的绿色树木和地图上的绿色底色不是同一种信息；先确定材料类型，才能理解它在表达什么。"
+        },
+        {
+          "id": "japan-geography-b6",
+          "title": "从南北位置提出问题",
+          "text": "把钏路湿地与那霸放在同一张全国图里，比较它们的相对位置。可以提出“冬天环境会一样吗”这样的问题，再查不同地点的气候资料。不能只凭一张晴天照片推算全年天气，位置线索帮助提问，长期记录才帮助理解变化。岛屿和山地是两种不同分类：一座岛可以同时包含山地与平原。"
+        }
+      ],
+      "term": "盆地",
+      "definition": "四周较高、中间较低的一片地形。",
+      "question": "看到日本一地在下雪，能说全国都在下雪吗？",
+      "answer": "不能。不同纬度、海拔和位置，会让各地天气不同。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/nature/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 4,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "glossary": [
+        {
+          "term": "盆地",
+          "definition": "四周较高、中间较低的一片地形。"
+        }
+      ],
+      "readingMinutes": 4,
+      "placeId": "japan-kushiro",
+      "exerciseId": "japan-kushiro-location-check"
+    },
+    {
+      "id": "japan-people",
+      "countryId": "japan",
+      "sectionId": "people",
+      "title": "日语里为什么有不同的文字？",
+      "summary": "把文字当成线索，发现交流与文化之间的联系。",
+      "mediaId": "japan-card-language",
+      "blocks": [
+        {
+          "id": "japan-people-b1",
+          "title": "三种文字常常一起出现",
+          "text": "现代日语书写常使用汉字、平假名和片假名。汉字从古代中国传入，假名则在此基础上发展起来。"
+        },
+        {
+          "id": "japan-people-b2",
+          "title": "看起来相像，不等于完全相同",
+          "text": "日语与汉语是不同的语言。即使看见熟悉的汉字，也不能只凭字形就猜定读音和意思，还需要看它在句子里的用法。"
+        },
+        {
+          "id": "japan-people-b3",
+          "title": "同一种语言也有地方差别",
+          "text": "日本不同地区有方言，词语、口音与语调可能不同。学习一句问候时，也可以问问对方来自哪里。"
+        },
+        {
+          "id": "japan-people-b4",
+          "title": "同一个意思的不同书写工具",
+          "text": "汉字常承载词义线索，假名记录语音并参与构成句子。实际使用需要语言知识，不是把一种文字全部替换成另一种就能理解。熟悉汉字的读者可能认出部分字形，但遇到句子时仍应查对应读音和用法，避免望文生义。"
+        },
+        {
+          "id": "japan-people-b5",
+          "title": "语言与身份不要混为一谈",
+          "text": "一个人可能使用不止一种语言，也可能学习自己家庭之外的语言。不能凭姓名、衣着或长相判断他会说什么。日本还有阿伊努语与琉球诸语言相关的多样传统；了解日语书写，并不等于已经了解所有人在生活中使用的语言。"
+        },
+        {
+          "id": "japan-people-b6",
+          "title": "从文字形状开始观察",
+          "text": "你可以在可靠的日语教学资料中找出汉字、平假名和片假名的例子，先比较外形，再听对应读音。把“我认得这个字形”与“我知道这个词怎样使用”分开记录。学习陌生语言时，保留疑问并愿意请教，比急着猜中更重要。日语的三类文字会在同一段话中出现，阅读还需要理解句子与语境。"
+        }
+      ],
+      "term": "方言",
+      "definition": "一种语言在不同地区形成的地方变体。",
+      "question": "看见日语里的汉字，可以直接当作中文读吗？",
+      "answer": "不一定。日语的读音、词义和句子规则需要另外学习。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/language/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 4,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "glossary": [
+        {
+          "term": "方言",
+          "definition": "一种语言在不同地区形成的地方变体。"
+        }
+      ],
+      "readingMinutes": 4,
+      "exerciseId": "japan-people-check"
+    },
+    {
+      "id": "japan-daily",
+      "countryId": "japan",
+      "sectionId": "daily",
+      "title": "日本小学生的一天是什么样？",
+      "summary": "从课堂、午餐和共同劳动，认识一些学校里的日常。",
+      "mediaId": "japan-card-school",
+      "blocks": [
+        {
+          "id": "japan-daily-b1",
+          "title": "除了读书和计算",
+          "text": "日本小学通常读六年。课程包含语言、数学、科学、社会、音乐、美术与体育等，学习并不只发生在课本里。"
+        },
+        {
+          "id": "japan-daily-b2",
+          "title": "一起照顾共同的空间",
+          "text": "许多小学会让学生分组整理、打扫校园，并轮流协助分发午餐。这些活动也被看作学习合作的机会。"
+        },
+        {
+          "id": "japan-daily-b3",
+          "title": "一所学校不是全部",
+          "text": "学校还可能安排运动会和校外参观。具体作息、课程与午餐方式因学校而异；比较时，先说清楚观察的是哪所学校。"
+        },
+        {
+          "id": "japan-daily-b4",
+          "title": "一节课之外的学习",
+          "text": "分组活动、整理物品与共同用餐，可以让孩子练习合作与责任。不同学校会有不同安排，不能把介绍材料中的一天当作所有儿童的统一时间表。阅读时留意材料来自哪所学校、什么时期，以及哪些活动只是举例。"
+        },
+        {
+          "id": "japan-daily-b5",
+          "title": "和自己的一天比较",
+          "text": "画三格，分别写上课、用餐与课外活动，再填入自己的真实经验。阅读日本学校材料后，在旁边记下相同与不同之处。比较不需要评出哪边更好，而是认识学校怎样组织时间，孩子在不同环境里有哪些共同需要。"
+        },
+        {
+          "id": "japan-daily-b6",
+          "title": "把问题问得具体",
+          "text": "“日本学生是不是都一样”太宽泛；“这所学校怎样分发午餐”则更容易找到资料。先限定学校与活动，才能获得可核对的答案。观察日常生活时，人们自己的描述、学校说明与有日期的照片可以相互补充，不应只靠一个网络印象。可以把比较结果记入观察本，并写下还想向同龄孩子了解的一件事。"
+        }
+      ],
+      "term": "合作",
+      "definition": "不同的人共同分担任务，朝同一个目标做事。",
+      "question": "为什么打扫和分餐也可能是学习？",
+      "answer": "这些活动让孩子练习分工、合作，并照顾共同使用的空间。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/schools/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 4,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "glossary": [
+        {
+          "term": "合作",
+          "definition": "不同的人共同分担任务，朝同一个目标做事。"
+        }
+      ],
+      "readingMinutes": 4,
+      "activity": {
+        "id": "japan-open-daily",
+        "type": "open",
+        "title": "日本小学生的一天是什么样？",
+        "prompt": "写下可直接看见或读到的线索，再写一个需要验证的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "japan-card-school"
+        ],
+        "suggestedArticleIds": [
+          "japan-daily"
+        ]
+      }
+    },
+    {
+      "id": "japan-food",
+      "countryId": "japan",
+      "sectionId": "food",
+      "title": "日本的饭桌上只有寿司吗？",
+      "summary": "米饭、配菜和来自世界各地的食物，可以一起出现。",
+      "mediaId": "japan-card-food",
+      "blocks": [
+        {
+          "id": "japan-food-b1",
+          "title": "一餐可以怎样搭配",
+          "text": "一种传统的日式餐食组合包括米饭、鱼或肉、蔬菜配菜和汤。不同的盘碗盛放不同食物，组合成一餐。"
+        },
+        {
+          "id": "japan-food-b2",
+          "title": "日常饮食一直在变化",
+          "text": "人们也会吃面包、面条、意大利面等来自不同传统的食物。寿司很有名，却不能代表每个人每天的菜单。"
+        },
+        {
+          "id": "japan-food-b3",
+          "title": "感谢做出这餐的人",
+          "text": "用餐前后表达感谢，是认识饮食文化的一条线索。你也可以想一想：这一餐从种植、运输到烹饪，经过了谁的劳动？"
+        },
+        {
+          "id": "japan-food-b4",
+          "title": "食物怎样来到餐桌",
+          "text": "从一碗饭出发，可以追溯种植、加工、运输与烹煮；从蔬菜出发，还能讨论季节和产地。餐桌不是孤立的文化符号，它连接自然条件、劳动与个人选择。照片显示盘里有什么，却未必能够说明每种原料来自哪里。"
+        },
+        {
+          "id": "japan-food-b5",
+          "title": "一道菜与一种文化",
+          "text": "寿司可以成为认识日本食物的入口，但入口不等于全部。不同家庭、地区与个人会组合出不同菜单，也可能使用来自其他地方的做法。介绍食物时，用“一个例子”“一些家庭”这样的准确范围，比“每个人每天都吃”更接近真实生活。"
+        },
+        {
+          "id": "japan-food-b6",
+          "title": "写一份自己的食物观察",
+          "text": "选择一餐，记录食物的名字、可见形状和已知原料。暂时不知道的配料或产地留作问题，再向准备食物的人或包装说明核对。不要只从颜色猜成分。这样的观察既能认识饮食文化，也能看见让食物来到我们面前的许多人。查看米饭与味噌的后续文章，还能继续认识加工和发酵的不同关系。"
+        }
+      ],
+      "term": "配菜",
+      "definition": "与主食和主菜搭配食用的食物。",
+      "question": "认识一个国家的饮食，只记住最有名的菜够吗？",
+      "answer": "还可以观察日常搭配、地方差异，以及家庭自己的习惯。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/housing/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 4,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "glossary": [
+        {
+          "term": "配菜",
+          "definition": "与主食和主菜搭配食用的食物。"
+        }
+      ],
+      "readingMinutes": 4,
+      "activity": {
+        "id": "japan-open-food",
+        "type": "open",
+        "title": "日本的饭桌上只有寿司吗？",
+        "prompt": "写下可直接看见或读到的线索，再写一个需要验证的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "japan-card-food"
+        ],
+        "suggestedArticleIds": [
+          "japan-food"
+        ]
+      }
+    },
+    {
+      "id": "japan-culture",
+      "countryId": "japan",
+      "sectionId": "culture",
+      "title": "人偶也能在舞台上讲故事吗？",
+      "summary": "认识文乐：把人偶、声音和音乐放在一起的艺术。",
+      "mediaId": "japan-card-stage",
+      "blocks": [
+        {
+          "id": "japan-culture-b1",
+          "title": "看得见的人偶，听得见的故事",
+          "text": "文乐是日本的一种传统人偶戏。表演把人偶动作、故事讲唱与三味线音乐组合起来，让观众跟着人物经历情节。"
+        },
+        {
+          "id": "japan-culture-b2",
+          "title": "同一个舞台，需要不同本领",
+          "text": "操纵动作、讲述故事和演奏音乐的人要彼此配合。可以分别观察动作与声音，再看看它们怎样在同一时刻表达情绪。"
+        },
+        {
+          "id": "japan-culture-b3",
+          "title": "传统也生活在今天",
+          "text": "能乐、歌舞伎与文乐都是日本传统表演艺术的例子。人们也欣赏电影和现代音乐，一种传统不能概括所有人的兴趣。"
+        },
+        {
+          "id": "japan-culture-b4",
+          "title": "一场演出里的合作",
+          "text": "观察人偶戏时，可以先关注一个动作，再听声音怎样配合它。操偶、叙事与音乐各自承担不同工作，却共同组织舞台节奏。单独截取一张人偶照片，只能看到某个姿态；要理解表演的时间关系，还需要有出处的连续演出材料。"
+        },
+        {
+          "id": "japan-culture-b5",
+          "title": "传统仍由人来传承",
+          "text": "表演艺术不是只存放在过去的物品。演员学习技艺，观众理解故事，剧场组织演出，这些活动让传统在今天继续被实践。不同剧目和表演者可能有不同处理，认识一种艺术时，应给具体作品与创作者留下名字。"
+        },
+        {
+          "id": "japan-culture-b6",
+          "title": "做一次合作实验",
+          "text": "与朋友分工：一人用纸偶做动作，一人叙述简短故事，另一人用轻敲桌面的节奏提示停顿。试试怎样互相等待和配合。这个游戏只是体验协作，不冒充文乐技艺；完成后写下动作与声音什么时候相互帮助，什么时候容易错开。演出是一段随时间展开的过程，舞台照片只能截取其中一个瞬间。"
+        }
+      ],
+      "term": "文乐",
+      "definition": "以人偶表演、讲唱与三味线音乐共同讲故事的传统戏剧。",
+      "question": "文乐只靠人偶动作讲故事吗？",
+      "answer": "不是，讲唱和音乐也参与叙事。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/culture/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 4,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "glossary": [
+        {
+          "term": "文乐",
+          "definition": "以人偶表演、讲唱与三味线音乐共同讲故事的传统戏剧。"
+        }
+      ],
+      "readingMinutes": 4,
+      "activity": {
+        "id": "japan-open-culture",
+        "type": "open",
+        "title": "人偶也能在舞台上讲故事吗？",
+        "prompt": "写下可直接看见或读到的线索，再写一个需要验证的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "japan-card-stage"
+        ],
+        "suggestedArticleIds": [
+          "japan-culture"
+        ]
+      }
+    },
+    {
+      "id": "japan-nature",
+      "countryId": "japan",
+      "sectionId": "nature",
+      "title": "日本的南北住着相同动物吗？",
+      "summary": "从北海道到南方岛屿，看看栖息地带来的差别。",
+      "mediaId": "japan-photo-iriomote",
+      "blocks": [
+        {
+          "id": "japan-nature-b1",
+          "title": "地图帮助我们找动物",
+          "text": "北海道可以见到棕熊；南方岛屿有西表山猫、奄美兔等动物。日本南北环境不同，野生动物的分布也不同。"
+        },
+        {
+          "id": "japan-nature-b2",
+          "title": "有的客人随季节到来",
+          "text": "一些鸟会迁徙。天鹅等候鸟会在适合的季节来到日本部分地区，并不全年留在同一处。"
+        },
+        {
+          "id": "japan-nature-b3",
+          "title": "先寻找环境，再寻找名字",
+          "text": "观察动物照片时，可以记下林地、水域和季节线索。不要只凭一张动物照片，推断这个国家的所有地方都有它。"
+        },
+        {
+          "id": "japan-nature-b4",
+          "title": "岛屿内部也有差别",
+          "text": "屋久岛位于九州以南，拥有山地与森林；西表岛则位于更靠西南的岛屿地区。把两处在地图上分别找出来，可以看见南方也不是一块完全相同的环境。每种动物都有自己的分布资料，不能因为都在南方就认定到处都有。"
+        },
+        {
+          "id": "japan-nature-b5",
+          "title": "分布图回答在哪里",
+          "text": "动物照片帮助观察外形，分布图帮助了解记录范围，长期调查帮助理解变化。三种资料各有作用。即使地图显示某动物生活在一片地区，也不代表该地区每个地方、每个季节都能见到它；观察记录需要地点、日期和环境信息。"
+        },
+        {
+          "id": "japan-nature-b6",
+          "title": "保护的是一张关系网",
+          "text": "动物需要食物、遮蔽与繁殖空间，这些条件与植被、水和人类活动相连。保护一种动物，往往也要关心它的栖息环境。观察时保持距离、不打扰，是尊重野生动物的起点；本模块展示公开地点，不提供敏感巢址。从屋久岛森林到钏路湿地，再到西表岛海岸，可以比较不同环境，不必急着把它们归为相同景观。"
+        }
+      ],
+      "term": "候鸟",
+      "definition": "随季节在不同地区之间迁移的鸟。",
+      "question": "动物分布图为什么也需要看季节？",
+      "answer": "因为候鸟等动物会随季节改变停留的地区。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/nature/q3.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 4,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "glossary": [
+        {
+          "term": "候鸟",
+          "definition": "随季节在不同地区之间迁移的鸟。"
+        }
+      ],
+      "readingMinutes": 4,
+      "placeId": "japan-yakushima",
+      "exerciseId": "japan-nature-check"
+    },
+    {
+      "id": "japan-history",
+      "countryId": "japan",
+      "sectionId": "questions",
+      "title": "富士山为什么也是文化遗产？",
+      "summary": "一座山，既能留下自然线索，也能留下人的故事。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-history-b1",
+          "title": "先认识真实的山",
+          "text": "富士山海拔 3776 米，是一座火山。照片里的山体、山脚湖泊与周围聚落，让我们可以从不同尺度观察同一地点。"
+        },
+        {
+          "id": "japan-history-b2",
+          "title": "山也进入画与诗",
+          "text": "富士山长期与人们的信仰、旅行和艺术相连。19 世纪的木版画把它带给更多观众，它也影响了其他地方的艺术。"
+        },
+        {
+          "id": "japan-history-b3",
+          "title": "把自然与文化一起保护",
+          "text": "2013 年，富士山以文化遗产身份列入世界遗产名录。保护对象包含相关道路、神社等地点，而不仅是一座好看的山峰。"
+        },
+        {
+          "id": "japan-history-b4",
+          "title": "自然与文化可以同时理解",
+          "text": "火山的形成属于自然过程，人们怎样描绘、敬重和到访它，则属于文化关系。两种角度并不冲突，可以围绕同一个地点学习。富士山的世界遗产身份是文化遗产，不能只因为山很高，就把列入名录的原因全归为自然景观。"
+        },
+        {
+          "id": "japan-history-b5",
+          "title": "艺术作品留下了什么",
+          "text": "一幅木版画可以记录艺术家选择怎样表现山峰，却不是精确测绘图。画面构图、线条与色彩也属于要观察的内容。想知道山的实际高度，查地理资料；想理解画家如何表现它，查作品与相关艺术研究，问题不同，资料也不同。"
+        },
+        {
+          "id": "japan-history-b6",
+          "title": "保护范围比一张封面更大",
+          "text": "世界遗产资料讨论的文化景观包含与信仰和到访有关的多个地点。封面中的一个山峰视角不能展示全部组成部分。把遗产理解为地点、人们的活动与历史关系，可以帮助解释为什么保护工作不仅是让某一处景色在照片里好看。"
+        }
+      ],
+      "term": "文化遗产",
+      "definition": "人们传承下来的、具有文化意义的地方、物件或传统。",
+      "question": "为什么一座山也可以有文化价值？",
+      "answer": "因为人们的活动、信仰与艺术会围绕它积累故事与证据。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1418/",
+        "https://web-japan.org/kidsweb/explore/history/index.html"
+      ],
+      "schemaVersion": 1,
+      "revision": 4,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "glossary": [
+        {
+          "term": "文化遗产",
+          "definition": "人们传承下来的、具有文化意义的地方、物件或传统。"
+        }
+      ],
+      "readingMinutes": 4,
+      "exerciseId": "japan-history-check"
+    },
+    {
+      "id": "japan-questions",
+      "countryId": "japan",
+      "sectionId": "questions",
+      "title": "一张富士山照片能告诉你多少？",
+      "summary": "把“我看见的”和“我还要查的”分开记录。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-questions-b1",
+          "title": "先写下能直接看见的",
+          "text": "观察封面：山体在哪里，水面在哪里？找出天空、山坡和倒影的边界。可以写“我看见……”，不要急着替整座山下结论。"
+        },
+        {
+          "id": "japan-questions-b2",
+          "title": "再写下需要资料的问题",
+          "text": "拍摄日期、相机位置、山的高度，都不能仅靠画面确定。可以把它们记成问题，再阅读图片说明与事实来源。"
+        },
+        {
+          "id": "japan-questions-b3",
+          "title": "换一张照片再比较",
+          "text": "同一座山，从不同方向和季节拍摄会呈现不同样子。以后看到第二张照片时，试着寻找相同线索，也保留不能确定的地方。"
+        },
+        {
+          "id": "japan-questions-b4",
+          "title": "为自己的句子找依据",
+          "text": "“水面映出山形”可以在照片中寻找对应区域；“这里每天都这么平静”则超出了单张照片。把两句话分别放入观察与猜想两栏。猜想并非不能写，只要标清它还需要什么证据，就能成为下一次探索的起点。"
+        },
+        {
+          "id": "japan-questions-b5",
+          "title": "换一张照片会怎样",
+          "text": "如果另一张照片从不同方向拍山，山坡轮廓、光线和前景可能改变。这不一定表示山在短时间内变了形。先检查拍摄地点、日期和视角，再决定能否比较。只有材料范围相近时，才适合进一步讨论真正的变化。"
+        },
+        {
+          "id": "japan-questions-b6",
+          "title": "给观察加上范围",
+          "text": "一句“我在这张照片中看到……”能够提醒读者你的结论适用于什么材料。再补充“我暂时不知道……”并不会让笔记变差，反而让它更准确。收藏照片、返回正文和查看来源，都是继续寻找答案的方法；探索可以从一个小问题慢慢展开。先看照片，再查看说明与来源，让每一次提问都有能够继续寻找的方向。"
+        }
+      ],
+      "term": "证据",
+      "definition": "能帮助我们判断一个说法是否可靠的观察或资料。",
+      "question": "只看一张照片，能准确知道山的高度吗？",
+      "answer": "不能。高度需要可靠测量或资料，照片主要提供画面中的观察线索。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1418/"
+      ],
+      "schemaVersion": 1,
+      "revision": 4,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "glossary": [
+        {
+          "term": "证据",
+          "definition": "能帮助我们判断一个说法是否可靠的观察或资料。"
+        }
+      ],
+      "readingMinutes": 4,
+      "exerciseId": "japan-questions-check"
+    },
+    {
+      "id": "japan-find-map",
+      "countryId": "japan",
+      "sectionId": "overview",
+      "title": "怎样在世界地图上找到日本？",
+      "summary": "日本位于亚洲东部、太平洋西侧。先找到亚洲大陆，再向东寻找沿海的一串岛屿。",
+      "mediaId": "japan-photo-tokyo",
+      "blocks": [
+        {
+          "id": "japan-find-map-b1",
+          "title": "认识线索",
+          "text": "日本位于亚洲东部、太平洋西侧。先找到亚洲大陆，再向东寻找沿海的一串岛屿。"
+        },
+        {
+          "id": "japan-find-map-b2",
+          "title": "进一步了解",
+          "text": "地图上的陆地轮廓比一个图钉包含更多信息。沿着海岸看，可以发现岛屿之间隔着海水。"
+        },
+        {
+          "id": "japan-find-map-b3",
+          "title": "把关系连起来",
+          "text": "北海道、本州、四国和九州是四个大岛，但并不是日本的全部岛屿。还有冲绳和小笠原等岛屿地区。"
+        },
+        {
+          "id": "japan-find-map-b4",
+          "title": "资料的范围",
+          "text": "世界地图适合认识相对位置，城市地图适合找街道。放大后，图上同样长的一段线代表的实际距离会改变。"
+        },
+        {
+          "id": "japan-find-map-b5",
+          "title": "自己试一试",
+          "text": "先说出大洲和海洋，再指认国家轮廓。不要凭国旗颜色判断位置；图例、方向和地名能够帮助别人核对。"
+        },
+        {
+          "id": "japan-find-map-b6",
+          "title": "用方向连成一句话",
+          "text": "把地图想成一张有方向的桌面：在常见的北向上地图中，上方是北，下方是南，右方是东，左方是西。找到亚洲后，向东看见海洋与岛屿，再用手指沿列岛移动。旋转屏幕或看另一种地图时，先检查方向标记，不能把屏幕右边永远叫作东边。"
+        },
+        {
+          "id": "japan-find-map-b7",
+          "title": "海洋也是线索",
+          "text": "世界图上，太平洋占据很大的蓝色区域，日本位于它的西侧。蓝色并不是没有内容的空白：海洋把陆地分开，也把沿岸地区联系起来。说“日本在亚洲东部”与“日本在太平洋西侧”，是在使用两个不同的参照物，描述同一个位置。"
+        },
+        {
+          "id": "japan-find-map-b8",
+          "title": "给朋友一条寻找路线",
+          "text": "先把国家名字遮住，再试着说明寻找步骤：大洲、海洋、岛屿轮廓。让朋友按照你的描述找一次。如果找错，补充一个位置线索即可，不必把答案直接指出来。这样的说明能检验自己是否理解位置关系，也比只记住一个彩色图钉更牢靠。"
+        }
+      ],
+      "term": "相对位置",
+      "definition": "用另一个地点或地理区域作参照，说明一个地方在哪里。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/nature/index.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-tokyo",
+      "glossary": [
+        {
+          "term": "相对位置",
+          "definition": "用另一个地点或地理区域作参照，说明一个地方在哪里。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-find-map-check"
+    },
+    {
+      "id": "japan-four-islands",
+      "countryId": "japan",
+      "sectionId": "overview",
+      "title": "四个大岛就是全部日本吗？",
+      "summary": "北海道、本州、四国和九州是认识列岛的重要起点。岛屿是四面被水围绕的陆地，不等同于城市或行政区。",
+      "mediaId": "japan-photo-naha",
+      "blocks": [
+        {
+          "id": "japan-four-islands-b1",
+          "title": "认识线索",
+          "text": "北海道、本州、四国和九州是认识列岛的重要起点。岛屿是四面被水围绕的陆地，不等同于城市或行政区。"
+        },
+        {
+          "id": "japan-four-islands-b2",
+          "title": "进一步了解",
+          "text": "四个大岛之外还有许多岛屿。冲绳并不紧挨东京，小笠原也不能从全国图上一个很小的符号判断真实大小。"
+        },
+        {
+          "id": "japan-four-islands-b3",
+          "title": "把关系连起来",
+          "text": "地图把较远地区放进插图，是为了让轮廓看得清楚，并不是把岛屿搬近了。插图需要说明位置和比例。"
+        },
+        {
+          "id": "japan-four-islands-b4",
+          "title": "资料的范围",
+          "text": "一个国家可以包括分散的岛屿。城市、岛屿与国家属于不同层次，不能把东京与本州当成两个同类对象。"
+        },
+        {
+          "id": "japan-four-islands-b5",
+          "title": "自己试一试",
+          "text": "回答范围问题时，应查看全国范围与插图说明。只看四个大岛的局部图，不能断言框外没有其他岛屿。"
+        },
+        {
+          "id": "japan-four-islands-b6",
+          "title": "按顺序认识大岛",
+          "text": "在主要列岛图上，可以先找北面的北海道，再向西南看本州。在本州西南部附近，还能找到四国和九州。这里的顺序帮助你阅读地图，并不是岛屿形成的时间顺序，也不意味着它们具有一样的面积、人口或地形。"
+        },
+        {
+          "id": "japan-four-islands-b7",
+          "title": "三个词，三个层次",
+          "text": "“本州”是岛屿名，“东京”是城市与行政区域相关的名称，“日本”是国家名。它们可以同时出现在一段地点说明中，好像文件夹里还有更小的文件夹。那霸位于冲绳岛，认识它时也要分别看城市标记、岛屿轮廓与区域图的范围。"
+        },
+        {
+          "id": "japan-four-islands-b8",
+          "title": "看看地图框外",
+          "text": "本模块把主要列岛、西南岛屿和小笠原分成三个视图。每幅图有自己的比例尺，方便观察相距较远的陆地。区域图是精选范围，不是全国每个小岛的清单；想知道一处小岛属于哪里，需要继续查它的名字、坐标与相关资料。"
+        }
+      ],
+      "term": "岛屿",
+      "definition": "四面被水环绕的陆地。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/nature/index.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-naha",
+      "glossary": [
+        {
+          "term": "岛屿",
+          "definition": "四面被水环绕的陆地。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-four-islands-check"
+    },
+    {
+      "id": "japan-capital",
+      "countryId": "japan",
+      "sectionId": "overview",
+      "title": "东京是一座怎样的城市？",
+      "summary": "东京是日本的首都，位于本州。地图点只能代表城市中的一个位置，不能把一个小圆点当成整座城市的边界。",
+      "mediaId": "japan-photo-tokyo",
+      "blocks": [
+        {
+          "id": "japan-capital-b1",
+          "title": "认识线索",
+          "text": "东京是日本的首都，位于本州。地图点只能代表城市中的一个位置，不能把一个小圆点当成整座城市的边界。"
+        },
+        {
+          "id": "japan-capital-b2",
+          "title": "进一步了解",
+          "text": "隅田川流过东京的城市区域，桥和河岸空间把水与日常生活联系起来。河流图和街景照片回答的问题不同。"
+        },
+        {
+          "id": "japan-capital-b3",
+          "title": "把关系连起来",
+          "text": "人们在城市里上学、工作、购物和休息。著名建筑只是其中一部分，城市还包含普通住宅和公共设施。"
+        },
+        {
+          "id": "japan-capital-b4",
+          "title": "资料的范围",
+          "text": "一张热闹街景不代表所有街道始终拥挤。拍摄时刻、地点与镜头方向，会影响我们看见的画面。"
+        },
+        {
+          "id": "japan-capital-b5",
+          "title": "自己试一试",
+          "text": "在地图上找到东京，再描述它所在的岛屿。了解一座城市应逐步补充不同区域的材料，而不是只记住一张照片。"
+        },
+        {
+          "id": "japan-capital-b6",
+          "title": "同一座城，两种尺度",
+          "text": "从全国图看东京，它只是一个小标记；从城市照片看，河流、道路与建筑逐渐分开。这不是东京变大了，而是我们把观察范围缩小。放大以后仍需要知道方向，否则容易把一座桥的位置误当成整个城市的位置。"
+        },
+        {
+          "id": "japan-capital-b7",
+          "title": "从桥读懂联系",
+          "text": "本页照片从高处俯看隅田川，两岸排列着建筑，桥横跨水面。试着用手指先顺着河岸走，再沿桥跨过去：两条路线的方向不同。桥提供跨河的连接，河岸道路与开放空间则让人沿河移动，这是可以直接从照片开始理解的城市关系。"
+        },
+        {
+          "id": "japan-capital-b8",
+          "title": "一张城市观察卡",
+          "text": "把纸分成“自然”和“人们建造”两栏：水面可以放在前一栏，桥和建筑放在后一栏。河岸经过人工改造时，分类并非只有一个答案，可以写下理由。接着提出一个问题：这些空间怎样被使用？需要更多照片、地图或当地人的介绍才能继续回答。"
+        }
+      ],
+      "term": "城市尺度",
+      "definition": "观察城市时所采用的范围与细节大小。",
+      "sourceUrls": [
+        "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/index.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-tokyo",
+      "glossary": [
+        {
+          "term": "城市尺度",
+          "definition": "观察城市时所采用的范围与细节大小。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-capital-check"
+    },
+    {
+      "id": "japan-volcano",
+      "countryId": "japan",
+      "sectionId": "geography",
+      "title": "富士山为什么像一座锥体？",
+      "summary": "富士山是一座火山。远望时，山坡向山顶逐渐收拢，但真实表面还有沟谷和不规则起伏，不是一块完美的几何模型。",
+      "mediaId": "mount-fuji",
+      "blocks": [
+        {
+          "id": "japan-volcano-b1",
+          "title": "认识线索",
+          "text": "富士山是一座火山。远望时，山坡向山顶逐渐收拢，但真实表面还有沟谷和不规则起伏，不是一块完美的几何模型。"
+        },
+        {
+          "id": "japan-volcano-b2",
+          "title": "进一步了解",
+          "text": "不同喷发阶段留下熔岩和火山碎屑等物质，长期堆积与后来的侵蚀共同影响山体。示意图只表达关系，不代表每一层的真实厚度。"
+        },
+        {
+          "id": "japan-volcano-b3",
+          "title": "把关系连起来",
+          "text": "地下熔融岩石称岩浆，到达地表后称熔岩。并不是每次火山活动都以相同方式发生，也不是所有火山外形都像富士山。"
+        },
+        {
+          "id": "japan-volcano-b4",
+          "title": "资料的范围",
+          "text": "照片中看不见烟，不等于可以证明火山没有活动风险。判断当前状况需要气象机构的观测与公告。"
+        },
+        {
+          "id": "japan-volcano-b5",
+          "title": "自己试一试",
+          "text": "观察山形可以提出形成过程的问题，实时安全判断则使用不同资料。本页不提供当前预警等级或登山通行信息。"
+        },
+        {
+          "id": "japan-volcano-b6",
+          "title": "给剖面图读图例",
+          "text": "剖面图像把模型切开一半，让原本藏在地下的关系露出来。图里的橙色通道和几层山体是帮助理解的符号，真实火山内部不会恰好按这些颜色分层。点击地下、地表与山体三个步骤，区分物质所在的位置和它们之间的联系。"
+        },
+        {
+          "id": "japan-volcano-b7",
+          "title": "堆积与侵蚀一起作用",
+          "text": "可以用纸片叠出一座小山，理解材料增加后外形怎样改变；再想象雨水沿表面流动，逐渐形成沟槽。纸片只是模型，不能演示真实喷发。山体今天的样子同时包含形成过程和后来改变的痕迹，不能只用一次事件解释全部细节。"
+        },
+        {
+          "id": "japan-volcano-b8",
+          "title": "把“是什么”与“现在怎样”分开",
+          "text": "“富士山是一座火山”描述它的地质性质，“今天能否进入某条登山路线”则是会变化的问题。两种问题需要不同时间尺度的资料。读百科时先认识形成过程；需要判断当下状态时，必须查看相应机构的最新信息，而不是凭旧照片决定。"
+        }
+      ],
+      "term": "岩浆与熔岩",
+      "definition": "地下的熔融岩石称岩浆，到达地表后称熔岩。",
+      "sourceUrls": [
+        "https://www.data.jma.go.jp/vois/data/report/activity_info/314.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-fuji",
+      "glossary": [
+        {
+          "term": "岩浆与熔岩",
+          "definition": "地下的熔融岩石称岩浆，到达地表后称熔岩。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-volcano-check",
+      "diagram": "japan-volcano"
+    },
+    {
+      "id": "japan-river",
+      "countryId": "japan",
+      "sectionId": "geography",
+      "title": "河流怎样从山地走向海洋？",
+      "summary": "河水受重力影响沿地形流动。上游、下游按水流方向区分，不是固定等于图片左边和右边。",
+      "mediaId": "japan-photo-biwa",
+      "blocks": [
+        {
+          "id": "japan-river-b1",
+          "title": "认识线索",
+          "text": "河水受重力影响沿地形流动。上游、下游按水流方向区分，不是固定等于图片左边和右边。"
+        },
+        {
+          "id": "japan-river-b2",
+          "title": "进一步了解",
+          "text": "日本多山，一些河流从山地流向平原和海洋。不同河流长度与流域不同，不能用一种形状代表全部河流。"
+        },
+        {
+          "id": "japan-river-b3",
+          "title": "把关系连起来",
+          "text": "湖泊可以与河流相连。琵琶湖是认识湖面与周围陆地的案例，湖泊轮廓与河流线条应使用不同地图符号。"
+        },
+        {
+          "id": "japan-river-b4",
+          "title": "资料的范围",
+          "text": "照片适合看水岸、桥和建筑，地图更适合追踪水系。只看水面颜色，不能确定水深或污染程度。"
+        },
+        {
+          "id": "japan-river-b5",
+          "title": "自己试一试",
+          "text": "把手指沿河线移动，寻找水系与城镇的位置关系。遇到图中没有的支流，应查更详细资料，不把空白当成不存在。"
+        },
+        {
+          "id": "japan-river-b6",
+          "title": "汇合与流域",
+          "text": "小溪可能汇入较大的河流，河流又可能流入湖泊或海洋。能把水汇向同一水系的一片陆地区域称为流域。画一片有两条小溪的山坡，再把它们连向下方的河道，就能理解为什么一条河不仅与水面有关，还与周围的土地有关。"
+        },
+        {
+          "id": "japan-river-b7",
+          "title": "湖面不等于河线",
+          "text": "琵琶湖位于本州的滋贺县。照片中的宽阔水面、岸边聚落与远处山地，为观察提供了不同层次。地图用面表示湖泊，用线表示河流。当前水系层展示石狩川、利根川和最上川的概化原始河段；没有绘出的细小水道，不能理解为实际不存在。"
+        },
+        {
+          "id": "japan-river-b8",
+          "title": "做一张水路草图",
+          "text": "先画山坡，再画一条向低处延伸的河道，最后加上入海口。箭头表示流向，文字说明每个符号。把它明确标作“原创示意”，不要给它冠上真实河流的名字。学习模型可以省略细节，实地地图却需要经过核验的地理位置。"
+        }
+      ],
+      "term": "流域",
+      "definition": "能把水汇向同一水系的一片陆地区域。",
+      "sourceUrls": [
+        "https://www.lberi.jp/english-pages/biwako"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-biwa",
+      "glossary": [
+        {
+          "term": "流域",
+          "definition": "能把水汇向同一水系的一片陆地区域。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-river-check",
+      "diagram": "japan-river"
+    },
+    {
+      "id": "japan-ainu",
+      "countryId": "japan",
+      "sectionId": "people",
+      "title": "听阿伊努人讲自己的文化",
+      "summary": "阿伊努人是拥有自身语言、文化和历史的原住民族。认识他们，应听当事人的讲述，而不是只凭服饰照片作判断。",
+      "mediaId": "japan-photo-upopoy",
+      "blocks": [
+        {
+          "id": "japan-ainu-b1",
+          "title": "认识线索",
+          "text": "阿伊努人是拥有自身语言、文化和历史的原住民族。认识他们，应听当事人的讲述，而不是只凭服饰照片作判断。"
+        },
+        {
+          "id": "japan-ainu-b2",
+          "title": "进一步了解",
+          "text": "阿伊努语与日语不同，不能把它简单说成日语的一种口音。语言与故事、地名和生活知识相联系。"
+        },
+        {
+          "id": "japan-ainu-b3",
+          "title": "把关系连起来",
+          "text": "位于白老的Upopoy介绍阿伊努历史与文化，也开展传承活动。博物馆展示是了解文化的入口，不是所有人的完整生活。"
+        },
+        {
+          "id": "japan-ainu-b4",
+          "title": "资料的范围",
+          "text": "传统与当代可以同时存在。人们可以学习工艺，也在今天的学校、城市和不同职业中生活。"
+        },
+        {
+          "id": "japan-ainu-b5",
+          "title": "自己试一试",
+          "text": "选择资料时，注意是谁在讲述、讲述什么时期。不能凭一个人的外貌或姓名猜测他的身份与语言能力。"
+        },
+        {
+          "id": "japan-ainu-b6",
+          "title": "博物馆也有讲述角度",
+          "text": "Upopoy 位于北海道白老，包括博物馆与文化传承空间。参观时可以关注一件工艺品的材料、用途和讲述者，再听语言、音乐或生活知识怎样联系起来。一件展品会帮助打开问题，却不能代表每个阿伊努家庭，也不能替代当事人的声音。"
+        },
+        {
+          "id": "japan-ainu-b7",
+          "title": "文化不是停在过去的照片",
+          "text": "文化会在生活中延续，也会随着环境与个人选择改变。传统工艺的学习者可以同时使用今天的交通和通信工具；语言传承可以出现在家庭、课堂或公共活动里。把人们只画成旧时装束，会漏掉他们生活在当代社会的事实。"
+        },
+        {
+          "id": "japan-ainu-b8",
+          "title": "练习尊重地提问",
+          "text": "如果想了解一个纹样，可以问“这件作品的作者怎样介绍它”，而不是说“所有人都用同一种纹样吧”。记录名字、来源与不确定的部分，让你的笔记保留差异。了解原住民族文化时，认真听、准确记，比替别人归纳一个简单标签更重要。"
+        }
+      ],
+      "term": "文化传承",
+      "definition": "人们通过学习、实践与讲述，让文化知识与技艺延续。",
+      "sourceUrls": [
+        "https://ainu-upopoy.go.jp/en/facility/upopoy/"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-upopoy",
+      "glossary": [
+        {
+          "term": "文化传承",
+          "definition": "人们通过学习、实践与讲述，让文化知识与技艺延续。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-ainu-check"
+    },
+    {
+      "id": "japan-okinawa-names",
+      "countryId": "japan",
+      "sectionId": "people",
+      "title": "冲绳的地名藏着哪些故事？",
+      "summary": "先在地图上找到那霸，再查看冲绳岛与周围岛屿。行政区名称、岛屿名称和城市名称可能相关，却不能互相替代。",
+      "mediaId": "japan-photo-naha",
+      "blocks": [
+        {
+          "id": "japan-okinawa-names-b1",
+          "title": "认识线索",
+          "text": "先在地图上找到那霸，再查看冲绳岛与周围岛屿。行政区名称、岛屿名称和城市名称可能相关，却不能互相替代。"
+        },
+        {
+          "id": "japan-okinawa-names-b2",
+          "title": "进一步了解",
+          "text": "冲绳地区有自己的琉球历史与多样语言传统。今天常见的日语名称，不一定能完整解释地名的历史来源。"
+        },
+        {
+          "id": "japan-okinawa-names-b3",
+          "title": "把关系连起来",
+          "text": "查地名时，要记录原文写法、语言和资料来源。两个看起来相近的名字，未必有相同含义或读音。"
+        },
+        {
+          "id": "japan-okinawa-names-b4",
+          "title": "资料的范围",
+          "text": "不知道词源时，可以先写下位置和可见文字。不要为了让故事有趣，就给一个地名编出未经核验的传说。"
+        },
+        {
+          "id": "japan-okinawa-names-b5",
+          "title": "自己试一试",
+          "text": "选一个你感兴趣的地名，写下已知线索与想问当地人的问题。语言文化需要认真倾听，不要求一次找到所有答案。"
+        },
+        {
+          "id": "japan-okinawa-names-b6",
+          "title": "从城市到岛屿",
+          "text": "那霸是认识冲绳地区的一处入口。本模块照片展示的是城市建筑，并没有展示整个冲绳岛。先在西南地区图里找到标记，再沿岛屿轮廓看一圈，就会发现“一个城市的照片”和“整座岛的地图”覆盖的范围很不一样。"
+        },
+        {
+          "id": "japan-okinawa-names-b7",
+          "title": "历史留下不同线索",
+          "text": "冲绳的文化与琉球历史相联系，饮食、表演艺术和地名都可以成为学习入口。不同岛屿、社区与个人的经验并不完全相同。碰到一个陌生名字，先保留原来的写法，不急着用熟悉的汉字故事解释它，也不要把一种地方传统推广到所有居民。"
+        },
+        {
+          "id": "japan-okinawa-names-b8",
+          "title": "给地名建立小档案",
+          "text": "在观察本写三栏：名字怎样写、地图上在哪里、来源如何解释。能够确认的填进去，暂时不知道的留空。以后找到当地机构或语言资料时再补充；如果两份资料说法不同，就把来源都记下。保留问题本身，也是认真学习的一部分。"
+        }
+      ],
+      "term": "词源",
+      "definition": "一个词或名称的来源与历史演变。",
+      "sourceUrls": [
+        "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/009/626/guidebook_eng1.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-naha",
+      "glossary": [
+        {
+          "term": "词源",
+          "definition": "一个词或名称的来源与历史演变。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "japan-open-okinawa-names",
+        "type": "open",
+        "title": "冲绳的地名藏着哪些故事？",
+        "prompt": "写下可直接看见或读到的线索，再写一个需要验证的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "japan-photo-naha"
+        ],
+        "suggestedArticleIds": [
+          "japan-okinawa-names"
+        ]
+      }
+    },
+    {
+      "id": "japan-transfer",
+      "countryId": "japan",
+      "sectionId": "daily",
+      "title": "怎样看懂换乘示意图？",
+      "summary": "线路图把站点与连接关系整理出来，帮助寻找路线。它通常不把每段线路按真实距离画出。",
+      "mediaId": "japan-photo-tokyo",
+      "blocks": [
+        {
+          "id": "japan-transfer-b1",
+          "title": "认识线索",
+          "text": "线路图把站点与连接关系整理出来，帮助寻找路线。它通常不把每段线路按真实距离画出。"
+        },
+        {
+          "id": "japan-transfer-b2",
+          "title": "进一步了解",
+          "text": "原创练习中，蓝线连接甲与乙，橙线连接乙与丙。它们都是虚构站点，不是东京真实运营线路。"
+        },
+        {
+          "id": "japan-transfer-b3",
+          "title": "把关系连起来",
+          "text": "两条线都经过乙，所以从甲到丙需要在乙换乘。共同站点才是依据，不是因为乙画在图的中央。"
+        },
+        {
+          "id": "japan-transfer-b4",
+          "title": "资料的范围",
+          "text": "甲到乙画得更长，不代表乘车一定更久。实际出行需要查看运营机构当前的线路、方向与服务信息。"
+        },
+        {
+          "id": "japan-transfer-b5",
+          "title": "自己试一试",
+          "text": "可以不用颜色复述：甲到乙，在乙换乘，再到丙。文字与图形表达同一关系，方便不同读图习惯的孩子。"
+        },
+        {
+          "id": "japan-transfer-b6",
+          "title": "看连接，不看弯折",
+          "text": "为了让字和站点排得清楚，线路图常把真实弯曲的轨道整理成简单线段。两个站在图上隔得远，不等于实际距离更远。判断在哪里换乘，要找共同站点；判断要花多少时间，则需要另外的时刻与运营信息，两种任务不能混在一起。"
+        },
+        {
+          "id": "japan-transfer-b7",
+          "title": "试一次反向阅读",
+          "text": "先从甲找到丙，再从丙返回甲。第一次是蓝线到乙、换橙线；反向则是橙线到乙、换蓝线。相同的连接关系，可以从不同起点使用。请用站名复述步骤，即使把图变成黑白，也能通过文字知道在哪里换乘。"
+        },
+        {
+          "id": "japan-transfer-b8",
+          "title": "自己的桌面线路",
+          "text": "用三个纸圆写甲、乙、丙，两根不同纹样的线分别连接甲乙和乙丙。移动纸圆位置，只要连接没有改变，换乘站仍是乙。这个小实验说明，网络图最重要的是谁与谁相连；纸圆的位置可以改变，真实车站却不能随意搬动。"
+        }
+      ],
+      "term": "换乘",
+      "definition": "在相互连接的站点，从一条交通线路转到另一条。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/nature/index.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-tokyo",
+      "glossary": [
+        {
+          "term": "换乘",
+          "definition": "在相互连接的站点，从一条交通线路转到另一条。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-transfer-check",
+      "diagram": "japan-transfer"
+    },
+    {
+      "id": "japan-labels",
+      "countryId": "japan",
+      "sectionId": "daily",
+      "title": "市场标签告诉我们什么？",
+      "summary": "购物地点不一定是商品生产地点。在那霸的市场里售卖的食品，也可能来自其他地区。",
+      "mediaId": "japan-card-labels",
+      "blocks": [
+        {
+          "id": "japan-labels-b1",
+          "title": "认识线索",
+          "text": "购物地点不一定是商品生产地点。在那霸的市场里售卖的食品，也可能来自其他地区。"
+        },
+        {
+          "id": "japan-labels-b2",
+          "title": "进一步了解",
+          "text": "原创练习标签写：①名称苹果，②单位千克，③产地日本。编号只是帮助定位，不代表等级。"
+        },
+        {
+          "id": "japan-labels-b3",
+          "title": "把关系连起来",
+          "text": "想知道这张练习卡声明的产地，应读③。不能凭水果外观、摊主语言或市场所在城市猜测。"
+        },
+        {
+          "id": "japan-labels-b4",
+          "title": "资料的范围",
+          "text": "真实标签还可能包含日期、配料等信息，模糊小字应记为无法辨认。本页的练习卡不冒充照片里的真实标签。"
+        },
+        {
+          "id": "japan-labels-b5",
+          "title": "自己试一试",
+          "text": "价格和库存会变化。旧照片只能展示拍摄时的线索，不能直接成为当前购物信息。练习重点是找对字段。"
+        },
+        {
+          "id": "japan-labels-b6",
+          "title": "三个字段各有工作",
+          "text": "名称回答“是什么”，单位帮助理解数量，产地说明来源。练习卡上的苹果、千克与日本分别属于这三类。把三个词随意换位置，读者就会困惑，因此标签需要清楚的字段名称。这里的例子是为学习而写，不是某个摊位的真实销售信息。"
+        },
+        {
+          "id": "japan-labels-b7",
+          "title": "比较时先统一问题",
+          "text": "拿两张虚构标签，一张写一千克，一张写一盒。如果想比较数量，先问每盒有多重，不能只比较数字大小。同样，“在日本买到”和“标签声明产地为日本”也不是一个意思。读标签的第一步，是想清楚自己究竟想知道哪项信息。"
+        },
+        {
+          "id": "japan-labels-b8",
+          "title": "把看不清留作问题",
+          "text": "照片里有时能看清大字，却看不清日期或小字。可以记录“这一栏存在，但内容无法辨认”，而不是补上猜测。需要更清楚的信息时，再查完整标签或询问提供者。准确记录自己知道多少，会比写一个看似完整却没有依据的答案更有用。"
+        }
+      ],
+      "term": "产地",
+      "definition": "标签说明的产品来源地点；不一定是售卖地点。",
+      "sourceUrls": [
+        "https://www.caa.go.jp/en/policy/food_labeling/"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-naha",
+      "glossary": [
+        {
+          "term": "产地",
+          "definition": "标签说明的产品来源地点；不一定是售卖地点。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-labels-check"
+    },
+    {
+      "id": "japan-rice",
+      "countryId": "japan",
+      "sectionId": "food",
+      "title": "稻谷怎样变成米饭？",
+      "summary": "稻田里长成的稻谷，和碗里的米饭并不是相同状态。认识一碗饭，可以从原料和加工过程开始。",
+      "mediaId": "japan-card-rice",
+      "blocks": [
+        {
+          "id": "japan-rice-b1",
+          "title": "认识线索",
+          "text": "稻田里长成的稻谷，和碗里的米饭并不是相同状态。认识一碗饭，可以从原料和加工过程开始。"
+        },
+        {
+          "id": "japan-rice-b2",
+          "title": "进一步了解",
+          "text": "收获后的稻谷需要经过脱粒、干燥和去壳等处理。去掉外壳后可以得到糙米，继续碾磨又会改变外层。"
+        },
+        {
+          "id": "japan-rice-b3",
+          "title": "把关系连起来",
+          "text": "烹煮时米吸收水并受热，质地发生变化。不能只凭煮熟后的一张照片，知道它来自哪块稻田。"
+        },
+        {
+          "id": "japan-rice-b4",
+          "title": "资料的范围",
+          "text": "不同家庭会选择不同食物与做法。介绍稻米的作用，不意味着所有人的每一餐都完全一样。"
+        },
+        {
+          "id": "japan-rice-b5",
+          "title": "自己试一试",
+          "text": "要查产地，应看包装与供应记录；要观察加工变化，则比较不同阶段的材料。问题不同，所需证据也不同。"
+        },
+        {
+          "id": "japan-rice-b6",
+          "title": "外壳、米粒与米饭",
+          "text": "把整个过程分为原料、加工和烹煮三个阶段。原料是从植物收获的稻谷；加工改变谷粒外层；烹煮时米与水受热。三个阶段需要不同工具和劳动。饭碗里的一粒米虽然很小，背后却连着种植、运输、储存和厨房里的许多工作。"
+        },
+        {
+          "id": "japan-rice-b7",
+          "title": "用词把变化说清楚",
+          "text": "“去壳”说的是取走外层，“碾磨”是加工过程，“煮熟”则与加水受热有关。试着用这三个动作词解释米饭的来历，而不是只说“稻谷变成饭”。知道中间步骤，才能理解为什么一张米饭照片无法显示所有加工信息。"
+        },
+        {
+          "id": "japan-rice-b8",
+          "title": "餐桌上的比较",
+          "text": "观察家里一餐有哪些主食、菜与汤，不需要把它评为好或坏。再与阅读材料中的例子比较：哪些相似，哪些不同？家庭习惯、季节和个人选择都会影响菜单。介绍日本稻米文化时，保留这种多样性，才能避免把一个例子说成人人相同的规定。"
+        }
+      ],
+      "term": "糙米",
+      "definition": "稻谷去掉外壳后、仍保留部分外层的米。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/cook/rice/rice01.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-tokyo",
+      "glossary": [
+        {
+          "term": "糙米",
+          "definition": "稻谷去掉外壳后、仍保留部分外层的米。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-rice-check",
+      "diagram": "japan-rice"
+    },
+    {
+      "id": "japan-miso",
+      "countryId": "japan",
+      "sectionId": "food",
+      "title": "味噌制作中发生了什么？",
+      "summary": "味噌是一种发酵食品，常见制作使用大豆、盐与曲等材料。具体产品的配方需要查看说明。",
+      "mediaId": "japan-card-miso",
+      "blocks": [
+        {
+          "id": "japan-miso-b1",
+          "title": "认识线索",
+          "text": "味噌是一种发酵食品，常见制作使用大豆、盐与曲等材料。具体产品的配方需要查看说明。"
+        },
+        {
+          "id": "japan-miso-b2",
+          "title": "进一步了解",
+          "text": "发酵有微生物参与，会使材料中的成分发生变化。它不是把一种颜色的食物简单染成另一种颜色。"
+        },
+        {
+          "id": "japan-miso-b3",
+          "title": "把关系连起来",
+          "text": "原料、温度、时间与制作方法都会影响结果。不能仅凭一张深色味噌照片推断发酵时间。"
+        },
+        {
+          "id": "japan-miso-b4",
+          "title": "资料的范围",
+          "text": "味噌汤里可能加入不同食材，汤的照片不一定显示完整配料。有饮食限制时需要核对实际产品信息。"
+        },
+        {
+          "id": "japan-miso-b5",
+          "title": "自己试一试",
+          "text": "本页学习原料与变化关系，不安排儿童独自尝试未知条件的发酵。观察包装和可靠制作资料，也能提出科学问题。"
+        },
+        {
+          "id": "japan-miso-b6",
+          "title": "小到看不见的参与者",
+          "text": "微生物很小，普通食物照片无法直接显示它们的工作。发酵过程需要用制作记录与相关科学资料理解。图解里的小圆点只是象征微生物参与，并不是显微镜照片，也不表示真实数量。学习图示时，先看清它表达哪一种关系。"
+        },
+        {
+          "id": "japan-miso-b7",
+          "title": "先读原料，再谈味道",
+          "text": "同样叫味噌，不同产品的材料与方法也可能不同。原料说明和制作资料能够帮助比较；仅靠汤的颜色，则很难判断里面所有成分。把“我尝到的感觉”和“标签写了什么”分别记录，可以同时保留个人体验与能够核对的信息。"
+        },
+        {
+          "id": "japan-miso-b8",
+          "title": "时间不是唯一条件",
+          "text": "想象两份原料放置了相同时间，但温度、材料和处理方法不同，结果可能不同。因此不能只问“放了多久”，还要看制作条件。本页用流程帮助理解关系；实际制作需遵循可靠方法，并由成人负责适当的食品处理，不能把随意放置等同于安全发酵。"
+        }
+      ],
+      "term": "发酵",
+      "definition": "微生物参与，使材料中的成分发生变化的过程。",
+      "sourceUrls": [
+        "https://www.maff.go.jp/e/policies/market/dento_syoku/bunrui/syouyu-miso.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-tokyo",
+      "glossary": [
+        {
+          "term": "发酵",
+          "definition": "微生物参与，使材料中的成分发生变化的过程。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-miso-check",
+      "diagram": "japan-miso"
+    },
+    {
+      "id": "japan-woodblock",
+      "countryId": "japan",
+      "sectionId": "culture",
+      "title": "木版画怎样把图案印出来？",
+      "summary": "木版画需要把图案与印版联系起来。木板不是最后挂起来的纸上作品，而是参与印制的工具。",
+      "mediaId": "japan-card-woodblock",
+      "blocks": [
+        {
+          "id": "japan-woodblock-b1",
+          "title": "认识线索",
+          "text": "木版画需要把图案与印版联系起来。木板不是最后挂起来的纸上作品，而是参与印制的工具。"
+        },
+        {
+          "id": "japan-woodblock-b2",
+          "title": "进一步了解",
+          "text": "制版时保留或刻去不同区域，印刷时颜料从需要印出的部分转移到纸上。画面会受到材料和操作影响。"
+        },
+        {
+          "id": "japan-woodblock-b3",
+          "title": "把关系连起来",
+          "text": "多色作品可能使用不同色版，依次套印。对齐位置很重要，否则颜色与线条可能错开。"
+        },
+        {
+          "id": "japan-woodblock-b4",
+          "title": "资料的范围",
+          "text": "原创图解用圆形与波纹演示套印，不把它冒充某位艺术家的历史作品。真正作品要另查作者、年代与许可。"
+        },
+        {
+          "id": "japan-woodblock-b5",
+          "title": "自己试一试",
+          "text": "比较印版、过程图与成品，可以分辨它们各自提供的线索。仅看成品无法确定全部制作步骤，需要工艺资料补充。"
+        },
+        {
+          "id": "japan-woodblock-b6",
+          "title": "对齐的秘密",
+          "text": "多色套印可以想成把几张不同内容的透明纸放到一起。如果边缘错开，圆形与波纹就会移位。日本木版印刷使用称为“见当”的定位标记，帮助纸张每次放在对应位置。图解中点击不同步骤，看单色图形怎样逐渐组合成一幅画。"
+        },
+        {
+          "id": "japan-woodblock-b7",
+          "title": "作品与工具分开看",
+          "text": "木板、颜料、纸张和刷印工具分别承担不同工作。印版保留图形信息，颜料转移到纸面，纸上作品才成为我们常见的成品。研究一幅具体历史作品时，还要查看作者、制作者、年代和收藏记录，不能把本页的原创演示图当成古代原作。"
+        },
+        {
+          "id": "japan-woodblock-b8",
+          "title": "不用刻刀的体验",
+          "text": "可以用两张透明纸分别画圆形和波纹，在角上画相同的定位标记，叠放时对齐角标。把其中一张稍微挪开，观察图案怎样改变。这个纸面实验演示的是套准关系，不要求模仿真实雕版工序；清楚理解一个环节，比匆忙复制全部工艺更重要。"
+        }
+      ],
+      "term": "套印",
+      "definition": "使用不同印版依次印制，使图案或颜色组合起来。",
+      "sourceUrls": [
+        "https://art-design-glossary.musabi.ac.jp/registration-marks/"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-kyoto",
+      "glossary": [
+        {
+          "term": "套印",
+          "definition": "使用不同印版依次印制，使图案或颜色组合起来。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-woodblock-check",
+      "diagram": "japan-woodblock"
+    },
+    {
+      "id": "japan-origami",
+      "countryId": "japan",
+      "sectionId": "culture",
+      "title": "折纸怎样从平面变成立体？",
+      "summary": "一张纸原本平展，折叠后会形成折痕与不同朝向的面。形状变化不意味着纸变成了另一种材料。",
+      "mediaId": "japan-card-origami",
+      "blocks": [
+        {
+          "id": "japan-origami-b1",
+          "title": "认识线索",
+          "text": "一张纸原本平展，折叠后会形成折痕与不同朝向的面。形状变化不意味着纸变成了另一种材料。"
+        },
+        {
+          "id": "japan-origami-b2",
+          "title": "进一步了解",
+          "text": "折痕帮助控制纸面的位置。有些步骤需要展开再折，刚才的痕迹仍可以作为对齐线索。"
+        },
+        {
+          "id": "japan-origami-b3",
+          "title": "把关系连起来",
+          "text": "示意图中的箭头说明运动方向，虚线需要结合图例理解。不同教程的符号不一定完全相同。"
+        },
+        {
+          "id": "japan-origami-b4",
+          "title": "资料的范围",
+          "text": "立体作品从不同方向看会呈现不同轮廓。只看正面图片，未必能知道背面怎样折叠。"
+        },
+        {
+          "id": "japan-origami-b5",
+          "title": "自己试一试",
+          "text": "先描述纸面的变化，再尝试理解步骤。手工活动可以有不同速度，观察与耐心比抢先完成更重要。"
+        },
+        {
+          "id": "japan-origami-b6",
+          "title": "观察一条折痕",
+          "text": "拿一张纸，把一边对齐另一边，轻轻压出折痕后再展开。原来的纸仍然完整，却多了一条帮助定位的线。接下来从另一方向折，比较两条折痕在哪里相交。这个过程能让你同时观察对齐、方向与平面被分成几部分。"
+        },
+        {
+          "id": "japan-origami-b7",
+          "title": "图示是一种语言",
+          "text": "折纸教程通常把连续动作拆成步骤：先放好纸，再折，再展开或翻面。漏掉其中一步，后面的图形可能就对不上。看不明白时，回到前一个能够确认的状态，比只盯着最后成品更容易找到原因。每个符号的含义都应以该教程图例为准。"
+        },
+        {
+          "id": "japan-origami-b8",
+          "title": "平面与立体可以互相帮助",
+          "text": "把完成的简单纸形从正面、侧面和上面分别看看，同一个作品会出现不同轮廓。再轻轻展开，找出哪些折痕与立起的面有关。折纸不仅提供手工乐趣，也让抽象的几何关系变成可以摸到、转动和重新观察的东西。"
+        }
+      ],
+      "term": "折痕",
+      "definition": "纸张折叠后留下的线状痕迹。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/virtual/origami/"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-kyoto",
+      "glossary": [
+        {
+          "term": "折痕",
+          "definition": "纸张折叠后留下的线状痕迹。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-origami-check"
+    },
+    {
+      "id": "japan-tokyo-river",
+      "countryId": "japan",
+      "sectionId": "landmarks",
+      "title": "在隅田川边认识东京",
+      "summary": "隅田川是认识东京滨水空间的入口。先看河流与岸边，再寻找照片中的桥和步道。",
+      "mediaId": "japan-photo-tokyo",
+      "blocks": [
+        {
+          "id": "japan-tokyo-river-b1",
+          "title": "认识线索",
+          "text": "隅田川是认识东京滨水空间的入口。先看河流与岸边，再寻找照片中的桥和步道。"
+        },
+        {
+          "id": "japan-tokyo-river-b2",
+          "title": "进一步了解",
+          "text": "桥连接两岸，沿河道路则顺着岸边延伸。它们提供不同方向的联系，可以在地图和照片中分别寻找。"
+        },
+        {
+          "id": "japan-tokyo-river-b3",
+          "title": "把关系连起来",
+          "text": "公共空间可能被居民、通勤者与游客使用。一张照片不能告诉我们每个人住在哪里或正在想什么。"
+        },
+        {
+          "id": "japan-tokyo-river-b4",
+          "title": "资料的范围",
+          "text": "过去与现在的河岸可能不同，但比较变化需要同地点、有日期、可比视角的资料。两张不同河段照片不能直接作前后对比。"
+        },
+        {
+          "id": "japan-tokyo-river-b5",
+          "title": "自己试一试",
+          "text": "写下一项能看见的设施，再提出一个需要询问使用者的问题。将观察与猜想分开，让笔记可以继续补充。"
+        },
+        {
+          "id": "japan-tokyo-river-b6",
+          "title": "先看横向，再看纵向",
+          "text": "照片中的桥横跨水面，河岸顺着水流方向延伸。用两种不同笔画把这两类线索分开，再寻找建筑群所在的位置。从高处观察，能看见空间连接；到了岸边，才会增加声音、步行感受等另一类信息，两种视角可以相互补充。"
+        },
+        {
+          "id": "japan-tokyo-river-b7",
+          "title": "设施与人的需要",
+          "text": "道路、桥、台阶与绿地，都是可以继续提问的公共设施。它们把哪些地方连在一起？是否方便不同人使用？一张照片可能提供部分线索，但不能替所有使用者回答。了解城市，也需要听住在这里、经过这里和维护这里的人怎样描述。"
+        },
+        {
+          "id": "japan-tokyo-river-b8",
+          "title": "完成一段有依据的笔记",
+          "text": "先写一句看得见的事实，例如“桥跨过河面”；再写一句尚未核实的猜想，例如“也许有人从这里步行上班”；最后写需要什么资料来验证。三句话不必很长，但要分清层次。以后得到地图或访谈资料，就可以回到笔记继续补充。"
+        }
+      ],
+      "term": "公共空间",
+      "definition": "供人们共同使用的场所或空间。",
+      "sourceUrls": [
+        "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/index.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-tokyo",
+      "glossary": [
+        {
+          "term": "公共空间",
+          "definition": "供人们共同使用的场所或空间。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "japan-open-tokyo-river",
+        "type": "open",
+        "title": "在隅田川边认识东京",
+        "prompt": "写下可直接看见或读到的线索，再写一个需要验证的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "japan-photo-tokyo"
+        ],
+        "suggestedArticleIds": [
+          "japan-tokyo-river"
+        ]
+      }
+    },
+    {
+      "id": "japan-kyoto-street",
+      "countryId": "japan",
+      "sectionId": "landmarks",
+      "title": "京都的老街与今天的生活",
+      "summary": "京都位于本州，鸭川流经城市区域。认识它既可以从历史建筑开始，也可以看看今天的街道与河岸。",
+      "mediaId": "japan-photo-kyoto",
+      "blocks": [
+        {
+          "id": "japan-kyoto-street-b1",
+          "title": "认识线索",
+          "text": "京都位于本州，鸭川流经城市区域。认识它既可以从历史建筑开始，也可以看看今天的街道与河岸。"
+        },
+        {
+          "id": "japan-kyoto-street-b2",
+          "title": "进一步了解",
+          "text": "建筑外观看起来古老，不代表全部构件都保持最初状态。修缮与重建的历史需要具体资料说明。"
+        },
+        {
+          "id": "japan-kyoto-street-b3",
+          "title": "把关系连起来",
+          "text": "同一条街可能有人居住、工作和参观。不能因为它出现在旅游照片里，就把它当成没有日常生活的布景。"
+        },
+        {
+          "id": "japan-kyoto-street-b4",
+          "title": "资料的范围",
+          "text": "地图说明位置，照片展示一个时刻，历史档案帮助了解变化。三种材料可以互相补充，不能相互替代。"
+        },
+        {
+          "id": "japan-kyoto-street-b5",
+          "title": "自己试一试",
+          "text": "在地图里找到京都，再说明它与东京是不同城市。说出依据，比记住一个图钉的颜色更可靠。"
+        },
+        {
+          "id": "japan-kyoto-street-b6",
+          "title": "从河流理解城市",
+          "text": "照片里能找到鸭川水面、两岸道路和沿岸建筑。河流穿过城市，周围仍然有人生活与活动。京都的历史吸引许多观察者，但学习这座城市，不应只把注意力放在著名古建筑上，也可以从桥、街道和普通住宅提出问题。"
+        },
+        {
+          "id": "japan-kyoto-street-b7",
+          "title": "老建筑也有时间线",
+          "text": "一座建筑可能经历修缮、用途变化与周边环境改变。外观、构件年代和今天用途，是三个不同问题。要回答“它有多久历史”，需要明确说的是地点、主体结构还是后来增加的部分，不能只用“看起来很旧”作判断。"
+        },
+        {
+          "id": "japan-kyoto-street-b8",
+          "title": "比较京都与东京",
+          "text": "先在全国图找到两座城市，确认它们都在本州，再分别看两张河岸照片。可以比较桥的位置、建筑密度与可见步道，却不能凭两个取景框决定哪座城市的所有地方更热闹。比较时写清观察范围，能让结论更具体，也更容易被别人核对。"
+        }
+      ],
+      "term": "修缮",
+      "definition": "对建筑等进行维护与修理。",
+      "sourceUrls": [
+        "https://kyoto.travel/en/destinations/running-coursekamogawa-river/"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-kyoto",
+      "glossary": [
+        {
+          "term": "修缮",
+          "definition": "对建筑等进行维护与修理。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-kyoto-street-check"
+    },
+    {
+      "id": "japan-himeji",
+      "countryId": "japan",
+      "sectionId": "landmarks",
+      "title": "姬路城为什么有多层空间？",
+      "summary": "姬路城是一组历史建筑，不只是一座白色塔楼。照片里能看见屋顶、墙面和建筑之间的层次。",
+      "mediaId": "japan-photo-himeji",
+      "blocks": [
+        {
+          "id": "japan-himeji-b1",
+          "title": "认识线索",
+          "text": "姬路城是一组历史建筑，不只是一座白色塔楼。照片里能看见屋顶、墙面和建筑之间的层次。"
+        },
+        {
+          "id": "japan-himeji-b2",
+          "title": "进一步了解",
+          "text": "不同空间与通道参与了城堡的使用和防御。不能因为外形漂亮，就只把它介绍成装饰建筑。"
+        },
+        {
+          "id": "japan-himeji-b3",
+          "title": "把关系连起来",
+          "text": "从外部看见的屋顶层数，不一定可以直接当作内部楼层数量。了解内部结构需要平面图或建筑资料。"
+        },
+        {
+          "id": "japan-himeji-b4",
+          "title": "资料的范围",
+          "text": "世界遗产资料介绍它的建筑与历史价值。今天的保存也包含维护工作，不应把修复后的外观当成从未改变。"
+        },
+        {
+          "id": "japan-himeji-b5",
+          "title": "自己试一试",
+          "text": "观察题先找可见的屋顶与墙面，历史用途再依资料判断。让照片回答外观问题，资料回答时间和使用问题。"
+        },
+        {
+          "id": "japan-himeji-b6",
+          "title": "白墙下面是什么",
+          "text": "白色外墙很醒目，但建筑并不是由一整块白色石头雕成。姬路城是研究日本木构城堡的重要案例，木结构、墙面与屋顶各有作用。照片提供外观线索，建筑资料则说明材料、构件与内部空间，两种资料回答的问题不同。"
+        },
+        {
+          "id": "japan-himeji-b7",
+          "title": "不是只有最高的楼",
+          "text": "试着先找最高的建筑，再看旁边较低的建筑、围墙和通道。城堡是相互联系的建筑群，防御与使用需要放在整体布局里理解。只把最高的塔楼剪出来，就容易漏掉建筑之间怎样连接、入口在哪里等重要问题。"
+        },
+        {
+          "id": "japan-himeji-b8",
+          "title": "做一张观察对照表",
+          "text": "左边写屋顶、墙面与石砌基础等看得见的部分，右边写需要查图纸的内容，例如内部楼层与通道。外面的屋檐层次和里面楼层不能简单一一对应。把“能看见”与“需查资料”分开，会让你的建筑观察更加准确。"
+        }
+      ],
+      "term": "建筑群",
+      "definition": "在空间与用途上相互联系的一组建筑。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/661/"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-himeji",
+      "glossary": [
+        {
+          "term": "建筑群",
+          "definition": "在空间与用途上相互联系的一组建筑。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-himeji-check"
+    },
+    {
+      "id": "japan-forest",
+      "countryId": "japan",
+      "sectionId": "nature",
+      "title": "屋久岛森林里有哪些层次？",
+      "summary": "屋久岛位于九州以南，是一座有山地与森林的岛。岛屿并不只有海滩，内部环境同样值得观察。",
+      "mediaId": "japan-photo-yakushima",
+      "blocks": [
+        {
+          "id": "japan-forest-b1",
+          "title": "认识线索",
+          "text": "屋久岛位于九州以南，是一座有山地与森林的岛。岛屿并不只有海滩，内部环境同样值得观察。"
+        },
+        {
+          "id": "japan-forest-b2",
+          "title": "进一步了解",
+          "text": "森林里有高处树冠、树干与较低的植物，地面还可能有苔藓、落叶与倒木。不同层次提供不同生活空间。本页照片是山地森林远景，图解另行演示林下层次；照片不能直接辨认全部层次。"
+        },
+        {
+          "id": "japan-forest-b3",
+          "title": "把关系连起来",
+          "text": "照片里见到苔藓，不足以测定全年降水量。光线、拍摄季节与具体地点都会影响画面。"
+        },
+        {
+          "id": "japan-forest-b4",
+          "title": "资料的范围",
+          "text": "树木、地面和水分等条件共同构成生态环境。保护森林不能只关注一棵外形特别的树。"
+        },
+        {
+          "id": "japan-forest-b5",
+          "title": "自己试一试",
+          "text": "先指出照片中能辨认的层次，再查植物名称。看不清的细节保留未知，不根据绿色深浅猜测树龄。"
+        },
+        {
+          "id": "japan-forest-b6",
+          "title": "远景与近景互相补充",
+          "text": "本页实景照片主要呈现连绵山地与森林树冠，无法看清每棵树下的地面。图解另用原创模型说明树冠、林下和地面三个层次。要在真实场景里确认苔藓或落叶，需要更近的观察资料，不能把图解中画出的东西说成照片已经拍到。"
+        },
+        {
+          "id": "japan-forest-b7",
+          "title": "环境随高度变化",
+          "text": "屋久岛有明显的山地起伏，不同高度的环境并不完全一样。世界遗产资料介绍了岛上森林与生物的重要性。认识一座岛时，既看海岸，也看内部山地，可以避免把“岛屿”等同于“只有沙滩”的单一印象。"
+        },
+        {
+          "id": "japan-forest-b8",
+          "title": "把森林看作联系",
+          "text": "树冠遮挡部分光线，落叶回到地面，倒木也可能成为其他生物生活的地方。这些关系帮助理解森林并非互不相关的树木集合。观察时可以先画高低层次，再写想了解的联系；具体植物与动物的名称，则继续用当地资料逐项核对。"
+        }
+      ],
+      "term": "树冠",
+      "definition": "树木上部由枝叶组成的部分。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/662/"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-yakushima",
+      "glossary": [
+        {
+          "term": "树冠",
+          "definition": "树木上部由枝叶组成的部分。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-forest-check",
+      "diagram": "japan-forest"
+    },
+    {
+      "id": "japan-crane",
+      "countryId": "japan",
+      "sectionId": "nature",
+      "title": "丹顶鹤为什么需要湿地？",
+      "summary": "钏路湿地位于北海道。湿地包含水与陆地相互联系的环境，不能把它看成没有作用的空地。",
+      "mediaId": "japan-photo-kushiro",
+      "blocks": [
+        {
+          "id": "japan-crane-b1",
+          "title": "认识线索",
+          "text": "钏路湿地位于北海道。湿地包含水与陆地相互联系的环境，不能把它看成没有作用的空地。"
+        },
+        {
+          "id": "japan-crane-b2",
+          "title": "进一步了解",
+          "text": "丹顶鹤的生活需要适合觅食与繁殖的环境。湿地中的水、植被和食物关系，都值得一起了解。"
+        },
+        {
+          "id": "japan-crane-b3",
+          "title": "把关系连起来",
+          "text": "一张照片记录某个时刻的姿态，不能证明鸟全年都停在同一个地方。长期观察才能认识活动变化。"
+        },
+        {
+          "id": "japan-crane-b4",
+          "title": "资料的范围",
+          "text": "观察鸟类应保持距离，不追赶或接近巢穴。本应用标记公开景观代表位置，不提供巢址。"
+        },
+        {
+          "id": "japan-crane-b5",
+          "title": "自己试一试",
+          "text": "研究一种动物时，应同时了解栖息地。只保存一张漂亮动物照片，不能代替对整个环境的认识。"
+        },
+        {
+          "id": "japan-crane-b6",
+          "title": "从地图到栖息地",
+          "text": "先在日本北部找到北海道，再找钏路湿地。照片展示大片植被、水分与地形相互联系的环境，不是丹顶鹤的近距离肖像。地图标记只指向公开景观代表位置，不表示鸟巢所在处，也不保证某个时刻一定能够看见鸟。"
+        },
+        {
+          "id": "japan-crane-b7",
+          "title": "水与陆地不是硬边界",
+          "text": "湿地里有些地方长期积水，有些地方水位会变化。植物与动物利用不同空间，水流也与周围土地相连。因此观察湿地，要同时关心水、植被和人们的活动，不能只把它当成一片待填平的空地，或只关注一种明星动物。"
+        },
+        {
+          "id": "japan-crane-b8",
+          "title": "把观察留给安静的距离",
+          "text": "如果在现实中观察鸟类，可以从公开观景点使用望远镜，记录时间、天气与看到的行为。没有看见也可以诚实记下，不必靠追赶来完成任务。连续记录多个时刻，才能逐渐理解它们如何使用环境；单张照片只是其中一条线索。"
+        }
+      ],
+      "term": "栖息地",
+      "definition": "生物生活并获得所需环境条件的地方。",
+      "sourceUrls": [
+        "https://www.env.go.jp/en/nature/npr/ramsar_wetland/pamph/ramsarpamphen/RamsarSites_en_web17.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-kushiro",
+      "glossary": [
+        {
+          "term": "栖息地",
+          "definition": "生物生活并获得所需环境条件的地方。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-crane-check"
+    },
+    {
+      "id": "japan-pottery",
+      "countryId": "japan",
+      "sectionId": "history",
+      "title": "陶器怎样留下生活线索？",
+      "summary": "陶器碎片也可以成为了解过去的线索。研究者会记录它的出土位置、材料与周围遗存，而不只看纹样。",
+      "mediaId": "japan-card-pottery",
+      "blocks": [
+        {
+          "id": "japan-pottery-b1",
+          "title": "认识线索",
+          "text": "陶器碎片也可以成为了解过去的线索。研究者会记录它的出土位置、材料与周围遗存，而不只看纹样。"
+        },
+        {
+          "id": "japan-pottery-b2",
+          "title": "进一步了解",
+          "text": "形状、烧制和使用痕迹能够帮助提出问题。容器里过去装过什么，可能还需要残留物分析。"
+        },
+        {
+          "id": "japan-pottery-b3",
+          "title": "把关系连起来",
+          "text": "发现一件物品，不等于立刻知道使用者的姓名或全部生活。考古结论会区分可靠证据与仍待研究的解释。"
+        },
+        {
+          "id": "japan-pottery-b4",
+          "title": "资料的范围",
+          "text": "年代需要考古背景或检测等资料，不能只凭颜色深就说更古老。本页不把不同地区的陶器混称同一种文化。"
+        },
+        {
+          "id": "japan-pottery-b5",
+          "title": "自己试一试",
+          "text": "观察与推断分别记录，新的证据可能修改原先解释。历史研究不是为每件物品编一个确定故事。"
+        },
+        {
+          "id": "japan-pottery-b6",
+          "title": "从碎片开始提问",
+          "text": "考古发现的器物常常并不完整。研究者会把碎片的位置、层位和相邻遗存一起记录，再比较形状与制作痕迹。日本绳纹陶器中的“绳纹”，与用绳留下的纹样有关，但并非所有时期与地区的陶器都具有完全相同的装饰。"
+        },
+        {
+          "id": "japan-pottery-b7",
+          "title": "纹样和用途不是同一题",
+          "text": "表面纹样可以用来比较制作方式；器形和残留痕迹则可能帮助研究用途。一条装饰线不能直接告诉我们某一餐吃了什么。把证据分成不同类别，能避免将一种观察结果用来回答所有历史问题，也让后续研究更有针对性。"
+        },
+        {
+          "id": "japan-pottery-b8",
+          "title": "给物件画记录卡",
+          "text": "本页使用原创资料卡，没有把现代博物馆外观当作古代陶器照片。你可以选家里的一个普通杯子，画轮廓、写材料与可见痕迹，再把不知道的生产年代留空。练习的是记录方法；家中的物件与考古遗物的历史价值和研究条件并不相同。"
+        }
+      ],
+      "term": "考古背景",
+      "definition": "器物被发现的位置、层位与周围遗存等信息。",
+      "sourceUrls": [
+        "https://www.um.u-tokyo.ac.jp/UMUTopenlab/en/library/f_1.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "glossary": [
+        {
+          "term": "考古背景",
+          "definition": "器物被发现的位置、层位与周围遗存等信息。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-pottery-check"
+    },
+    {
+      "id": "japan-railway",
+      "countryId": "japan",
+      "sectionId": "history",
+      "title": "铁路档案怎样记录变化？",
+      "summary": "铁路把不同地点联系起来，也留下车票、地图、照片和车辆等材料。每种材料适合回答不同问题。",
+      "mediaId": "japan-photo-tokyo",
+      "blocks": [
+        {
+          "id": "japan-railway-b1",
+          "title": "认识线索",
+          "text": "铁路把不同地点联系起来，也留下车票、地图、照片和车辆等材料。每种材料适合回答不同问题。"
+        },
+        {
+          "id": "japan-railway-b2",
+          "title": "进一步了解",
+          "text": "带日期的线路图可以帮助了解当时的连接，车辆照片可以观察外形，却未必记录全部班次。"
+        },
+        {
+          "id": "japan-railway-b3",
+          "title": "把关系连起来",
+          "text": "日本东海道新干线在1964年开始运营。这是一个具体历史节点，不代表日本铁路从那时才出现。"
+        },
+        {
+          "id": "japan-railway-b4",
+          "title": "资料的范围",
+          "text": "今天的列车照片不能直接代替开通时的现场资料。复原模型与概念图也应明确标明材料类型。"
+        },
+        {
+          "id": "japan-railway-b5",
+          "title": "自己试一试",
+          "text": "查一段铁路历史，先问时间、地点和来源。把档案与实物放在一起，才能逐步理解技术与生活怎样变化。"
+        },
+        {
+          "id": "japan-railway-b6",
+          "title": "把三个时间分开",
+          "text": "车票上的日期、照片的拍摄日期和一条线路的开通日期，可能是三个不同时间。阅读档案时，先确认每个日期指什么。1964 年是东海道新干线开始运营的节点，不应把任何今天的站台照片都标成当时场景。"
+        },
+        {
+          "id": "japan-railway-b7",
+          "title": "连接改变了哪些选择",
+          "text": "铁路让地点之间有了稳定的交通联系，人们可以据此安排工作、探亲或旅行。要研究具体生活怎样改变，需要对应时期的地图、记录与人的经历。只看一列车的外形，能够讨论设计线索，却不足以推断所有人的出行方式。"
+        },
+        {
+          "id": "japan-railway-b8",
+          "title": "让时间线能被核对",
+          "text": "选“开通”作为节点，把年份写在上方，支持它的资料来源写在下方，再连到文章。这样的时间线既有故事，也有查证入口。卡片之间的屏幕距离只是排版，不代表事件相隔同样多年；比较时应看年份，而不是量卡片间距。"
+        }
+      ],
+      "term": "档案",
+      "definition": "记录特定时期活动、事件或事物的材料。",
+      "sourceUrls": [
+        "https://recommend.jr-central.co.jp/gooddayexpress/history/"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-tokyo",
+      "glossary": [
+        {
+          "term": "档案",
+          "definition": "记录特定时期活动、事件或事物的材料。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-railway-check"
+    },
+    {
+      "id": "japan-peace",
+      "countryId": "japan",
+      "sectionId": "history",
+      "title": "怎样通过历史资料理解战争与和平？",
+      "summary": "广岛和平纪念公园提供认识战争伤害与和平纪念的入口。1945年原子弹爆炸造成严重人员伤亡与长期影响。",
+      "mediaId": "japan-photo-hiroshima",
+      "blocks": [
+        {
+          "id": "japan-peace-b1",
+          "title": "认识线索",
+          "text": "广岛和平纪念公园提供认识战争伤害与和平纪念的入口。1945年原子弹爆炸造成严重人员伤亡与长期影响。"
+        },
+        {
+          "id": "japan-peace-b2",
+          "title": "进一步了解",
+          "text": "这段历史属于第二次世界大战背景。认识它时，也需要了解日本发动的侵略战争给亚洲其他地区人民造成的伤害。"
+        },
+        {
+          "id": "japan-peace-b3",
+          "title": "把关系连起来",
+          "text": "平民经历不能被抽象数字完全代替。有出处的个人记录可以帮助理解生活被怎样改变，但不编造人物对话。"
+        },
+        {
+          "id": "japan-peace-b4",
+          "title": "资料的范围",
+          "text": "遗址、纪念建筑和档案是不同类型的材料。今天的公园照片不能当作1945年的现场照片。"
+        },
+        {
+          "id": "japan-peace-b5",
+          "title": "自己试一试",
+          "text": "这里采用适龄、非血腥材料。可以写下想了解的问题，也可以暂停阅读。理解和平需要尊重不同受害者的真实经历。"
+        },
+        {
+          "id": "japan-peace-b6",
+          "title": "分清遗址与纪念空间",
+          "text": "原爆圆顶馆是被保存的历史遗址，和平纪念公园则包含后来建设的纪念空间。本页照片展示今天的公园，不是爆炸发生时的影像。遗址、后来的纪念建筑和档案分别提供不同线索，说明材料类型能避免把不同时间混成一幅画。"
+        },
+        {
+          "id": "japan-peace-b7",
+          "title": "尊重个人，也了解背景",
+          "text": "读一个平民的经历，可以帮助理解战争怎样打断上学、家庭与日常生活；了解第二次世界大战的背景，又能把个人放回更大的历史中。两者都重要。认识日本侵略战争造成的伤害，也不意味着可以忽略普通人的苦难；受害经历都应被认真对待。"
+        },
+        {
+          "id": "japan-peace-b8",
+          "title": "把问题带向今天",
+          "text": "可以和成人讨论：纪念馆为什么保存普通人的物品？为什么要核对证言和档案？怎样在表达不同意见时仍尊重他人？本页不要求观看冲击性影像，也不以答题分数评价情绪。用可靠记录理解过去，是学习珍惜生命与和平的一种起点。"
+        }
+      ],
+      "term": "遗址",
+      "definition": "过去活动留下并保存至今的场所或遗存。",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/775/",
+        "https://www.mofa.go.jp/announce/press/pm/murayama/9508.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-hiroshima",
+      "glossary": [
+        {
+          "term": "遗址",
+          "definition": "过去活动留下并保存至今的场所或遗存。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "activity": {
+        "id": "japan-open-peace",
+        "type": "open",
+        "title": "怎样通过历史资料理解战争与和平？",
+        "prompt": "写下可直接看见或读到的线索，再写一个需要验证的问题。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "japan-photo-hiroshima"
+        ],
+        "suggestedArticleIds": [
+          "japan-peace"
+        ]
+      }
+    },
+    {
+      "id": "japan-scale",
+      "countryId": "japan",
+      "sectionId": "questions",
+      "title": "为什么小岛地图也能铺满屏幕？",
+      "summary": "同一块屏幕可以展示全国，也可以展示一座小岛。这不表示两个地方现实面积相同，而是地图缩放不同。",
+      "mediaId": "japan-photo-naha",
+      "blocks": [
+        {
+          "id": "japan-scale-b1",
+          "title": "认识线索",
+          "text": "同一块屏幕可以展示全国，也可以展示一座小岛。这不表示两个地方现实面积相同，而是地图缩放不同。"
+        },
+        {
+          "id": "japan-scale-b2",
+          "title": "进一步了解",
+          "text": "比例尺说明图上距离与现实距离的关系。切换地区后，应该重新查看比例尺，不能沿用上一幅图的长度印象。"
+        },
+        {
+          "id": "japan-scale-b3",
+          "title": "把关系连起来",
+          "text": "冲绳地区与日本主要岛屿相隔海域。单独放大是为了看清岛形，不表示实际位置已经移动。"
+        },
+        {
+          "id": "japan-scale-b4",
+          "title": "资料的范围",
+          "text": "不同插图使用各自比例时，不能直接拿尺跨图量距离。需要比较现实距离，应使用统一尺度的地图或测量资料。"
+        },
+        {
+          "id": "japan-scale-b5",
+          "title": "自己试一试",
+          "text": "先选择正确范围，再找那霸的标记。地点标记表示位置，岛屿轮廓表示陆地范围，两者并不相同。"
+        },
+        {
+          "id": "japan-scale-b6",
+          "title": "先做一个桌面实验",
+          "text": "在大纸上画一张桌子的平面，再在小纸上画同一张桌子，两幅图都可以正确，只是缩小程度不同。实际桌子并没有改变。这与把全国图和小岛图分别铺满屏幕类似：屏幕大小相同，不表示图中陆地具有一样面积。"
+        },
+        {
+          "id": "japan-scale-b7",
+          "title": "比例尺也会跟着变",
+          "text": "缩放地图时，比例尺表示的一段屏幕长度对应多少实际距离。观察时先看单位，再比较图中的位置。两个视图分别使用独立比例，就不能把一幅图上的一厘米直接搬到另一幅图里理解，否则容易夸大或缩小远近关系。"
+        },
+        {
+          "id": "japan-scale-b8",
+          "title": "用名字确认自己在哪里",
+          "text": "切到西南岛屿后，先查看区域标题，再找那霸。切到小笠原，则会看见另一组岛屿的位置。每次切换都检查标题、方向和比例尺，就像翻地图册时先看页名。区域图里的空白不是国家边界，它只是当前视图没有展示的范围。"
+        }
+      ],
+      "term": "比例尺",
+      "definition": "说明图上距离与实际距离之间关系的标记。",
+      "sourceUrls": [
+        "https://web-japan.org/kidsweb/explore/nature/index.html"
+      ],
+      "readingMinutes": 4,
+      "revision": 4,
+      "placeId": "japan-naha",
+      "glossary": [
+        {
+          "term": "比例尺",
+          "definition": "说明图上距离与实际距离之间关系的标记。"
+        }
+      ],
+      "updatedAt": "2026-11-11",
+      "exerciseId": "japan-scale-check",
+      "diagram": "japan-scale"
+    }
+  ],
+  "places": [
+    {
+      "id": "japan-tokyo",
+      "countryId": "japan",
+      "name": "东京 · 隅田川",
+      "category": "城市",
+      "latitude": 35.714,
+      "longitude": 139.801,
+      "region": "日本 · 主要列岛",
+      "summary": "隅田川穿过东京的城市区域，桥和河岸把水与日常生活联系起来。",
+      "description": "沿着照片中的河岸找道路，再看桥怎样横跨水面。这里的代表坐标位于东京隅田川区域，不是整座城市的中心或边界。",
+      "observation": "桥、岸边道路和建筑群分别位于哪里？哪些用途还需要更多资料？",
+      "mediaIds": [
+        "japan-photo-tokyo"
+      ],
+      "sourceUrl": "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/index.html",
+      "articleIds": [
+        "japan-capital",
+        "japan-tokyo-river",
+        "japan-transfer",
+        "japan-railway"
+      ],
+      "aliases": [
+        "tokyo",
+        "东京 · 隅田川"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-tokyo",
+          "x": 0.48,
+          "y": 0.57,
+          "label": "河面",
+          "explanation": "水面穿过城市；颜色不能直接说明水深。"
+        },
+        {
+          "mediaId": "japan-photo-tokyo",
+          "x": 0.52,
+          "y": 0.76,
+          "label": "跨河的桥",
+          "explanation": "桥连接两岸，与沿岸道路方向不同。"
+        },
+        {
+          "mediaId": "japan-photo-tokyo",
+          "x": 0.28,
+          "y": 0.2,
+          "label": "沿岸建筑",
+          "explanation": "可以观察建筑分布，不能据此推断每个人的生活。"
+        }
+      ]
+    },
+    {
+      "id": "japan-fuji",
+      "countryId": "japan",
+      "name": "富士山",
+      "category": "自然",
+      "latitude": 35.361,
+      "longitude": 138.727,
+      "region": "日本 · 主要列岛",
+      "summary": "从山形、湖面和倒影出发，认识火山与文化景观。",
+      "description": "富士山既可以从地形形成过程认识，也可以从信仰、旅行和艺术资料了解。封面是一个视角的山湖实景，不能代替全部遗产地点的地图。",
+      "observation": "找山坡与倒影的边界；哪些信息不能只靠照片确定？",
+      "mediaIds": [
+        "mount-fuji"
+      ],
+      "sourceUrl": "https://www.data.jma.go.jp/vois/data/report/activity_info/314.html",
+      "articleIds": [
+        "japan-volcano",
+        "japan-history",
+        "japan-questions"
+      ],
+      "aliases": [
+        "fuji",
+        "富士山"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "mount-fuji",
+          "x": 0.5,
+          "y": 0.35,
+          "label": "山体",
+          "explanation": "观察向上收拢的轮廓；形成过程需结合地质资料。"
+        },
+        {
+          "mediaId": "mount-fuji",
+          "x": 0.55,
+          "y": 0.8,
+          "label": "湖面与倒影",
+          "explanation": "倒影反映这个时刻的水面与视角。"
+        }
+      ]
+    },
+    {
+      "id": "japan-kyoto",
+      "countryId": "japan",
+      "name": "京都 · 鸭川",
+      "category": "城市",
+      "latitude": 35.011,
+      "longitude": 135.771,
+      "region": "日本 · 主要列岛",
+      "summary": "在鸭川两岸，认识京都的历史与当代生活。",
+      "description": "鸭川流经京都城市区域。河岸、道路与建筑同时出现，提醒我们历史城市也承载居民日常生活。当前照片不是任何古代时期的复原图。",
+      "observation": "比较顺着河岸的道路与横跨河流的桥。",
+      "mediaIds": [
+        "japan-photo-kyoto"
+      ],
+      "sourceUrl": "https://kyoto.travel/en/destinations/running-coursekamogawa-river/",
+      "articleIds": [
+        "japan-kyoto-street"
+      ],
+      "aliases": [
+        "kyoto",
+        "京都 · 鸭川"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-kyoto",
+          "x": 0.51,
+          "y": 0.7,
+          "label": "河流",
+          "explanation": "这条水面是鸭川城市河段。"
+        },
+        {
+          "mediaId": "japan-photo-kyoto",
+          "x": 0.18,
+          "y": 0.52,
+          "label": "岸边建筑",
+          "explanation": "建筑外形能观察，用途与年代需要另查。"
+        },
+        {
+          "mediaId": "japan-photo-kyoto",
+          "x": 0.78,
+          "y": 0.7,
+          "label": "河岸",
+          "explanation": "沿水边延伸的空间与跨河路线不同。"
+        }
+      ]
+    },
+    {
+      "id": "japan-himeji",
+      "countryId": "japan",
+      "name": "姬路城",
+      "category": "历史",
+      "latitude": 34.839,
+      "longitude": 134.694,
+      "region": "日本 · 主要列岛",
+      "summary": "白色墙面、多层屋顶与相连空间，组成一座历史城堡。",
+      "description": "姬路城是日本早期近代城堡建筑的重要保存实例。木构建筑、墙面、通道与防御布局需要放在整体中理解，外观屋顶层数不能直接等同于内部楼层。",
+      "observation": "先找屋顶、墙面和基础，再问内部结构需要什么资料。",
+      "mediaIds": [
+        "japan-photo-himeji"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/661/",
+      "articleIds": [
+        "japan-himeji"
+      ],
+      "aliases": [
+        "himeji",
+        "姬路城"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-himeji",
+          "x": 0.61,
+          "y": 0.3,
+          "label": "屋顶层次",
+          "explanation": "外部屋檐是可见线索，内部楼层要看建筑资料。"
+        },
+        {
+          "mediaId": "japan-photo-himeji",
+          "x": 0.58,
+          "y": 0.48,
+          "label": "白色墙面",
+          "explanation": "白墙与深色屋顶形成明显对比。"
+        },
+        {
+          "mediaId": "japan-photo-himeji",
+          "x": 0.55,
+          "y": 0.73,
+          "label": "基础与下部空间",
+          "explanation": "观察建筑怎样与下方石砌部分衔接。"
+        }
+      ]
+    },
+    {
+      "id": "japan-biwa",
+      "countryId": "japan",
+      "name": "琵琶湖",
+      "category": "自然",
+      "latitude": 35.24,
+      "longitude": 136.08,
+      "region": "日本 · 主要列岛",
+      "summary": "宽阔湖面、岸边聚落与周围山地，共同构成琵琶湖景观。",
+      "description": "琵琶湖位于本州滋贺县。照片适合辨认水岸与聚落，地图适合查看湖泊范围及水系联系。当前视角只呈现湖泊的一部分。",
+      "observation": "将水面、陆地和聚落分别指出，哪些边界看得清？",
+      "mediaIds": [
+        "japan-photo-biwa"
+      ],
+      "sourceUrl": "https://www.lberi.jp/english-pages/biwako",
+      "articleIds": [
+        "japan-river"
+      ],
+      "aliases": [
+        "biwa",
+        "琵琶湖"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-biwa",
+          "x": 0.5,
+          "y": 0.52,
+          "label": "湖面",
+          "explanation": "宽阔水面不等于整座湖泊的完整范围。"
+        },
+        {
+          "mediaId": "japan-photo-biwa",
+          "x": 0.52,
+          "y": 0.34,
+          "label": "远处山地",
+          "explanation": "远景山地与近景岸线处在不同距离。"
+        },
+        {
+          "mediaId": "japan-photo-biwa",
+          "x": 0.47,
+          "y": 0.73,
+          "label": "岸边聚落",
+          "explanation": "观察建筑与岸线的相对位置。"
+        }
+      ]
+    },
+    {
+      "id": "japan-hiroshima",
+      "countryId": "japan",
+      "name": "广岛和平纪念公园",
+      "category": "历史",
+      "latitude": 34.392,
+      "longitude": 132.453,
+      "region": "日本 · 主要列岛",
+      "summary": "从今天的和平纪念公园，走近历史记录与和平议题。",
+      "description": "广岛和平纪念公园包含纪念建筑与公共空间，附近的原爆圆顶馆保存历史遗址。公园照片属于今天的景观材料，不能作为1945年现场影像。",
+      "observation": "先辨认今天的设施，再思考需要哪些历史资料了解过去。",
+      "mediaIds": [
+        "japan-photo-hiroshima"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/775/",
+      "articleIds": [
+        "japan-peace"
+      ],
+      "aliases": [
+        "hiroshima",
+        "广岛和平纪念公园"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-hiroshima",
+          "x": 0.53,
+          "y": 0.54,
+          "label": "纪念建筑",
+          "explanation": "它属于今天公园中的纪念空间。"
+        },
+        {
+          "mediaId": "japan-photo-hiroshima",
+          "x": 0.52,
+          "y": 0.8,
+          "label": "开阔场地",
+          "explanation": "照片中的场地不能用来推断1945年的原貌。"
+        }
+      ]
+    },
+    {
+      "id": "japan-upopoy",
+      "countryId": "japan",
+      "name": "白老 · Upopoy",
+      "category": "文化",
+      "latitude": 42.561,
+      "longitude": 141.36,
+      "region": "日本 · 北海道",
+      "summary": "在北海道白老，听阿伊努文化与历史的讲述。",
+      "description": "Upopoy 是介绍与传承阿伊努文化的空间，包含博物馆与相关活动设施。建筑外观不是古代村落照片；了解展品与生活经验，还需要具体说明与当事人的声音。",
+      "observation": "建筑照片能说明什么？关于语言与文化，你还想听谁来讲述？",
+      "mediaIds": [
+        "japan-photo-upopoy"
+      ],
+      "sourceUrl": "https://ainu-upopoy.go.jp/en/facility/upopoy/",
+      "articleIds": [
+        "japan-ainu"
+      ],
+      "aliases": [
+        "upopoy",
+        "白老 · Upopoy"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-upopoy",
+          "x": 0.52,
+          "y": 0.4,
+          "label": "博物馆建筑",
+          "explanation": "现代展示空间，不能当作古代住宅。"
+        },
+        {
+          "mediaId": "japan-photo-upopoy",
+          "x": 0.5,
+          "y": 0.8,
+          "label": "户外空间",
+          "explanation": "场地外观不能代表所有阿伊努人的生活。"
+        }
+      ]
+    },
+    {
+      "id": "japan-kushiro",
+      "countryId": "japan",
+      "name": "钏路湿地",
+      "category": "自然",
+      "latitude": 43.1,
+      "longitude": 144.32,
+      "region": "日本 · 北海道",
+      "summary": "北海道的湿地，让我们把水、植物与动物栖息地放在一起看。",
+      "description": "钏路湿地包含多种湿地环境，也是认识丹顶鹤栖息环境的入口。地图采用公开景观代表位置，不标注巢址；照片没有显示鸟类特写。",
+      "observation": "找出远处开阔湿地、近景植被与观景设施。",
+      "mediaIds": [
+        "japan-photo-kushiro"
+      ],
+      "sourceUrl": "https://www.env.go.jp/en/nature/npr/ramsar_wetland/pamph/ramsarpamphen/RamsarSites_en_web17.pdf",
+      "articleIds": [
+        "japan-crane",
+        "japan-geography"
+      ],
+      "aliases": [
+        "kushiro",
+        "钏路湿地"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-kushiro",
+          "x": 0.45,
+          "y": 0.36,
+          "label": "湿地远景",
+          "explanation": "开阔景观需要结合水文与生态资料理解。"
+        },
+        {
+          "mediaId": "japan-photo-kushiro",
+          "x": 0.4,
+          "y": 0.73,
+          "label": "近景植被",
+          "explanation": "不能仅凭远景绿色确定每种植物的名称。"
+        },
+        {
+          "mediaId": "japan-photo-kushiro",
+          "x": 0.94,
+          "y": 0.79,
+          "label": "观景设施",
+          "explanation": "从公开设施保持距离观察，减少打扰。"
+        }
+      ]
+    },
+    {
+      "id": "japan-sakurajima",
+      "countryId": "japan",
+      "name": "樱岛",
+      "category": "自然",
+      "latitude": 31.583,
+      "longitude": 130.65,
+      "region": "日本 · 主要列岛",
+      "summary": "鹿儿岛湾边的火山景观，提供另一种观察山海关系的视角。",
+      "description": "樱岛位于九州鹿儿岛地区，是认识火山与海湾空间关系的地点。照片只反映拍摄时刻，当前活动状况和通行信息应查看气象及当地机构公告。",
+      "observation": "把山体、海面与照片中的云气分开观察；不要据照片推断当前状态。",
+      "mediaIds": [
+        "japan-photo-sakurajima"
+      ],
+      "sourceUrl": "https://www.data.jma.go.jp/vois/data/report/activity_info/314.html",
+      "articleIds": [
+        "japan-volcano",
+        "japan-geography"
+      ],
+      "aliases": [
+        "sakurajima",
+        "樱岛"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-sakurajima",
+          "x": 0.53,
+          "y": 0.56,
+          "label": "山体",
+          "explanation": "火山山体并不一定具有完美锥形。"
+        },
+        {
+          "mediaId": "japan-photo-sakurajima",
+          "x": 0.49,
+          "y": 0.84,
+          "label": "海湾",
+          "explanation": "海面与山脚的相对位置可以直接观察。"
+        }
+      ]
+    },
+    {
+      "id": "japan-yakushima",
+      "countryId": "japan",
+      "name": "屋久岛",
+      "category": "自然",
+      "latitude": 30.35,
+      "longitude": 130.5,
+      "region": "日本 · 主要列岛",
+      "summary": "九州以南的山地岛屿，拥有值得分层观察的森林。",
+      "description": "屋久岛的世界遗产资料介绍其森林与生态价值。当前远景主要展示树冠和山脊，林下苔藓、落叶等细节需要更近的观察材料。",
+      "observation": "找山脊与树冠；哪些森林层次在这张远景中看不清？",
+      "mediaIds": [
+        "japan-photo-yakushima"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/662/",
+      "articleIds": [
+        "japan-forest",
+        "japan-nature"
+      ],
+      "aliases": [
+        "yakushima",
+        "屋久岛"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-yakushima",
+          "x": 0.55,
+          "y": 0.35,
+          "label": "山脊",
+          "explanation": "岛屿内部有明显山地起伏。"
+        },
+        {
+          "mediaId": "japan-photo-yakushima",
+          "x": 0.48,
+          "y": 0.68,
+          "label": "森林树冠",
+          "explanation": "远景能看整体覆盖，不能确定每棵树的年龄。"
+        },
+        {
+          "mediaId": "japan-photo-yakushima",
+          "x": 0.5,
+          "y": 0.9,
+          "label": "近处枝叶",
+          "explanation": "近景与远景提供不同观察尺度。"
+        }
+      ]
+    },
+    {
+      "id": "japan-naha",
+      "countryId": "japan",
+      "name": "那霸",
+      "category": "城市",
+      "latitude": 26.212,
+      "longitude": 127.681,
+      "region": "日本 · 西南岛屿",
+      "summary": "冲绳岛上的城市，是认识西南地区位置与生活的入口。",
+      "description": "那霸与东京位于不同岛屿地区。照片展示那霸市政厅的现代建筑外观，并非市场食品标签；本模块的市场标签是另行绘制的原创练习材料。",
+      "observation": "观察层层平台与建筑周围空间，哪些城市信息还需要地图？",
+      "mediaIds": [
+        "japan-photo-naha"
+      ],
+      "sourceUrl": "https://web-japan.org/kidsweb/explore/nature/index.html",
+      "articleIds": [
+        "japan-scale",
+        "japan-okinawa-names",
+        "japan-labels"
+      ],
+      "aliases": [
+        "naha",
+        "那霸"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-naha",
+          "x": 0.52,
+          "y": 0.4,
+          "label": "建筑主体",
+          "explanation": "照片展示那霸市政厅，不代表整座城市。"
+        },
+        {
+          "mediaId": "japan-photo-naha",
+          "x": 0.5,
+          "y": 0.76,
+          "label": "绿化与平台",
+          "explanation": "可以观察空间层次，不能据此解释全部用途。"
+        }
+      ]
+    },
+    {
+      "id": "japan-iriomote",
+      "countryId": "japan",
+      "name": "西表岛",
+      "category": "自然",
+      "latitude": 24.32,
+      "longitude": 123.82,
+      "region": "日本 · 西南岛屿",
+      "summary": "在西表岛海岸，观察红树林与浅水环境的关系。",
+      "description": "西表岛位于西南岛屿地区。照片展示红树林海岸，可比较植物、水与岸边位置；它不是西表山猫的照片，也不能证明某个时刻能看见这种动物。",
+      "observation": "植物与水怎样交错？哪些细节需要近距离资料？",
+      "mediaIds": [
+        "japan-photo-iriomote"
+      ],
+      "sourceUrl": "https://web-japan.org/kidsweb/explore/nature/q3.html",
+      "articleIds": [
+        "japan-nature",
+        "japan-scale"
+      ],
+      "aliases": [
+        "iriomote",
+        "西表岛"
+      ],
+      "hotspots": [
+        {
+          "mediaId": "japan-photo-iriomote",
+          "x": 0.36,
+          "y": 0.49,
+          "label": "红树林",
+          "explanation": "植物分布与水岸关系是照片的直接线索。"
+        },
+        {
+          "mediaId": "japan-photo-iriomote",
+          "x": 0.75,
+          "y": 0.66,
+          "label": "浅水区域",
+          "explanation": "水面颜色不能准确量出水深。"
+        },
+        {
+          "mediaId": "japan-photo-iriomote",
+          "x": 0.58,
+          "y": 0.21,
+          "label": "远处陆地",
+          "explanation": "远处轮廓帮助理解海岸景观层次。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "japan-kushiro-location-check",
+      "countryId": "japan",
+      "articleId": "japan-geography",
+      "type": "location",
+      "question": "找到北海道的钏路湿地。",
+      "options": [
+        {
+          "id": "japan-kushiro",
+          "text": "钏路湿地"
+        },
+        {
+          "id": "japan-naha",
+          "text": "那霸"
+        },
+        {
+          "id": "japan-kyoto",
+          "text": "京都 · 鸭川"
+        }
+      ],
+      "answerId": "japan-kushiro",
+      "hint": "再读「岛屿中的山与平地」。",
+      "explanation": "海水围绕着岛屿，岛屿内部还包含山地、平原、河流与城镇。北海道的钏路湿地和本州的东京，处在不同地方，有不同的自然与城市景观。先找大岛，再找地点，可以让这些名字连接成有位置关系的知识，而不是彼此分开的词语。",
+      "evidenceBlockIds": [
+        "japan-geography-b4"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-people-check",
+      "countryId": "japan",
+      "articleId": "japan-people",
+      "type": "choice",
+      "question": "日语书写常用哪一组文字？",
+      "options": [
+        {
+          "id": "b",
+          "text": "只有汉字"
+        },
+        {
+          "id": "c",
+          "text": "只有英文字母"
+        },
+        {
+          "id": "a",
+          "text": "汉字、平假名、片假名"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「三种文字常常一起出现」。",
+      "explanation": "现代日语书写常使用汉字、平假名和片假名。汉字从古代中国传入，假名则在此基础上发展起来。",
+      "evidenceBlockIds": [
+        "japan-people-b1"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-nature-check",
+      "countryId": "japan",
+      "articleId": "japan-nature",
+      "type": "location",
+      "question": "找到九州以南的屋久岛。",
+      "options": [
+        {
+          "id": "japan-yakushima",
+          "text": "屋久岛"
+        },
+        {
+          "id": "japan-kushiro",
+          "text": "钏路湿地"
+        },
+        {
+          "id": "japan-tokyo",
+          "text": "东京 · 隅田川"
+        }
+      ],
+      "answerId": "japan-yakushima",
+      "hint": "再读「岛屿内部也有差别」。",
+      "explanation": "屋久岛位于九州以南，拥有山地与森林；西表岛则位于更靠西南的岛屿地区。把两处在地图上分别找出来，可以看见南方也不是一块完全相同的环境。每种动物都有自己的分布资料，不能因为都在南方就认定到处都有。",
+      "evidenceBlockIds": [
+        "japan-nature-b4"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-history-check",
+      "countryId": "japan",
+      "articleId": "japan-history",
+      "type": "choice",
+      "question": "富士山为什么具有文化价值？",
+      "options": [
+        {
+          "id": "c",
+          "text": "因为所有高山都是文化遗产"
+        },
+        {
+          "id": "a",
+          "text": "它与信仰、旅行和艺术有关"
+        },
+        {
+          "id": "b",
+          "text": "只因为它可以拍照"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「山也进入画与诗」。",
+      "explanation": "富士山长期与人们的信仰、旅行和艺术相连。19 世纪的木版画把它带给更多观众，它也影响了其他地方的艺术。",
+      "evidenceBlockIds": [
+        "japan-history-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-questions-check",
+      "countryId": "japan",
+      "articleId": "japan-questions",
+      "type": "observation",
+      "question": "一张照片能说明什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "一个视角和时刻的可见线索"
+        },
+        {
+          "id": "b",
+          "text": "全国每个人的一天"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「再写下需要资料的问题」。",
+      "explanation": "拍摄日期、相机位置、山的高度，都不能仅靠画面确定。可以把它们记成问题，再阅读图片说明与事实来源。",
+      "evidenceBlockIds": [
+        "japan-questions-b2"
+      ],
+      "mapScope": "country",
+      "mediaId": "mount-fuji"
+    },
+    {
+      "id": "japan-find-map-check",
+      "countryId": "japan",
+      "articleId": "japan-find-map",
+      "type": "location",
+      "question": "在世界地图找到日本。",
+      "options": [
+        {
+          "id": "usa",
+          "text": "美国"
+        },
+        {
+          "id": "egypt",
+          "text": "埃及"
+        },
+        {
+          "id": "japan",
+          "text": "日本"
+        }
+      ],
+      "answerId": "japan",
+      "hint": "再读「认识线索」。",
+      "explanation": "日本位于亚洲东部、太平洋西侧。先找到亚洲大陆，再向东寻找沿海的一串岛屿。",
+      "evidenceBlockIds": [
+        "japan-find-map-b1"
+      ],
+      "mapScope": "world"
+    },
+    {
+      "id": "japan-four-islands-check",
+      "countryId": "japan",
+      "articleId": "japan-four-islands",
+      "type": "choice",
+      "question": "四个大岛是日本全部岛屿吗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "不是，还包括其他岛屿"
+        },
+        {
+          "id": "b",
+          "text": "是，只有四个岛"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「进一步了解」。",
+      "explanation": "四个大岛之外还有许多岛屿。冲绳并不紧挨东京，小笠原也不能从全国图上一个很小的符号判断真实大小。",
+      "evidenceBlockIds": [
+        "japan-four-islands-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-capital-check",
+      "countryId": "japan",
+      "articleId": "japan-capital",
+      "type": "location",
+      "question": "找到东京。",
+      "options": [
+        {
+          "id": "japan-naha",
+          "text": "那霸"
+        },
+        {
+          "id": "japan-kyoto",
+          "text": "京都 · 鸭川"
+        },
+        {
+          "id": "japan-tokyo",
+          "text": "东京 · 隅田川"
+        }
+      ],
+      "answerId": "japan-tokyo",
+      "hint": "再读「认识线索」。",
+      "explanation": "东京是日本的首都，位于本州。地图点只能代表城市中的一个位置，不能把一个小圆点当成整座城市的边界。",
+      "evidenceBlockIds": [
+        "japan-capital-b1"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-volcano-check",
+      "countryId": "japan",
+      "articleId": "japan-volcano",
+      "type": "choice",
+      "question": "判断火山当前状况需要什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "机构观测与公告"
+        },
+        {
+          "id": "b",
+          "text": "看一张没有烟的照片"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「资料的范围」。",
+      "explanation": "照片中看不见烟，不等于可以证明火山没有活动风险。判断当前状况需要气象机构的观测与公告。",
+      "evidenceBlockIds": [
+        "japan-volcano-b4"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-river-check",
+      "countryId": "japan",
+      "articleId": "japan-river",
+      "type": "observation",
+      "question": "观察河流整体走向适合用什么？",
+      "options": [
+        {
+          "id": "b",
+          "text": "水面的颜色"
+        },
+        {
+          "id": "a",
+          "text": "地图上的河线"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「资料的范围」。",
+      "explanation": "照片适合看水岸、桥和建筑，地图更适合追踪水系。只看水面颜色，不能确定水深或污染程度。",
+      "evidenceBlockIds": [
+        "japan-river-b4"
+      ],
+      "mapScope": "country",
+      "mediaId": "japan-photo-biwa"
+    },
+    {
+      "id": "japan-ainu-check",
+      "countryId": "japan",
+      "articleId": "japan-ainu",
+      "type": "choice",
+      "question": "应该怎样了解阿伊努文化？",
+      "options": [
+        {
+          "id": "a",
+          "text": "听当事人和可靠机构的介绍"
+        },
+        {
+          "id": "b",
+          "text": "只凭衣着猜测"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「认识线索」。",
+      "explanation": "阿伊努人是拥有自身语言、文化和历史的原住民族。认识他们，应听当事人的讲述，而不是只凭服饰照片作判断。",
+      "evidenceBlockIds": [
+        "japan-ainu-b1"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-transfer-check",
+      "countryId": "japan",
+      "articleId": "japan-transfer",
+      "type": "choice",
+      "question": "虚构蓝线甲—乙、橙线乙—丙，在哪换乘？",
+      "options": [
+        {
+          "id": "b",
+          "text": "甲站"
+        },
+        {
+          "id": "a",
+          "text": "乙站"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「把关系连起来」。",
+      "explanation": "两条线都经过乙，所以从甲到丙需要在乙换乘。共同站点才是依据，不是因为乙画在图的中央。",
+      "evidenceBlockIds": [
+        "japan-transfer-b3"
+      ],
+      "mapScope": "country",
+      "diagram": "japan-transfer"
+    },
+    {
+      "id": "japan-labels-check",
+      "countryId": "japan",
+      "articleId": "japan-labels",
+      "type": "observation",
+      "question": "练习卡哪个字段表示产地？",
+      "options": [
+        {
+          "id": "a",
+          "text": "③产地：日本"
+        },
+        {
+          "id": "b",
+          "text": "②单位：千克"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「进一步了解」。",
+      "explanation": "原创练习标签写：①名称苹果，②单位千克，③产地日本。编号只是帮助定位，不代表等级。",
+      "evidenceBlockIds": [
+        "japan-labels-b2"
+      ],
+      "mapScope": "country",
+      "mediaId": "japan-card-labels"
+    },
+    {
+      "id": "japan-rice-check",
+      "countryId": "japan",
+      "articleId": "japan-rice",
+      "type": "choice",
+      "question": "判断米的产地应该查什么？",
+      "options": [
+        {
+          "id": "b",
+          "text": "米饭颜色"
+        },
+        {
+          "id": "a",
+          "text": "包装与供应记录"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「自己试一试」。",
+      "explanation": "要查产地，应看包装与供应记录；要观察加工变化，则比较不同阶段的材料。问题不同，所需证据也不同。",
+      "evidenceBlockIds": [
+        "japan-rice-b5"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-miso-check",
+      "countryId": "japan",
+      "articleId": "japan-miso",
+      "type": "choice",
+      "question": "发酵有谁参与？",
+      "options": [
+        {
+          "id": "a",
+          "text": "微生物"
+        },
+        {
+          "id": "b",
+          "text": "金属零件"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「进一步了解」。",
+      "explanation": "发酵有微生物参与，会使材料中的成分发生变化。它不是把一种颜色的食物简单染成另一种颜色。",
+      "evidenceBlockIds": [
+        "japan-miso-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-woodblock-check",
+      "countryId": "japan",
+      "articleId": "japan-woodblock",
+      "type": "observation",
+      "question": "多色套印需要注意什么？",
+      "options": [
+        {
+          "id": "b",
+          "text": "只看纸张大小"
+        },
+        {
+          "id": "a",
+          "text": "不同色版的位置对齐"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「把关系连起来」。",
+      "explanation": "多色作品可能使用不同色版，依次套印。对齐位置很重要，否则颜色与线条可能错开。",
+      "evidenceBlockIds": [
+        "japan-woodblock-b3"
+      ],
+      "mapScope": "country",
+      "mediaId": "japan-card-woodblock",
+      "diagram": "japan-woodblock"
+    },
+    {
+      "id": "japan-origami-check",
+      "countryId": "japan",
+      "articleId": "japan-origami",
+      "type": "choice",
+      "question": "折痕可以帮助什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "对齐纸面与理解步骤"
+        },
+        {
+          "id": "b",
+          "text": "证明纸变成金属"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「进一步了解」。",
+      "explanation": "折痕帮助控制纸面的位置。有些步骤需要展开再折，刚才的痕迹仍可以作为对齐线索。",
+      "evidenceBlockIds": [
+        "japan-origami-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-kyoto-street-check",
+      "countryId": "japan",
+      "articleId": "japan-kyoto-street",
+      "type": "location",
+      "question": "找到京都。",
+      "options": [
+        {
+          "id": "japan-tokyo",
+          "text": "东京 · 隅田川"
+        },
+        {
+          "id": "japan-himeji",
+          "text": "姬路城"
+        },
+        {
+          "id": "japan-kyoto",
+          "text": "京都 · 鸭川"
+        }
+      ],
+      "answerId": "japan-kyoto",
+      "hint": "再读「认识线索」。",
+      "explanation": "京都位于本州，鸭川流经城市区域。认识它既可以从历史建筑开始，也可以看看今天的街道与河岸。",
+      "evidenceBlockIds": [
+        "japan-kyoto-street-b1"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-himeji-check",
+      "countryId": "japan",
+      "articleId": "japan-himeji",
+      "type": "observation",
+      "question": "内部楼层数量应如何确认？",
+      "options": [
+        {
+          "id": "a",
+          "text": "查看平面图与建筑资料"
+        },
+        {
+          "id": "b",
+          "text": "直接数外部屋顶"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「把关系连起来」。",
+      "explanation": "从外部看见的屋顶层数，不一定可以直接当作内部楼层数量。了解内部结构需要平面图或建筑资料。",
+      "evidenceBlockIds": [
+        "japan-himeji-b3"
+      ],
+      "mapScope": "country",
+      "mediaId": "japan-photo-himeji"
+    },
+    {
+      "id": "japan-forest-check",
+      "countryId": "japan",
+      "articleId": "japan-forest",
+      "type": "observation",
+      "question": "照片能直接帮助观察什么？",
+      "options": [
+        {
+          "id": "b",
+          "text": "每棵树的准确年龄"
+        },
+        {
+          "id": "a",
+          "text": "山脊与大片森林树冠"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「远景与近景互相补充」。",
+      "explanation": "本页实景照片主要呈现连绵山地与森林树冠，无法看清每棵树下的地面。图解另用原创模型说明树冠、林下和地面三个层次。要在真实场景里确认苔藓或落叶，需要更近的观察资料，不能把图解中画出的东西说成照片已经拍到。",
+      "evidenceBlockIds": [
+        "japan-forest-b6"
+      ],
+      "mapScope": "country",
+      "mediaId": "japan-photo-yakushima"
+    },
+    {
+      "id": "japan-crane-check",
+      "countryId": "japan",
+      "articleId": "japan-crane",
+      "type": "choice",
+      "question": "认识丹顶鹤还要了解什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "它的栖息环境"
+        },
+        {
+          "id": "b",
+          "text": "只看羽毛颜色"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「进一步了解」。",
+      "explanation": "丹顶鹤的生活需要适合觅食与繁殖的环境。湿地中的水、植被和食物关系，都值得一起了解。",
+      "evidenceBlockIds": [
+        "japan-crane-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-pottery-check",
+      "countryId": "japan",
+      "articleId": "japan-pottery",
+      "type": "choice",
+      "question": "陶器年代应根据什么判断？",
+      "options": [
+        {
+          "id": "b",
+          "text": "只看颜色深浅"
+        },
+        {
+          "id": "a",
+          "text": "考古背景与检测资料"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「资料的范围」。",
+      "explanation": "年代需要考古背景或检测等资料，不能只凭颜色深就说更古老。本页不把不同地区的陶器混称同一种文化。",
+      "evidenceBlockIds": [
+        "japan-pottery-b4"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-railway-check",
+      "countryId": "japan",
+      "articleId": "japan-railway",
+      "type": "choice",
+      "question": "研究开通时的铁路需要什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "有日期的档案"
+        },
+        {
+          "id": "b",
+          "text": "任意一张今天列车的照片"
+        }
+      ],
+      "answerId": "a",
+      "hint": "再读「把关系连起来」。",
+      "explanation": "日本东海道新干线在1964年开始运营。这是一个具体历史节点，不代表日本铁路从那时才出现。",
+      "evidenceBlockIds": [
+        "japan-railway-b3"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "japan-scale-check",
+      "countryId": "japan",
+      "articleId": "japan-scale",
+      "type": "location",
+      "question": "在候选地点中找到那霸。",
+      "options": [
+        {
+          "id": "japan-kushiro",
+          "text": "钏路湿地"
+        },
+        {
+          "id": "japan-tokyo",
+          "text": "东京 · 隅田川"
+        },
+        {
+          "id": "japan-naha",
+          "text": "那霸"
+        }
+      ],
+      "answerId": "japan-naha",
+      "hint": "再读「自己试一试」。",
+      "explanation": "先选择正确范围，再找那霸的标记。地点标记表示位置，岛屿轮廓表示陆地范围，两者并不相同。",
+      "evidenceBlockIds": [
+        "japan-scale-b5"
+      ],
+      "mapScope": "country"
+    }
+  ],
+  "archivedExercises": [
+    {
+      "id": "japan-geography-check",
+      "countryId": "japan",
+      "articleId": "japan-geography",
+      "replacementExerciseId": "japan-kushiro-location-check",
+      "reason": "地理练习改为地图定位，保留旧作答记录。"
+    }
+  ]
+}

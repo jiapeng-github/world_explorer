@@ -1,0 +1,500 @@
+{
+  "status": "design-only",
+  "countryId": "norway",
+  "articles": [
+    {
+      "sectionId": "overview",
+      "id": "norway-find-map",
+      "title": "挪威在世界的哪里？",
+      "task": "L01",
+      "outline": [
+        "欧洲北部",
+        "海洋与邻国",
+        "本土与远处岛屿",
+        "国家面不是城市点",
+        "世界定位"
+      ],
+      "evidence": "地图轮廓与相对位置"
+    },
+    {
+      "sectionId": "overview",
+      "id": "norway-oslo",
+      "title": "奥斯陆为什么在地图的南端附近？",
+      "task": "L02",
+      "outline": [
+        "首都",
+        "国家南北跨度",
+        "城市与峡湾",
+        "现代公共空间",
+        "与北方城市比较"
+      ],
+      "evidence": "奥斯陆、卑尔根、特罗姆瑟三个真实城市点"
+    },
+    {
+      "sectionId": "overview",
+      "id": "norway-north-parts",
+      "title": "本土和北方岛屿怎样放进同一张地图？",
+      "task": "C01",
+      "outline": [
+        "本土与近岸岛屿",
+        "斯瓦尔巴",
+        "扬马延",
+        "分图比例尺",
+        "地图范围说明"
+      ],
+      "evidence": "分图比例不同，不能拿屏幕距离当实际距离"
+    },
+    {
+      "sectionId": "geography",
+      "id": "norway-geography",
+      "title": "峡湾是河流，还是海湾？",
+      "task": "C02",
+      "outline": [
+        "狭长海湾",
+        "冰川雕刻",
+        "海水进入",
+        "支流汇入",
+        "从形状到成因"
+      ],
+      "evidence": "峡湾与海洋连通，不把蓝色长条全部叫河流"
+    },
+    {
+      "sectionId": "geography",
+      "id": "norway-ice-valley",
+      "title": "冰川怎样改变山谷？",
+      "task": "P01",
+      "outline": [
+        "缓慢运动的冰",
+        "侵蚀与搬运",
+        "山谷剖面",
+        "冰退后的地形",
+        "示意与实测"
+      ],
+      "evidence": "用原创过程卡辨认冰川侵蚀与冰退后地形的顺序"
+    },
+    {
+      "sectionId": "geography",
+      "id": "norway-climate",
+      "title": "同一条纬线附近，天气就相同吗？",
+      "task": "C03",
+      "outline": [
+        "纬度",
+        "海洋影响",
+        "山地与海拔",
+        "沿海与内陆",
+        "天气和气候"
+      ],
+      "evidence": "不能只用纬度或一张雪景推断全年气候"
+    },
+    {
+      "sectionId": "people",
+      "id": "norway-people",
+      "title": "挪威只有一种语言与生活方式吗？",
+      "task": "C04",
+      "outline": [
+        "挪威语",
+        "两种书面规范",
+        "萨米语言",
+        "其他语言与手语",
+        "个人差异"
+      ],
+      "evidence": "书面规范不等于两种固定口音；公共地位不等于人人母语"
+    },
+    {
+      "sectionId": "people",
+      "id": "norway-written-forms",
+      "title": "Bokmål和Nynorsk是什么？",
+      "task": "P02",
+      "outline": [
+        "两种书面规范",
+        "名称卡",
+        "方言与书写",
+        "字形线索",
+        "来源核对"
+      ],
+      "evidence": "原创术语卡，两种书面规范，不假造街头标牌"
+    },
+    {
+      "sectionId": "people",
+      "id": "norway-sami",
+      "title": "怎样认识今天的萨米文化？",
+      "task": "O01",
+      "outline": [
+        "原住民族与跨境联系",
+        "多种萨米语言",
+        "城市与不同职业",
+        "同化历史与复兴",
+        "具体声音"
+      ],
+      "evidence": "不把萨米人都画成牧民，不用外貌判定身份"
+    },
+    {
+      "sectionId": "daily",
+      "id": "norway-daily",
+      "title": "亲近自然一定要爬高山吗？",
+      "task": "O02",
+      "outline": [
+        "城市公园",
+        "海滨步道",
+        "日常户外",
+        "不同身体能力",
+        "观察公共空间"
+      ],
+      "evidence": "一处无障碍设施的可见线索，未知条件另记"
+    },
+    {
+      "sectionId": "daily",
+      "id": "norway-transport",
+      "title": "陆地和水面怎样连接出行？",
+      "task": "C05",
+      "outline": [
+        "步行与公交",
+        "电车",
+        "渡轮",
+        "共同站点",
+        "虚构换乘示意"
+      ],
+      "evidence": "共同站点才能换乘，百科不提供实时班次"
+    },
+    {
+      "sectionId": "daily",
+      "id": "norway-public-space",
+      "title": "一条街道怎样照顾不同的人？",
+      "task": "P03",
+      "outline": [
+        "行人空间",
+        "车站与导向",
+        "坡道",
+        "可见设施",
+        "使用体验需进一步了解"
+      ],
+      "evidence": "在明确素材中找坡道或站牌，不根据照片证明整城无障碍"
+    },
+    {
+      "sectionId": "food",
+      "id": "norway-food",
+      "title": "一片面包怎样变成一份便当？",
+      "task": "C06",
+      "outline": [
+        "面包",
+        "配料",
+        "组合",
+        "不同家庭",
+        "食物来处"
+      ],
+      "evidence": "matpakke是一类便当习惯，不等于每个人都吃同样食物"
+    },
+    {
+      "sectionId": "food",
+      "id": "norway-cod",
+      "title": "鱼从海里到餐桌，经历了什么？",
+      "task": "C07",
+      "outline": [
+        "鳕鱼与渔业",
+        "捕捞",
+        "处理",
+        "干制与冷藏差别",
+        "运输和餐桌"
+      ],
+      "evidence": "stockfish干制过程不等于所有鱼都加盐，不混称鳕鱼与三文鱼"
+    },
+    {
+      "sectionId": "food",
+      "id": "norway-food-label",
+      "title": "食品标签上的“来自哪里”怎样读？",
+      "task": "P04",
+      "outline": [
+        "名称",
+        "计量",
+        "产地",
+        "加工与销售",
+        "未知信息"
+      ],
+      "evidence": "原创虚构标签，产地字段不能推出具体农场或捕捞点"
+    },
+    {
+      "sectionId": "culture",
+      "id": "norway-culture",
+      "title": "为什么国庆庆典里有儿童队伍？",
+      "task": "C08",
+      "outline": [
+        "5月17日",
+        "1814宪法",
+        "儿童游行",
+        "不同地方的参与",
+        "历史与今天"
+      ],
+      "evidence": "1814宪法纪念不是1905联合结束；照片日期另核"
+    },
+    {
+      "sectionId": "culture",
+      "id": "norway-wood-carving",
+      "title": "木头上的纹样能告诉我们什么？",
+      "task": "O03",
+      "outline": [
+        "乌尔内斯雕刻",
+        "线条与交叠",
+        "图案与材料",
+        "修复",
+        "含义需资料"
+      ],
+      "evidence": "可见形状与文化解释分栏，不编造古代图腾故事"
+    },
+    {
+      "sectionId": "culture",
+      "id": "norway-stories",
+      "title": "故事里的人物等于真实历史吗？",
+      "task": "C09",
+      "outline": [
+        "民间故事",
+        "作者与版本",
+        "想象人物",
+        "历史记录",
+        "尊重来源"
+      ],
+      "evidence": "巨魔是故事形象，不拿神话当挪威人的统一信仰"
+    },
+    {
+      "sectionId": "landmarks",
+      "id": "norway-geiranger",
+      "title": "盖朗厄尔峡湾在哪里？",
+      "task": "L03",
+      "outline": [
+        "西部海岸",
+        "海湾与山谷",
+        "聚落尺度",
+        "地图定位",
+        "照片角度"
+      ],
+      "evidence": "在本土图定位盖朗厄尔代表点，明确不是峡湾全体水面"
+    },
+    {
+      "sectionId": "landmarks",
+      "id": "norway-history",
+      "title": "木头房子怎样保存历史？",
+      "task": "P05",
+      "outline": [
+        "布吕根港区",
+        "贸易",
+        "火灾",
+        "重建与修复",
+        "证据卡"
+      ],
+      "evidence": "旧建筑样式不证明每一块木材都来自同一年"
+    },
+    {
+      "sectionId": "landmarks",
+      "id": "norway-urnes",
+      "title": "乌尔内斯木教堂为什么值得仔细看？",
+      "task": "C10",
+      "outline": [
+        "木建筑构件",
+        "场所用途",
+        "雕刻",
+        "不同历史影响",
+        "遗产维护"
+      ],
+      "evidence": "凭外观不能独自确定建造年代，用可靠遗产资料核对"
+    },
+    {
+      "sectionId": "nature",
+      "id": "norway-nature",
+      "title": "午夜为什么还能看见太阳？",
+      "task": "C11",
+      "outline": [
+        "地轴倾斜",
+        "季节",
+        "高纬",
+        "自转与光照",
+        "城市间差异"
+      ],
+      "evidence": "极昼由地轴倾斜、季节与纬度关系解释，不是太阳停住"
+    },
+    {
+      "sectionId": "nature",
+      "id": "norway-aurora",
+      "title": "极光和极昼是一回事吗？",
+      "task": "C12",
+      "outline": [
+        "夜空光",
+        "带电粒子",
+        "磁场与高层大气",
+        "观测条件",
+        "照片与肉眼"
+      ],
+      "evidence": "极光不是冰雪反光，也不承诺每天可见"
+    },
+    {
+      "sectionId": "nature",
+      "id": "norway-sea-ice",
+      "title": "海冰为什么也是动物生活的空间？",
+      "task": "L05",
+      "outline": [
+        "斯瓦尔巴与北极",
+        "海冰与冰川",
+        "北极熊与猎物",
+        "时空变化",
+        "保护和证据"
+      ],
+      "evidence": "定位斯瓦尔巴真实岛屿面，不把北极熊放在奥斯陆街头"
+    },
+    {
+      "sectionId": "history",
+      "id": "norway-constitution",
+      "title": "1814年的资料怎样帮助我们认识过去？",
+      "task": "P06",
+      "outline": [
+        "宪法",
+        "历史制度",
+        "当时参与的限制",
+        "原件与摘记",
+        "时间证据"
+      ],
+      "evidence": "注明机构、年份、出处的资料比无日期风景照更适合核对事件"
+    },
+    {
+      "sectionId": "history",
+      "id": "norway-union",
+      "title": "1814与1905为什么要分开记？",
+      "task": "O04",
+      "outline": [
+        "两年两件事",
+        "与丹麦关系变化",
+        "与瑞典联合",
+        "1905解体",
+        "避免单线故事"
+      ],
+      "evidence": "从1814与1905资料卡记录不同事件，再提出仍需查证的问题"
+    },
+    {
+      "sectionId": "history",
+      "id": "norway-occupation",
+      "title": "战争和占领怎样影响人们的生活？",
+      "task": "O05",
+      "outline": [
+        "1940入侵",
+        "纳粹占领",
+        "迫害与抵抗",
+        "1945解放",
+        "战后重建"
+      ],
+      "evidence": "非血腥材料；不隐去受害者，区分事实、问题与情绪"
+    },
+    {
+      "sectionId": "questions",
+      "id": "norway-questions",
+      "title": "从峡湾照片里怎样找三种尺度？",
+      "task": "O06",
+      "outline": [
+        "近景",
+        "中景",
+        "远景",
+        "透视",
+        "照片之外"
+      ],
+      "evidence": "保留旧尺度观察主题，照片中像素大小不是实际大小"
+    },
+    {
+      "sectionId": "questions",
+      "id": "norway-arctic-circle",
+      "title": "北极圈是国家边界吗？",
+      "task": "L06",
+      "outline": [
+        "纬线",
+        "大致纬度",
+        "国界",
+        "海岸",
+        "读图例"
+      ],
+      "evidence": "北极圈、国界、海岸三类真实线型与文字等价选项"
+    },
+    {
+      "sectionId": "questions",
+      "id": "norway-glacier-map",
+      "title": "冰川照片拍在哪里？",
+      "task": "L04",
+      "outline": [
+        "约斯特达尔冰川",
+        "代表点与完整范围",
+        "照片日期",
+        "视角",
+        "比较条件"
+      ],
+      "evidence": "约斯特达尔冰川、盖朗厄尔、布吕根代表点定位；照片不证明整个冰川趋势"
+    }
+  ],
+  "places": [
+    {
+      "id": "norway-geiranger",
+      "name": "盖朗厄尔峡湾",
+      "mediaPlan": "峡湾全景／岸边聚落",
+      "designCoordinates": "62.10, 7.10"
+    },
+    {
+      "id": "norway-bryggen",
+      "name": "布吕根历史港区",
+      "mediaPlan": "木屋临港立面／通道细节",
+      "designCoordinates": "60.40, 5.32"
+    },
+    {
+      "id": "norway-oslo",
+      "name": "奥斯陆",
+      "mediaPlan": "现代海滨公共空间／电车街景",
+      "designCoordinates": "59.91, 10.75"
+    },
+    {
+      "id": "norway-naeroyfjord",
+      "name": "纳柔依峡湾",
+      "mediaPlan": "狭长海湾／山坡与水面",
+      "designCoordinates": "60.96, 6.94"
+    },
+    {
+      "id": "norway-urnes",
+      "name": "乌尔内斯木教堂",
+      "mediaPlan": "建筑整体／获许可雕刻细节",
+      "designCoordinates": "61.30, 7.32"
+    },
+    {
+      "id": "norway-lofoten-reine",
+      "name": "罗弗敦·雷讷",
+      "mediaPlan": "群岛与聚落／渔业场景",
+      "designCoordinates": "67.93, 13.09"
+    },
+    {
+      "id": "norway-tromso",
+      "name": "特罗姆瑟",
+      "mediaPlan": "现代城市／有日期的夏季日照照片",
+      "designCoordinates": "69.65, 18.96"
+    },
+    {
+      "id": "norway-alta",
+      "name": "阿尔塔岩画",
+      "mediaPlan": "遗产地环境／获许可岩画记录",
+      "designCoordinates": "69.95, 23.19"
+    },
+    {
+      "id": "norway-karasjok",
+      "name": "卡拉绍克",
+      "mediaPlan": "萨米议会建筑／现代社区公共空间",
+      "designCoordinates": "69.47, 25.51"
+    },
+    {
+      "id": "norway-eidsvoll",
+      "name": "埃兹沃尔",
+      "mediaPlan": "历史建筑外观／注明来源的资料材料",
+      "designCoordinates": "60.30, 11.17"
+    },
+    {
+      "id": "norway-longyearbyen",
+      "name": "朗伊尔城",
+      "mediaPlan": "斯瓦尔巴城镇／科学文化设施外观",
+      "designCoordinates": "78.22, 15.65"
+    },
+    {
+      "id": "norway-jostedalsbreen",
+      "name": "约斯特达尔冰川",
+      "mediaPlan": "注明具体冰舌的照片／同地点可追溯记录",
+      "designCoordinates": "61.67, 6.97"
+    }
+  ]
+}

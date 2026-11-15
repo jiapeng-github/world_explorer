@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-14",
+  "mode": "built-in image_gen",
+  "status": "design-only",
+  "reviewStatus": "reviewed; concept-only limits documented",
+  "images": [
+    {
+      "id": "01-antarctica-overview",
+      "title": "专题首页与八大主题",
+      "states": [
+        "AN01",
+        "AN02"
+      ],
+      "prompt": "Use case: ui-mockup. Design high fidelity UI boards for the existing Chinese Flutter children's geography encyclopedia 世界大百科, audience age 8. Match approved modern geographic atlas: white and #F4F7FB canvas, deep navy #12395B typography, vivid orange #FF9A3D actions with dark text, icy cyan #DCEEF7 backgrounds, large rich photorealistic editorial scenery, subtle 16px rounded cards, generous whitespace, crisp Noto Sans SC-like Chinese type. This is an ANTARCTICA NATURE SPECIAL, not a country page. No flag, capital, currency, population statistics, rewards, leaderboards or invented user progress. Use only concise Chinese copy given below, legible large typography. A flat professional UI presentation on a pale blue outer background, no 3D phone frames, no device perspective, no decorative desk. Two complete mobile screens side by side with 390:844 proportions unless otherwise specified. Top back bar for child pages. Only root/overview/directory use bottom navigation 发现 地图 百科 我的. Reader screens use ONLY 目录 听讲解 收藏 笔记 at bottom. Avoid duplicate navigation. Images are concept visual placeholders, not scientific evidence. In each board outer margin include tiny note 界面概念稿. No polar bears, igloos or cartoon mascots. Real science, joyful curiosity, no alarmist climate imagery.\nLEFT overview: slim 世界大百科 app header, large title 南极洲, small ANTARCTICA · 自然地理专题. Very large cinematic Antarctic Peninsula photograph-like view of white mountains and sculpted blue ice along dark turquoise water, no animals pasted onto it. White overlap panel subtitle 一起读懂冰雪大陆. Three short facts 大陆 / 南极点 / 南大洋 as separate concept chips with labels 冰下有陆地 / 地球最南端 / 环绕大陆. Two large photo entry tiles 冰从哪里来？ (blue ice shelf) and 谁住在冰海边？ (Adelie penguins rocky coast), full orange CTA 开始探索, small link 打开南极地图. Bottom nav 百科 selected. RIGHT complete directory with back label 南极洲, title 发现八个主题 and short line 从一块冰，走进一个世界. Narrow three-image collage blue iceberg/penguin/research field scientist. Exactly 8 two-column photographic category tiles, visible all: 南极在哪里, 冰雪的秘密, 光照与天气, 南大洋生命, 企鹅与邻居, 科学家的工作, 科考站的一天, 变化与守护. Each small label 3篇文章. No extra categories.",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-c094ed81-b694-4b90-852c-9bcd35c221e2.png",
+      "outputPath": "images/01-antarctica-overview.png",
+      "selectedPath": "images/01-antarctica-overview-v2.png",
+      "review": "concept visual reviewed; production corrections in VISUAL_HANDOFF.md",
+      "revisionSourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-d3471a6e-ff8b-479b-a17b-9f11dd0baa04.png",
+      "revisionRecord": "imagegen-revisions.json",
+      "sha256": "1982185b942c8084578565ce23bf4c088a8918711dcbe38940128e0825674adf",
+      "bytes": 2136769,
+      "width": 1199,
+      "height": 1312
+    },
+    {
+      "id": "02-antarctica-polar-map",
+      "title": "南极投影地图与地点抽屉",
+      "states": [
+        "AN03",
+        "AN04"
+      ],
+      "prompt": "Use case: ui-mockup. Design high fidelity UI boards for the existing Chinese Flutter children's geography encyclopedia 世界大百科, audience age 8. Match approved modern geographic atlas: white and #F4F7FB canvas, deep navy #12395B typography, vivid orange #FF9A3D actions with dark text, icy cyan #DCEEF7 backgrounds, large rich photorealistic editorial scenery, subtle 16px rounded cards, generous whitespace, crisp Noto Sans SC-like Chinese type. This is an ANTARCTICA NATURE SPECIAL, not a country page. No flag, capital, currency, population statistics, rewards, leaderboards or invented user progress. Use only concise Chinese copy given below, legible large typography. A flat professional UI presentation on a pale blue outer background, no 3D phone frames, no device perspective, no decorative desk. Two complete mobile screens side by side with 390:844 proportions unless otherwise specified. Top back bar for child pages. Only root/overview/directory use bottom navigation 发现 地图 百科 我的. Reader screens use ONLY 目录 听讲解 收藏 笔记 at bottom. Avoid duplicate navigation. Images are concept visual placeholders, not scientific evidence. In each board outer margin include tiny note 界面概念稿. No polar bears, igloos or cartoon mascots. Real science, joyful curiosity, no alarmist climate imagery.\nUse landscape board with ONE large 1194:834 tablet UI left and ONE 390:844 mobile UI right. Header 南极地图. Tablet left details panel 320px wide has search 搜索地点或科考站 and selected 罗斯冰架, large ice cliff photo, short text 与大陆冰相连，漂浮在海上, navy button 查看地点. Right map is a beautiful simplified accurate polar plan of Antarctica centered on South Pole, ocean pale blue, land ivory with restrained cyan topographic contours. At SOUTH POLE map center label 南极点. Greenwich meridian to top; east longitudes to right; Antarctic Peninsula extending upper-left, Ross Ice Shelf lower center-left near 180 meridian. Antarctic Circle is concentric dashed circle around pole beyond much of coastline, never tilted diagonal. Mark 南极半岛 upper-left, 罗斯冰架 lower, 中山站 upper-right. No political sector wedges or national flags. Top segmented controls 全洲 南极半岛 罗斯海; chips 陆地 冰架 地点. Small key 冰架 is pale cyan diagonal hatch; 海冰 is OFF. Show scale 1000 km as illustrative and source-label 地图示意. Mobile shows same South Pole map and Ross Ice Shelf selection with half-height white photo drawer and blue 查看地点 CTA. No north-up arrow at map center. No contemporary sea ice fake boundary. No flight or tourism route.",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-24eb720d-a709-4901-9cea-8b439621e37f.png",
+      "outputPath": "images/02-antarctica-polar-map.png",
+      "selectedPath": "images/02-antarctica-polar-map-v2.png",
+      "review": "concept visual reviewed; production corrections in VISUAL_HANDOFF.md",
+      "revisionSourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-99ec368e-82de-4aa1-999e-0d146c15dd4d.png",
+      "revisionRecord": "imagegen-revisions.json",
+      "sha256": "113b4bd27b312c18616e1e454e758c7e1d6d5646b21a4cd5e8b3836292507460",
+      "bytes": 1933606,
+      "width": 1501,
+      "height": 1048
+    },
+    {
+      "id": "03-antarctica-ice",
+      "title": "冰雪阅读与分类互动",
+      "states": [
+        "AN05",
+        "AN06"
+      ],
+      "prompt": "Use case: ui-mockup. Design high fidelity UI boards for the existing Chinese Flutter children's geography encyclopedia 世界大百科, audience age 8. Match approved modern geographic atlas: white and #F4F7FB canvas, deep navy #12395B typography, vivid orange #FF9A3D actions with dark text, icy cyan #DCEEF7 backgrounds, large rich photorealistic editorial scenery, subtle 16px rounded cards, generous whitespace, crisp Noto Sans SC-like Chinese type. This is an ANTARCTICA NATURE SPECIAL, not a country page. No flag, capital, currency, population statistics, rewards, leaderboards or invented user progress. Use only concise Chinese copy given below, legible large typography. A flat professional UI presentation on a pale blue outer background, no 3D phone frames, no device perspective, no decorative desk. Two complete mobile screens side by side with 390:844 proportions unless otherwise specified. Top back bar for child pages. Only root/overview/directory use bottom navigation 发现 地图 百科 我的. Reader screens use ONLY 目录 听讲解 收藏 笔记 at bottom. Avoid duplicate navigation. Images are concept visual placeholders, not scientific evidence. In each board outer margin include tiny note 界面概念稿. No polar bears, igloos or cartoon mascots. Real science, joyful curiosity, no alarmist climate imagery.\nTwo mobile reader screens. LEFT back 南极洲, title 大陆上的冰，怎样走进海里？, small 冰雪的秘密 · 约4分钟. Spectacular photograph-like blue-white Antarctic ice shelf front above dark water, no people. One sentence 雪慢慢变成冰，冰也在缓慢流动。. Below an ORIGINAL clean side cross-section diagram on pale blue with short labels 陆地, 冰盖, 冰架, 海水: brown rock slopes below sea; thick pale ice over grounded land smoothly extends as FLOATING shelf above open sea, visible seawater beneath; dashed grounding line label 接地线. Small caption 原创过程示意 · 不按比例. Buttons play-like 看冰的旅程 and text source 来源与词语. Bottom reader tools. RIGHT back 冰雪的秘密 title 哪一种冰来自海水？. Three large stacked image/diagram choices 冰盖 / 冰架 / 海冰. Sea ice represented as THIN flat floating floes on seawater; shelf visibly connected to land; grounded sheet on rock. All radio circles empty in default state and 确认选择 button grey disabled. Below short reassurance 先观察，选好再确认. Use same reader bottom tools. No red failure state, no correct answer revealed before submitting.",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-16a30b1f-9351-4fd4-874a-3ba22319b6d1.png",
+      "outputPath": "images/03-antarctica-ice.png",
+      "selectedPath": "images/03-antarctica-ice.png",
+      "review": "concept visual reviewed; production corrections in VISUAL_HANDOFF.md",
+      "sha256": "6d0c0bfc4cdb8149090a3602700bcf7bf6fffb29bcb83776a0cad8c4d1131aeb",
+      "bytes": 2003707,
+      "width": 1263,
+      "height": 1245
+    },
+    {
+      "id": "04-antarctica-life",
+      "title": "南大洋食物网与帝企鹅阅读",
+      "states": [
+        "AN07",
+        "AN08"
+      ],
+      "prompt": "Use case: ui-mockup. Design high fidelity UI boards for the existing Chinese Flutter children's geography encyclopedia 世界大百科, audience age 8. Match approved modern geographic atlas: white and #F4F7FB canvas, deep navy #12395B typography, vivid orange #FF9A3D actions with dark text, icy cyan #DCEEF7 backgrounds, large rich photorealistic editorial scenery, subtle 16px rounded cards, generous whitespace, crisp Noto Sans SC-like Chinese type. This is an ANTARCTICA NATURE SPECIAL, not a country page. No flag, capital, currency, population statistics, rewards, leaderboards or invented user progress. Use only concise Chinese copy given below, legible large typography. A flat professional UI presentation on a pale blue outer background, no 3D phone frames, no device perspective, no decorative desk. Two complete mobile screens side by side with 390:844 proportions unless otherwise specified. Top back bar for child pages. Only root/overview/directory use bottom navigation 发现 地图 百科 我的. Reader screens use ONLY 目录 听讲解 收藏 笔记 at bottom. Avoid duplicate navigation. Images are concept visual placeholders, not scientific evidence. In each board outer margin include tiny note 界面概念稿. No polar bears, igloos or cartoon mascots. Real science, joyful curiosity, no alarmist climate imagery.\nLEFT reader title 一只小磷虾，连着谁？ subtitle 南大洋生命. Top wide macro photograph-like Antarctic krill translucent pink in blue seawater. Below spacious simple illustrated scientific network with 5 nodes and EXACT arrows: 浮游植物 -> 磷虾; 磷虾 -> 阿德利企鹅; 磷虾 -> 座头鲸; 磷虾 -> 食蟹海豹. Arrowheads point from food TO eater. Label 箭头表示：食物 → 吃它的动物. Tap-style node 磷虾 highlighted orange, one evidence panel 我很小，却是许多动物的食物. Note 原创简化关系图. Reader tools. RIGHT reader title 帝企鹅怎样度过寒冬？, large warm photorealistic father emperor penguin with grey chick on feet in brood area standing on Antarctic sea ice. Correct emperor dark black head with yellow-orange neck, not king penguin or cartoon. Three image-detail chips 密密的羽毛 / 护住幼鸟 / 聚在一起. Short paragraph 羽毛、脂肪和行为，帮助它们减少热量流失。. Link 看看它们的生活环境 and open observation CTA 我看见了什么. No child touching wild animals, no animals at inland South Pole station, no emperor all-year species-population claims.",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-d2372117-51d4-4143-bc90-c54f36d8e5e1.png",
+      "outputPath": "images/04-antarctica-life.png",
+      "selectedPath": "images/04-antarctica-life.png",
+      "review": "concept visual reviewed; production corrections in VISUAL_HANDOFF.md",
+      "sha256": "6a4e5b34bc103595c139818f8a9c5521c6cdc918fe45b941c6d4b164446553ac",
+      "bytes": 1988906,
+      "width": 1261,
+      "height": 1247
+    },
+    {
+      "id": "05-antarctica-science",
+      "title": "科学任务与科考站详情",
+      "states": [
+        "AN09",
+        "AN10"
+      ],
+      "prompt": "Use case: ui-mockup. Design high fidelity UI boards for the existing Chinese Flutter children's geography encyclopedia 世界大百科, audience age 8. Match approved modern geographic atlas: white and #F4F7FB canvas, deep navy #12395B typography, vivid orange #FF9A3D actions with dark text, icy cyan #DCEEF7 backgrounds, large rich photorealistic editorial scenery, subtle 16px rounded cards, generous whitespace, crisp Noto Sans SC-like Chinese type. This is an ANTARCTICA NATURE SPECIAL, not a country page. No flag, capital, currency, population statistics, rewards, leaderboards or invented user progress. Use only concise Chinese copy given below, legible large typography. A flat professional UI presentation on a pale blue outer background, no 3D phone frames, no device perspective, no decorative desk. Two complete mobile screens side by side with 390:844 proportions unless otherwise specified. Top back bar for child pages. Only root/overview/directory use bottom navigation 发现 地图 百科 我的. Reader screens use ONLY 目录 听讲解 收藏 笔记 at bottom. Avoid duplicate navigation. Images are concept visual placeholders, not scientific evidence. In each board outer margin include tiny note 界面概念稿. No polar bears, igloos or cartoon mascots. Real science, joyful curiosity, no alarmist climate imagery.\nLEFT back 南极洲 title 科学家的工作. Large candid concept scene of scientists in orange-red cold weather gear examining a clean ice core at a field science table outdoors, no unsafe drill instruction. Three editorial photo rows 冰芯里的旧空气 / 卫星怎样看冰 / 风和雪的记录 with short descriptive microcopy. Small blue box 从一个问题，到一份记录. Orange button 看一次冰芯观察. Bottom nav 百科 selected only if needed, do not stack. RIGHT place page back 南极地点 title 中山站, small 东南极 · 拉斯曼丘陵. Photorealistic generic Antarctic coastal research station red low buildings on exposed rocky coast, pale ice behind; label 建筑示意 on this concept photo. No invented specific exact architecture or national flags as territory markers. Two small photo tiles 观测 and 日常, three plain rows 位置：沿海地区 / 工作：观测与协作 / 生活：轮班与补给. Tiny map locator with dot on eastern coast in 69°S 76°E position, no coordinates text necessary. Buttons 在地图上找它, 记下我的发现. NO capital/currency/population facts, no fake online station weather or visitor bookings.",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-0fb7c97a-dfcb-43c3-bcc5-1285c39a6778.png",
+      "outputPath": "images/05-antarctica-science.png",
+      "selectedPath": "images/05-antarctica-science-v2.png",
+      "review": "concept visual reviewed; production corrections in VISUAL_HANDOFF.md",
+      "revisionSourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-14609143-61fc-43ac-8077-29852ad040ff.png",
+      "revisionRecord": "imagegen-revisions.json",
+      "sha256": "a1c90d2dff4b6d131de91d71d032da77274d991e682117671b9adfcf206c50d6",
+      "bytes": 2084874,
+      "width": 1278,
+      "height": 1230
+    },
+    {
+      "id": "06-antarctica-light-history",
+      "title": "极昼极夜与认识南极的时间线",
+      "states": [
+        "AN11",
+        "AN12"
+      ],
+      "prompt": "Use case: ui-mockup. Design high fidelity UI boards for the existing Chinese Flutter children's geography encyclopedia 世界大百科, audience age 8. Match approved modern geographic atlas: white and #F4F7FB canvas, deep navy #12395B typography, vivid orange #FF9A3D actions with dark text, icy cyan #DCEEF7 backgrounds, large rich photorealistic editorial scenery, subtle 16px rounded cards, generous whitespace, crisp Noto Sans SC-like Chinese type. This is an ANTARCTICA NATURE SPECIAL, not a country page. No flag, capital, currency, population statistics, rewards, leaderboards or invented user progress. Use only concise Chinese copy given below, legible large typography. A flat professional UI presentation on a pale blue outer background, no 3D phone frames, no device perspective, no decorative desk. Two complete mobile screens side by side with 390:844 proportions unless otherwise specified. Top back bar for child pages. Only root/overview/directory use bottom navigation 发现 地图 百科 我的. Reader screens use ONLY 目录 听讲解 收藏 笔记 at bottom. Avoid duplicate navigation. Images are concept visual placeholders, not scientific evidence. In each board outer margin include tiny note 界面概念稿. No polar bears, igloos or cartoon mascots. Real science, joyful curiosity, no alarmist climate imagery.\nLEFT reader title 为什么有时整天不落日？, large well-exposed Antarctic snowy landscape with low sun. Segmented buttons 南极点 / 中山站. Simple 2-column scientifically correct diagrams labeled 12月 and 6月, fixed tilted rotation axis same global direction in both, SOUTH hemisphere toward parallel sunlight in December and away in June; draw clear day/night halves, southern pole orange point, no arrows implying rotation stopped. A simple labeled comparison 南极点：12月是白昼 / 南极点：6月是黑夜 with caption 原创原理示意. No numeric sunrise time, no false day lengths for entire continent. Reader tools. RIGHT back 南极洲 title 人们怎样认识南极？ subtitle 从远行，到共同研究. Four concise timeline items on clean white: 1911 抵达地理南极点; 1957—1958 多国协作观测; 1959 签署《南极条约》; 1991 签署环保议定书. Each small graphic modern editorial document card, not faux antique primary-source photographs. Bottom light blue panel 这里的故事，也有科学家、医生和后勤人员. Small source link 看资料来源. No progress stats, no trophy conquest framing. Maintain same bright modern visual style.",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-263c5707-df36-43d8-a2d0-8e702084ade2.png",
+      "outputPath": "images/06-antarctica-light-history.png",
+      "selectedPath": "images/06-antarctica-light-history-v2.png",
+      "review": "concept visual reviewed; production corrections in VISUAL_HANDOFF.md",
+      "revisionSourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-ca0fff8c-c660-46a4-ac46-9d5224ed515b.png",
+      "revisionRecord": "imagegen-revisions.json",
+      "sha256": "6650f1e322c655775610d4ce0af18014602fbd00d9e2153f42cdca7b5f3ed029",
+      "bytes": 1911679,
+      "width": 1262,
+      "height": 1246
+    },
+    {
+      "id": "07-antarctica-explore",
+      "title": "探索任务与我的南极发现",
+      "states": [
+        "AN13",
+        "AN14"
+      ],
+      "prompt": "Use case: ui-mockup. Design high fidelity UI boards for the existing Chinese Flutter children's geography encyclopedia 世界大百科, audience age 8. Match approved modern geographic atlas: white and #F4F7FB canvas, deep navy #12395B typography, vivid orange #FF9A3D actions with dark text, icy cyan #DCEEF7 backgrounds, large rich photorealistic editorial scenery, subtle 16px rounded cards, generous whitespace, crisp Noto Sans SC-like Chinese type. This is an ANTARCTICA NATURE SPECIAL, not a country page. No flag, capital, currency, population statistics, rewards, leaderboards or invented user progress. Use only concise Chinese copy given below, legible large typography. A flat professional UI presentation on a pale blue outer background, no 3D phone frames, no device perspective, no decorative desk. Two complete mobile screens side by side with 390:844 proportions unless otherwise specified. Top back bar for child pages. Only root/overview/directory use bottom navigation 发现 地图 百科 我的. Reader screens use ONLY 目录 听讲解 收藏 笔记 at bottom. Avoid duplicate navigation. Images are concept visual placeholders, not scientific evidence. In each board outer margin include tiny note 界面概念稿. No polar bears, igloos or cartoon mascots. Real science, joyful curiosity, no alarmist climate imagery.\nLEFT back 南极洲, title 南极探索任务. Three-image hero strip blueice/penguins/researchinstruments. Filter tabs 全部 找地图 看关系 写观察. Three large photo/list tasks 在地图上找南极点 (地图定位), 谁把能量传给了谁？ (关系观察), 记下一条冰雪发现 (开放观察). Small note 随时跳过，也能继续阅读. No locked levels, no points, no streaks. RIGHT back 我的, title 我的南极发现. Elegant row with 0 读过文章 / 0 看过地点 / 0 观察记录 as clearly real initial-empty state; no percentages or awards. Warm open-book line icon, text 你的第一条发现，从这里开始. Two recommended photo cards 冰雪的秘密 and 南大洋生命. Navy CTA 选择一个问题. Small bottom link 查看全部笔记. Bottom global nav 我的 selected. Generous whitespace.",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-02972655-cbeb-4436-8e03-7d9912c43ac8.png",
+      "outputPath": "images/07-antarctica-explore.png",
+      "selectedPath": "images/07-antarctica-explore-v2.png",
+      "review": "concept visual reviewed; production corrections in VISUAL_HANDOFF.md",
+      "revisionSourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-ca8d0534-5661-45af-b0da-0392e06f4151.png",
+      "revisionRecord": "imagegen-revisions.json",
+      "sha256": "ed8a77235f5046d902e8221a84c8d7e9e6220ad5e98a096c5e330c61f1d25598",
+      "bytes": 2012902,
+      "width": 1261,
+      "height": 1247
+    },
+    {
+      "id": "08-antarctica-journey-note",
+      "title": "三站阅读路线与观察笔记",
+      "states": [
+        "AN15",
+        "AN16"
+      ],
+      "prompt": "Use case: ui-mockup. Design high fidelity UI boards for the existing Chinese Flutter children's geography encyclopedia 世界大百科, audience age 8. Match approved modern geographic atlas: white and #F4F7FB canvas, deep navy #12395B typography, vivid orange #FF9A3D actions with dark text, icy cyan #DCEEF7 backgrounds, large rich photorealistic editorial scenery, subtle 16px rounded cards, generous whitespace, crisp Noto Sans SC-like Chinese type. This is an ANTARCTICA NATURE SPECIAL, not a country page. No flag, capital, currency, population statistics, rewards, leaderboards or invented user progress. Use only concise Chinese copy given below, legible large typography. A flat professional UI presentation on a pale blue outer background, no 3D phone frames, no device perspective, no decorative desk. Two complete mobile screens side by side with 390:844 proportions unless otherwise specified. Top back bar for child pages. Only root/overview/directory use bottom navigation 发现 地图 百科 我的. Reader screens use ONLY 目录 听讲解 收藏 笔记 at bottom. Avoid duplicate navigation. Images are concept visual placeholders, not scientific evidence. In each board outer margin include tiny note 界面概念稿. No polar bears, igloos or cartoon mascots. Real science, joyful curiosity, no alarmist climate imagery.\nLEFT back 南极洲, title 一块冰的旅程, subtitle 三站阅读 · 约12分钟. Three vertically linked equal photo cards 01 雪怎样变成冰？ / 02 冰架连着哪里？ / 03 陆地冰与海平面. Thin connector and small note 阅读顺序，不是旅行路线. All initial state 未读; orange CTA 开始第一站. Lower link 查看其他路线. RIGHT back 记下发现 title 我看见了什么？; one wide iceberg and thin sea-ice floes photo explicitly labelled 观察素材示意. A source metadata toggle 查看图片说明. Three white EMPTY rounded text areas with labels 我看见… / 我想到… / 我还想知道…; no filled example content, labels outside fields with subtle empty placeholders 写下你的发现. Grey disabled button 保存观察 because all fields empty, helper 至少写下一项，就能保存. Bottom no global nav, keyboard hidden. No fake saved toast or prefilled findings.",
+      "sourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-39b37688-13b3-4478-9469-898932759073.png",
+      "outputPath": "images/08-antarctica-journey-note.png",
+      "selectedPath": "images/08-antarctica-journey-note-v2.png",
+      "review": "concept visual reviewed; production corrections in VISUAL_HANDOFF.md",
+      "revisionSourcePath": "/Users/penn/.codex/generated_images/01a17387-e5ec-78d1-9384-997996b6e83a/exec-1f1658b5-b490-400d-bb04-6f4c5bce53c4.png",
+      "revisionRecord": "imagegen-revisions.json",
+      "sha256": "bd7e8254c3e6cc0ecf53b3a0da068a4bad03ae349e25e0517f59709e2d6b67b8",
+      "bytes": 1948512,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

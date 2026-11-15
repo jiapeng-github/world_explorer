@@ -1,0 +1,3652 @@
+{
+  "country": {
+    "id": "usa",
+    "name": "美国",
+    "code": "US",
+    "englishName": "United States",
+    "coverage": "editorial",
+    "revision": 1,
+    "capital": "华盛顿特区",
+    "mediaId": "usa-m01",
+    "intro": "从大峡谷的岩层出发，沿着河流走到五大湖。再换一条路线，去纽约搭地铁、听新奥尔良的爵士乐，也读一读几份重要的历史档案。",
+    "tagline": "从大峡谷出发",
+    "facts": [
+      {
+        "label": "位置",
+        "value": "北美洲"
+      },
+      {
+        "label": "首都",
+        "value": "华盛顿特区"
+      },
+      {
+        "label": "州",
+        "value": "50 个州"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "usa-timeline-1776",
+        "period": "1776 年",
+        "title": "《独立宣言》",
+        "body": "在费城通过的一份文件，留下了关于独立与权利的文字线索。",
+        "mediaId": "usa-m33",
+        "articleIds": [
+          "usa-independence-hall"
+        ]
+      },
+      {
+        "id": "usa-timeline-1865",
+        "period": "1865 年",
+        "title": "第十三修正案",
+        "body": "经各州批准后生效，宪法中写下关于废除奴隶制和强制劳役的规定。",
+        "mediaId": "usa-m34",
+        "articleIds": [
+          "usa-thirteenth-amendment"
+        ]
+      },
+      {
+        "id": "usa-timeline-1964",
+        "period": "1964 年",
+        "title": "《民权法案》",
+        "body": "读这部法律，再沿塞尔玛的一座桥认识 1965 年争取投票权的行动。",
+        "mediaId": "usa-m18",
+        "articleIds": [
+          "usa-civil-rights"
+        ]
+      }
+    ],
+    "takeaways": [
+      "美国有 50 个州，华盛顿特区是首都。",
+      "大峡谷的岩壁和谷底河道留下了侵蚀的线索。",
+      "照片、地图和档案能回答不同的问题。"
+    ],
+    "sources": [
+      {
+        "title": "美国人口普查局 · 2025 年制图边界",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.2025.html",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "USAGov · 各州及地方政府",
+        "url": "https://www.usa.gov/state-governments",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "美国人口普查局 · 两位州代码",
+        "url": "https://www.census.gov/data/datasets/1997/econ/gus/gidstate.html",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "Natural Earth · 1:10m 河流和湖中心线",
+        "url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "USGS · 3D 水文数据",
+        "url": "https://www.usgs.gov/3d-hydrography-program/access-3dhp-data-products",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NASA · Blue Marble",
+        "url": "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 大峡谷地质",
+        "url": "https://www.nps.gov/grca/learn/nature/grca-geology.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · Lipan Point",
+        "url": "https://www.nps.gov/places/000/lipan-point.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "美国环保署 · 五大湖资料",
+        "url": "https://www.epa.gov/greatlakes/great-lakes-facts-and-figures",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · Meyers Beach",
+        "url": "https://www.nps.gov/places/meyers-beach.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NOAA 美国国家气象局 · 1991–2020 气候常年值",
+        "url": "https://www.weather.gov/dtx/newclimatenormals",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/nama/index.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "USAGov · District of Columbia",
+        "url": "https://www.usa.gov/states/district-of-columbia",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "纳瓦霍族政府 · History",
+        "url": "https://www.navajo-nsn.gov/History",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "史密森学会 · Native Knowledge 360°",
+        "url": "https://americanindian.si.edu/nk360/about/essential-understandings",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "纽约州开放数据 · MTA 纽约地铁出入口 2024",
+        "url": "https://data.ny.gov/Transportation/MTA-Subway-Entrances-and-Exits-2024/i9wp-a4ja/about_data",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "USDA · 农夫市场名录",
+        "url": "https://www.ams.usda.gov/local-food-directories/farmersmarkets",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "USDA · 食品汇集、处理与分配",
+        "url": "https://www.ams.usda.gov/services/local-regional/food-sector/aggregating-and-distribution",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "明尼苏达大学推广部 · 爆裂玉米",
+        "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/growing-popcorn",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "伊利诺伊大学推广部 · 甜玉米",
+        "url": "https://extension.illinois.edu/gardening/corn",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "路易斯安那民俗项目 · 路易斯安那饮食传统",
+        "url": "https://www.louisianafolklife.org/LT/CSE/creole_food_trad.html",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "宾州州立大学推广部 · 苹果生产",
+        "url": "https://extension.psu.edu/apple-production",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "宾州州立大学推广部 · 保持果蔬新鲜",
+        "url": "https://extension.psu.edu/keeping-produce-fresh-best-practices-for-producers",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 新奥尔良爵士乐的起源",
+        "url": "https://www.nps.gov/jazz/learn/historyculture/history_early.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 黄石地热系统",
+        "url": "https://home.nps.gov/yell/learn/nature/hydrothermal-systems.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 老忠实间歇泉",
+        "url": "https://home.nps.gov/places/old-faithful-geyser.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 自由女神像常见问题",
+        "url": "https://www.nps.gov/stli/planyourvisit/frequently-asked-questions-statue-of-liberty.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 埃利斯岛",
+        "url": "https://www.nps.gov/elis/index.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "金门大桥管理机构 · 金门海峡和桥名",
+        "url": "https://www.goldengate.org/bridge/history-research/statistics-data/whats-in-a-name/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 大沼泽地水的流动",
+        "url": "https://www.nps.gov/places/meet-everglades-stop-2-the-flow-of-life.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 鲨鱼谷",
+        "url": "https://home.nps.gov/ever/planyourvisit/svdirections.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 基拉韦厄观景点",
+        "url": "https://www.nps.gov/places/kilauea-overlook.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "USGS · 夏威夷火山国家公园地质",
+        "url": "https://www.usgs.gov/geology-and-ecology-of-national-parks/geology-hawaii-volcanoes-national-park",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · Denali's Mountain Vista",
+        "url": "https://www.nps.gov/places/dena-mountain-vista.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "美国国家档案馆 · 独立宣言",
+        "url": "https://www.archives.gov/milestone-documents/declaration-of-independence",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 独立厅",
+        "url": "https://www.nps.gov/inde/learn/historyculture/places-independencehall.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "美国国家档案馆 · 第十三修正案",
+        "url": "https://www.archives.gov/milestone-documents/13th-amendment",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "美国国家档案馆 · 1964 年民权法案",
+        "url": "https://www.archives.gov/milestone-documents/civil-rights-act",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 埃德蒙·佩特斯桥",
+        "url": "https://home.nps.gov/semo/learn/historyculture/edmund-pettus-bridge.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "美国国家档案馆 · 1965 年投票权法",
+        "url": "https://www.archives.gov/milestone-documents/voting-rights-act",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "美国陆军工程兵团 · 密西西比河新奥尔良站点",
+        "url": "https://rivergages.mvr.usace.army.mil/WaterControl/stationinfo2.cfm?dt=S&fid=&sid=01300",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NPS · 网站素材使用说明",
+        "url": "https://www.nps.gov/aboutus/disclaimer.htm",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "NASA · 图片和媒体使用指引",
+        "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "Natural Earth · 使用条款",
+        "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "纽约市交通局 · 行人空间与横道",
+        "url": "https://www.nyc.gov/html/dot/html/pedestrians/pedestrians.shtml",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "新奥尔良饮食资料 · 鸡肉和安杜耶香肠冈博浓汤",
+        "url": "https://www.neworleans.com/blog/post/chef-isaac-toups-chicken-sausage-gumbo-with-cornbread/",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "路易斯安那海产推广机构 · 蟹和虾冈博浓汤配方",
+        "url": "https://www.louisianaseafood.com/recipe/louisiana-crab-and-shrimp-gumbo",
+        "checkedAt": "2026-11-08"
+      },
+      {
+        "title": "虾仁冈博浓汤 · 作者照片与说明",
+        "url": "https://commons.wikimedia.org/wiki/File:Shrimp_gumbo.jpg",
+        "checkedAt": "2026-11-08"
+      }
+    ],
+    "sections": {
+      "overview": [
+        "usa-find-on-map",
+        "usa-fifty-states",
+        "usa-capital"
+      ],
+      "geography": [
+        "usa-grand-canyon-geology",
+        "usa-great-lakes",
+        "usa-continental-climates"
+      ],
+      "people": [
+        "usa-native-nations",
+        "usa-many-languages",
+        "usa-city-small-town"
+      ],
+      "daily": [
+        "usa-new-york-subway",
+        "usa-neighborhood-market",
+        "usa-walkable-block"
+      ],
+      "food": [
+        "usa-corn-three-ways",
+        "usa-new-orleans-gumbo",
+        "usa-apple-from-orchard"
+      ],
+      "culture": [
+        "usa-new-orleans-jazz",
+        "usa-community-parade",
+        "usa-national-parks-stewardship"
+      ],
+      "landmarks": [
+        "usa-liberty-island",
+        "usa-golden-gate",
+        "usa-national-mall"
+      ],
+      "nature": [
+        "usa-yellowstone-geyser",
+        "usa-everglades-water",
+        "usa-hawaii-volcanoes"
+      ],
+      "history": [
+        "usa-independence-hall",
+        "usa-thirteenth-amendment",
+        "usa-civil-rights"
+      ],
+      "questions": [
+        "usa-photo-evidence",
+        "usa-canyon-close-look",
+        "usa-two-waters"
+      ]
+    },
+    "editorial": {
+      "subtitle": "从大峡谷出发",
+      "introduction": "从大峡谷的岩层出发，沿着河流走到五大湖。再换一条路线，去纽约搭地铁、听新奥尔良的爵士乐，也读一读几份重要的历史档案。",
+      "startLabel": "从大峡谷开始",
+      "startJourneyId": "landforms",
+      "questionArticleIds": [
+        "usa-grand-canyon-geology",
+        "usa-capital"
+      ],
+      "factOverrides": [
+        {
+          "label": "位置",
+          "value": "北美洲"
+        },
+        {
+          "label": "首都",
+          "value": "华盛顿特区"
+        },
+        {
+          "label": "州",
+          "value": "50 个州"
+        }
+      ],
+      "directoryTitle": "美国 · 探索目录",
+      "directory": {
+        "mediaIds": [
+          "usa-m02",
+          "usa-m11",
+          "usa-m24"
+        ]
+      },
+      "featuredDirectoryPlaceId": "usa-lake-superior",
+      "featuredDirectoryTitle": "下一站，去五大湖",
+      "timelineTitle": "美国 · 历史线索",
+      "timeline": [
+        {
+          "id": "usa-timeline-1776",
+          "period": "1776 年",
+          "title": "《独立宣言》",
+          "body": "在费城通过的一份文件，留下了关于独立与权利的文字线索。",
+          "mediaId": "usa-m33",
+          "articleIds": [
+            "usa-independence-hall"
+          ]
+        },
+        {
+          "id": "usa-timeline-1865",
+          "period": "1865 年",
+          "title": "第十三修正案",
+          "body": "经各州批准后生效，宪法中写下关于废除奴隶制和强制劳役的规定。",
+          "mediaId": "usa-m34",
+          "articleIds": [
+            "usa-thirteenth-amendment"
+          ]
+        },
+        {
+          "id": "usa-timeline-1964",
+          "period": "1964 年",
+          "title": "《民权法案》",
+          "body": "读这部法律，再沿塞尔玛的一座桥认识 1965 年争取投票权的行动。",
+          "mediaId": "usa-m18",
+          "articleIds": [
+            "usa-civil-rights"
+          ]
+        }
+      ],
+      "timelineIntro": {
+        "title": "认识原住民族的过去与今天",
+        "summary": "从迪内人自己的公开介绍开始，了解一个今天仍在发展的社群。",
+        "mediaId": "usa-m09",
+        "articleId": "usa-native-nations"
+      },
+      "explore": {
+        "mediaId": "usa-m02",
+        "featuredTaskIds": [
+          "usa-locate-arizona",
+          "usa-canyon-find-strata",
+          "usa-seen-or-guessed"
+        ],
+        "categories": [
+          {
+            "id": "location",
+            "title": "找地图",
+            "mediaId": "usa-m05"
+          },
+          {
+            "id": "observation",
+            "title": "看照片",
+            "mediaId": "usa-m03"
+          },
+          {
+            "id": "choice",
+            "title": "找证据",
+            "mediaId": "usa-m18"
+          },
+          {
+            "id": "open",
+            "title": "写观察",
+            "mediaId": "usa-m28"
+          }
+        ]
+      },
+      "discoveries": {
+        "mediaId": "usa-m01",
+        "recommendedPlaceIds": [
+          "usa-grand-canyon",
+          "usa-lake-superior"
+        ],
+        "recommendationTitles": [
+          "再看大峡谷",
+          "去看五大湖"
+        ]
+      },
+      "journeys": [
+        {
+          "id": "landforms",
+          "title": "沿着山河走",
+          "subtitle": "从大峡谷到黄石，再去看五大湖。",
+          "coverTitle": "跟着水，看山河怎样变化",
+          "mediaId": "usa-m01",
+          "articleIds": [
+            "usa-grand-canyon-geology",
+            "usa-yellowstone-geyser",
+            "usa-great-lakes"
+          ],
+          "stopTitles": [
+            "大峡谷",
+            "黄石",
+            "五大湖"
+          ]
+        },
+        {
+          "id": "cities",
+          "title": "走进城市",
+          "subtitle": "在纽约、华盛顿特区和新奥尔良找日常线索。",
+          "coverTitle": "从一座站台走向三座城市",
+          "mediaId": "usa-m11",
+          "articleIds": [
+            "usa-new-york-subway",
+            "usa-capital",
+            "usa-new-orleans-jazz"
+          ],
+          "stopTitles": [
+            "纽约地铁",
+            "华盛顿特区",
+            "新奥尔良"
+          ]
+        },
+        {
+          "id": "history",
+          "title": "循着历史找",
+          "subtitle": "从原住民族自己的介绍，读到建筑、档案和一座桥。",
+          "coverTitle": "看见不同年代的人们",
+          "mediaId": "usa-m33",
+          "articleIds": [
+            "usa-native-nations",
+            "usa-independence-hall",
+            "usa-civil-rights"
+          ],
+          "stopTitles": [
+            "认识原住民族",
+            "费城独立厅",
+            "塞尔玛"
+          ]
+        }
+      ],
+      "sections": {
+        "overview": {
+          "title": "国家名片",
+          "summary": "在北美洲找相连各州、阿拉斯加和太平洋上的夏威夷。",
+          "mediaId": "usa-m05"
+        },
+        "geography": {
+          "title": "地理与气候",
+          "summary": "从峡谷岩壁看到五大湖，比较山地、海岸和岛屿。",
+          "mediaId": "usa-m02"
+        },
+        "people": {
+          "title": "人们与语言",
+          "summary": "从议事场所、唐人街的路牌和小镇街道读出人们的生活。",
+          "mediaId": "usa-m10"
+        },
+        "daily": {
+          "title": "一座城市怎样过一天？",
+          "summary": "从一段地铁、一处市场和一条横道走进城市。",
+          "mediaId": "usa-m13",
+          "primaryMapPlaceId": "usa-new-york-harbor",
+          "primaryLabel": "看看纽约在地图哪里"
+        },
+        "food": {
+          "title": "饮食与物产",
+          "summary": "看看玉米、冈博浓汤和苹果怎样从土地走向餐桌。",
+          "mediaId": "usa-m19"
+        },
+        "culture": {
+          "title": "艺术与节日",
+          "summary": "在一段爵士乐、一次社区游行和一段栈道中观察人们怎样一起活动。",
+          "mediaId": "usa-m22"
+        },
+        "landmarks": {
+          "title": "城市与地标",
+          "summary": "在纽约港、金门海峡和首都国家广场辨认地标。",
+          "mediaId": "usa-m30"
+        },
+        "nature": {
+          "title": "动物与生态",
+          "summary": "看见间歇泉的喷发、湿地的水和火山留下的岩面。",
+          "mediaId": "usa-m24"
+        },
+        "history": {
+          "title": "历史故事",
+          "summary": "从原住民族公开介绍到独立厅和历史档案，沿着证据认识过去与今天。",
+          "mediaId": "usa-m33"
+        },
+        "questions": {
+          "title": "有趣问题",
+          "summary": "把照片里看见的东西和还想查的事分别写下来。",
+          "mediaId": "usa-m03"
+        }
+      },
+      "featuredPlaceIds": [
+        "usa-grand-canyon",
+        "usa-yellowstone-old-faithful",
+        "usa-lake-superior"
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "usa-find-on-map",
+      "countryId": "usa",
+      "sectionId": "overview",
+      "title": "在世界地图上怎样找到美国？",
+      "summary": "先在大地图上找到北美洲，再把美国的三个区域放到一起看。",
+      "mediaId": "usa-m05",
+      "blocks": [
+        {
+          "id": "usa-find-on-map-b1",
+          "title": "先找一整块大陆",
+          "text": "把世界地图缩小，先找北美洲。它在太平洋和大西洋之间。沿着北美洲的轮廓用手指绕一圈，再打开国家图层。记住大洲的位置，比只记一个标记更容易找回这个国家。"
+        },
+        {
+          "id": "usa-find-on-map-b2",
+          "title": "从邻国找线索",
+          "text": "在这块大陆上，加拿大在相连四十八州北面，墨西哥在南面。你可以从一条能辨认的海岸线往内陆移动，看看两个邻国和美国怎样相接。国界线画在地图上，地面照片通常只会拍到界线附近的一小块。",
+          "mediaId": "usa-m06"
+        },
+        {
+          "id": "usa-find-on-map-b3",
+          "title": "再找两个州",
+          "text": "阿拉斯加在北美洲西北端，加拿大把它和相连各州隔开。夏威夷是太平洋中的岛群。把卫星影像里的山、海和岛放在一起看，就能理解为什么需要切换区域，才能把三个地方都看清楚。"
+        },
+        {
+          "id": "usa-find-on-map-b4",
+          "title": "大洋也能指路",
+          "text": "相连各州的西岸面向太平洋，东岸面向大西洋。墨西哥湾在南边。找地图上写着大洋名字的蓝色地方，再沿着岸边走一段，看看岸边是直的、弯的，还是有水面伸进了陆地。",
+          "mediaId": "usa-m07"
+        },
+        {
+          "id": "usa-find-on-map-b5",
+          "title": "从大图走到小图",
+          "text": "世界图回答哪里有美国。区域图能继续找山脉、湖泊、州和城市。先在世界图上圈出大致位置，再打开探索地图。如果忘了自己在哪幅图里，看区域标题和比例尺就能重新找到方向。"
+        },
+        {
+          "id": "usa-find-on-map-b6",
+          "title": "做一张位置书签",
+          "text": "在纸上写下「北美洲」「太平洋」「三个区域」。收起地图，请家人随便念一个词，你试着指给他看。有人从大洋找，有人从大陆找。只要最后能把三个区域都找到，就可以比较哪条路对自己最容易记。地图换一种颜色时，大陆与岛屿的相对位置仍能帮你重新认出它们。"
+        }
+      ],
+      "term": "相连各州",
+      "definition": "在地图上彼此接在一起的四十八个州。",
+      "glossary": [
+        {
+          "term": "大洲",
+          "definition": "面积广阔的陆地及其附近岛屿。"
+        },
+        {
+          "term": "海岸",
+          "definition": "陆地与海水相接的地带。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.2025.html",
+        "https://www.usa.gov/state-governments",
+        "https://www.census.gov/data/datasets/1997/econ/gus/gidstate.html",
+        "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/",
+        "https://www.usgs.gov/3d-hydrography-program/access-3dhp-data-products",
+        "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-locate-world"
+    },
+    {
+      "id": "usa-fifty-states",
+      "countryId": "usa",
+      "sectionId": "overview",
+      "title": "为什么一张美国地图上有两个插图？",
+      "summary": "数一数相连各州、阿拉斯加和夏威夷，再找华盛顿特区。",
+      "mediaId": "usa-m05",
+      "blocks": [
+        {
+          "id": "usa-fifty-states-b1",
+          "title": "一页里的三幅图",
+          "text": "打开美国探索地图，面积最大的画面先显示相连的四十八州。旁边两幅小图可以进入阿拉斯加和夏威夷。要判断地面上的相对位置，先回到世界地图，同时找到北美洲西北端和太平洋上的岛群。"
+        },
+        {
+          "id": "usa-fifty-states-b2",
+          "title": "数一数是五十",
+          "text": "美国共有五十个州。四十八个州相连，再加上阿拉斯加和夏威夷。两幅小图各画一个州，岛屿的数量与州的数量是两件事。夏威夷州地图上有好几座岛，州名仍然只有一个。",
+          "mediaId": "usa-m06"
+        },
+        {
+          "id": "usa-fifty-states-b3",
+          "title": "特区另列",
+          "text": "华盛顿特区也画在相连各州的视图上，它是联邦特区，单独列出。打开它的地图卡片，可以找到类别。领地也有自己的类别，这里统计的是五十个州，区域图围绕这五十州和特区展开。"
+        },
+        {
+          "id": "usa-fifty-states-b4",
+          "title": "每幅图有自己的比例",
+          "text": "在小图里，阿拉斯加和夏威夷看起来差不多宽。那是因为地图框把两个地区分别缩放了。分别进入两幅区域图，读一读比例尺，再比较图上一指宽在现实中大约有多远。",
+          "mediaId": "usa-m07"
+        },
+        {
+          "id": "usa-fifty-states-b5",
+          "title": "用图注找亚利桑那州",
+          "text": "大峡谷南缘的照片标着「亚利桑那州」。回到相连各州的图，从美国西南部开始找这个州。找准州的轮廓，再找大峡谷的位置。写下顺序「先找西南部，再找亚利桑那州，最后找观景点」。"
+        },
+        {
+          "id": "usa-fifty-states-b6",
+          "title": "给三个区域贴名牌",
+          "text": "在一张纸上画三只框，分别写上四十八个相连州、阿拉斯加和夏威夷。再给华盛顿特区画一个不同形状的标签。让家人把标签放回正确的框，说一说为什么第三个州名牌还能指向好几座岛屿。最后各数一次大图上的州、小图上的州和另列的特区。"
+        }
+      ],
+      "term": "插图",
+      "definition": "地图角落里单独画出的区域图。",
+      "glossary": [
+        {
+          "term": "州",
+          "definition": "美国的一类行政区域。"
+        },
+        {
+          "term": "比例尺",
+          "definition": "图上一段距离和地面实际距离的对应关系。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.2025.html",
+        "https://www.usa.gov/state-governments",
+        "https://www.census.gov/data/datasets/1997/econ/gus/gidstate.html",
+        "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-rivers-lake-centerlines/",
+        "https://www.usgs.gov/3d-hydrography-program/access-3dhp-data-products",
+        "https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/",
+        "https://www.nps.gov/grca/learn/nature/grca-geology.htm",
+        "https://www.nps.gov/places/000/lipan-point.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-grand-canyon",
+      "exerciseId": "usa-locate-arizona"
+    },
+    {
+      "id": "usa-capital",
+      "countryId": "usa",
+      "sectionId": "overview",
+      "title": "华盛顿特区在哪里？",
+      "summary": "两个地方都叫华盛顿，把州和首都放到一张地图上分清楚。",
+      "mediaId": "usa-m08",
+      "blocks": [
+        {
+          "id": "usa-capital-b1",
+          "title": "先找美国东部",
+          "text": "打开相连各州的地图，在靠大西洋的一侧找华盛顿特区。州界很大，特区范围很小，地图上会用一个地点帮你找到附近。放大时，还能看到特区旁边是马里兰州和弗吉尼亚州。"
+        },
+        {
+          "id": "usa-capital-b2",
+          "title": "在这里认识首都",
+          "text": "美国的首都是华盛顿特区。照片里的国家广场从国会大厦一带延伸到林肯纪念堂一带，中间可以看到华盛顿纪念碑。沿着照片里的长直空间看，你会发现地标之间还隔着一段距离。"
+        },
+        {
+          "id": "usa-capital-b3",
+          "title": "再看西北角",
+          "text": "地图另一边也有「华盛顿」。华盛顿州在相连各州的西北部，接近太平洋。用英文查 Washington 时，这两个结果都可能出现。读完整名称和类别，就能分清「华盛顿州」与「华盛顿特区」。"
+        },
+        {
+          "id": "usa-capital-b4",
+          "title": "地标与名字各有用途",
+          "text": "一张照片能让你认出一座纪念碑的形状。带地标名称的地图能告诉你它与周围地方的位置关系。要把两种材料对起来，可以先圈出一座地标，再找远处另外一座，比较它们的排列方向。"
+        },
+        {
+          "id": "usa-capital-b5",
+          "title": "在地图里复核",
+          "text": "试着搜「华盛顿」或 Washington，分别打开州与特区，再用地图缩小按钮查看各自位于哪一边。如果你能说出「特区在东部，州在西北部」，下次读到两个名称时就能很快找到来路。"
+        },
+        {
+          "id": "usa-capital-b6",
+          "title": "把两个名字念完整",
+          "text": "你可以给两个地点各做一张小卡。第一张写「华盛顿特区，首都，东部」，第二张写「华盛顿州，一个州，西北部」。交换卡片以后，用地图指给别人看。对方若先指到另一边，可以请他再读一次类别和方位。同一个地名也可能出现在城市和其他地区，读全名和图上的位置是很实用的找图办法。"
+        }
+      ],
+      "term": "联邦特区",
+      "definition": "由联邦设立的一类地区，华盛顿特区属于这一类。",
+      "glossary": [
+        {
+          "term": "首都",
+          "definition": "国家政府主要机构所在的城市。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.2025.html",
+        "https://www.usa.gov/state-governments",
+        "https://www.census.gov/data/datasets/1997/econ/gus/gidstate.html",
+        "https://www.nps.gov/nama/index.htm",
+        "https://www.usa.gov/states/district-of-columbia"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-washington-dc",
+      "exerciseId": "usa-locate-capital"
+    },
+    {
+      "id": "usa-grand-canyon-geology",
+      "countryId": "usa",
+      "sectionId": "geography",
+      "title": "河流怎样刻出大峡谷？",
+      "summary": "从大峡谷南缘往下看，找一找谷底的科罗拉多河。",
+      "mediaId": "usa-m01",
+      "blocks": [
+        {
+          "id": "usa-grand-canyon-geology-b1",
+          "title": "远处有一层层岩石",
+          "text": "站在大峡谷南缘往下看，眼前像一本摊开的石头书。浅色和深色的条带在岩壁上露出来。每条带的颜色和形状不完全相同。读照片时用手指沿一条横纹走，看看它在哪里变窄、在哪里被斜坡挡住。"
+        },
+        {
+          "id": "usa-grand-canyon-geology-b2",
+          "title": "先找到谷底的河",
+          "text": "往岩壁下面看，在利潘角的照片里能找到细细的水面。那是从谷底流过的科罗拉多河。有些观景处只能看到峡谷的一部分，岸边的岩石会挡住河道。用带名称的地图找河，再回到照片里找这一段水面。",
+          "mediaId": "usa-m02"
+        },
+        {
+          "id": "usa-grand-canyon-geology-b3",
+          "title": "流动的水会带走东西",
+          "text": "当水沿河道流动时，能把沙子和较小的石块带向下游。经过很长时间，河流会把河床向下切深。在剖面图里，水画在最下面。试着找到它，再看看河道两边露出来的岩层。"
+        },
+        {
+          "id": "usa-grand-canyon-geology-b4",
+          "title": "岩壁也在慢慢变化",
+          "text": "温度变化、水和重力等过程也能影响岩壁。岩石沿裂隙逐渐破碎，碎块落到下面，峡谷的边缘也会改变。图把这些过程分开画，方便看清每一种作用。了解实际过程还要一起看岩层和河谷。",
+          "mediaId": "usa-m03"
+        },
+        {
+          "id": "usa-grand-canyon-geology-b5",
+          "title": "把照片和地图摆在一起",
+          "text": "照片能帮你指出岩层条带或看得见的一段河，地图能帮你沿河走得更远。如果在一幅图里只看见岩壁，就先记下这条观察，再用另一张带图注的照片确认水的位置。换到别的观景点，你还想找什么？",
+          "mediaId": "usa-m04"
+        },
+        {
+          "id": "usa-grand-canyon-geology-b6",
+          "title": "哪条线最容易认",
+          "text": "如果只让你选一处解释峡谷的形状，可以先从两边崖壁和中间低处的关系说起。画两道斜坡和一段蓝线，再把自己的小图与照片比一比。图能把复杂的岩壁画简单，照片会留下图里省去的条带和碎石。"
+        }
+      ],
+      "term": "侵蚀",
+      "definition": "水等力量磨损地表，并把松动的材料带走。",
+      "glossary": [
+        {
+          "term": "风化",
+          "definition": "岩石在原地逐渐破碎或发生变化。"
+        },
+        {
+          "term": "岩层",
+          "definition": "形状像一层层摞在一起的岩石。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/grca/learn/nature/grca-geology.htm",
+        "https://www.nps.gov/places/000/lipan-point.htm",
+        "https://www.nps.gov/aboutus/disclaimer.htm",
+        "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "usa-canyon-erosion",
+      "placeId": "usa-grand-canyon",
+      "mapFeatureId": "usa-feature-colorado-river",
+      "exerciseId": "usa-canyon-find-channel"
+    },
+    {
+      "id": "usa-great-lakes",
+      "countryId": "usa",
+      "sectionId": "geography",
+      "title": "五大湖为什么像一片海？",
+      "summary": "从苏必利尔湖岸看向远处，再换一张能同时看见五个湖的图。",
+      "mediaId": "usa-m26",
+      "blocks": [
+        {
+          "id": "usa-great-lakes-b1",
+          "title": "岸边望出去",
+          "text": "从威斯康星州的苏必利尔湖岸看水面，你可能只看见远处的天空和水。湖面很大，对岸太远时就看不清。站在岸边看过一张照片，再去打开卫星图，就能知道远处的水面延伸到了哪里。"
+        },
+        {
+          "id": "usa-great-lakes-b2",
+          "title": "从上面数五个湖",
+          "text": "五大湖从西侧开始，包括苏必利尔湖、密歇根湖、休伦湖、伊利湖和安大略湖。找五块形状不同、标有英文湖名的区域。卫星图记录了冬季，部分湖面结冰。湖面之间有很窄的水道，在缩小的画面上，有些连接处需要放大才能分辨。",
+          "mediaId": "usa-m27"
+        },
+        {
+          "id": "usa-great-lakes-b3",
+          "title": "大湖也是淡水",
+          "text": "五大湖的水属于淡水。它们分布在美国和加拿大之间，只有密歇根湖完全位于美国境内，另外四个湖的湖面跨越两国。国界经过开阔水面，岸边的普通照片很难让人看出边界在哪里。"
+        },
+        {
+          "id": "usa-great-lakes-b4",
+          "title": "水怎样经过几个湖",
+          "text": "苏必利尔湖的水可流向休伦湖，再经水道流向伊利湖、安大略湖，最终经圣劳伦斯河通向大西洋。密歇根湖与休伦湖通过麦基诺水道连接。图上的箭头表示水系的总体走向，一段水道的具体流动还要看实际条件。"
+        },
+        {
+          "id": "usa-great-lakes-b5",
+          "title": "换一个角度回到湖岸",
+          "text": "在区域图上选择苏必利尔湖的蓝色湖面，然后找南岸的观察点。照片可以留下岸边的沙、水或树，地图可以告诉你照片只拍到湖边很小的一角。两张图一起看，就更容易说出「湖有多大」。"
+        },
+        {
+          "id": "usa-great-lakes-b6",
+          "title": "记住两个不同的视角",
+          "text": "在笔记上画两格，一格画人站在岸边看水，另一格画卫星从高处看湖。把一个湖名写在两格之间，再用地图确认这处岸边属于哪个湖。读到新的湖岸照片时，还可以用同样的办法辨认它的来路。"
+        }
+      ],
+      "term": "淡水",
+      "definition": "含盐量较低的水，许多河流和湖泊里都是淡水。",
+      "glossary": [
+        {
+          "term": "地平线",
+          "definition": "视野里天空好像与水面或地面相接的线。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.epa.gov/greatlakes/great-lakes-facts-and-figures",
+        "https://www.nps.gov/places/meyers-beach.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "usa-great-lakes-flow",
+      "placeId": "usa-lake-superior",
+      "mapFeatureId": "usa-feature-great-lakes",
+      "exerciseId": "usa-great-lakes-freshwater"
+    },
+    {
+      "id": "usa-continental-climates",
+      "countryId": "usa",
+      "sectionId": "geography",
+      "title": "同一个国家，气候为什么差这么多？",
+      "summary": "把山地、海岸和岛屿摆在一起，学习怎样用多年记录比较气候。",
+      "mediaId": "usa-m06",
+      "blocks": [
+        {
+          "id": "usa-continental-climates-b1",
+          "title": "照片只是某一刻",
+          "text": "山地照片里可能看见雪，海岸照片里可能有雾，夏威夷的卫星图上也可能有云。每张图片都留下某一刻的样子。要知道同一地点冬天通常多冷，还需要继续翻看许多年的记录。"
+        },
+        {
+          "id": "usa-continental-climates-b2",
+          "title": "把三个地点摆在一起",
+          "text": "先标出阿拉斯加的山地、旧金山附近的海岸和夏威夷岛。地图上的位置和高低不同，照片里的环境也不同。可以给三个地点分别做卡片，留下位置、海拔线索和一个关于天气的问题。",
+          "mediaId": "usa-m07"
+        },
+        {
+          "id": "usa-continental-climates-b3",
+          "title": "位置为何会影响气候",
+          "text": "离赤道远近会影响阳光照射条件。高处往往比附近低处更凉，临近海洋也会影响温度和湿度。几个因素可以同时起作用。一座岛上的山顶、迎风坡和背风坡，就可能呈现不同的天气特点。"
+        },
+        {
+          "id": "usa-continental-climates-b4",
+          "title": "读同一个时期的记录",
+          "text": "气象人员会整理多年观测。美国国家气象局用 1991 至 2020 年这样的三十年时期计算气候常年值。要比两个地点，先确认用的是同一时期、同一种项目，比如同一个月的平均气温。",
+          "mediaId": "usa-m32"
+        },
+        {
+          "id": "usa-continental-climates-b5",
+          "title": "找下一条证据",
+          "text": "照片能提供山、海、云和雪的线索。要问「这里的秋天是不是常下雨」，就去找这个地方多年的降水记录。可以在观察纸上同时写下图里看见的事和需要查的表，把两种材料的作用分开。"
+        },
+        {
+          "id": "usa-continental-climates-b6",
+          "title": "做一次小比较",
+          "text": "选两个地点，只查一项，比如七月平均气温。在纸上写下地点、月份、时间段，再抄下同一单位的数字。读出差别之后，回到地图看看海洋、海拔和纬度，挑一个你还想追问的条件，留给下次查证。在地图旁记下观测站的位置，便于下次回到相同地点的记录。"
+        }
+      ],
+      "term": "气候",
+      "definition": "一个地方长期的天气特点，通常从多年的记录里了解。",
+      "glossary": [
+        {
+          "term": "海拔",
+          "definition": "地点高出平均海平面的高度。"
+        },
+        {
+          "term": "纬度",
+          "definition": "表示地点位于赤道以北或以南多远。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.weather.gov/dtx/newclimatenormals",
+        "https://www.nps.gov/places/kilauea-overlook.htm",
+        "https://www.usgs.gov/geology-and-ecology-of-national-parks/geology-hawaii-volcanoes-national-park",
+        "https://www.nps.gov/places/dena-mountain-vista.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-climate-evidence"
+    },
+    {
+      "id": "usa-native-nations",
+      "countryId": "usa",
+      "sectionId": "people",
+      "title": "今天怎样认识一支原住民族？",
+      "summary": "从纳瓦霍族公开介绍和议事场所照片出发，认识一个仍在发展的社群。",
+      "mediaId": "usa-m09",
+      "blocks": [
+        {
+          "id": "usa-native-nations-b1",
+          "title": "先问名字",
+          "text": "在今天的美国，许多原住民族有各自的名字、语言、历史和社区。认识其中一个族群时，先记住它自己怎样介绍自己。不同族群的故事需要分别找资料，不能用一张照片替它们全都说完。"
+        },
+        {
+          "id": "usa-native-nations-b2",
+          "title": "认识纳瓦霍族的案例",
+          "text": "纳瓦霍族使用自称 Diné，中文也常译为迪内人。图中是亚利桑那州温多罗克的纳瓦霍族议事场所。可以先找门口、窗和建筑材料，再读图注确认这里的名称与用途。"
+        },
+        {
+          "id": "usa-native-nations-b3",
+          "title": "今天仍有自己的公共事务",
+          "text": "议事场所让我们看到当代的社区生活和治理。纳瓦霍族政府公开介绍自己的历史与机构。读一段出自该机构的文字，可以继续问，那里的人怎样为自己的社区作决定，哪些内容有更详细的公开材料。"
+        },
+        {
+          "id": "usa-native-nations-b4",
+          "title": "把谁说的写下来",
+          "text": "读资料时，先把讲述者和发布地点记下来。官方网站的机构介绍、博物馆里注明讲述者的记录、个人旅行照片，各自提供不同的线索。想知道纳瓦霍族的当代机构，优先找该族群公开的介绍。"
+        },
+        {
+          "id": "usa-native-nations-b5",
+          "title": "留给每个社区自己的声音",
+          "text": "把画面里的可见物与对人的推测分开。照片能说明一座建筑的外观。要了解语言、习俗或一段历史，要继续读社区愿意分享的材料。下次看到别的原住民族资料，可以从核对名字和来源开始。"
+        },
+        {
+          "id": "usa-native-nations-b6",
+          "title": "为一份资料做标签",
+          "text": "找一条来自纳瓦霍族机构的公开介绍，把机构名字和你读到的主题抄在卡片上。换一份由博物馆整理的资料，也写下它在哪里发表。两张标签可以帮助你把不同讲述者和他们提供的资料区分开来。"
+        }
+      ],
+      "term": "迪内人",
+      "definition": "纳瓦霍人使用的自称 Diné。",
+      "glossary": [
+        {
+          "term": "族群",
+          "definition": "有共同历史与传承、并有自己认同的一群人。"
+        },
+        {
+          "term": "公开资料",
+          "definition": "机构向公众提供的资料。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.navajo-nsn.gov/History",
+        "https://americanindian.si.edu/nk360/about/essential-understandings"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-native-source"
+    },
+    {
+      "id": "usa-many-languages",
+      "countryId": "usa",
+      "sectionId": "people",
+      "title": "一块街牌能告诉我们什么？",
+      "summary": "在曼哈顿唐人街的一块路牌上，找两种语言表达的同一地点。",
+      "mediaId": "usa-m10",
+      "blocks": [
+        {
+          "id": "usa-many-languages-b1",
+          "title": "先看摩特街的街牌",
+          "text": "照片来自纽约市曼哈顿唐人街。把街牌那一部分放大，先看它贴在哪儿、朝向哪里，再找上面的文字。路牌旁边还有街灯等物件，画面能帮助你理解这块牌给哪些经过的人看。"
+        },
+        {
+          "id": "usa-many-languages-b2",
+          "title": "两种文字说同一件事",
+          "text": "这块牌用英文和中文标出了同一条街。试着指给身旁的人看，哪里是拉丁字母，哪里是汉字。即使其中一种语言不熟悉，也可以用另一种文字和图注一起确认，你在看的是摩特街。",
+          "mediaId": "usa-m14"
+        },
+        {
+          "id": "usa-many-languages-b3",
+          "title": "图案也会提供线索",
+          "text": "有些路牌用箭头指方向，有些站牌用字母、数字或颜色说明线路。换看东百老汇地铁标志，找一找站名和线路符号。同一个地方用什么方式提示人，要看这个标识的具体用途。"
+        },
+        {
+          "id": "usa-many-languages-b4",
+          "title": "给观察画个范围",
+          "text": "这一块路牌能让我们知道，这个路口用两种文字标出同一条街。要了解整个街区有哪些语言，还需要看更多街牌、公共服务和社区资料。用「这块牌上」开头，能把自己的观察说得更准。"
+        },
+        {
+          "id": "usa-many-languages-b5",
+          "title": "再提一个小问题",
+          "text": "如果你在另一条街看到三种文字，会先怎样确定它们是否表达同一件事？可以找重复的站名、数字或图标，再查城市提供的说明。把拍摄地点写在照片旁边，过几天还可以带着问题回来核对。"
+        },
+        {
+          "id": "usa-many-languages-b6",
+          "title": "给标牌画一张小图",
+          "text": "在纸上画一个长方形代表路牌，把表示同一个地名的两行字放进去。再在旁边画一个箭头，试着告诉家人，哪一部分用来认识地名，哪一部分可能用来指方向。对照照片以后，留下真正出现的线索。也可以请识字的家人一起把两行文字念出来。"
+        }
+      ],
+      "term": "双语标识",
+      "definition": "用两种语言表达信息的公共标牌。",
+      "glossary": [
+        {
+          "term": "图标",
+          "definition": "用小图案表示用途或提醒的符号。"
+        }
+      ],
+      "sourceUrls": [
+        "https://data.ny.gov/Transportation/MTA-Subway-Entrances-and-Exits-2024/i9wp-a4ja/about_data",
+        "https://www.nyc.gov/html/dot/html/pedestrians/pedestrians.shtml"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-read-street-sign"
+    },
+    {
+      "id": "usa-city-small-town",
+      "countryId": "usa",
+      "sectionId": "people",
+      "title": "大城市和小镇的一天有哪些相同？",
+      "summary": "一张城市街景，一张湖边小镇照片。找出它们共有的街道设施。",
+      "mediaId": "usa-m11",
+      "blocks": [
+        {
+          "id": "usa-city-small-town-b1",
+          "title": "两张照片的来路",
+          "text": "先读图注。第一张来自纽约的街区，第二张来自威斯康星州贝菲尔德。它们记录了两个拍摄地点。把两张图的名字和时间记下来，再找建筑、店铺、路口和人行道各在什么地方。"
+        },
+        {
+          "id": "usa-city-small-town-b2",
+          "title": "想象一段路",
+          "text": "把自己想成照片里准备去买东西的人，从近处向前走。经过路口时需要留意什么？有没有一段路供行人走？城市和小镇都有出门的人，但照片里当时经过的是谁、要去哪里，还需要他们自己告诉我们。",
+          "mediaId": "usa-m12"
+        },
+        {
+          "id": "usa-city-small-town-b3",
+          "title": "找出一件共有的东西",
+          "text": "两张照片的楼高、道路宽度和街景有差别。先找一件两边都有的事物，比如从门口通往街边的人行空间。说出它在哪一角，再想想它怎样方便人走到店门口或者通过一个路口。"
+        },
+        {
+          "id": "usa-city-small-town-b4",
+          "title": "只比较看得见的这一角",
+          "text": "有的大城市街道很安静，有的小镇在集市日也很热闹。照片记录一条街在一个时刻的样子。要比较上学、买菜和出门的方式，可以换几天观察，也可以查地图上附近有什么设施。"
+        },
+        {
+          "id": "usa-city-small-town-b5",
+          "title": "记在自己的观察页",
+          "text": "写一句「我看见」，描述两张图共有的事物。再写一条猜想，比如某个位置是不是一个等人的好地方。最后留一个想知道的问题。以后看到同一处街道的另一张照片，可以回来和这次记录对照。"
+        },
+        {
+          "id": "usa-city-small-town-b6",
+          "title": "给自己的街道加一张照片",
+          "text": "想象在自己熟悉的街道也拍一张图。先挑一个明确的位置，再写下你想拍进去的物件，例如人行道或店门口。把这张图和前两张一起看，找三个地方都能看到的事物，给它们画上同样的小记号。给每张图写明地点。"
+        }
+      ],
+      "term": "公共空间",
+      "definition": "人们可以共同使用的地方，例如街道、广场和公园。",
+      "glossary": [
+        {
+          "term": "街区",
+          "definition": "由若干街道围起来的一片地方。"
+        }
+      ],
+      "sourceUrls": [
+        "https://data.ny.gov/Transportation/MTA-Subway-Entrances-and-Exits-2024/i9wp-a4ja/about_data",
+        "https://www.epa.gov/greatlakes/great-lakes-facts-and-figures",
+        "https://www.nps.gov/places/meyers-beach.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "activity": {
+        "type": "open",
+        "id": "usa-open-city-small-town",
+        "title": "对照大城市和小镇",
+        "prompt": "两张照片都有哪一种设施？哪一点不同？你还想知道哪个人的一天？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "usa-m11",
+          "usa-m12"
+        ],
+        "suggestedArticleIds": [
+          "usa-walkable-block",
+          "usa-new-york-subway"
+        ]
+      }
+    },
+    {
+      "id": "usa-new-york-subway",
+      "countryId": "usa",
+      "sectionId": "daily",
+      "title": "纽约地铁怎样穿过城市？",
+      "summary": "从东百老汇站的站牌和列车，学习读站名、线路和方向。",
+      "mediaId": "usa-m13",
+      "blocks": [
+        {
+          "id": "usa-new-york-subway-b1",
+          "title": "从车站名字开始",
+          "text": "两张照片记录的是纽约地铁的东百老汇站。先读站牌上的英文站名，再看列车照片。站名让人知道现在在哪里，线路字母帮助人弄清这里有哪些车。标识的样子可以用照片去核对。"
+        },
+        {
+          "id": "usa-new-york-subway-b2",
+          "title": "跟着线路找一段路",
+          "text": "想坐一站地铁，可以先在地图上找到起点和目的地，再读箭头或站台上的方向。在线路图上找两个相邻的点，试着按顺序念出来。到了车站，还可以对照站牌，确认自己走进了合适的站台。",
+          "mediaId": "usa-m14"
+        },
+        {
+          "id": "usa-new-york-subway-b3",
+          "title": "地面上下各有线索",
+          "text": "这组照片里的列车在地下站。纽约也有在高架轨道上行驶的地铁列车。看图时留意有没有天空、桥柱或隧道墙。地图上的一条彩线能串起站点，线路在哪一段升上地面，要用具体资料查。"
+        },
+        {
+          "id": "usa-new-york-subway-b4",
+          "title": "把城市放回区域图",
+          "text": "纽约市位于相连各州的东部，纽约港靠近大西洋。找出地图上靠东的大港湾，再把它与西边旧金山附近的海峡作比较。先认对城市所在的一边，读地铁这种更小范围的地图就容易多了。"
+        },
+        {
+          "id": "usa-new-york-subway-b5",
+          "title": "照片帮我们留下站点",
+          "text": "试着给朋友介绍这一组图，先说「东百老汇站」，再指出能帮你认站的那一行字。地铁安排会随时间变化，这里的两张照片帮助我们读站牌。要安排实际出行，可以查看交通机构提供的线路资料。"
+        },
+        {
+          "id": "usa-new-york-subway-b6",
+          "title": "把一条线画成三站",
+          "text": "在纸上画三个圆点，用一条线连起来，在中间写「东百老汇」。用箭头分别画出两个方向，请家人指出你准备去的一边。你们可以互换出发点，再说一遍「我从哪里上车，下一站往哪里走」。在新路线旁标出方向。"
+        }
+      ],
+      "term": "线路",
+      "definition": "列车沿途经过的一串站点。",
+      "glossary": [
+        {
+          "term": "站台",
+          "definition": "人们等车和上下车的地方。"
+        }
+      ],
+      "sourceUrls": [
+        "https://data.ny.gov/Transportation/MTA-Subway-Entrances-and-Exits-2024/i9wp-a4ja/about_data"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-new-york-harbor",
+      "exerciseId": "usa-locate-new-york"
+    },
+    {
+      "id": "usa-neighborhood-market",
+      "countryId": "usa",
+      "sectionId": "daily",
+      "title": "市场里的食物从哪里来？",
+      "summary": "从纽约联合广场的摊位出发，追踪食物产地。",
+      "mediaId": "usa-m15",
+      "blocks": [
+        {
+          "id": "usa-neighborhood-market-b1",
+          "title": "从一张市场照片开始",
+          "text": "照片拍的是纽约联合广场农夫市场。摊位把食物分在不同的筐里，人可以走到近处挑选。站在照片的视角，先指出你认得的东西，再找桌子旁边有没有介绍食物的牌子。"
+        },
+        {
+          "id": "usa-neighborhood-market-b2",
+          "title": "追问来自哪里",
+          "text": "要确认一筐食物来自哪儿，可以先读产地标签，也可以问摊主。可以问「这是谁种的」「从哪座农场运来的」。如果牌子只写了价格，已经知道怎么付钱了，产地还需要另外找线索。",
+          "mediaId": "usa-m21"
+        },
+        {
+          "id": "usa-neighborhood-market-b3",
+          "title": "季节会换掉摊位上的东西",
+          "text": "不同的果蔬有自己的收获季节，同一个市场在不同月份可能摆着不同的东西。挑一个你认得的水果，问问它什么时候在当地成熟，再看看过了收获季以后，人们怎样继续供应它。"
+        },
+        {
+          "id": "usa-neighborhood-market-b4",
+          "title": "城市里有多条食物路线",
+          "text": "同样叫苹果的水果，可能从不同的果园出发。分选、装箱、储存和运输会把城市与种植地区连起来。一张市场照片能拍到食物到达摊位的样子。要追到果园，需要标签、摊主或供应记录。"
+        },
+        {
+          "id": "usa-neighborhood-market-b5",
+          "title": "写一条能核实的问题",
+          "text": "想象你站在一个摊位前。从「这一筐」开始问，比问整个市场更容易听到明确的答案。把摊名和食物一起记下来，下次可以查农场在哪里，再把它标在地图上，画一条从果园到城市的路线。"
+        },
+        {
+          "id": "usa-neighborhood-market-b6",
+          "title": "试着给食物做标签",
+          "text": "在纸上画一个小摊，给一篮水果写三行标签，分别写名字、价格和产地。用手盖住其中一行，问家人还缺什么信息。如果产地拿不准，可以在标签上先留下问号，提醒自己要找摊主确认。只有品种时可以先写下名字，等找到农场地点再把地图上的路线补完整。"
+        }
+      ],
+      "term": "产地",
+      "definition": "食物种植、养殖或生产的地方。",
+      "glossary": [
+        {
+          "term": "当季",
+          "definition": "某地某种食物收获和供应较多的时期。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ams.usda.gov/local-food-directories/farmersmarkets",
+        "https://www.ams.usda.gov/services/local-regional/food-sector/aggregating-and-distribution",
+        "https://extension.psu.edu/apple-production",
+        "https://extension.psu.edu/keeping-produce-fresh-best-practices-for-producers"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-market-origin"
+    },
+    {
+      "id": "usa-walkable-block",
+      "countryId": "usa",
+      "sectionId": "daily",
+      "title": "从一段街区可以看出什么？",
+      "summary": "用一张有横道的真实街景，观察行人怎样辨认过街位置。",
+      "mediaId": "usa-m11",
+      "blocks": [
+        {
+          "id": "usa-walkable-block-b1",
+          "title": "先看脚下的线",
+          "text": "打开街角照片，把注意力放到行人脚下。靠建筑的一边常有人行道，走到路口则能看到画在车行道上的横道线。沿着一条线看它从哪边开始、延伸到哪里，再判断照片拍到的是道路的哪一侧。"
+        },
+        {
+          "id": "usa-walkable-block-b2",
+          "title": "把整条街连起来",
+          "text": "过街的位置有时靠近商店、车站或两条路的交点。你可以用手指从一个门口出发，沿人行道走到路口，再从横道走到对面。地图能帮助我们找方向，照片能显示眼前几步路的具体样子。",
+          "mediaId": "usa-m16"
+        },
+        {
+          "id": "usa-walkable-block-b3",
+          "title": "换一个观察方向",
+          "text": "在两张街景照片里找道路边缘。站在街角朝向另一边，有些线条会被车或人挡住，有些线条在照片里变短。给照片上看得见的那一侧做记号，再问另一侧需要到什么位置才看得见。"
+        },
+        {
+          "id": "usa-walkable-block-b4",
+          "title": "设施的用途有线索",
+          "text": "横道线是给行人辨认过街位置的线索。至于某个人是赶去上学、工作还是见朋友，单凭一张照片很难确定。记录时，可以用一句话说设施有什么用，再另外记下自己对画面里人的猜想。"
+        },
+        {
+          "id": "usa-walkable-block-b5",
+          "title": "留下一个问题",
+          "text": "选一条你还不明白的线或一个标记，描述它离路口和人行道有多远。想弄清它的作用，可以找城市交通部门的介绍，也可以比较同一街角的另一张照片。再把新发现补到观察记录里。"
+        },
+        {
+          "id": "usa-walkable-block-b6",
+          "title": "把照片画成俯视图",
+          "text": "在纸上把建筑画成方块，把人行道和车道画成不同颜色，横道用几条短线表示。参照照片画出看得见的一侧，在另一侧写上问号。以后找到街道地图时，再补上被建筑或车辆挡住的部分。标出照片拍摄的方向。"
+        }
+      ],
+      "term": "人行横道",
+      "definition": "道路上供行人穿过车行道的标记区域。",
+      "glossary": [
+        {
+          "term": "人行道",
+          "definition": "街边主要供行人行走的部分。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nyc.gov/html/dot/html/pedestrians/pedestrians.shtml"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "activity": {
+        "type": "open",
+        "id": "usa-open-walkable-block",
+        "title": "记录街区里的线索",
+        "prompt": "你看见哪些线能引导行人？照片看不到路口的哪一边？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "usa-m16"
+        ],
+        "suggestedArticleIds": [
+          "usa-city-small-town",
+          "usa-many-languages"
+        ]
+      }
+    },
+    {
+      "id": "usa-corn-three-ways",
+      "countryId": "usa",
+      "sectionId": "food",
+      "title": "一粒玉米能变成什么？",
+      "summary": "从甜玉米、爆裂玉米和玉米粉，观察同一种作物的不同用途。",
+      "mediaId": "usa-m17",
+      "blocks": [
+        {
+          "id": "usa-corn-three-ways-b1",
+          "title": "先认出一粒玉米",
+          "text": "玉米棒上整齐地排着许多籽粒。不同品种的籽粒颜色、硬度和大小可能不同。看一张玉米样本的近照，再想象你平时见到的玉米棒，找出哪一部分是一粒，哪一部分是连在一起的芯。"
+        },
+        {
+          "id": "usa-corn-three-ways-b2",
+          "title": "甜玉米与爆裂玉米",
+          "text": "我们常把较嫩的甜玉米蒸煮后吃。爆米花通常用爆裂玉米。它的籽粒受热后，里面的水变成蒸汽，压力增大，最终胀开。图里的样本可以拿来观察开花前的颗粒样子。"
+        },
+        {
+          "id": "usa-corn-three-ways-b3",
+          "title": "还有一条磨粉路线",
+          "text": "有些玉米可以磨成玉米粉，再做成其他食物。把一粒玉米和一小撮玉米粉想象成两张照片，先比较颗粒大小，再看包装或食物介绍。这样能把你看见的变化与加工步骤连起来。"
+        },
+        {
+          "id": "usa-corn-three-ways-b4",
+          "title": "读一读配料说明",
+          "text": "如果想确认一种食物用的是哪类玉米，先看看有没有品种或配料说明。爆裂玉米、甜玉米和磨粉用的玉米在这里是三个例子。问清一个具体的样本来自哪里，比只凭颜色猜用途更可靠。"
+        },
+        {
+          "id": "usa-corn-three-ways-b5",
+          "title": "想一个可观察的变化",
+          "text": "把爆裂前后的两种样子摆在一起，看看轮廓、大小和颜色。可以在纸上画下变化前后各一个小样本。接下来再找一本食物图鉴，查另一种也会经过研磨或受热而改变外形的食物。"
+        },
+        {
+          "id": "usa-corn-three-ways-b6",
+          "title": "给三个样本分组",
+          "text": "如果你只有一张食物照片和一份配料表，可以先把它们分别贴在纸上。照片旁画出能看见的形状，配料表旁写下能查到的玉米类型。两个线索放在一起，再说明哪一份证据帮助你确认了答案。把认得的那一种标上名字，把还不确定的形状用虚线圈出来。"
+        }
+      ],
+      "term": "爆裂玉米",
+      "definition": "一类籽粒受热后能够胀开、爆成花的玉米。",
+      "glossary": [
+        {
+          "term": "籽粒",
+          "definition": "一颗颗长在玉米棒上的种子。"
+        }
+      ],
+      "sourceUrls": [
+        "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/growing-popcorn",
+        "https://extension.illinois.edu/gardening/corn"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-popcorn"
+    },
+    {
+      "id": "usa-new-orleans-gumbo",
+      "countryId": "usa",
+      "sectionId": "food",
+      "title": "一锅冈博浓汤会有哪些做法？",
+      "summary": "比较两碗冈博浓汤，再借助配方确认汤里有哪些材料。",
+      "mediaId": "usa-m19",
+      "blocks": [
+        {
+          "id": "usa-new-orleans-gumbo-b1",
+          "title": "读两份照片的来路",
+          "text": "冈博浓汤的英文名字是 gumbo。我们比较两张分别拍摄的照片，其中一张的作者注明用了虾，另一张的作者注明用了鸡肉和安杜耶香肠。先看两份图注，再去看碗里哪些配料能直接辨认。"
+        },
+        {
+          "id": "usa-new-orleans-gumbo-b2",
+          "title": "不同做法从哪里来",
+          "text": "路易斯安那的饮食传统长期受到当地不同社群影响。人们根据容易买到的食材、家庭做法和自己的口味煮汤。看到两份不同的冈博浓汤，可以把它们当作两个具体例子，再找介绍地方饮食的资料。",
+          "mediaId": "usa-m20"
+        },
+        {
+          "id": "usa-new-orleans-gumbo-b3",
+          "title": "从配料和浓稠程度比较",
+          "text": "有的配方用鸡肉和香肠，有的用虾等海鲜。秋葵、面粉和油炒成的糊等材料也会影响一锅汤的样子。判断某一碗具体用了什么，可以从作者说明、菜单或配方里找依据。"
+        },
+        {
+          "id": "usa-new-orleans-gumbo-b4",
+          "title": "照片会留下一部分线索",
+          "text": "先找有把握说出的东西，比如一团米饭、可以认出的虾，或汤的颜色。调味料和没有露出来的食材可能看不见。把「我看见」和「我想查」分别记下来，再读照片来源与地方饮食资料。"
+        },
+        {
+          "id": "usa-new-orleans-gumbo-b5",
+          "title": "说出你比较的那一点",
+          "text": "可以从同一种线索开始比较两碗汤，比如「汤汁在碗的哪里」「有没有米饭」。选一个看不准的问题，写下下一份要查的材料。读过说明以后，再看看最初的猜想有没有变化。"
+        },
+        {
+          "id": "usa-new-orleans-gumbo-b6",
+          "title": "从碗边找第二条线索",
+          "text": "选一张图先描述你看到的颜色和形状。接着从图注找一道能确认的食材，再查一份同类配方，看看它还有哪些步骤。配方和照片各自记录一个例子，可以用它们提出问题，再去核对那一碗汤的来历。两张图可以各标出一处你能确认的材料。"
+        }
+      ],
+      "term": "冈博浓汤",
+      "definition": "路易斯安那州常见的一类浓汤，做法有多种。",
+      "glossary": [
+        {
+          "term": "配方",
+          "definition": "写出材料和做法的说明。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.louisianafolklife.org/LT/CSE/creole_food_trad.html",
+        "https://www.neworleans.com/blog/post/chef-isaac-toups-chicken-sausage-gumbo-with-cornbread/",
+        "https://www.louisianaseafood.com/recipe/louisiana-crab-and-shrimp-gumbo",
+        "https://commons.wikimedia.org/wiki/File:Shrimp_gumbo.jpg"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "activity": {
+        "type": "open",
+        "id": "usa-open-gumbo",
+        "title": "比较两份冈博浓汤",
+        "prompt": "鸡肉香肠汤与虾汤的颜色和可见材料有哪些不同？哪种材料需要读配方才知道？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "usa-m19",
+          "usa-m20"
+        ],
+        "suggestedArticleIds": [
+          "usa-corn-three-ways",
+          "usa-neighborhood-market"
+        ]
+      }
+    },
+    {
+      "id": "usa-apple-from-orchard",
+      "countryId": "usa",
+      "sectionId": "food",
+      "title": "苹果怎样从果园来到城市？",
+      "summary": "从果园采收到城里市场，跟着一个苹果走一遍。",
+      "mediaId": "usa-m21",
+      "blocks": [
+        {
+          "id": "usa-apple-from-orchard-b1",
+          "title": "旅程从果园开始",
+          "text": "一箱苹果来到市场以前，先在果园的树上长大。种植者根据品种和成熟程度安排采收。看果园照片，找树、树上的果实或采收容器，把画面里能够确定的事情记下来。"
+        },
+        {
+          "id": "usa-apple-from-orchard-b2",
+          "title": "采收后给苹果分组",
+          "text": "这个例子中，收下来的苹果还要分选。可以按大小、外观和用途分成几组，再装进容器。这样到了市场，同一箱里的苹果比较容易摆放和检查。分选时也能把适合做果汁的果实另放一组。",
+          "mediaId": "usa-m15"
+        },
+        {
+          "id": "usa-apple-from-orchard-b3",
+          "title": "从储存地走向城市",
+          "text": "部分苹果会在合适的温度下储存，再装车运到出售地点。存放时间和运送距离会因品种、产地和销售方式不同。图解表示一条可以追踪的路线，从果园经过分选、储存，再到市场。"
+        },
+        {
+          "id": "usa-apple-from-orchard-b4",
+          "title": "给一筐苹果找来处",
+          "text": "在市场照片里，先找可能摆有果蔬的摊位。实际逛市场时，可以在标签上找品种、农场名或产地。拿到一个名字，就可以再查它的位置，看看它离市场有多远。"
+        },
+        {
+          "id": "usa-apple-from-orchard-b5",
+          "title": "比较两条可能的路线",
+          "text": "有的苹果从附近农场直接来到市场，有的经过储存和配送才到达。试着画三格，第一格画果园，第二格画分选，第三格画摊位。再想一想，你手里那颗苹果的路线，要从哪里找到证据？"
+        },
+        {
+          "id": "usa-apple-from-orchard-b6",
+          "title": "给一个箱子写来路",
+          "text": "画一只苹果箱，在箱边写上果园、采收和市场三个词。想一想，果园写给谁看，市场的标签又帮助谁找产地。读一份真实标签时，把确定的内容填进去，再给还不知道的储存或运输环节留一个空格。最后请别人沿你的三行线索讲一遍路线，听听哪一步最需要查标签或向摊主询问。"
+        }
+      ],
+      "term": "采收",
+      "definition": "把成熟到合适程度的果实从植株上收下来。",
+      "glossary": [
+        {
+          "term": "分选",
+          "definition": "根据大小、外观或用途把果实分组。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ams.usda.gov/local-food-directories/farmersmarkets",
+        "https://www.ams.usda.gov/services/local-regional/food-sector/aggregating-and-distribution",
+        "https://extension.psu.edu/apple-production",
+        "https://extension.psu.edu/keeping-produce-fresh-best-practices-for-producers"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "usa-apple-supply",
+      "exerciseId": "usa-apple-order"
+    },
+    {
+      "id": "usa-new-orleans-jazz",
+      "countryId": "usa",
+      "sectionId": "culture",
+      "title": "一段爵士乐怎样接话？",
+      "summary": "在四拍里给别人一个回应，听出乐句之间怎样对话。",
+      "mediaId": "usa-m22",
+      "blocks": [
+        {
+          "id": "usa-new-orleans-jazz-b1",
+          "title": "从新奥尔良的一场演出开始",
+          "text": "照片里有一组在新奥尔良演出的爵士乐手。爵士乐的形成和这座城市的非裔美国人社群密切相关，也与当地多种音乐传统相遇有关。看画面时，先找乐手之间的距离和他们手里的乐器。"
+        },
+        {
+          "id": "usa-new-orleans-jazz-b2",
+          "title": "音乐也可以像问答",
+          "text": "一段音乐里，有时一位乐手先给出一个短乐句，另一位接上一句。你可以把它想成两个人聊天，先留一点空位，再听对方怎样回应。先拍「响、响、停、响」，让同伴等到四拍结束后开始。"
+        },
+        {
+          "id": "usa-new-orleans-jazz-b3",
+          "title": "在同样长的四拍里改变",
+          "text": "回应可以是「响、停、响、响」。两句各有四个拍子，发出声音的位置有变化。两个人一起数一、二、三、四，就能知道什么时候该接上。屏幕上的两组节奏是为了练习新写的例子。"
+        },
+        {
+          "id": "usa-new-orleans-jazz-b4",
+          "title": "铜管乐队是其中一例",
+          "text": "小号、长号等铜管乐器可以轮流奏出不同的乐句。鼓也可以用节奏回应。照片只能帮你辨认舞台上的一些乐器。要知道某场表演里哪位乐手先奏，得听那一场的声音或看完整记录。"
+        },
+        {
+          "id": "usa-new-orleans-jazz-b5",
+          "title": "给同伴一次新的回应",
+          "text": "先点屏幕上的「一句乐句」，跟着亮起的拍子轻拍手。再点「另一句回应」，比较哪个拍子留空。你们可以交换角色，用四拍设计新的回答。练习结束以后，说一说哪一点让你听出第二句是接在第一句后面。"
+        },
+        {
+          "id": "usa-new-orleans-jazz-b6",
+          "title": "用手指也能读节拍",
+          "text": "把四个拍子画成一排圆圈，响的时候涂实，停的时候留空。等第一排走完，再沿第二排移动。就算周围很安静，也能看出两排在哪一格不同。请同伴指着圈数拍，你们就能对上接话的位置。可以先拍整齐的四拍，再按圆圈里的图案停一拍。"
+        }
+      ],
+      "term": "呼应",
+      "definition": "一个人先给出一段声音，另一个人再用自己的声音接上。",
+      "glossary": [
+        {
+          "term": "乐句",
+          "definition": "听起来像一句话的一小段音乐。"
+        },
+        {
+          "term": "拍子",
+          "definition": "跟着音乐可以数的节奏位置。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/jazz/learn/historyculture/history_early.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "usa-jazz-response",
+      "placeId": "usa-mississippi-river",
+      "exerciseId": "usa-jazz-response"
+    },
+    {
+      "id": "usa-community-parade",
+      "countryId": "usa",
+      "sectionId": "culture",
+      "title": "谁在游行队伍里跟着走？",
+      "summary": "用真实游行照片辨认乐队、跟随者和社区活动。",
+      "mediaId": "usa-m23",
+      "blocks": [
+        {
+          "id": "usa-community-parade-b1",
+          "title": "先读这一天的名字",
+          "text": "照片记录了 2008 年新奥尔良一场由 Uptown Swingers 社区组织举行的游行。先把地点、组织和年份读出来，再看拍摄者站在队伍哪里。画面只记录经过街道的一段，队伍前后还有照片外的空间。"
+        },
+        {
+          "id": "usa-community-parade-b2",
+          "title": "找出正拿着乐器的人",
+          "text": "画面中有 TBC 铜管乐队的成员。先看哪几个人双手扶着乐器，再找比较容易辨认的部件，例如号口。站在旁边的人可能在跟着队伍移动。用动作和物件说观察，能把照片里的角色讲得更清楚。",
+          "mediaId": "usa-m22"
+        },
+        {
+          "id": "usa-community-parade-b3",
+          "title": "跟着走也是一种参与",
+          "text": "在当地某些游行里，铜管乐队和组织者走在队伍中，其他人可以跟着走、跳舞或听乐，这也是传统的一部分。社区组织、音乐与街道连接起来。不同场合的参加方式还要看这场活动本身的资料。"
+        },
+        {
+          "id": "usa-community-parade-b4",
+          "title": "把两种画面作比较",
+          "text": "另一张照片是爵士乐手在舞台演出。舞台照片能看到演奏者面向的方向，街道照片能看到队伍怎样占用一段街道。两张图都有音乐线索，能看见的观众位置和行走路线却不同。"
+        },
+        {
+          "id": "usa-community-parade-b5",
+          "title": "先说看见，再说猜想",
+          "text": "用「有人拿着号」记录画面里的线索。若想知道谁带头、为什么游行，就要继续看活动介绍。试着点出一位拿着乐器的人，再给朋友解释，你为什么能从画面确认这个动作。"
+        },
+        {
+          "id": "usa-community-parade-b6",
+          "title": "给一段游行画路线",
+          "text": "在纸上画一条街，把鼓、号和跟着走的人用三个符号表示。根据照片给它们排位置，再在画面之外留下空白。想知道整支队伍怎样走，可以另外查活动记录，再把起点和经过的街道补进去。街道的两端和转弯处也可以留下待核对的标记。"
+        }
+      ],
+      "term": "第二队列",
+      "definition": "新奥尔良铜管乐游行传统中，跟着队伍一同参与的人群。",
+      "glossary": [
+        {
+          "term": "铜管乐队",
+          "definition": "有小号、长号等铜管乐器的队伍，常配有鼓等乐器。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/jazz/learn/historyculture/history_early.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-parade-observe"
+    },
+    {
+      "id": "usa-national-parks-stewardship",
+      "countryId": "usa",
+      "sectionId": "culture",
+      "title": "为什么公园要请我们走在步道上？",
+      "summary": "看黄石栈道和大峡谷观景处，理解路线怎样帮助人观察。",
+      "mediaId": "usa-m25",
+      "blocks": [
+        {
+          "id": "usa-national-parks-stewardship-b1",
+          "title": "从一条规定路线说起",
+          "text": "进公园时，可以先看地图和现场的提示。不同路线通向不同景观，有的经过观景平台，有的经过一段栈道。照片里的栏杆和木板能提示哪里供行人走，临时变化还要看现场的指引。"
+        },
+        {
+          "id": "usa-national-parks-stewardship-b2",
+          "title": "黄石的栈道帮了什么忙",
+          "text": "黄石有热水和蒸汽出来的区域，部分地面薄，下面有热水。沿指定栈道走，人能在安排好的位置观察，也会减少对地面的踩踏。图里的木板通道和旁边的泉水，能帮我们分清两种空间。",
+          "mediaId": "usa-m02"
+        },
+        {
+          "id": "usa-national-parks-stewardship-b3",
+          "title": "从大峡谷的观景点看远处",
+          "text": "站在安排好的观景处，可以沿着岩层看向谷底。游客集中在这些位置，也让其他地面少受影响。照片里有时只能看到峡谷对面，观景点的名字可以通过图注查到。"
+        },
+        {
+          "id": "usa-national-parks-stewardship-b4",
+          "title": "每个地方的提示有自己的理由",
+          "text": "热水区、陡崖边、动物栖息地需要留意的事各有不同。先读眼前的标志，再去观察环境中哪种特点与这条提示有关。和家人一起时，还能比较入口地图与现场牌子提供的信息。"
+        },
+        {
+          "id": "usa-national-parks-stewardship-b5",
+          "title": "找一处可以解释的线索",
+          "text": "看黄石的实拍，先指出一段栈道，再说它怎样帮助人观察。换到另一处自然公园时，可以问「哪条路线能到观察点」「哪些地方需要给自然留出空间」，把答案和图上的位置连起来。"
+        },
+        {
+          "id": "usa-national-parks-stewardship-b6",
+          "title": "比较两种观察距离",
+          "text": "把黄石的栈道和大峡谷的观景处画成两格。标出人站的位置，再标出要观察的水面或岩壁。说一说为什么有的景观适合在几步之外看，有的需要放眼望向很远的地方。图注能帮你找到各自的地点。写下你最想观察的一处细节，再找公园地图上能够安全停下来的位置。"
+        }
+      ],
+      "term": "栈道",
+      "definition": "用木板或其他材料搭出的行走路线。",
+      "glossary": [
+        {
+          "term": "观景点",
+          "definition": "可以集中观看一处景观的位置。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/grca/learn/nature/grca-geology.htm",
+        "https://www.nps.gov/places/000/lipan-point.htm",
+        "https://home.nps.gov/yell/learn/nature/hydrothermal-systems.htm",
+        "https://home.nps.gov/places/old-faithful-geyser.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-boardwalk-why"
+    },
+    {
+      "id": "usa-liberty-island",
+      "countryId": "usa",
+      "sectionId": "landmarks",
+      "title": "自由女神像站在哪座岛上？",
+      "summary": "从纽约港的航拍找到自由岛，再观察雕像和基座。",
+      "mediaId": "usa-m30",
+      "blocks": [
+        {
+          "id": "usa-liberty-island-b1",
+          "title": "先把港湾找出来",
+          "text": "把地图缩小，找到美国东部靠近大西洋的纽约港。港内有几座岛，岸边还连接城市。先看航拍里水面的位置，再看照片里较小的岛。这样能把「纽约港」和「港里的一座岛」分开记。"
+        },
+        {
+          "id": "usa-liberty-island-b2",
+          "title": "岛上站着雕像",
+          "text": "自由女神像站在自由岛上。近照能辨出雕像、基座和它们下面的地面。航拍可以让你看到岛的轮廓以及它和其他陆地的相对位置。两张照片看的是同一地点的不同范围。",
+          "mediaId": "usa-m31"
+        },
+        {
+          "id": "usa-liberty-island-b3",
+          "title": "和埃利斯岛分别认识",
+          "text": "纽约港里还有埃利斯岛。在一段历史时期，那里是许多移民抵达时接受检查和登记的地方。想查雕像的位置就找自由岛，想了解当时怎样办理入境，可以继续读埃利斯岛的资料。"
+        },
+        {
+          "id": "usa-liberty-island-b4",
+          "title": "不同角度能看出什么",
+          "text": "近照的水面可能只占一点地方，照片更适合看基座和雕像。航拍能把港湾和邻近岸线放进同一个画面。用岛的轮廓与照片边缘做参照，再读图注，比较哪个角度最容易让你确认岛在水中。"
+        },
+        {
+          "id": "usa-liberty-island-b5",
+          "title": "回地图说出位置",
+          "text": "先点地图上的纽约港，再说「自由岛在纽约港里」。如果找到的是华盛顿特区，可以缩小区域图，把两个地点同时放在眼前。找到合适范围以后，再把自由岛和港湾的关系讲给别人听。"
+        },
+        {
+          "id": "usa-liberty-island-b6",
+          "title": "给两座岛写不同线索",
+          "text": "画出港湾的一小段，先标上自由岛的雕像，再把埃利斯岛的名字写在北面。让家人问你「雕像在哪里」和「在哪里可以查移民登记的历史」。回答时各用一条线索，再用地图或档案核对。把小图转一个方向后，可以再用两座岛之间的相对位置重新找回线索。"
+        }
+      ],
+      "term": "自由岛",
+      "definition": "纽约港里一座小岛，自由女神像位于岛上。",
+      "glossary": [
+        {
+          "term": "港湾",
+          "definition": "水域伸进岸边、可容船只来往或停泊的地方。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/stli/planyourvisit/frequently-asked-questions-statue-of-liberty.htm",
+        "https://www.nps.gov/elis/index.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-new-york-harbor",
+      "exerciseId": "usa-locate-liberty-island"
+    },
+    {
+      "id": "usa-golden-gate",
+      "countryId": "usa",
+      "sectionId": "landmarks",
+      "title": "金门大桥跨过了哪片水？",
+      "summary": "顺着金门大桥往两岸看，认出它跨过的海峡。",
+      "mediaId": "usa-m32",
+      "blocks": [
+        {
+          "id": "usa-golden-gate-b1",
+          "title": "从桥的两端看起",
+          "text": "照片里金门大桥横跨水面。一端接着旧金山半岛，另一端接着马林一侧。用手指沿桥面从一端走到另一端，再看看两边陆地怎样伸向水里。换到俯视地图上，可能更容易看到两岸的轮廓。"
+        },
+        {
+          "id": "usa-golden-gate-b2",
+          "title": "看桥下面的水面",
+          "text": "桥所跨过的是金门海峡。找找画面里桥塔下方的开阔水面，再比较桥面和岸边的形状。有人在桥上移动，也有船能经过下面的水道。照片保留了桥与水在同一画面里的位置关系。"
+        },
+        {
+          "id": "usa-golden-gate-b3",
+          "title": "海峡通往哪里",
+          "text": "金门海峡把旧金山湾与太平洋连在一起。沿着地图上的水域，从海湾往西经过狭窄的一段，再向外到太平洋。试着用「湾」「海峡」「大洋」三个词描述这段路线。"
+        },
+        {
+          "id": "usa-golden-gate-b4",
+          "title": "换到地图确认方向",
+          "text": "一张斜着拍摄的桥梁照片会改变远近大小。要确认哪边是海湾、哪边是大洋，可以回到带方向与名称的地图。把桥和水域各指出一次，就能把看到的地方和地理名称对起来。"
+        },
+        {
+          "id": "usa-golden-gate-b5",
+          "title": "给画面上的两处物件起名字",
+          "text": "用「我指的是桥下的水面」说明你选择的位置，再指出附近的桥塔或陆地。换一幅照片看看它们会出现在哪儿。想知道桥名从哪里来，可以查桥梁管理机构公布的说明。"
+        },
+        {
+          "id": "usa-golden-gate-b6",
+          "title": "让朋友指一条水路",
+          "text": "先把桥两端的陆地和中间的水画成三种形状。把水道的两头分别写上旧金山湾和太平洋。请朋友从海湾出发，沿水面指向大洋。走到桥下面时，可以停一停，说出这段较窄的水道叫什么。画桥时给下面的海峡留一段空白，也提醒自己同一个地方有水路和陆上的交通。"
+        }
+      ],
+      "term": "海峡",
+      "definition": "两片陆地之间相对狭窄的水道，连接较大的水域。",
+      "glossary": [
+        {
+          "term": "桥塔",
+          "definition": "支撑桥上缆索的高大结构。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.goldengate.org/bridge/history-research/statistics-data/whats-in-a-name/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-san-francisco-golden-gate",
+      "exerciseId": "usa-bridge-water"
+    },
+    {
+      "id": "usa-national-mall",
+      "countryId": "usa",
+      "sectionId": "landmarks",
+      "title": "国家广场上可以读到哪些城市线索？",
+      "summary": "认出国家广场的三处地标，试着用地图确定照片的拍摄方向。",
+      "mediaId": "usa-m08",
+      "blocks": [
+        {
+          "id": "usa-national-mall-b1",
+          "title": "找到国家广场",
+          "text": "美国首都华盛顿特区有一段开阔的公共空间，人们称这里为国家广场。先从远景照片找一条比较长的空地。再沿长边向两端看，注意地面、树林、道路和较高的建筑如何排列。"
+        },
+        {
+          "id": "usa-national-mall-b2",
+          "title": "认出几个不同的轮廓",
+          "text": "航拍里能看见高而窄的华盛顿纪念碑，也能看到国家广场两头附近的建筑。国会大厦的圆顶与林肯纪念堂的外形不同。先挑一处最容易认出的地标，再用它带着你认识周围。"
+        },
+        {
+          "id": "usa-national-mall-b3",
+          "title": "读有地标名的地图",
+          "text": "想确认建筑的名字，就找有地标名字的国家广场地图。比较纪念碑两侧的其他地标，看看它们的顺序在地图与照片里是否相符。对上两处以后，就更容易确定第三处是哪座建筑。"
+        },
+        {
+          "id": "usa-national-mall-b4",
+          "title": "试着摆正照片的方向",
+          "text": "如果你把照片转一转，远近关系不会变，但画面的上下方向会变。地图的北向是另一个线索。用两处已经认出的建筑找出照片是朝哪边看的，再用带方向的地图核对一遍。"
+        },
+        {
+          "id": "usa-national-mall-b5",
+          "title": "从广场认识一座首都",
+          "text": "公共空间能留下城市规划的线索，地标也能引出不同历史故事。一趟观察可以先找位置，再挑一个地标读它的介绍。把「我在图上看见了什么」和「查地图以后确认了什么」分别记下来。"
+        },
+        {
+          "id": "usa-national-mall-b6",
+          "title": "用三个轮廓认一张图",
+          "text": "在纸上画一个尖顶、一座带圆顶的建筑和一座较低的纪念堂。把它们摆在一条长线的不同位置，再与照片和地图核对。以后看到另一张首都照片，可以先用最容易认出的轮廓定位，再找其他两处。想确认照片方向时，可以请家人先指出图里的纪念碑，再一起找南北。"
+        }
+      ],
+      "term": "地标",
+      "definition": "容易辨认、可用来判断位置的建筑或景物。",
+      "glossary": [
+        {
+          "term": "广场",
+          "definition": "城市中供人活动的开阔空间。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/nama/index.htm",
+        "https://www.usa.gov/states/district-of-columbia"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-washington-dc",
+      "exerciseId": "usa-mall-clue"
+    },
+    {
+      "id": "usa-yellowstone-geyser",
+      "countryId": "usa",
+      "sectionId": "nature",
+      "title": "黄石的水为什么会喷起来？",
+      "summary": "把水、热和地下通道拼在一起，理解老忠实间歇泉为什么会喷发。",
+      "mediaId": "usa-m24",
+      "blocks": [
+        {
+          "id": "usa-yellowstone-geyser-b1",
+          "title": "先看喷发的样子",
+          "text": "在美国怀俄明州的黄石国家公园，可以观察老忠实间歇泉。照片里的水和蒸汽冲到地面上方。先找喷发是从地面哪里出来的，再看看周围的空地。照片留下的是一次喷发中的某一刻。"
+        },
+        {
+          "id": "usa-yellowstone-geyser-b2",
+          "title": "水流进地下遇到热",
+          "text": "雨水或融雪的一部分可以渗进地下，在地下岩石附近获得热量。图用蓝色表示水，用橙色箭头表示热量的传递。看图时先从地表往下找，找到储水的部分，再顺着通道回到地面出口。",
+          "mediaId": "usa-m25"
+        },
+        {
+          "id": "usa-yellowstone-geyser-b3",
+          "title": "通道形状会影响压力",
+          "text": "老忠实这样的间歇泉有受到限制的地下通道。深处热水受到上方水的压力，可以在较高温度下仍保持液态。狭窄处会影响热水和蒸汽的移动。用手指沿剖面图找一找窄口在哪里。"
+        },
+        {
+          "id": "usa-yellowstone-geyser-b4",
+          "title": "压力变化后水喷出来",
+          "text": "随着气泡和少量水向上移动，上面的水减少，深处压力下降。更多热水能迅速变成蒸汽，推动水和蒸汽从出口喷出。一次喷发结束后，地下又可以慢慢积水和受热。"
+        },
+        {
+          "id": "usa-yellowstone-geyser-b5",
+          "title": "把照片和剖面配着读",
+          "text": "照片里的喷流帮助你找到地面出口，剖面图补充了地下通道和热量。站在黄石的指定栈道上看热水区，可以离开较脆弱的地面。把「我在照片中看到」和「图解帮我理解」各说一句。"
+        },
+        {
+          "id": "usa-yellowstone-geyser-b6",
+          "title": "给看不见的地方加图注",
+          "text": "在一张纸上画一条线代表地表，在线上写下照片中能看见的水和蒸汽。在线下写出剖面里的水、热和窄口。请家人先看两排图注，再用自己的话说一说，地下条件怎样联系到地面上的喷发。也可以用不同颜色区分进入地下的水和传递热量的箭头。"
+        }
+      ],
+      "term": "间歇泉",
+      "definition": "会隔一段时间喷出热水和蒸汽的一类温泉。",
+      "glossary": [
+        {
+          "term": "地热",
+          "definition": "来自地球内部的热。"
+        },
+        {
+          "term": "压力",
+          "definition": "水或气体推挤周围的作用。"
+        }
+      ],
+      "sourceUrls": [
+        "https://home.nps.gov/yell/learn/nature/hydrothermal-systems.htm",
+        "https://home.nps.gov/places/old-faithful-geyser.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "usa-geyser-process",
+      "placeId": "usa-yellowstone-old-faithful",
+      "exerciseId": "usa-geyser-conditions"
+    },
+    {
+      "id": "usa-everglades-water",
+      "countryId": "usa",
+      "sectionId": "nature",
+      "title": "一片很浅的水怎样慢慢流？",
+      "summary": "在鲨鱼谷寻找浅水和草，想一想怎样测量照片里看不出的流动。",
+      "mediaId": "usa-m28",
+      "blocks": [
+        {
+          "id": "usa-everglades-water-b1",
+          "title": "从浅水旁的草看起",
+          "text": "大沼泽地在佛罗里达州南部。鲨鱼谷的一些地方，水和草挨得很近。看照片时，先找水面反光和伸出水面的植物，再找水与陆地交接的地方。那些细节比只说「这是湿地」更容易让人复查。"
+        },
+        {
+          "id": "usa-everglades-water-b2",
+          "title": "水能铺过大片地面",
+          "text": "地势很平缓的地方，水可以在较大的范围里缓慢流动。有时水不集中在一条深河槽里，能从草丛之间通过。地图有助于看水从哪里来到哪里，地面照片则能看出拍摄地点周围有什么。"
+        },
+        {
+          "id": "usa-everglades-water-b3",
+          "title": "季节会改变水情",
+          "text": "雨季和旱季的降雨不同，地面的积水和一些动物出现的位置也会变化。读照片时把拍摄时间一起记下。比较两张不同季节的照片，先确认拍的是同一个地方，再看看水边的线有没有移过位置。"
+        },
+        {
+          "id": "usa-everglades-water-b4",
+          "title": "水和生物的关系",
+          "text": "浅水、草丛和较深水面能为不同的生物提供空间。照片里若看到一只动物，可以先写它在哪块水面旁边。要了解它为什么在那里，还要看这个地方的水情、物种资料，或者多做几次观察。"
+        },
+        {
+          "id": "usa-everglades-water-b5",
+          "title": "给看不出的速度留个问题",
+          "text": "一张静止的照片通常很难显示水流有多快。可以先写下「我看见水面和露出来的植物」，然后问有没有同一处的录像、水位或流速记录。猜想能告诉你接下来去哪里找资料。"
+        },
+        {
+          "id": "usa-everglades-water-b6",
+          "title": "用同一角度比较水位",
+          "text": "给照片找一处不会轻易移动的参照，比如岸边的一段固定路面。如果在另一天从同一处拍摄，可以比较水边离参照有多远。读图片的时候，先写各自的日期，再把可能受到拍摄方向影响的部分圈出来。"
+        }
+      ],
+      "term": "湿地",
+      "definition": "水经常覆盖或浸润地面、动植物适应这种环境的地方。",
+      "glossary": [
+        {
+          "term": "雨季",
+          "definition": "一个地方一年里降雨较多的时段。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/places/meet-everglades-stop-2-the-flow-of-life.htm",
+        "https://home.nps.gov/ever/planyourvisit/svdirections.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-everglades",
+      "activity": {
+        "type": "open",
+        "id": "usa-open-everglades",
+        "title": "观察湿地的浅水",
+        "prompt": "水面旁有哪些植物或动物？水流速度还要用什么资料查证？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "usa-m28"
+        ],
+        "suggestedArticleIds": [
+          "usa-two-waters",
+          "usa-great-lakes"
+        ]
+      }
+    },
+    {
+      "id": "usa-hawaii-volcanoes",
+      "countryId": "usa",
+      "sectionId": "nature",
+      "title": "火山岩怎样留下一片新的地表？",
+      "summary": "在夏威夷岛找到基拉韦厄，看看不同时间的地表照片。",
+      "mediaId": "usa-m29",
+      "blocks": [
+        {
+          "id": "usa-hawaii-volcanoes-b1",
+          "title": "先找到夏威夷岛",
+          "text": "夏威夷州的主要岛屿在太平洋上排成一串。先在卫星图里找到东南端的大岛，它叫夏威夷岛。接着切到夏威夷区域图，看看岛和附近几座岛的相对位置，注意别把州名和岛名混起来。"
+        },
+        {
+          "id": "usa-hawaii-volcanoes-b2",
+          "title": "到基拉韦厄观景点",
+          "text": "夏威夷火山国家公园的基拉韦厄观景区在夏威夷岛上。站在这样的观察位置，可以望向火山洼地。照片和地图分别显示地表形状和观察点位置。看图注，确认相机从哪里朝火山看。",
+          "mediaId": "usa-m07"
+        },
+        {
+          "id": "usa-hawaii-volcanoes-b3",
+          "title": "熔岩流动以后会怎样",
+          "text": "从地下到地表的熔融岩石叫熔岩。它沿地表流动，慢慢冷却并凝固，可以盖在旧地表上，留下新的岩石表面。沿一片黑色岩面观察时，可能看到不同的裂纹和起伏。"
+        },
+        {
+          "id": "usa-hawaii-volcanoes-b4",
+          "title": "把日期写在照片边",
+          "text": "同一座火山在不同日期会呈现不同样子。一张照片中的洼地、岩面和烟气记录了拍摄时的场景。要判断地表什么时候发生变化，可以找来自同一地点、注明时间的照片，比较前后的轮廓。"
+        },
+        {
+          "id": "usa-hawaii-volcanoes-b5",
+          "title": "再从区域图找到来路",
+          "text": "阿拉斯加也有一幅独立的区域图。想找这个故事里的观景点，先看地名里有没有夏威夷岛或基拉韦厄，再选区域。你可以先在图上指出岛，再告诉朋友观察的是哪座火山。"
+        },
+        {
+          "id": "usa-hawaii-volcanoes-b6",
+          "title": "给火山照片排一排",
+          "text": "假设你找到同一观景点两张照片，先把拍摄时间从早到晚排好。然后用同一种边缘或路标对齐画面，找地表变化。能从两张图确认的事情写在一起，仍要读火山观测记录的疑问留在旁边。注意照片可能取自不同角度，先确认两张图都有相同的地形参照。"
+        }
+      ],
+      "term": "熔岩",
+      "definition": "流到地表的熔融岩石，冷下来会凝固。",
+      "glossary": [
+        {
+          "term": "火山口",
+          "definition": "火山活动形成的开口或洼地的一种。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/places/kilauea-overlook.htm",
+        "https://www.usgs.gov/geology-and-ecology-of-national-parks/geology-hawaii-volcanoes-national-park"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-hawaii-volcanoes",
+      "exerciseId": "usa-locate-hawaii-volcano"
+    },
+    {
+      "id": "usa-independence-hall",
+      "countryId": "usa",
+      "sectionId": "history",
+      "title": "一座小楼怎样留下独立的线索？",
+      "summary": "把费城独立厅的照片和一份 1776 年的文字档案放在一起。",
+      "mediaId": "usa-m33",
+      "blocks": [
+        {
+          "id": "usa-independence-hall-b1",
+          "title": "先找到独立厅",
+          "text": "在美国东部的宾夕法尼亚州找到费城，地图上的独立厅是这篇故事的观察点。先看建筑照片里砖墙、窗和高塔的形状。它能帮助你找到这座楼，也能提醒你这里有值得继续查的历史。"
+        },
+        {
+          "id": "usa-independence-hall-b2",
+          "title": "一份文件在 1776 年通过",
+          "text": "1776 年 7 月 4 日，大陆会议通过《独立宣言》。后来不同代表在文件上签名，很多签名写于 8 月 2 日。把「通过」和「签名」分别记下来，再看档案中的时间说明。"
+        },
+        {
+          "id": "usa-independence-hall-b3",
+          "title": "照片和文字分别留下什么",
+          "text": "独立厅照片可以让你观察建筑的外形。要知道宣言写了什么，就要读历史档案或它的文字转录。一份文件可能还会有印刷本、手稿等不同版本，图注能帮助你知道自己正在读哪一份。"
+        },
+        {
+          "id": "usa-independence-hall-b4",
+          "title": "把想法和当时的生活放在一起",
+          "text": "宣言谈到平等与权利。当时仍有人遭受奴役，许多人并不能平等参与公共事务。阅读历史时，可以同时保留两条线索，一条记录文件提出的主张，另一条追问当时哪些人还在为平等努力。"
+        },
+        {
+          "id": "usa-independence-hall-b5",
+          "title": "给历史线索标上时间",
+          "text": "回到时间线，先找到 1776，再想想 1865 和 1964 分别关联什么变化。试着用照片介绍独立厅的位置，再用文字档案确认宣言的日期。地点、时间和材料三个线索能让一段故事更清楚。"
+        },
+        {
+          "id": "usa-independence-hall-b6",
+          "title": "给线索选一张资料卡",
+          "text": "准备两张纸，一张写「建筑在哪里」，另一张写「文件何时通过」。把建筑照片放在第一张旁边，把档案说明放在第二张旁边。交换位置后，请别人把它们重新配对，说一说每份材料可以回答什么。再加一张写有两条日期的卡片，请对方分别指出通过和签署所用的资料，避免把两个动作混在一起。"
+        }
+      ],
+      "term": "独立宣言",
+      "definition": "1776 年通过的一份文件，宣布当时北美的十三个殖民地脱离英国。",
+      "glossary": [
+        {
+          "term": "档案",
+          "definition": "保存下来供人查阅的历史记录。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.archives.gov/milestone-documents/declaration-of-independence",
+        "https://www.nps.gov/inde/learn/historyculture/places-independencehall.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-independence-hall",
+      "exerciseId": "usa-declaration-year"
+    },
+    {
+      "id": "usa-thirteenth-amendment",
+      "countryId": "usa",
+      "sectionId": "history",
+      "title": "一份修正案怎样改变法律？",
+      "summary": "读一份 1865 年的档案，了解美国废除奴隶制的一步。",
+      "mediaId": "usa-m34",
+      "blocks": [
+        {
+          "id": "usa-thirteenth-amendment-b1",
+          "title": "先理解为什么要改变",
+          "text": "在奴隶制下，被奴役的人不能自由决定自己住在哪里、做什么工作，家人也可能被强行分开。理解这段历史时，可以先问「谁拥有作决定的自由」，再读当时的人为改变制度留下了哪些文字。"
+        },
+        {
+          "id": "usa-thirteenth-amendment-b2",
+          "title": "一份修正案在 1865 年生效",
+          "text": "美国国会提出第十三修正案，之后经各州批准，于 1865 年获得所需批准并生效。档案扫描记录的是当时提交的国会决议文件。想弄清正文说了什么，可以对照国家档案馆的文字转录。"
+        },
+        {
+          "id": "usa-thirteenth-amendment-b3",
+          "title": "读清规定和例外",
+          "text": "修正案禁止奴隶制与强制劳役，但条文中有一个例外，即对已依法定罪者所施的刑罚。适龄阅读可以先圈出「禁止的事」，再找写明例外的部分。原文与档案馆说明可以帮助你核对意思。"
+        },
+        {
+          "id": "usa-thirteenth-amendment-b4",
+          "title": "法律改变，生活还要继续争取",
+          "text": "一项法律通过以后，社会生活仍会有很多问题。理解随后几十年发生的事，需要继续读学校、工作和投票方面的历史。先用这份档案确认法律文字发生的改变，再去找人们生活的记录。"
+        },
+        {
+          "id": "usa-thirteenth-amendment-b5",
+          "title": "把证据放回时间线",
+          "text": "用一句话写下「1865 年，第十三修正案改变了什么」。旁边注明依据是修正案的文字。下次看别的历史材料时，先分清它是当时留下的原始文件，还是今天解释那段历史的文章。"
+        },
+        {
+          "id": "usa-thirteenth-amendment-b6",
+          "title": "把同一份档案读两遍",
+          "text": "第一遍先读年份和文件名称，确定你查到的是哪份材料。第二遍再读说明，写出规定和例外各是什么意思。如果有一个词还不理解，可以请家人一起看档案馆的文字转录，把问题写在它旁边。也可以给档案的标题标出你认识的词语。"
+        }
+      ],
+      "term": "修正案",
+      "definition": "用正式程序对宪法作出增补或修改的文字。",
+      "glossary": [
+        {
+          "term": "奴隶制",
+          "definition": "把人当作财产控制、剥夺人自由的制度。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.archives.gov/milestone-documents/13th-amendment"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "usa-amendment-evidence"
+    },
+    {
+      "id": "usa-civil-rights",
+      "countryId": "usa",
+      "sectionId": "history",
+      "title": "过一座桥的人们想争取什么？",
+      "summary": "沿着塞尔玛的一座桥，理解人们争取平等投票权的故事。",
+      "mediaId": "usa-m35",
+      "blocks": [
+        {
+          "id": "usa-civil-rights-b1",
+          "title": "在地图里找到桥",
+          "text": "埃德蒙·佩特斯桥位于亚拉巴马州塞尔玛。今天的照片能看出桥跨过河流，也能看到它怎样接到城市道路。记下桥名与所在地点，再找当年留下的记录，把现在的建筑与过去发生的事联系起来。"
+        },
+        {
+          "id": "usa-civil-rights-b2",
+          "title": "先把年份排清楚",
+          "text": "1964 年，美国通过《民权法案》，禁止多种场合中的歧视。塞尔玛的投票权游行发生在 1965 年。把两条线索分别写到时间线上，比较哪件事在前，再读每条资料说明它要解决的具体问题。",
+          "mediaId": "usa-m18"
+        },
+        {
+          "id": "usa-civil-rights-b3",
+          "title": "过桥的人在争取什么",
+          "text": "1965 年，许多参与者从塞尔玛出发，争取实际享有平等投票权。他们走向州府方向，希望让更多人关注非裔美国人在登记和投票时遭遇的阻碍。理解他们的目标，可以从组织者和参与者的历史记录找证据。"
+        },
+        {
+          "id": "usa-civil-rights-b4",
+          "title": "再看 1965 年的法律",
+          "text": "1965 年通过的《投票权法》回应了针对投票的种族歧视。它与 1964 年的《民权法案》有不同的名称、年份和重点。可以给每份资料写一句释义，并把写有年份的档案页和照片分开放。"
+        },
+        {
+          "id": "usa-civil-rights-b5",
+          "title": "用桥的今景提出问题",
+          "text": "在今天的桥梁照片上找路面、桥架和河。画面可以帮我们认识地点。想知道当年人们为什么过桥，可以继续读游行记录、采访和法律文件。把最想查的一项记在观察页。"
+        },
+        {
+          "id": "usa-civil-rights-b6",
+          "title": "把三张卡片排好",
+          "text": "准备三张纸，分别写民权法案、塞尔玛游行和投票权法。把年份放到对应的名字旁，再给每张卡写上它所关心的问题。两件事可能发生在同一年，名字和内容仍能帮助你分清它们的联系。把今天的桥梁照片放在游行记录旁边读。"
+        }
+      ],
+      "term": "投票权",
+      "definition": "符合条件的人参加选举、投下自己一票的权利。",
+      "glossary": [
+        {
+          "term": "游行",
+          "definition": "人们一起沿道路行进，表达想法或参加公共活动。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.archives.gov/milestone-documents/civil-rights-act",
+        "https://home.nps.gov/semo/learn/historyculture/edmund-pettus-bridge.htm",
+        "https://www.archives.gov/milestone-documents/voting-rights-act"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "placeId": "usa-selma-bridge",
+      "activity": {
+        "type": "open",
+        "id": "usa-open-civil-rights",
+        "title": "给一座桥留一个历史问题",
+        "prompt": "今景照片能说明桥的位置和样子。要了解当年为何过桥，你想再看什么资料？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "usa-m35",
+          "usa-m18"
+        ],
+        "suggestedArticleIds": [
+          "usa-thirteenth-amendment",
+          "usa-independence-hall"
+        ]
+      }
+    },
+    {
+      "id": "usa-photo-evidence",
+      "countryId": "usa",
+      "sectionId": "questions",
+      "title": "一张照片里，哪一句是我看见的？",
+      "summary": "从同一处峡谷的照片里，分清看到的细节和还要查的推测。",
+      "mediaId": "usa-m03",
+      "blocks": [
+        {
+          "id": "usa-photo-evidence-b1",
+          "title": "把图注读在前面",
+          "text": "图注会告诉你照片拍的是哪个地方，有时还标出日期和拍摄方向。先读大峡谷照片的图注，再用手指沿岩壁找一处能辨认的条带。这样别人也能回到同一张图里找到你说的位置。"
+        },
+        {
+          "id": "usa-photo-evidence-b2",
+          "title": "给眼前的物件命名",
+          "text": "可以写「岩壁有深浅相间的条带」，再说明哪一部分靠上或靠下。这句话只描述可见的形状和颜色。试着用同样的方法写一句关于谷底水面的观察，确保说出的对象在照片上有位置。",
+          "mediaId": "usa-m02"
+        },
+        {
+          "id": "usa-photo-evidence-b3",
+          "title": "猜想需要继续查",
+          "text": "「这一层岩石是哪一年形成的」或「河流用了多长时间刻出峡谷」，要靠地质资料和更多证据回答。一张照片可以让你产生这些问题。给自己的想法加上「我猜」，再记下打算查的材料。"
+        },
+        {
+          "id": "usa-photo-evidence-b4",
+          "title": "用两张图互相核对",
+          "text": "把岩层近景和河谷远景放在一起。近景看清条带，远景有助于找山坡与河的位置。读图注确认拍摄范围以后，再想想哪条观察能同时用两种材料说明，哪一条需要再查。"
+        },
+        {
+          "id": "usa-photo-evidence-b5",
+          "title": "分成看见、猜想与查证",
+          "text": "先写下能指出位置的一句话，再写一句希望验证的推测。最后列出一份要看的资料，例如地图、岩层说明或其他角度的照片。等看过新材料，就可以改写原来的猜想。"
+        },
+        {
+          "id": "usa-photo-evidence-b6",
+          "title": "给一句话换一种开头",
+          "text": "写下你刚才观察岩壁时说的一句话。如果其中提到形成时间，就问自己还能从哪里查。再用「我看到」另写一句只包含位置和形状的话。把两句话读给家人听，请对方回到照片指出能确认的部分。看不到的年份和原因可以记到问题栏里，等手边有了更合适的资料再补。"
+        }
+      ],
+      "term": "证据",
+      "definition": "可以用来支持或检验一种说法的材料。",
+      "glossary": [
+        {
+          "term": "推测",
+          "definition": "从有限的线索出发想到一种可能的解释。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/grca/learn/nature/grca-geology.htm",
+        "https://www.nps.gov/places/000/lipan-point.htm",
+        "https://www.nps.gov/aboutus/disclaimer.htm",
+        "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+        "https://www.naturalearthdata.com/about/terms-of-use/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "exerciseId": "usa-seen-or-guessed"
+    },
+    {
+      "id": "usa-canyon-close-look",
+      "countryId": "usa",
+      "sectionId": "questions",
+      "title": "峡谷的全景和近景各说明什么？",
+      "summary": "把远处的河谷与近处的岩层对起来，用两种视角读一处峡谷。",
+      "mediaId": "usa-m03",
+      "blocks": [
+        {
+          "id": "usa-canyon-close-look-b1",
+          "title": "在远景里找边缘",
+          "text": "在从利潘角拍的照片里，先找近处的岩壁，再看谷底的河道伸向哪里。远景能同时给你几个参照，例如崖壁、斜坡和水面。把找到的顺序说出来，别人就能跟着你的指尖一起观察。"
+        },
+        {
+          "id": "usa-canyon-close-look-b2",
+          "title": "在近景里找条带",
+          "text": "换到放大一些的岩壁照片，找深浅不同的条带和它们的边缘。有的条带比较平直，有的在画面里被岩石或斜坡挡住。点出一处容易复查的地方，试着描述它周围还有哪些颜色。",
+          "mediaId": "usa-m02"
+        },
+        {
+          "id": "usa-canyon-close-look-b3",
+          "title": "比较拍摄位置",
+          "text": "远景和近景有不同图注。读一读它们的地点和拍摄对象，就知道两张图分别适合看哪一种线索。同一座峡谷有很多观景位置，一幅图里的河湾和另一幅图的岩壁可能隔着一段距离。"
+        },
+        {
+          "id": "usa-canyon-close-look-b4",
+          "title": "同一问题可以有几份证据",
+          "text": "要问「岩壁有几种颜色」，近景能显示局部。要问「水在峡谷的什么地方」，能看到谷底的远景更合适。要问岩层叫什么，可以打开地质资料，确认专业图怎样给岩层命名。"
+        },
+        {
+          "id": "usa-canyon-close-look-b5",
+          "title": "点出你看清的条带",
+          "text": "在图上选一处岩层条带，再说明为什么它不是天空或水面。回到远景找同样的颜色与排列方式。两张照片给你的观察尺度不同，可以各写一句它能帮助确认的事。"
+        },
+        {
+          "id": "usa-canyon-close-look-b6",
+          "title": "给近景加一根指向线",
+          "text": "在近景小图旁画一根箭头，指向你选中的岩层，再写上颜色和在画面里的位置。给远景也画一根箭头，指向谷底水面。请朋友对照原图寻找两处线索，看看你的描述能不能让他选到同一个地方。如果对方选到另一个位置，可以把附近能认出的颜色和物件再说清楚一些。"
+        }
+      ],
+      "term": "近景",
+      "definition": "镜头靠近或放大后记录的一小片景物。",
+      "glossary": [
+        {
+          "term": "全景",
+          "definition": "能同时显示较广范围和周围关系的画面。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.nps.gov/grca/learn/nature/grca-geology.htm",
+        "https://www.nps.gov/places/000/lipan-point.htm"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "placeId": "usa-grand-canyon",
+      "exerciseId": "usa-canyon-find-strata"
+    },
+    {
+      "id": "usa-two-waters",
+      "countryId": "usa",
+      "sectionId": "questions",
+      "title": "河流和大湖，怎样用两张图比较？",
+      "summary": "把新奥尔良的河段与苏必利尔湖岸放到一起比较。",
+      "mediaId": "usa-m36",
+      "blocks": [
+        {
+          "id": "usa-two-waters-b1",
+          "title": "先看这两片水在哪里",
+          "text": "第一处是新奥尔良附近的密西西比河，河流在城市旁弯过去。另一处是威斯康星州苏必利尔湖岸边的一小段。两张照片分别记录河段与湖岸，读完图注再把两处找回地图。"
+        },
+        {
+          "id": "usa-two-waters-b2",
+          "title": "把观察的范围对齐",
+          "text": "一张图可能从更高的位置拍下，另一张可能靠近水边。先确认照片的视角和时间，再看看画面包括的是一个河湾、半段街道，还是岸边几米。不同的拍摄范围会改变我们对宽度的感觉。",
+          "mediaId": "usa-m26"
+        },
+        {
+          "id": "usa-two-waters-b3",
+          "title": "比较水边的形状",
+          "text": "用手指描出两张图中陆地和水相遇的地方。河岸照片里可以找水面与城市的位置，湖岸照片里可以找沙地、水与岸边环境。先写相同的一处，再写不同的一处。"
+        },
+        {
+          "id": "usa-two-waters-b4",
+          "title": "再找一张能回答问题的图",
+          "text": "想比较整条河和整个湖的形状，可以用区域地图。如果只想比较眼前一段岸线，可以找接近比例的地图或照片。两种资料一起用，就能分清照片上看到的岸线属于哪一片较大的水域。"
+        },
+        {
+          "id": "usa-two-waters-b5",
+          "title": "留一个可以查证的问题",
+          "text": "你可以问「换到对岸以后，河湾是不是还朝这个方向弯」或「这段湖岸离下一个岬角有多远」。把问题写在观察页，再注明要用什么比例的地图或哪个位置的照片来查。"
+        },
+        {
+          "id": "usa-two-waters-b6",
+          "title": "从地图找两张照片的来路",
+          "text": "在区域图上给河岸和湖岸各做一个点，再分别查找照片里的城市、沙岸或河湾。比较地图的比例尺，想想两张照片能看到多大范围。把你找到的线索写下来，留给下一次到水边观察时对照。换一张比例尺更大的地图时，再比较两处岸边弯曲的方向和近旁的地面是什么样。"
+        }
+      ],
+      "term": "岸线",
+      "definition": "水面与陆地相接的线，会随水位和地面形状变化。",
+      "glossary": [
+        {
+          "term": "尺度",
+          "definition": "地图或照片表现范围大小的一种说法。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.epa.gov/greatlakes/great-lakes-facts-and-figures",
+        "https://www.nps.gov/places/meyers-beach.htm",
+        "https://rivergages.mvr.usace.army.mil/WaterControl/stationinfo2.cfm?dt=S&fid=&sid=01300"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-08",
+      "reviewStatus": "sourceChecked",
+      "diagram": "evidence",
+      "placeId": "usa-mississippi-river",
+      "mapFeatureId": "usa-feature-mississippi-river",
+      "activity": {
+        "type": "open",
+        "id": "usa-open-two-waters",
+        "title": "对照河流和湖岸",
+        "prompt": "两张图里的岸边形状有什么不同？如果视角或尺度换了，哪些问题需要再查？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "usa-m26",
+          "usa-m36"
+        ],
+        "suggestedArticleIds": [
+          "usa-great-lakes",
+          "usa-photo-evidence"
+        ]
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "usa-grand-canyon",
+      "countryId": "usa",
+      "name": "大峡谷 · 南缘",
+      "category": "自然",
+      "latitude": 36.0326,
+      "longitude": -111.8516,
+      "region": "亚利桑那州 · 利潘角",
+      "summary": "从利潘角看下去，岩壁和一段科罗拉多河同时入画。",
+      "description": "地图锚点在大峡谷南缘的利潘角观景区。第一张从利潘角望向谷底，第二张是鲍威尔角的南缘全景。近景可以用来核对不同的岩层条带。",
+      "observation": "先找一条岩层条带，再换图找谷底的河。照片里哪一段水看得最清楚？",
+      "mediaIds": [
+        "usa-m02",
+        "usa-m01",
+        "usa-m03"
+      ],
+      "sourceUrl": "https://www.nps.gov/places/000/lipan-point.htm",
+      "aliases": [
+        "Grand Canyon",
+        "Lipan Point",
+        "利潘角",
+        "科罗拉多河"
+      ],
+      "articleIds": [
+        "usa-grand-canyon-geology",
+        "usa-canyon-close-look"
+      ],
+      "coordinateSource": "利潘角公共观景点",
+      "hotspots": [
+        {
+          "mediaId": "usa-m02",
+          "x": 0.64,
+          "y": 0.58,
+          "label": "岩层条带",
+          "explanation": "沿着深浅相间的条带看，前景岩壁被一层层横向纹理分开。"
+        },
+        {
+          "mediaId": "usa-m02",
+          "x": 0.42,
+          "y": 0.25,
+          "label": "谷底河道",
+          "explanation": "浅色的水面绕过谷底的岩地。这是利潘角能看到的一段科罗拉多河。"
+        },
+        {
+          "mediaId": "usa-m03",
+          "x": 0.39,
+          "y": 0.55,
+          "label": "岩层交界",
+          "explanation": "照片上描出的黑线能帮你对比相邻的岩层。深色条带位于浅色崖壁下方。"
+        }
+      ]
+    },
+    {
+      "id": "usa-yellowstone-old-faithful",
+      "countryId": "usa",
+      "name": "黄石 · 老忠实间歇泉",
+      "category": "自然",
+      "latitude": 44.4605,
+      "longitude": -110.8282,
+      "region": "怀俄明州 · 黄石国家公园",
+      "summary": "喷发时，热水和蒸汽从地面出口一起冒出。",
+      "description": "点位在老忠实间歇泉观察区。喷发照片记录其中一次，配图中的大棱镜泉栈道是黄石另一个热水区。两个地点都可以用来理解公园划定观察路线的作用。",
+      "observation": "先找老忠实的地面出口，再换一张图找热水区旁边的木板路。",
+      "mediaIds": [
+        "usa-m24",
+        "usa-m25"
+      ],
+      "sourceUrl": "https://home.nps.gov/places/old-faithful-geyser.htm",
+      "aliases": [
+        "Yellowstone",
+        "Old Faithful",
+        "黄石",
+        "间歇泉",
+        "老忠实"
+      ],
+      "articleIds": [
+        "usa-yellowstone-geyser",
+        "usa-national-parks-stewardship"
+      ],
+      "coordinateSource": "老忠实间歇泉地面出口",
+      "hotspots": []
+    },
+    {
+      "id": "usa-lake-superior",
+      "countryId": "usa",
+      "name": "五大湖 · 苏必利尔湖",
+      "category": "水系",
+      "latitude": 46.8838,
+      "longitude": -91.0514,
+      "region": "威斯康星州 · 迈耶斯海滩",
+      "summary": "站在湖岸看很远，再从上方找五大湖的轮廓。",
+      "description": "地点指向苏必利尔湖南岸的迈耶斯海滩一带。岸边照片呈现一小段沙岸和水，卫星图提供整个湖区的视角。水系图层中的蓝色湖面可以单独点选。",
+      "observation": "沙岸、水和天空的交界分别在哪里？卫星图能看见这片水的哪一部分？",
+      "mediaIds": [
+        "usa-m26",
+        "usa-m27"
+      ],
+      "sourceUrl": "https://www.nps.gov/places/meyers-beach.htm",
+      "aliases": [
+        "Meyers Beach",
+        "Lake Superior",
+        "苏必利尔湖",
+        "迈耶斯海滩"
+      ],
+      "articleIds": [
+        "usa-great-lakes",
+        "usa-two-waters"
+      ],
+      "coordinateSource": "Meyers Beach 公共岸边观察区",
+      "hotspots": []
+    },
+    {
+      "id": "usa-mississippi-river",
+      "countryId": "usa",
+      "name": "密西西比河 · 新奥尔良河段",
+      "category": "水系",
+      "latitude": 29.9549,
+      "longitude": -90.0627,
+      "region": "路易斯安那州 · 沃尔登堡河滨",
+      "summary": "在新奥尔良，弯曲的河道紧贴城市。",
+      "description": "锚点在新奥尔良沃尔登堡河滨公园一带。照片展示两岸和河弯，取景位置依图注理解。地图水系图层可以继续沿真实河道向上游查看。",
+      "observation": "找一段沿水面弯曲的岸边，再找挨着河岸的道路或建筑。",
+      "mediaIds": [
+        "usa-m36"
+      ],
+      "sourceUrl": "https://rivergages.mvr.usace.army.mil/WaterControl/stationinfo2.cfm?dt=S&fid=&sid=01300",
+      "aliases": [
+        "Mississippi River",
+        "New Orleans",
+        "Woldenberg Park",
+        "新奥尔良",
+        "沃尔登堡"
+      ],
+      "articleIds": [
+        "usa-two-waters",
+        "usa-new-orleans-jazz"
+      ],
+      "coordinateSource": "沃尔登堡公园公开河滨观察区",
+      "hotspots": []
+    },
+    {
+      "id": "usa-new-york-harbor",
+      "countryId": "usa",
+      "name": "纽约港 · 自由岛",
+      "category": "地标",
+      "latitude": 40.68925,
+      "longitude": -74.0445,
+      "region": "纽约州 · 自由岛",
+      "summary": "从港湾的航拍找到岛，再看雕像和基座。",
+      "description": "标记位于自由女神像基座一带。航拍能观察自由岛与附近水域，近照则让人看清雕像和基座。北面还有埃利斯岛，可以在读物里比较两座岛的故事。",
+      "observation": "用一张图说出岛在水的哪里，再用另一张图指出雕像下面的基座。",
+      "mediaIds": [
+        "usa-m30",
+        "usa-m31"
+      ],
+      "sourceUrl": "https://www.nps.gov/stli/planyourvisit/frequently-asked-questions-statue-of-liberty.htm",
+      "aliases": [
+        "New York Harbor",
+        "Liberty Island",
+        "Statue of Liberty",
+        "纽约",
+        "自由岛",
+        "自由女神像"
+      ],
+      "articleIds": [
+        "usa-liberty-island",
+        "usa-new-york-subway"
+      ],
+      "coordinateSource": "自由女神像基座位置",
+      "hotspots": []
+    },
+    {
+      "id": "usa-washington-dc",
+      "countryId": "usa",
+      "name": "华盛顿特区 · 国家广场",
+      "category": "城市",
+      "latitude": 38.8895,
+      "longitude": -77.0353,
+      "region": "华盛顿特区 · 美国东部",
+      "summary": "一段开阔的公共空间把几座首都地标连起来。",
+      "description": "点位代表国家广场上的华盛顿纪念碑附近。航拍中能够辨认纪念碑、国会大厦和林肯纪念堂。它们的名称和顺序可以对照国家广场官方地图。",
+      "observation": "哪一座建筑最容易先认出来？用它的位置判断其他地标在照片哪边。",
+      "mediaIds": [
+        "usa-m08"
+      ],
+      "sourceUrl": "https://www.nps.gov/nama/index.htm",
+      "aliases": [
+        "Washington",
+        "Washington DC",
+        "D.C.",
+        "National Mall",
+        "华盛顿",
+        "国家广场",
+        "首都"
+      ],
+      "articleIds": [
+        "usa-capital",
+        "usa-national-mall"
+      ],
+      "coordinateSource": "华盛顿纪念碑附近的广场代表点",
+      "hotspots": []
+    },
+    {
+      "id": "usa-independence-hall",
+      "countryId": "usa",
+      "name": "费城 · 独立厅",
+      "category": "遗产",
+      "latitude": 39.9489,
+      "longitude": -75.15,
+      "region": "宾夕法尼亚州 · 费城",
+      "summary": "一座砖楼引出《独立宣言》的地点和日期。",
+      "description": "点位标记独立厅建筑。今天的外观照片和 1776 年的文字档案可以一起读。照片帮助认识建筑，档案和馆方说明能解释在这里发生的事。",
+      "observation": "指出建筑正面的窗、门和塔。哪个问题需要再读一份历史档案？",
+      "mediaIds": [
+        "usa-m33"
+      ],
+      "sourceUrl": "https://www.nps.gov/inde/learn/historyculture/places-independencehall.htm",
+      "aliases": [
+        "Independence Hall",
+        "Philadelphia",
+        "费城",
+        "独立厅"
+      ],
+      "articleIds": [
+        "usa-independence-hall"
+      ],
+      "coordinateSource": "独立厅建筑位置",
+      "hotspots": []
+    },
+    {
+      "id": "usa-selma-bridge",
+      "countryId": "usa",
+      "name": "塞尔玛 · 埃德蒙·佩特斯桥",
+      "category": "遗产",
+      "latitude": 32.4052,
+      "longitude": -87.0176,
+      "region": "亚拉巴马州 · 塞尔玛",
+      "summary": "一座桥把今天的城市与 1965 年争取投票权的历史连起来。",
+      "description": "点位在桥的跨河段。实拍记录多年后的桥梁外观。想知道 1965 年人们过桥的原因，继续读历史记录和 1965 年投票权法相关资料。",
+      "observation": "在照片里指出桥和河，再写下一份你想查找的历史资料。",
+      "mediaIds": [
+        "usa-m35"
+      ],
+      "sourceUrl": "https://home.nps.gov/semo/learn/historyculture/edmund-pettus-bridge.htm",
+      "aliases": [
+        "Selma",
+        "Edmund Pettus Bridge",
+        "塞尔玛",
+        "佩特斯桥",
+        "亚拉巴马州",
+        "阿拉巴马州"
+      ],
+      "articleIds": [
+        "usa-civil-rights"
+      ],
+      "coordinateSource": "桥梁跨河段代表点",
+      "hotspots": []
+    },
+    {
+      "id": "usa-san-francisco-golden-gate",
+      "countryId": "usa",
+      "name": "旧金山 · 金门大桥",
+      "category": "地标",
+      "latitude": 37.8268,
+      "longitude": -122.4796,
+      "region": "加利福尼亚州 · 金门海峡",
+      "summary": "沿着桥面走，海峡把海湾和大洋连在一起。",
+      "description": "标记在金门大桥的跨海峡段。实拍角度用来观察桥面、水域和陆地的位置。金门海峡从旧金山湾通向太平洋。",
+      "observation": "用手指沿桥从一端走向另一端。你能指出桥下面是哪一片水吗？",
+      "mediaIds": [
+        "usa-m32"
+      ],
+      "sourceUrl": "https://www.goldengate.org/bridge/history-research/statistics-data/whats-in-a-name/",
+      "aliases": [
+        "Golden Gate Bridge",
+        "San Francisco",
+        "旧金山",
+        "金门",
+        "金门海峡"
+      ],
+      "articleIds": [
+        "usa-golden-gate"
+      ],
+      "coordinateSource": "桥梁跨海峡段代表点",
+      "hotspots": []
+    },
+    {
+      "id": "usa-denali",
+      "countryId": "usa",
+      "name": "迪纳利国家公园 · 山景观察区",
+      "category": "自然",
+      "latitude": 63.724,
+      "longitude": -149.29,
+      "region": "阿拉斯加 · 山景步道",
+      "summary": "在阿拉斯加找山、河谷和开阔的天空。",
+      "description": "地图锚点表示迪纳利国家公园山景观察区。照片帮助我们辨认这个公园的山地景观。观察山形、林线和远处视野，还可以找有日期和视角说明的其他图片。",
+      "observation": "先找远处的山和近处地面。它们在照片里看起来有多远？",
+      "mediaIds": [
+        "usa-m06"
+      ],
+      "sourceUrl": "https://www.nps.gov/places/dena-mountain-vista.htm",
+      "aliases": [
+        "Denali",
+        "Mountain Vista",
+        "迪纳利",
+        "德纳里",
+        "山景步道"
+      ],
+      "articleIds": [
+        "usa-continental-climates",
+        "usa-find-on-map"
+      ],
+      "coordinateSource": "Mountain Vista 公共观察区代表点",
+      "hotspots": []
+    },
+    {
+      "id": "usa-hawaii-volcanoes",
+      "countryId": "usa",
+      "name": "夏威夷火山国家公园 · 基拉韦厄",
+      "category": "自然",
+      "latitude": 19.4232,
+      "longitude": -155.2898,
+      "region": "夏威夷州 · 夏威夷岛",
+      "summary": "从观景点看火山洼地，再把夏威夷岛放回岛链。",
+      "description": "标记在基拉韦厄观景区。照片是一处火山口的特定时刻，卫星图能帮助定位主要岛屿。火山地表会随时间改变。",
+      "observation": "指出洼地边缘和近处的岩石。要看变化，可以找哪两个日期的照片？",
+      "mediaIds": [
+        "usa-m29",
+        "usa-m07"
+      ],
+      "sourceUrl": "https://www.nps.gov/places/kilauea-overlook.htm",
+      "aliases": [
+        "Kīlauea",
+        "Kilauea",
+        "Hawaii Volcanoes",
+        "基拉韦厄",
+        "夏威夷岛",
+        "火山"
+      ],
+      "articleIds": [
+        "usa-hawaii-volcanoes"
+      ],
+      "coordinateSource": "Kīlauea Overlook 观景区代表点",
+      "hotspots": []
+    },
+    {
+      "id": "usa-everglades",
+      "countryId": "usa",
+      "name": "大沼泽地 · 鲨鱼谷",
+      "category": "生态",
+      "latitude": 25.7574,
+      "longitude": -80.7677,
+      "region": "佛罗里达州 · 鲨鱼谷",
+      "summary": "在浅水、植物和动物之间找湿地的线索。",
+      "description": "地图标记代表鲨鱼谷入口的公开观察区。照片拍于 2017 年 3 月，图里的水和植物可以作观察材料。要判断水流速度或水位变化，还需要其他记录。",
+      "observation": "你在哪里看见水面或水边的植物？照片上有哪些信息需要用别的资料核对？",
+      "mediaIds": [
+        "usa-m28"
+      ],
+      "sourceUrl": "https://home.nps.gov/ever/planyourvisit/svdirections.htm",
+      "aliases": [
+        "Everglades",
+        "Shark Valley",
+        "大沼泽地",
+        "大沼泽",
+        "鲨鱼谷"
+      ],
+      "articleIds": [
+        "usa-everglades-water"
+      ],
+      "coordinateSource": "鲨鱼谷公共访客区代表点",
+      "hotspots": []
+    }
+  ],
+  "exercises": [
+    {
+      "id": "usa-locate-world",
+      "countryId": "usa",
+      "articleId": "usa-find-on-map",
+      "type": "location",
+      "question": "在世界地图上找到美国。",
+      "hint": "先从太平洋和大西洋之间的北美洲找起。",
+      "explanation": "先找北美洲，再从加拿大与墨西哥之间找到相连各州。美国还包括阿拉斯加和夏威夷州。",
+      "options": [
+        {
+          "id": "usa",
+          "text": "美国"
+        },
+        {
+          "id": "egypt",
+          "text": "埃及"
+        },
+        {
+          "id": "brazil",
+          "text": "巴西"
+        }
+      ],
+      "answerId": "usa",
+      "evidenceBlockIds": [
+        "usa-find-on-map-b1",
+        "usa-find-on-map-b2",
+        "usa-find-on-map-b3"
+      ],
+      "mapScope": "world"
+    },
+    {
+      "id": "usa-locate-arizona",
+      "countryId": "usa",
+      "articleId": "usa-fifty-states",
+      "type": "location",
+      "question": "大峡谷在哪个州？在地图上点出来。",
+      "hint": "读地点的图注，从美国西南部找。",
+      "explanation": "图注里的大峡谷南缘位于美国西南部的亚利桑那州。",
+      "options": [
+        {
+          "id": "usa-state-04",
+          "text": "亚利桑那州"
+        },
+        {
+          "id": "usa-state-56",
+          "text": "怀俄明州"
+        },
+        {
+          "id": "usa-state-12",
+          "text": "佛罗里达州"
+        }
+      ],
+      "answerId": "usa-state-04",
+      "evidenceBlockIds": [
+        "usa-fifty-states-b5"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "usa-locate-capital",
+      "countryId": "usa",
+      "articleId": "usa-capital",
+      "type": "location",
+      "question": "找到美国首都华盛顿特区。",
+      "hint": "看看哪一处在大西洋一侧。",
+      "explanation": "首都在东部。华盛顿州在西北部，是一个州。",
+      "options": [
+        {
+          "id": "usa-state-53",
+          "text": "华盛顿州 · 美国西北部"
+        },
+        {
+          "id": "usa-washington-dc",
+          "text": "华盛顿特区 · 美国东部"
+        }
+      ],
+      "answerId": "usa-washington-dc",
+      "evidenceBlockIds": [
+        "usa-capital-b2",
+        "usa-capital-b3"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "usa-canyon-find-channel",
+      "countryId": "usa",
+      "articleId": "usa-grand-canyon-geology",
+      "type": "observation",
+      "question": "找一找河道。剖面图上的蓝色水在峡谷哪里？",
+      "hint": "从图的两边看向中间，再找蓝色水面。",
+      "explanation": "蓝色河道在两面岩壁之间的低处。它顺着谷底继续流。",
+      "options": [
+        {
+          "id": "valley",
+          "text": "峡谷底部"
+        },
+        {
+          "id": "edge",
+          "text": "峡谷边缘"
+        }
+      ],
+      "answerId": "valley",
+      "evidenceBlockIds": [
+        "usa-grand-canyon-geology-b2",
+        "usa-grand-canyon-geology-b3"
+      ],
+      "diagram": "usa-canyon-erosion",
+      "diagramStep": 2
+    },
+    {
+      "id": "usa-great-lakes-freshwater",
+      "countryId": "usa",
+      "articleId": "usa-great-lakes",
+      "type": "choice",
+      "question": "湖面很大，五大湖的湖水仍属于什么？",
+      "hint": "读一读「大湖也是淡水」。",
+      "explanation": "湖面大小是一种外观。五大湖属于淡水湖，密歇根湖全在美国，其余四湖跨越美国和加拿大。",
+      "options": [
+        {
+          "id": "1",
+          "text": "盐水"
+        },
+        {
+          "id": "2",
+          "text": "淡水"
+        },
+        {
+          "id": "3",
+          "text": "只在海里才有的水"
+        }
+      ],
+      "answerId": "2",
+      "evidenceBlockIds": [
+        "usa-great-lakes-b2",
+        "usa-great-lakes-b3"
+      ],
+      "mediaIds": [
+        "usa-m27"
+      ]
+    },
+    {
+      "id": "usa-climate-evidence",
+      "countryId": "usa",
+      "articleId": "usa-continental-climates",
+      "type": "choice",
+      "question": "哪种资料更适合了解某地的气候？",
+      "hint": "想一想哪份材料能描述很多年的情况。",
+      "explanation": "气候描述长期天气特点。同一地点多年、同类的记录，可以帮助我们了解气候。",
+      "options": [
+        {
+          "id": "1",
+          "text": "一天的天气"
+        },
+        {
+          "id": "2",
+          "text": "一张下雪的照片"
+        },
+        {
+          "id": "3",
+          "text": "同一地点多年的观测记录"
+        }
+      ],
+      "answerId": "3",
+      "evidenceBlockIds": [
+        "usa-continental-climates-b1",
+        "usa-continental-climates-b4"
+      ]
+    },
+    {
+      "id": "usa-native-source",
+      "countryId": "usa",
+      "articleId": "usa-native-nations",
+      "type": "choice",
+      "question": "想了解今天的迪内人，可以先读哪份资料？",
+      "hint": "先问资料是谁发布的。",
+      "explanation": "迪内人使用自己的名字介绍自己。族群机构的公开资料能帮助我们了解当地的社区和治理。",
+      "options": [
+        {
+          "id": "1",
+          "text": "纳瓦霍族机构公开的介绍"
+        },
+        {
+          "id": "2",
+          "text": "没有地名的旅行照片"
+        },
+        {
+          "id": "3",
+          "text": "只看服装后的猜想"
+        }
+      ],
+      "answerId": "1",
+      "evidenceBlockIds": [
+        "usa-native-nations-b2",
+        "usa-native-nations-b3",
+        "usa-native-nations-b4"
+      ],
+      "mediaIds": [
+        "usa-m09"
+      ]
+    },
+    {
+      "id": "usa-read-street-sign",
+      "countryId": "usa",
+      "articleId": "usa-many-languages",
+      "type": "observation",
+      "question": "同一条街名用了什么办法写在标识上？",
+      "hint": "放大后找绿色牌子上的两行字。",
+      "explanation": "绿色路牌用英文和中文标出同一条街。右侧交通灯在做另一件事。",
+      "options": [
+        {
+          "id": "1",
+          "text": "绿色街牌上的英文和中文",
+          "x": 0.47,
+          "y": 0.49
+        },
+        {
+          "id": "2",
+          "text": "旁边交通灯的颜色",
+          "x": 0.58,
+          "y": 0.6
+        }
+      ],
+      "answerId": "1",
+      "evidenceBlockIds": [
+        "usa-many-languages-b2",
+        "usa-many-languages-b3"
+      ],
+      "mediaIds": [
+        "usa-m10"
+      ]
+    },
+    {
+      "id": "usa-locate-new-york",
+      "countryId": "usa",
+      "articleId": "usa-new-york-subway",
+      "type": "location",
+      "question": "找到这篇地铁故事所属城市的港湾。",
+      "hint": "先分清相连各州的东岸和西岸。",
+      "explanation": "故事发生在纽约。纽约港靠近大西洋，金门海峡在西岸。",
+      "options": [
+        {
+          "id": "usa-san-francisco-golden-gate",
+          "text": "旧金山湾入口 · 西岸"
+        },
+        {
+          "id": "usa-new-york-harbor",
+          "text": "纽约港 · 东岸"
+        }
+      ],
+      "answerId": "usa-new-york-harbor",
+      "evidenceBlockIds": [
+        "usa-new-york-subway-b4"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "usa-market-origin",
+      "countryId": "usa",
+      "articleId": "usa-neighborhood-market",
+      "type": "choice",
+      "question": "想知道照片里摊位的食物来自哪儿，先看什么？",
+      "hint": "找能说出农场或地区名称的线索。",
+      "explanation": "产地标签或摊主可以告诉你具体的农场或地区。价格与产地是不同的信息。",
+      "options": [
+        {
+          "id": "1",
+          "text": "筐子的颜色"
+        },
+        {
+          "id": "2",
+          "text": "产地标签或摊主提供的来源"
+        },
+        {
+          "id": "3",
+          "text": "隔壁摊位的价格"
+        }
+      ],
+      "answerId": "2",
+      "evidenceBlockIds": [
+        "usa-neighborhood-market-b2"
+      ],
+      "mediaIds": [
+        "usa-m15"
+      ]
+    },
+    {
+      "id": "usa-popcorn",
+      "countryId": "usa",
+      "articleId": "usa-corn-three-ways",
+      "type": "choice",
+      "question": "例子里的爆米花通常用哪类玉米？",
+      "hint": "读一读「甜玉米与爆裂玉米」。",
+      "explanation": "爆裂玉米的籽粒受热能胀开。看看样本的籽粒，再想象爆开后的形状。",
+      "options": [
+        {
+          "id": "1",
+          "text": "甜玉米"
+        },
+        {
+          "id": "2",
+          "text": "专门磨粉的玉米"
+        },
+        {
+          "id": "3",
+          "text": "爆裂玉米"
+        }
+      ],
+      "answerId": "3",
+      "evidenceBlockIds": [
+        "usa-corn-three-ways-b2"
+      ],
+      "mediaIds": [
+        "usa-m17"
+      ]
+    },
+    {
+      "id": "usa-apple-order",
+      "countryId": "usa",
+      "articleId": "usa-apple-from-orchard",
+      "type": "choice",
+      "question": "这个苹果案例先发生哪一步？",
+      "hint": "从流程图最左边开始看。",
+      "explanation": "先在果园采收，随后才分选、储存或运送到市场。",
+      "options": [
+        {
+          "id": "1",
+          "text": "在果园采收"
+        },
+        {
+          "id": "2",
+          "text": "送到市场"
+        },
+        {
+          "id": "3",
+          "text": "在仓库储存"
+        }
+      ],
+      "answerId": "1",
+      "evidenceBlockIds": [
+        "usa-apple-from-orchard-b1",
+        "usa-apple-from-orchard-b2",
+        "usa-apple-from-orchard-b3"
+      ],
+      "diagram": "usa-apple-supply",
+      "diagramStep": 0
+    },
+    {
+      "id": "usa-jazz-response",
+      "countryId": "usa",
+      "articleId": "usa-new-orleans-jazz",
+      "type": "observation",
+      "question": "图里的第二组乐句怎样接上第一组？",
+      "hint": "先数两组各有几拍，再看停在哪里。",
+      "explanation": "两句各有四个位置，停顿分别在第三拍和第二拍。一起数四拍，就能在第一句结束后接上。",
+      "options": [
+        {
+          "id": "1",
+          "text": "在同样四拍里换一种回应"
+        },
+        {
+          "id": "2",
+          "text": "把第一组的每一拍都原样重复"
+        },
+        {
+          "id": "3",
+          "text": "第二组有八拍"
+        }
+      ],
+      "answerId": "1",
+      "evidenceBlockIds": [
+        "usa-new-orleans-jazz-b2",
+        "usa-new-orleans-jazz-b3"
+      ],
+      "diagram": "usa-jazz-response",
+      "diagramStep": 0
+    },
+    {
+      "id": "usa-parade-observe",
+      "countryId": "usa",
+      "articleId": "usa-community-parade",
+      "type": "observation",
+      "question": "点出照片里有人正拿着乐器的位置。",
+      "hint": "看看前排的人双手扶着什么。",
+      "explanation": "前排乐手双手扶着铜管乐器。铜色的号口、管身和手的位置都能帮助判断。",
+      "options": [
+        {
+          "id": "1",
+          "text": "队伍上方的天空",
+          "x": 0.52,
+          "y": 0.05
+        },
+        {
+          "id": "2",
+          "text": "前排乐手手里的铜管",
+          "x": 0.53,
+          "y": 0.66
+        }
+      ],
+      "answerId": "2",
+      "evidenceBlockIds": [
+        "usa-community-parade-b2",
+        "usa-community-parade-b3"
+      ],
+      "mediaIds": [
+        "usa-m23"
+      ]
+    },
+    {
+      "id": "usa-boardwalk-why",
+      "countryId": "usa",
+      "articleId": "usa-national-parks-stewardship",
+      "type": "choice",
+      "question": "在黄石热水区，沿指定栈道能做什么？",
+      "hint": "找找木板和泉水的位置。",
+      "explanation": "栈道帮助游客观察热水区，也让旁边脆弱的地面少受踩踏。",
+      "options": [
+        {
+          "id": "1",
+          "text": "把地下的热水带回去"
+        },
+        {
+          "id": "2",
+          "text": "在安排好的位置观察，并少踩踏地面"
+        },
+        {
+          "id": "3",
+          "text": "沿任意方向走到热水旁"
+        }
+      ],
+      "answerId": "2",
+      "evidenceBlockIds": [
+        "usa-national-parks-stewardship-b2"
+      ],
+      "mediaIds": [
+        "usa-m25"
+      ]
+    },
+    {
+      "id": "usa-locate-liberty-island",
+      "countryId": "usa",
+      "articleId": "usa-liberty-island",
+      "type": "location",
+      "question": "在地图上找到纽约港里的自由岛。",
+      "hint": "在东部找带有港湾名字的选项。",
+      "explanation": "自由女神像站在纽约港里的自由岛上。国家广场在首都华盛顿特区。",
+      "options": [
+        {
+          "id": "usa-new-york-harbor",
+          "text": "纽约港 · 自由岛"
+        },
+        {
+          "id": "usa-washington-dc",
+          "text": "华盛顿特区 · 国家广场"
+        }
+      ],
+      "answerId": "usa-new-york-harbor",
+      "evidenceBlockIds": [
+        "usa-liberty-island-b1",
+        "usa-liberty-island-b2",
+        "usa-liberty-island-b3"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "usa-bridge-water",
+      "countryId": "usa",
+      "articleId": "usa-golden-gate",
+      "type": "observation",
+      "question": "照片哪一处是大桥跨过的水面？",
+      "hint": "先找到桥面，再往下找水。",
+      "explanation": "桥下的水面属于金门海峡。海峡向西通太平洋，向东通旧金山湾。",
+      "options": [
+        {
+          "id": "1",
+          "text": "高处的天空",
+          "x": 0.5,
+          "y": 0.08
+        },
+        {
+          "id": "2",
+          "text": "桥下的金门海峡水面",
+          "x": 0.67,
+          "y": 0.73
+        }
+      ],
+      "answerId": "2",
+      "evidenceBlockIds": [
+        "usa-golden-gate-b2",
+        "usa-golden-gate-b3"
+      ],
+      "mediaIds": [
+        "usa-m32"
+      ]
+    },
+    {
+      "id": "usa-mall-clue",
+      "countryId": "usa",
+      "articleId": "usa-national-mall",
+      "type": "choice",
+      "question": "想确认图里的地标叫什么，哪份资料最有帮助？",
+      "hint": "哪份地图写出了这些建筑的名字？",
+      "explanation": "把照片中地标的形状和相对位置，与标出名称的国家广场地图对照。",
+      "options": [
+        {
+          "id": "1",
+          "text": "一张无文字的天气图"
+        },
+        {
+          "id": "2",
+          "text": "别的城市的街道地图"
+        },
+        {
+          "id": "3",
+          "text": "有地标名字的国家广场地图"
+        }
+      ],
+      "answerId": "3",
+      "evidenceBlockIds": [
+        "usa-national-mall-b3",
+        "usa-national-mall-b4"
+      ],
+      "mediaIds": [
+        "usa-m08"
+      ]
+    },
+    {
+      "id": "usa-geyser-conditions",
+      "countryId": "usa",
+      "articleId": "usa-yellowstone-geyser",
+      "type": "choice",
+      "question": "例子里的间歇泉需要哪些条件？",
+      "hint": "沿着剖面图里的蓝色水和橙色箭头读。",
+      "explanation": "水在地下获得热量，受限通道影响压力。压力变化后，水和蒸汽会向上喷出。",
+      "options": [
+        {
+          "id": "1",
+          "text": "只有雨水"
+        },
+        {
+          "id": "2",
+          "text": "阳光和风"
+        },
+        {
+          "id": "3",
+          "text": "水、热量和能影响压力的地下通道"
+        }
+      ],
+      "answerId": "3",
+      "evidenceBlockIds": [
+        "usa-yellowstone-geyser-b2",
+        "usa-yellowstone-geyser-b3",
+        "usa-yellowstone-geyser-b4"
+      ],
+      "diagram": "usa-geyser-process",
+      "diagramStep": 2
+    },
+    {
+      "id": "usa-locate-hawaii-volcano",
+      "countryId": "usa",
+      "articleId": "usa-hawaii-volcanoes",
+      "type": "location",
+      "question": "切换区域，找到夏威夷岛的基拉韦厄观景点。",
+      "hint": "先选「夏威夷」区域，再找观景点。",
+      "explanation": "基拉韦厄观景点位于夏威夷火山国家公园。图上的东南端大岛是夏威夷岛。",
+      "options": [
+        {
+          "id": "usa-denali",
+          "text": "阿拉斯加 · 迪纳利山景观察区"
+        },
+        {
+          "id": "usa-hawaii-volcanoes",
+          "text": "夏威夷岛 · 基拉韦厄观景点"
+        }
+      ],
+      "answerId": "usa-hawaii-volcanoes",
+      "evidenceBlockIds": [
+        "usa-hawaii-volcanoes-b1",
+        "usa-hawaii-volcanoes-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "usa-declaration-year",
+      "countryId": "usa",
+      "articleId": "usa-independence-hall",
+      "type": "choice",
+      "question": "《独立宣言》通过于哪一年？",
+      "hint": "回到写着「通过」的段落。",
+      "explanation": "《独立宣言》于 1776 年 7 月 4 日通过。很多代表后来在 8 月 2 日签署了文件。",
+      "options": [
+        {
+          "id": "1",
+          "text": "1776 年"
+        },
+        {
+          "id": "2",
+          "text": "1865 年"
+        },
+        {
+          "id": "3",
+          "text": "1964 年"
+        }
+      ],
+      "answerId": "1",
+      "evidenceBlockIds": [
+        "usa-independence-hall-b2"
+      ],
+      "mediaIds": [
+        "usa-m33"
+      ]
+    },
+    {
+      "id": "usa-amendment-evidence",
+      "countryId": "usa",
+      "articleId": "usa-thirteenth-amendment",
+      "type": "choice",
+      "question": "哪份资料最能说明第十三修正案规定了什么？",
+      "hint": "找写着具体规定的文件。",
+      "explanation": "文字档案和转录能帮我们读清修正案的规定和条文中的例外。",
+      "options": [
+        {
+          "id": "1",
+          "text": "一座楼的照片"
+        },
+        {
+          "id": "2",
+          "text": "修正案的文字档案"
+        },
+        {
+          "id": "3",
+          "text": "地图上的一个年代标签"
+        }
+      ],
+      "answerId": "2",
+      "evidenceBlockIds": [
+        "usa-thirteenth-amendment-b2",
+        "usa-thirteenth-amendment-b3",
+        "usa-thirteenth-amendment-b4"
+      ],
+      "mediaIds": [
+        "usa-m34"
+      ]
+    },
+    {
+      "id": "usa-seen-or-guessed",
+      "countryId": "usa",
+      "articleId": "usa-photo-evidence",
+      "type": "choice",
+      "question": "哪句话能直接从峡谷照片中确认？",
+      "hint": "选能用手指从画面中指出的线索。",
+      "explanation": "条带的颜色和位置能从照片指出。岩层的年代和峡谷形成的时间还要查地质资料。",
+      "options": [
+        {
+          "id": "1",
+          "text": "这里每一层岩石都同岁"
+        },
+        {
+          "id": "2",
+          "text": "河流只用了几天形成峡谷"
+        },
+        {
+          "id": "3",
+          "text": "岩壁有深浅相间的条带"
+        }
+      ],
+      "answerId": "3",
+      "evidenceBlockIds": [
+        "usa-photo-evidence-b2",
+        "usa-photo-evidence-b3"
+      ],
+      "mediaIds": [
+        "usa-m03"
+      ]
+    },
+    {
+      "id": "usa-canyon-find-strata",
+      "countryId": "usa",
+      "articleId": "usa-canyon-close-look",
+      "type": "observation",
+      "question": "哪一处能看到岩层条带？",
+      "hint": "找出深浅不同的岩石相接的地方。",
+      "explanation": "偏左的深色岩层被上下不同颜色的岩石包围。可以沿条带的边缘观察它在哪里变窄。",
+      "options": [
+        {
+          "id": "1",
+          "text": "画面偏左的深色岩层",
+          "x": 0.39,
+          "y": 0.55
+        },
+        {
+          "id": "2",
+          "text": "右侧带碎石的斜坡",
+          "x": 0.75,
+          "y": 0.67
+        }
+      ],
+      "answerId": "1",
+      "evidenceBlockIds": [
+        "usa-canyon-close-look-b1",
+        "usa-canyon-close-look-b2"
+      ],
+      "mediaIds": [
+        "usa-m03"
+      ]
+    }
+  ]
+}

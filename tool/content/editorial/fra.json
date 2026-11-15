@@ -1,0 +1,3376 @@
+{
+  "country": {
+    "id": "fra",
+    "name": "法国",
+    "code": "FR",
+    "englishName": "France",
+    "coverage": "editorial",
+    "revision": 1,
+    "capital": "巴黎",
+    "mediaId": "fra-m01",
+    "intro": "法国在欧洲和海外都有地区。沿着河流认识城市，再去发现山海与生活。",
+    "tagline": "从塞纳河走向山海",
+    "facts": [
+      {
+        "label": "首都",
+        "value": "巴黎"
+      },
+      {
+        "label": "范围",
+        "value": "欧洲与海外"
+      },
+      {
+        "label": "语言",
+        "value": "法语"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "fra-timeline-rights-document",
+        "period": "1789年",
+        "title": "文字与现实之间",
+        "body": "读宣言，也看谁仍被排除在权利之外。",
+        "mediaId": "fra-m35",
+        "articleIds": [
+          "fra-rights-document"
+        ]
+      },
+      {
+        "id": "fra-timeline-exhibition-1889",
+        "period": "1889年",
+        "title": "铁塔与博览会",
+        "body": "施工影像、技术劳动与殖民时代背景。",
+        "mediaId": "fra-m06",
+        "articleIds": [
+          "fra-exhibition-1889"
+        ]
+      },
+      {
+        "id": "fra-timeline-voting-change",
+        "period": "1944—1945年",
+        "title": "从规定到参与",
+        "body": "区分法律确立与实际投票的时间。",
+        "mediaId": "fra-m36",
+        "articleIds": [
+          "fra-voting-change"
+        ]
+      }
+    ],
+    "takeaways": [
+      "法国既有欧洲部分，也有海外地区。",
+      "照片、地图与长期观测，能回答不同的问题。",
+      "把看见的线索与需要验证的猜想分开记录。"
+    ],
+    "sources": [
+      {
+        "title": "INSEE · 海外地区",
+        "url": "https://www.insee.fr/fr/metadonnees/definition/c2316",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "UNESCO · 巴黎塞纳河岸",
+        "url": "https://whc.unesco.org/en/list/600/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "SHOM · 潮汐科学",
+        "url": "https://refmar.shom.fr/faq",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "法国气象局 · 海外气候",
+        "url": "https://meteofrance.com/changement-climatique/les-climats-en-outre-mer",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "斯特拉斯堡旅游局 · 德语城市名称",
+        "url": "https://www.visitstrasbourg.fr/de/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "留尼汪博物馆 · 奴隶制与契约劳工",
+        "url": "https://www.musee-villele.re/fr/collections-thematiques",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "RATP · 地图",
+        "url": "https://www.ratp.fr/plan-metro",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "DGCCRF · 食品标签",
+        "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/etiquetage-des-denrees-alimentaires-les-regles-connaitre",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "法国自然历史博物馆 · 面包科学",
+        "url": "https://www.mnhn.fr/fr/comment-et-depuis-quand-fabrique-t-on-du-pain",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "UNESCO · 法棍制作技艺",
+        "url": "https://ich.unesco.org/en/RL/artisanal-know-how-and-culture-of-baguette-bread-01883",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "莫奈博物馆 · 莫奈藏品",
+        "url": "https://www.marmottan.fr/collections/claude-monet/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "卢浮宫 · 藏品资料库",
+        "url": "https://collections.louvre.fr/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "法国文化部 · 音乐节",
+        "url": "https://www.culture.gouv.fr/evenements-nationaux/fete-de-la-musique",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "埃菲尔铁塔 · 世界博览会",
+        "url": "https://www.toureiffel.paris/en/the-monument/universal-exhibition",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "昂布瓦斯王家城堡",
+        "url": "https://www.chateau-amboise.com/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "科西嘉地区自然公园",
+        "url": "https://www.pnr.corsica/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "GLACIOCLIM · 冰川观测",
+        "url": "https://www.osug.fr/missions/observation/ocean-atmosphere-surfaces-continentales/glacioclim/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "卡马格公园 · 鸟类",
+        "url": "https://www.parc-camargue.fr/oiseaux-camargue.html",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "BIOPARC · 火烈鸟食性",
+        "url": "https://www.bioparcfuengirola.es/fr/animal/flamant-rose/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "IPGP · 富尔奈斯观测站",
+        "url": "https://www.ipgp.fr/observation/ovpf/",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "国民议会 · 1789宣言",
+        "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/la-declaration-des-droits-de-l-homme-et-du-citoyen",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "国家移民历史博物馆 · 殖民展示",
+        "url": "https://www.histoire-immigration.fr/sites/default/files/musee-numerique/documents/ensdoc_figures_du_colonise.pdf",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "法国国家档案馆 · 1944法规",
+        "url": "https://www.archives-nationales.culture.gouv.fr/evenements/ordonnance-instituant-le-droit-de-vote-des-femmes-1944",
+        "checkedAt": "2026-11-10"
+      },
+      {
+        "title": "国民议会 · 女性投票权",
+        "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote",
+        "checkedAt": "2026-11-10"
+      }
+    ],
+    "sections": {
+      "overview": [
+        "fra-find-on-map",
+        "fra-europe-overseas",
+        "fra-capital-paris"
+      ],
+      "geography": [
+        "fra-seine-city",
+        "fra-bay-tides",
+        "fra-many-climates"
+      ],
+      "people": [
+        "fra-place-names",
+        "fra-island-voices",
+        "fra-neighborhood"
+      ],
+      "daily": [
+        "fra-metro-transfer",
+        "fra-market-labels",
+        "fra-river-walk"
+      ],
+      "food": [
+        "fra-baguette",
+        "fra-cheese-label",
+        "fra-season-market"
+      ],
+      "culture": [
+        "fra-light-painting",
+        "fra-museum-object",
+        "fra-street-music"
+      ],
+      "landmarks": [
+        "fra-eiffel-structure",
+        "fra-loire-place",
+        "fra-corsica-mountains"
+      ],
+      "nature": [
+        "fra-moving-glacier",
+        "fra-camargue-flamingo",
+        "fra-reunion-volcano"
+      ],
+      "history": [
+        "fra-rights-document",
+        "fra-exhibition-1889",
+        "fra-voting-change"
+      ],
+      "questions": [
+        "fra-find-reunion",
+        "fra-seen-guessed",
+        "fra-compare-shores"
+      ]
+    },
+    "editorial": {
+      "subtitle": "从塞纳河走向山海",
+      "introduction": "法国在欧洲和海外都有地区。沿着河流认识城市，再去发现山海与生活。",
+      "startLabel": "从塞纳河开始",
+      "startJourneyId": "river-city",
+      "questionArticleIds": [
+        "fra-bay-tides",
+        "fra-europe-overseas"
+      ],
+      "factOverrides": [
+        {
+          "label": "首都",
+          "value": "巴黎"
+        },
+        {
+          "label": "范围",
+          "value": "欧洲与海外"
+        },
+        {
+          "label": "语言",
+          "value": "法语"
+        }
+      ],
+      "directoryTitle": "法国 · 探索目录",
+      "directory": {
+        "mediaIds": [
+          "fra-m01",
+          "fra-m07",
+          "fra-m10"
+        ]
+      },
+      "timelineTitle": "法国 · 历史线索",
+      "timeline": [
+        {
+          "id": "fra-timeline-rights-document",
+          "period": "1789年",
+          "title": "文字与现实之间",
+          "body": "读宣言，也看谁仍被排除在权利之外。",
+          "mediaId": "fra-m35",
+          "articleIds": [
+            "fra-rights-document"
+          ]
+        },
+        {
+          "id": "fra-timeline-exhibition-1889",
+          "period": "1889年",
+          "title": "铁塔与博览会",
+          "body": "施工影像、技术劳动与殖民时代背景。",
+          "mediaId": "fra-m06",
+          "articleIds": [
+            "fra-exhibition-1889"
+          ]
+        },
+        {
+          "id": "fra-timeline-voting-change",
+          "period": "1944—1945年",
+          "title": "从规定到参与",
+          "body": "区分法律确立与实际投票的时间。",
+          "mediaId": "fra-m36",
+          "articleIds": [
+            "fra-voting-change"
+          ]
+        }
+      ],
+      "explore": {
+        "mediaId": "fra-m19",
+        "featuredTaskIds": [
+          "fra-l05",
+          "fra-p05",
+          "fra-o05"
+        ],
+        "categories": [
+          {
+            "id": "location",
+            "title": "找地图",
+            "mediaId": "fra-m19"
+          },
+          {
+            "id": "observation",
+            "title": "看照片",
+            "mediaId": "fra-m17"
+          },
+          {
+            "id": "choice",
+            "title": "找证据",
+            "mediaId": "fra-m06"
+          },
+          {
+            "id": "open",
+            "title": "写观察",
+            "mediaId": "fra-m07"
+          }
+        ]
+      },
+      "discoveries": {
+        "mediaId": "fra-m02",
+        "recommendedPlaceIds": [
+          "fra-mont-saint-michel",
+          "fra-mer-de-glace"
+        ],
+        "recommendationTitles": [
+          "再看潮汐",
+          "冰川会移动吗"
+        ]
+      },
+      "journeys": [
+        {
+          "id": "river-city",
+          "title": "河岸里的城市",
+          "subtitle": "沿着河流认识桥、步道与地标。",
+          "coverTitle": "河岸里的城市",
+          "mediaId": "fra-m02",
+          "articleIds": [
+            "fra-seine-city",
+            "fra-river-walk",
+            "fra-eiffel-structure"
+          ],
+          "stopTitles": [
+            "河流穿城",
+            "河岸步道",
+            "铁塔结构"
+          ]
+        },
+        {
+          "id": "changing-land",
+          "title": "山海的变化",
+          "subtitle": "潮汐、冰川与火山，留下不同的变化线索。",
+          "coverTitle": "山海的变化",
+          "mediaId": "fra-m07",
+          "articleIds": [
+            "fra-bay-tides",
+            "fra-moving-glacier",
+            "fra-reunion-volcano"
+          ],
+          "stopTitles": [
+            "潮水往返",
+            "冰川缓行",
+            "熔岩成岩"
+          ]
+        },
+        {
+          "id": "objects-time",
+          "title": "物件里的时间",
+          "subtitle": "用档案和建筑，追问过去发生了什么。",
+          "coverTitle": "物件里的时间",
+          "mediaId": "fra-m35",
+          "articleIds": [
+            "fra-rights-document",
+            "fra-exhibition-1889",
+            "fra-voting-change"
+          ],
+          "stopTitles": [
+            "宣言与权利",
+            "铁塔的建造",
+            "参与投票"
+          ]
+        }
+      ],
+      "sections": {
+        "overview": {
+          "title": "国家名片",
+          "summary": "把世界地图缩小，先辨认欧洲，再看它的西部。法国的欧洲大陆部分在这里，西边临大西洋，南边临地中海。地图上的国家形状是认识位置的线索，不能只记住一枚图钉。把海岸线和周围国家一起看，比单独背诵方向更容易找到它。",
+          "mediaId": "fra-m01"
+        },
+        "geography": {
+          "title": "地理与气候",
+          "summary": "塞纳河并不是只存在于巴黎市中心。河水沿着河道从上游流向下游，经过不同地方，最后注入海洋。上游和下游按水流方向区分，与一张照片的左边、右边并不一定相同。观察时要把河流看成连续的水系。",
+          "mediaId": "fra-m10"
+        },
+        "people": {
+          "title": "人们与语言",
+          "summary": "在法国东北部寻找斯特拉斯堡。城市的名称既出现在地图上，也写在道路、车站和机构的标识里。中文通常写作“斯特拉斯堡”，法语写作 Strasbourg。同一个地点可以在不同语言中有不同写法，名称不同不一定是两个地方。",
+          "mediaId": "fra-m29"
+        },
+        "daily": {
+          "title": "日常生活",
+          "summary": "地铁线路示意图把站点和连接关系整理出来，帮助人们寻找路线。线路的弯曲与站间空白不一定按真实距离绘制。因此，看图可以判断哪些站相连，却不能仅凭纸上长短确定走路需要几分钟。先读图例和站名，才能正确使用。",
+          "mediaId": "fra-m03",
+          "primaryMapPlaceId": "fra-seine-paris",
+          "primaryLabel": "看看巴黎在地图哪里"
+        },
+        "food": {
+          "title": "饮食与物产",
+          "summary": "法棍是一种长条形面包，制作通常使用面粉、水、盐和酵母或发酵种等材料。不同面包的配方可能不同，认识具体产品还要看配料说明。看见长条外形，只能辨认外观线索，不能由此知道制作时间、全部成分或每个人的口味。",
+          "mediaId": "fra-m31"
+        },
+        "culture": {
+          "title": "艺术与节日",
+          "summary": "看画之前，先读图注中的作品名、作者、年代与来源。本页采用有许可记录的莫奈作品数字图像，画作不是现场照片。作品里的色彩、形状和笔触经过画家的选择。它能帮助我们讨论画面表现，却不能当作某一天港口天气的测量记录。",
+          "mediaId": "fra-m33"
+        },
+        "landmarks": {
+          "title": "城市与地标",
+          "summary": "埃菲尔铁塔的底部有四个向外展开的支脚，上方结构逐渐收窄。先看全景，辨认地面、支脚与塔身，再看杆件近景。照片的角度会改变我们看到的宽窄，不能只凭一张仰拍照片直接算出真实高度或每根构件的长度。",
+          "mediaId": "fra-m04"
+        },
+        "nature": {
+          "title": "动物与生态",
+          "summary": "在适合积雪保存的高山地区，雪经过不断积累、压实和变化，逐渐形成冰川冰。它不是一次下雪就立刻做成的大冰块。冰海冰川位于法国阿尔卑斯地区，是认识冰川的一个案例；名字中的“海”不表示它是一片海水。",
+          "mediaId": "fra-m14"
+        },
+        "history": {
+          "title": "历史故事",
+          "summary": "一七八九年法国的《人权和公民权宣言》提出了自由与权利等原则。档案图像展示历史文件或其相关呈现，阅读时应核对版本、日期和来源。它不是今天刚发布的新闻，也不能只看装饰画面就知道全部条文写了什么。",
+          "mediaId": "fra-m35"
+        },
+        "questions": {
+          "title": "有趣问题",
+          "summary": "在法国欧洲部分的地图中找不到留尼汪，并不表示它不存在，也不是地图一定坏了。这张图的范围只包含欧洲部分。先查看标题和当前地区，比反复放大同一张局部图更有效。不同问题需要选择不同的地图范围。",
+          "mediaId": "fra-m07"
+        }
+      },
+      "featuredPlaceIds": [
+        "fra-mont-saint-michel",
+        "fra-mer-de-glace",
+        "fra-fournaise"
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "fra-find-on-map",
+      "countryId": "fra",
+      "sectionId": "overview",
+      "title": "怎样在世界地图上找到法国？",
+      "summary": "把世界地图缩小，先辨认欧洲，再看它的西部。法国的欧洲大陆部分在这里，西边临大西洋，南边临地中海。地图上的国家形状是认识位置的线索，不能只记住一枚图钉。把海岸线和周围国家一起看，比单独背诵方向更容易找到它。",
+      "mediaId": "fra-m01",
+      "blocks": [
+        {
+          "id": "fra-find-on-map-b1",
+          "title": "先找欧洲",
+          "text": "把世界地图缩小，先辨认欧洲，再看它的西部。法国的欧洲大陆部分在这里，西边临大西洋，南边临地中海。地图上的国家形状是认识位置的线索，不能只记住一枚图钉。把海岸线和周围国家一起看，比单独背诵方向更容易找到它。"
+        },
+        {
+          "id": "fra-find-on-map-b2",
+          "title": "看一看邻居",
+          "text": "法国欧洲部分与西班牙、比利时、德国、瑞士、意大利等国家相邻。在地图上，国界表示行政范围，河流和山脉表示地理事物，两者有时接近，却不是同一种线。先读图例，再沿着一种线慢慢寻找，就不会把河流误认成边界。"
+        },
+        {
+          "id": "fra-find-on-map-b3",
+          "title": "不要漏掉科西嘉",
+          "text": "从欧洲大陆向东南方向看，在地中海里能找到科西嘉岛。它也是法国的一部分，周围有海水，岛内却有高山和谷地。认识一个国家时，要留意与主要大陆分开的岛屿；屏幕边缘没有显示出来，不等于它不存在。"
+        },
+        {
+          "id": "fra-find-on-map-b4",
+          "title": "把范围放大到世界",
+          "text": "法国还有位于欧洲以外的海外地区。本应用可以切换到加勒比海、南美洲和印度洋的几个案例。这些小地图各自放大，图上相邻的卡片并不表示现实中距离近。先用世界位置认方向，再进入地区图看海岸与地点。"
+        },
+        {
+          "id": "fra-find-on-map-b5",
+          "title": "自己说出位置",
+          "text": "试着不用手指，只用一句话引导别人寻找法国欧洲部分：先到哪个大洲，再到哪一侧，附近有哪些海？随后指出科西嘉。这样的描述有范围、有方向、有参照物，别人才能重复你的寻找过程。定位题中的高亮表示选择，还不等于已经答对。"
+        }
+      ],
+      "term": "海岸线",
+      "definition": "地图中表示陆地与海洋相接位置的线。",
+      "glossary": [
+        {
+          "term": "海岸线",
+          "definition": "地图中表示陆地与海洋相接位置的线。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.insee.fr/fr/metadonnees/definition/c2316"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-seine-paris",
+      "exerciseId": "fra-l01"
+    },
+    {
+      "id": "fra-europe-overseas",
+      "countryId": "fra",
+      "sectionId": "overview",
+      "title": "法国只在欧洲吗？",
+      "summary": "我们常看到一幅包含巴黎的法国地图，但它通常只画欧洲部分。地图就像照相机的取景框：框外仍有真实世界。阅读之前先看标题写的是全国、欧洲部分还是某座城市。只有明确范围，才知道这张图能回答什么问题。",
+      "mediaId": "fra-m16",
+      "blocks": [
+        {
+          "id": "fra-europe-overseas-b1",
+          "title": "一张地图的范围",
+          "text": "我们常看到一幅包含巴黎的法国地图，但它通常只画欧洲部分。地图就像照相机的取景框：框外仍有真实世界。阅读之前先看标题写的是全国、欧洲部分还是某座城市。只有明确范围，才知道这张图能回答什么问题。"
+        },
+        {
+          "id": "fra-europe-overseas-b2",
+          "title": "散布在不同地方",
+          "text": "瓜德罗普和马提尼克在加勒比海，法属圭亚那在南美洲，留尼汪和马约特在印度洋。这些地区与欧洲部分相隔很远。因此，想了解法国的地理，不能把全部注意力都放在巴黎周围，还要把目光移到世界地图的其他地方。"
+        },
+        {
+          "id": "fra-europe-overseas-b3",
+          "title": "并非都是岛屿",
+          "text": "留尼汪是一座岛，瓜德罗普包含多座岛屿，法属圭亚那则位于南美洲大陆，不能把它们都叫作小岛。法属圭亚那与独立国家圭亚那也不是同一地区。读名字时要保留完整名称，再结合海岸和大陆的位置核对。"
+        },
+        {
+          "id": "fra-europe-overseas-b4",
+          "title": "五个案例不是全部",
+          "text": "这里展示的是五个海外省和地区，法国还有其他海外领土，行政安排并不全相同。马约特由法国实际管辖，科摩罗对其提出主权主张。本应用的范围说明把这些情况写清楚，地图上的行政分类不代表所有争议已经解决。"
+        },
+        {
+          "id": "fra-europe-overseas-b5",
+          "title": "选择合适的地图",
+          "text": "寻找巴黎，可以打开欧洲图；寻找留尼汪，应先看世界位置，再切换印度洋地区。每张放大的地区图都有自己的比例尺，不能用一把尺横跨几张插图量距离。回答“法国只在欧洲吗”时，用这些具体位置作为证据，比记住一句口号更有帮助。"
+        }
+      ],
+      "term": "海外地区",
+      "definition": "相对于欧洲部分而言，位于欧洲以外的地区。",
+      "glossary": [
+        {
+          "term": "海外地区",
+          "definition": "相对于欧洲部分而言，位于欧洲以外的地区。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.insee.fr/fr/metadonnees/definition/c2316"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-fournaise",
+      "exerciseId": "fra-c01"
+    },
+    {
+      "id": "fra-capital-paris",
+      "countryId": "fra",
+      "sectionId": "overview",
+      "title": "巴黎为什么在国家名片上？",
+      "summary": "巴黎是法国的首都，国家的许多中央机构在这里。首都是一座城市的角色，不是说全国每个人都住在那里，也不表示全国只有这一座重要城市。了解国家时，先找到首都，再看看其他城市和乡村，才能逐渐认识不同地方。",
+      "mediaId": "fra-m02",
+      "blocks": [
+        {
+          "id": "fra-capital-paris-b1",
+          "title": "首都是什么意思",
+          "text": "巴黎是法国的首都，国家的许多中央机构在这里。首都是一座城市的角色，不是说全国每个人都住在那里，也不表示全国只有这一座重要城市。了解国家时，先找到首都，再看看其他城市和乡村，才能逐渐认识不同地方。"
+        },
+        {
+          "id": "fra-capital-paris-b2",
+          "title": "在河边找城市",
+          "text": "打开欧洲部分的地图，先找塞纳河，再找巴黎的地点标记。河流穿过城中，桥连接两岸。地图上的点只是城市内的一处代表位置，整座城市比这个点大得多。放大观察时，你会发现水面、街道、建筑各有不同形状。"
+        },
+        {
+          "id": "fra-capital-paris-b3",
+          "title": "照片里的巴黎",
+          "text": "本页以塞纳河岸的照片介绍巴黎。先指出水在哪里，再寻找桥和沿岸建筑。照片的取景方向、天气和拍摄日期都会影响看见的样子。画面没有拍到的学校、住宅或公园，并不表示城市里没有这些地方。"
+        },
+        {
+          "id": "fra-capital-paris-b4",
+          "title": "地标不是城市的全部",
+          "text": "埃菲尔铁塔和卢浮宫容易辨认，但巴黎人的生活并不只发生在地标旁边。人们也要上学、通勤、购物和休息。看见一座著名建筑，可以作为开始认识城市的线索；要了解日常生活，还需要不同地点与不同人的资料。"
+        },
+        {
+          "id": "fra-capital-paris-b5",
+          "title": "把位置讲给别人",
+          "text": "现在请在地图上选择巴黎，并解释你为什么选择那里。可以说出城市名称、附近河流和所在国家。里昂和马赛也是法国城市，但不是首都。把正确的城市名称和实际位置连起来，能够避免把一张漂亮照片当作唯一依据。"
+        }
+      ],
+      "term": "首都",
+      "definition": "国家主要中央机构所在的城市。",
+      "glossary": [
+        {
+          "term": "首都",
+          "definition": "国家主要中央机构所在的城市。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/600/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-seine-paris",
+      "exerciseId": "fra-l02"
+    },
+    {
+      "id": "fra-seine-city",
+      "countryId": "fra",
+      "sectionId": "geography",
+      "title": "一条河怎样穿过巴黎？",
+      "summary": "塞纳河并不是只存在于巴黎市中心。河水沿着河道从上游流向下游，经过不同地方，最后注入海洋。上游和下游按水流方向区分，与一张照片的左边、右边并不一定相同。观察时要把河流看成连续的水系。",
+      "mediaId": "fra-m02",
+      "blocks": [
+        {
+          "id": "fra-seine-city-b1",
+          "title": "水从哪里来",
+          "text": "塞纳河并不是只存在于巴黎市中心。河水沿着河道从上游流向下游，经过不同地方，最后注入海洋。上游和下游按水流方向区分，与一张照片的左边、右边并不一定相同。观察时要把河流看成连续的水系。"
+        },
+        {
+          "id": "fra-seine-city-b2",
+          "title": "弯曲的河与岛",
+          "text": "在城市地图里，河道有弯曲，也能看见河中的岛。河湾的形状会影响两岸街道与桥的位置。原创图解只说明河、岛和岸的关系，不是精确的巴黎导航图。真正寻找地点时，要回到带有实际河线的探索地图。"
+        },
+        {
+          "id": "fra-seine-city-b3",
+          "title": "桥连接两岸",
+          "text": "桥的一端在一侧河岸，另一端到达另一侧，人们可以通过桥跨越河流。有的桥还连接河中岛屿。先在照片中找桥面，再顺着桥面找两端，就能看懂它连接了什么。桥不是把两个河口连接起来，也不是水流的终点。",
+          "mediaId": "fra-m03"
+        },
+        {
+          "id": "fra-seine-city-b4",
+          "title": "继续走向海洋",
+          "text": "离开巴黎后，塞纳河还继续流过其他地区，最终到达英吉利海峡。城市只是河流经过的一站。地图中的河线经过制图简化，保留主要走向，却不能用来寻找每一个码头或判断当天能否通船。比例尺提醒我们所看的范围有多大。"
+        },
+        {
+          "id": "fra-seine-city-b5",
+          "title": "把两种材料合起来",
+          "text": "照片能显示桥、树木与建筑的样子，地图更容易显示整条河的方向。它们回答的问题不同，可以互相补充。先在图解中指出两岸，再到照片里找桥的两端，最后在地图中找巴黎。这样的顺序把关系、外观与位置联系起来。"
+        }
+      ],
+      "term": "下游",
+      "definition": "沿水流方向较后面的河段。",
+      "glossary": [
+        {
+          "term": "下游",
+          "definition": "沿水流方向较后面的河段。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/600/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-seine-paris",
+      "diagram": "fra-river-city",
+      "exerciseId": "fra-c02"
+    },
+    {
+      "id": "fra-bay-tides",
+      "countryId": "fra",
+      "sectionId": "geography",
+      "title": "海水为什么会回来？",
+      "summary": "圣米歇尔山坐落在海湾中的岩石高地上，建筑沿着坡面向上排列。照片里，岩岛周围可能露出大片潮滩，也可能被较多海水环绕。看见不同照片时，先核对地点和方向，不要立刻认定岩岛搬了位置或海水永久消失了。",
+      "mediaId": "fra-m07",
+      "blocks": [
+        {
+          "id": "fra-bay-tides-b1",
+          "title": "同一座岩岛",
+          "text": "圣米歇尔山坐落在海湾中的岩石高地上，建筑沿着坡面向上排列。照片里，岩岛周围可能露出大片潮滩，也可能被较多海水环绕。看见不同照片时，先核对地点和方向，不要立刻认定岩岛搬了位置或海水永久消失了。"
+        },
+        {
+          "id": "fra-bay-tides-b2",
+          "title": "水位会改变",
+          "text": "同一地点的海面会随潮汐升高、降低。低潮时，较多潮滩露出；高潮时，海水覆盖更多低处。图解把岩岛与视角固定，只改变水的位置，帮助比较。它是关系示意，不是某一天的现场记录，也没有提供出行潮时。",
+          "mediaId": "fra-m08"
+        },
+        {
+          "id": "fra-bay-tides-b3",
+          "title": "为什么会有潮汐",
+          "text": "潮汐与月球、太阳的引力以及地球运动有关。可以先记住：大范围海水会有规律地变化，而不是有人打开海底的开关。海湾的形状、水深等因素又会影响当地的潮汐表现，所以不同海岸的水位变化不能简单照搬。"
+        },
+        {
+          "id": "fra-bay-tides-b4",
+          "title": "时间也是线索",
+          "text": "比较照片时，拍摄日期、时刻、观察位置和天气都很有用。海面颜色变深，可能只是光线改变，不能单靠颜色判断潮位。想知道某时某地的潮汐，需要专门的观测和预测资料。百科里的历史照片不能替代当天的海湾安全信息。"
+        },
+        {
+          "id": "fra-bay-tides-b5",
+          "title": "怎样比较更可靠",
+          "text": "想研究潮水的变化，应优先比较同一地点、接近视角、不同潮位的材料，并核对记录。两处不同海岸、两种不同天气的照片混在一起，会让原因难以分清。在练习里选出更可靠的比较方法，再写下你确实看见的一条线索。"
+        }
+      ],
+      "term": "潮汐",
+      "definition": "海面随引力和地球运动等因素出现的周期性升降。",
+      "glossary": [
+        {
+          "term": "潮汐",
+          "definition": "海面随引力和地球运动等因素出现的周期性升降。"
+        }
+      ],
+      "sourceUrls": [
+        "https://refmar.shom.fr/faq"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-mont-saint-michel",
+      "diagram": "fra-tides",
+      "exerciseId": "fra-p01"
+    },
+    {
+      "id": "fra-many-climates",
+      "countryId": "fra",
+      "sectionId": "geography",
+      "title": "法国各地的天气都一样吗？",
+      "summary": "今天下雨或出太阳，说的是天气。气候则关注较长时期内的温度、降水等特点。拍到巴黎的一场雨，不能证明巴黎每天都下雨；拍到雪山，也不能说明整个法国常年被雪覆盖。先分清时间长度，是读懂天气资料的第一步。",
+      "mediaId": "fra-m10",
+      "blocks": [
+        {
+          "id": "fra-many-climates-b1",
+          "title": "今天只是一天",
+          "text": "今天下雨或出太阳，说的是天气。气候则关注较长时期内的温度、降水等特点。拍到巴黎的一场雨，不能证明巴黎每天都下雨；拍到雪山，也不能说明整个法国常年被雪覆盖。先分清时间长度，是读懂天气资料的第一步。"
+        },
+        {
+          "id": "fra-many-climates-b2",
+          "title": "需要多年记录",
+          "text": "研究气候，要把多年观测整理起来，比较季节与长期规律。为了公平，比较两个地方时应使用同一参考时期和相同指标。一个地方的多年平均值，与另一个地方今天的温度不是同一类信息，直接放在一起容易得到错误结论。"
+        },
+        {
+          "id": "fra-many-climates-b3",
+          "title": "海洋与山地",
+          "text": "法国欧洲部分既有临海地区，也有内陆与山地。海洋影响、海拔和地形等因素，会让各地的气候有所不同。山脚与山上距离可能不远，环境却不完全一样。地图能提供位置和地形线索，气候结论仍要由实际观测来支持。"
+        },
+        {
+          "id": "fra-many-climates-b4",
+          "title": "海外还有更多差异",
+          "text": "欧洲与海外地区跨越不同纬度，不能用巴黎的天气代表留尼汪或法属圭亚那。留尼汪岛内也有高山，迎风与背风位置可能不同。国家名称相同，不意味着自然条件相同。认识具体地点时，需要查看当地的资料和观察范围。"
+        },
+        {
+          "id": "fra-many-climates-b5",
+          "title": "做一次公平比较",
+          "text": "如果想比较巴黎与留尼汪的气候，先确定站点、指标和记录时期，再看同类数据。没有这些资料时，可以提出问题，但不要编造数字。练习里要选择多年记录，而不是凭某张晴天照片做决定。照片描述当时的样子，记录帮助认识长期规律。"
+        }
+      ],
+      "term": "气候",
+      "definition": "较长时期内天气的平均特征与变化规律。",
+      "glossary": [
+        {
+          "term": "气候",
+          "definition": "较长时期内天气的平均特征与变化规律。"
+        }
+      ],
+      "sourceUrls": [
+        "https://meteofrance.com/changement-climatique/les-climats-en-outre-mer"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-mer-de-glace",
+      "exerciseId": "fra-c03"
+    },
+    {
+      "id": "fra-place-names",
+      "countryId": "fra",
+      "sectionId": "people",
+      "title": "一个地方为什么有不同名字？",
+      "summary": "在法国东北部寻找斯特拉斯堡。城市的名称既出现在地图上，也写在道路、车站和机构的标识里。中文通常写作“斯特拉斯堡”，法语写作 Strasbourg。同一个地点可以在不同语言中有不同写法，名称不同不一定是两个地方。",
+      "mediaId": "fra-m29",
+      "blocks": [
+        {
+          "id": "fra-place-names-b1",
+          "title": "从斯特拉斯堡开始",
+          "text": "在法国东北部寻找斯特拉斯堡。城市的名称既出现在地图上，也写在道路、车站和机构的标识里。中文通常写作“斯特拉斯堡”，法语写作 Strasbourg。同一个地点可以在不同语言中有不同写法，名称不同不一定是两个地方。"
+        },
+        {
+          "id": "fra-place-names-b2",
+          "title": "看清语言标签",
+          "text": "本页的原创名称卡并列显示 Strasbourg（法语）和 Straßburg（德语）。它们指向同一座城市，卡片明确标注语言，而不是假装一块现场路牌。德语名称不等同于阿尔萨斯语名称；当地语言另有自己的用法，不能把几种语言混称。",
+          "mediaId": "fra-m30"
+        },
+        {
+          "id": "fra-place-names-b3",
+          "title": "字母与发音",
+          "text": "不同语言的拼写习惯和发音规则不完全相同。遇到不熟悉的字母，可以先照着写法找资料，再听可靠的发音示例。不要把看起来相似的词全部当成同一个词，也不要凭一个不同的字母就断定是另一座城市，地图位置能够帮助核对。"
+        },
+        {
+          "id": "fra-place-names-b4",
+          "title": "城市有语言历史",
+          "text": "边界变化、迁徙、学校和家庭生活，都可能影响一座城市使用哪些语言。今天的居民也可能使用不止一种语言。认识语言时，可以分别询问街牌怎么写、学校怎样教、家人怎样说，这几个问题的答案不一定完全相同。"
+        },
+        {
+          "id": "fra-place-names-b5",
+          "title": "不凭名字猜身份",
+          "text": "看见一个人的名字或听到一句话，不能据此确定他的国籍、家庭经历或所有语言能力。我们能确认的是这张名称卡写了什么、对应哪个地点。练习关注的是“同一地点的不同语言名称”，而不是给居民贴上统一的身份标签。"
+        }
+      ],
+      "term": "地名",
+      "definition": "人们给地点使用的名称。",
+      "glossary": [
+        {
+          "term": "地名",
+          "definition": "人们给地点使用的名称。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.visitstrasbourg.fr/de/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-strasbourg",
+      "diagram": "fra-names",
+      "exerciseId": "fra-p02"
+    },
+    {
+      "id": "fra-island-voices",
+      "countryId": "fra",
+      "sectionId": "people",
+      "title": "留尼汪岛的人怎样讲述家乡？",
+      "summary": "留尼汪位于印度洋，在马达加斯加以东。打开世界位置图，可以看见它与欧洲相隔很远；再切换地区图，才能清楚看见岛屿轮廓。这里的居民生活在一座有高山、海岸和城镇的岛上，不是住在地图上一个没有细节的圆点里。",
+      "mediaId": "fra-m16",
+      "blocks": [
+        {
+          "id": "fra-island-voices-b1",
+          "title": "先找到印度洋",
+          "text": "留尼汪位于印度洋，在马达加斯加以东。打开世界位置图，可以看见它与欧洲相隔很远；再切换地区图，才能清楚看见岛屿轮廓。这里的居民生活在一座有高山、海岸和城镇的岛上，不是住在地图上一个没有细节的圆点里。"
+        },
+        {
+          "id": "fra-island-voices-b2",
+          "title": "法语与克里奥尔语",
+          "text": "法语是法国的官方语言，留尼汪也使用留尼汪克里奥尔语。不同语言可以出现在家庭、文学、音乐与公共生活中。一个人可能根据场合切换语言。仅凭一张照片，我们无法知道画面里的人会说什么，更不能替他们编造对话。"
+        },
+        {
+          "id": "fra-island-voices-b3",
+          "title": "家庭各有故事",
+          "text": "岛上居民的家庭背景和生活经历多样，不能用一种衣着、一种食物或一种语言概括所有人。同学之间可能有共同兴趣，也可能有不同习惯。了解家乡故事，最好的办法之一是认真听当地人的讲述，并记住是谁、在什么场合说的。"
+        },
+        {
+          "id": "fra-island-voices-b4",
+          "title": "历史留下影响",
+          "text": "留尼汪的历史包含殖民、奴隶制以及不同形式的迁徙。这些经历影响了人口与文化，也包含不平等和痛苦，不能只用热闹节日来代替。阅读历史材料时，要分清不同年代与不同人的处境，避免把所有迁徙都说成自由旅行。"
+        },
+        {
+          "id": "fra-island-voices-b5",
+          "title": "带着问题去听",
+          "text": "如果能访问一位当地作者，可以问他喜欢怎样介绍家乡，以及哪些常见说法需要补充。我们先完成一个地理问题：留尼汪在印度洋，而不是大西洋或太平洋。正确定位只是开始，接下来还要用当地来源认识真实而多样的生活。"
+        }
+      ],
+      "term": "克里奥尔语",
+      "definition": "在特定历史和社会环境中形成、拥有自身规则的语言。",
+      "glossary": [
+        {
+          "term": "克里奥尔语",
+          "definition": "在特定历史和社会环境中形成、拥有自身规则的语言。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.musee-villele.re/fr/collections-thematiques",
+        "https://www.insee.fr/fr/metadonnees/definition/c2316"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-fournaise",
+      "exerciseId": "fra-l03"
+    },
+    {
+      "id": "fra-neighborhood",
+      "countryId": "fra",
+      "sectionId": "people",
+      "title": "一张街景能讲完居民的生活吗？",
+      "summary": "马赛位于法国南部的地中海岸。老港照片里有水面、船只、道路和建筑，这是城市中的一个具体公共区域。照片的范围有限，不是整座马赛的全景，更不代表所有法国城市。先读图注，再把目光放在能够直接看见的事物上。",
+      "mediaId": "fra-m25",
+      "blocks": [
+        {
+          "id": "fra-neighborhood-b1",
+          "title": "从马赛老港看起",
+          "text": "马赛位于法国南部的地中海岸。老港照片里有水面、船只、道路和建筑，这是城市中的一个具体公共区域。照片的范围有限，不是整座马赛的全景，更不代表所有法国城市。先读图注，再把目光放在能够直接看见的事物上。"
+        },
+        {
+          "id": "fra-neighborhood-b2",
+          "title": "寻找公共设施",
+          "text": "在街景中，可以找步行空间、道路边缘、座椅或交通标识。每次只描述画面确实出现的东西，不把想象中的地铁站或学校补进去。公共设施的形状能提供用途线索，但要确认开放时间、使用规定或建设年代，还需要其他资料。"
+        },
+        {
+          "id": "fra-neighborhood-b3",
+          "title": "谁会使用这里",
+          "text": "同一处港边空间，可能被居民、工作人员和游客以不同方式使用。有人赶路，有人休息，也有人工作。不过，照片未必告诉我们每个人正在做什么。说“画面里有行人”是观察，说“他们都住在附近”则是仍待查证的猜想。"
+        },
+        {
+          "id": "fra-neighborhood-b4",
+          "title": "一张照片的边界",
+          "text": "照片记录了一个视角和一个时刻。它没有完整记录租房、上学、照顾家人或工作的一天。明白这些限制，并不会让照片失去价值，反而能帮助我们更准确地使用它：观察空间的样子，同时承认还不了解居民的全部经历。"
+        },
+        {
+          "id": "fra-neighborhood-b5",
+          "title": "写下一次观察",
+          "text": "请把笔记分成“我看见”“我猜想”“我还想知道”。第一栏可以描述一种公共设施；第二栏提出它可能怎样被使用；第三栏写下想向当地人询问的问题。笔记不需要猜中标准答案，只需把证据和解释分开，让下一次查证有明确方向。"
+        }
+      ],
+      "term": "公共空间",
+      "definition": "供人们共同使用的地方。",
+      "glossary": [
+        {
+          "term": "公共空间",
+          "definition": "供人们共同使用的地方。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/600/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-marseille-port",
+      "activity": {
+        "id": "fra-o01",
+        "type": "open",
+        "title": "街区观察",
+        "prompt": "找一种公共设施；照片不能告诉你哪些居民经历？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "fra-m25",
+          "fra-m26"
+        ],
+        "suggestedArticleIds": [
+          "fra-neighborhood"
+        ]
+      }
+    },
+    {
+      "id": "fra-metro-transfer",
+      "countryId": "fra",
+      "sectionId": "daily",
+      "title": "怎样在地铁示意图上换乘？",
+      "summary": "地铁线路示意图把站点和连接关系整理出来，帮助人们寻找路线。线路的弯曲与站间空白不一定按真实距离绘制。因此，看图可以判断哪些站相连，却不能仅凭纸上长短确定走路需要几分钟。先读图例和站名，才能正确使用。",
+      "mediaId": "fra-m03",
+      "blocks": [
+        {
+          "id": "fra-metro-transfer-b1",
+          "title": "线路图不是照片",
+          "text": "地铁线路示意图把站点和连接关系整理出来，帮助人们寻找路线。线路的弯曲与站间空白不一定按真实距离绘制。因此，看图可以判断哪些站相连，却不能仅凭纸上长短确定走路需要几分钟。先读图例和站名，才能正确使用。"
+        },
+        {
+          "id": "fra-metro-transfer-b2",
+          "title": "两条练习线路",
+          "text": "本页使用原创的虚构线路：蓝线连接甲站与乙站，橙线连接乙站与丙站。它们并不是巴黎真实运营线路，没有票价和时刻信息。把复杂交通暂时简化为三个站，可以专心练习理解“连接”和“换乘”这两个关系。"
+        },
+        {
+          "id": "fra-metro-transfer-b3",
+          "title": "共同的乙站",
+          "text": "两条线都经过乙站，所以从甲站去丙站，可以先沿蓝线到乙站，再换到橙线去丙站。乙站是这幅图的换乘点。它不是因为画在正中间才成为换乘站，而是因为两条线路在这里共同设站；连接关系才是判断依据。"
+        },
+        {
+          "id": "fra-metro-transfer-b4",
+          "title": "距离要另外查",
+          "text": "示意图把甲到乙画得很长，也不一定说明这一段比乙到丙更远。真实交通还受到方向、运营安排和步行通道等因素影响。学习图解时先理解关系；真正出行时，应查看交通机构当前的正式地图和信息，不能照搬这张虚构练习图。"
+        },
+        {
+          "id": "fra-metro-transfer-b5",
+          "title": "用文字复述路线",
+          "text": "把手指从甲站沿蓝线移到乙站，停一下，再沿橙线移到丙站。也可以不用颜色，直接说“甲到乙，在乙换乘，再到丙”。这样即使看不清颜色，也能表达路线。完成题目后，说明共同站点在哪里，比只说一个选项编号更清楚。"
+        }
+      ],
+      "term": "换乘",
+      "definition": "从一条交通线路转到另一条。",
+      "glossary": [
+        {
+          "term": "换乘",
+          "definition": "从一条交通线路转到另一条。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ratp.fr/plan-metro"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-seine-paris",
+      "diagram": "fra-transfer",
+      "exerciseId": "fra-c04"
+    },
+    {
+      "id": "fra-market-labels",
+      "countryId": "fra",
+      "sectionId": "daily",
+      "title": "市场里的标签告诉我们什么？",
+      "summary": "里昂的市场照片让我们看见摊位、食品和人们购物的空间。照片不一定能清楚显示每张小标签，也不是今天的商品目录。我们先观察实际摊位的样子，再用一张标明“原创练习”的大字标签，学习寻找名称、单位和产地信息。",
+      "mediaId": "fra-m23",
+      "blocks": [
+        {
+          "id": "fra-market-labels-b1",
+          "title": "来到市场观察",
+          "text": "里昂的市场照片让我们看见摊位、食品和人们购物的空间。照片不一定能清楚显示每张小标签，也不是今天的商品目录。我们先观察实际摊位的样子，再用一张标明“原创练习”的大字标签，学习寻找名称、单位和产地信息。"
+        },
+        {
+          "id": "fra-market-labels-b2",
+          "title": "把字段分开",
+          "text": "练习标签写着“①名称：苹果”“②单位：千克”“③产地：法国”。名称回答这是什么，单位告诉我们怎样计量，产地说明标签所声明的来源。编号只是帮助找位置，不是商品等级。读标签时，不能只看最醒目的一个数字就跳过其他文字。",
+          "mediaId": "fra-m24"
+        },
+        {
+          "id": "fra-market-labels-b3",
+          "title": "产地需要证据",
+          "text": "想知道这份练习材料写的产地，应找到③对应的字段。真实市场里，产地应以实际标签和供应资料核对，而不是根据水果颜色、摊主语言或市场所在城市猜测。在里昂售卖的东西，也可能来自其他地区，售卖地点不等于生产地点。"
+        },
+        {
+          "id": "fra-market-labels-b4",
+          "title": "价格与时间",
+          "text": "价格会变化，食品也可能按重量、件数或其他单位出售。没有拍摄日期和完整标签时，不应把旧照片里的数字当成今天价格。本页没有提供购物报价。我们练习的是读懂信息的结构，之后再看实物时，就会知道还缺哪些说明。"
+        },
+        {
+          "id": "fra-market-labels-b5",
+          "title": "比较而不猜测",
+          "text": "可以把两张真实标签放在一起，看看名称、单位、产地和日期是否齐全。若某个字段看不清，就写“无法辨认”，不要替它编一个答案。完成练习时只需指出产地字段；开放观察中则可以记录照片里哪些内容清楚，哪些需要进一步查证。"
+        }
+      ],
+      "term": "产地",
+      "definition": "标签所声明的生产或收获地点，具体含义要看说明。",
+      "glossary": [
+        {
+          "term": "产地",
+          "definition": "标签所声明的生产或收获地点，具体含义要看说明。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/etiquetage-des-denrees-alimentaires-les-regles-connaitre"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-lyon-market",
+      "diagram": "fra-market",
+      "exerciseId": "fra-p03"
+    },
+    {
+      "id": "fra-river-walk",
+      "countryId": "fra",
+      "sectionId": "daily",
+      "title": "河岸怎样成为大家的空间？",
+      "summary": "巴黎的塞纳河岸不仅有建筑和桥，也有供人们活动的滨水空间。照片选取其中一段步道，展示河水、岸边道路与周围环境。整条河岸并不处处相同，不能把这一小段的布置当成所有河段的样子。先看图注，再认清范围。",
+      "mediaId": "fra-m03",
+      "blocks": [
+        {
+          "id": "fra-river-walk-b1",
+          "title": "沿着塞纳河走",
+          "text": "巴黎的塞纳河岸不仅有建筑和桥，也有供人们活动的滨水空间。照片选取其中一段步道，展示河水、岸边道路与周围环境。整条河岸并不处处相同，不能把这一小段的布置当成所有河段的样子。先看图注，再认清范围。"
+        },
+        {
+          "id": "fra-river-walk-b2",
+          "title": "水边怎样连接",
+          "text": "在画面中找一找水面边缘、步道方向和桥的位置。桥让两岸相通，步道让人沿着岸边移动，它们处理的是不同方向的连接。观察时可以用手指分别描出这两条路线，再看看路边有没有树木或其他设施，但只记录真正看见的细节。"
+        },
+        {
+          "id": "fra-river-walk-b3",
+          "title": "不同人的需要",
+          "text": "公共空间可能被散步者、跑步者、通勤者和使用轮椅的人共同使用。足够清楚的路线、合适的入口与休息空间，会影响不同人能否方便使用。仅凭远景照片无法完成全部评价；想知道实际体验，还应听取使用者的意见和实地资料。"
+        },
+        {
+          "id": "fra-river-walk-b4",
+          "title": "空间会改变",
+          "text": "城市河岸经历过不同用途和改造阶段。今天看到的步道，并不证明这里从古至今一直如此。比较过去与现在时，需要有日期的照片、地图或城市记录，并核对同一河段。把两个不同地点的图片并排，不能直接说明一个地方发生了变化。"
+        },
+        {
+          "id": "fra-river-walk-b5",
+          "title": "观察身边的路",
+          "text": "回想自己熟悉的一段道路：人怎样走，车怎样走，哪里可以停下来？把它与河岸照片比较，先说形状和连接，再提出使用感受的问题。你可以写下一项直接观察和一项改进想法，清楚区分“现在看见什么”和“希望以后有什么”。"
+        }
+      ],
+      "term": "河岸",
+      "definition": "河流两侧与陆地相接的地带。",
+      "glossary": [
+        {
+          "term": "河岸",
+          "definition": "河流两侧与陆地相接的地带。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/600/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-seine-paris",
+      "activity": {
+        "id": "fra-o02",
+        "type": "open",
+        "title": "河岸步道",
+        "prompt": "水、路与桥在哪里？和自己的街区有什么不同？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "fra-m02",
+          "fra-m03"
+        ],
+        "suggestedArticleIds": [
+          "fra-river-walk"
+        ]
+      }
+    },
+    {
+      "id": "fra-baguette",
+      "countryId": "fra",
+      "sectionId": "food",
+      "title": "面团为什么能变成面包？",
+      "summary": "法棍是一种长条形面包，制作通常使用面粉、水、盐和酵母或发酵种等材料。不同面包的配方可能不同，认识具体产品还要看配料说明。看见长条外形，只能辨认外观线索，不能由此知道制作时间、全部成分或每个人的口味。",
+      "mediaId": "fra-m31",
+      "blocks": [
+        {
+          "id": "fra-baguette-b1",
+          "title": "先看材料",
+          "text": "法棍是一种长条形面包，制作通常使用面粉、水、盐和酵母或发酵种等材料。不同面包的配方可能不同，认识具体产品还要看配料说明。看见长条外形，只能辨认外观线索，不能由此知道制作时间、全部成分或每个人的口味。"
+        },
+        {
+          "id": "fra-baguette-b2",
+          "title": "发酵时发生什么",
+          "text": "面团中的酵母利用可供它使用的糖，产生包括二氧化碳在内的物质。二氧化碳是一种气体，参与面团膨起的过程。它不是揉面时藏进去的小石头，也不是面粉自动长大。图解把气泡画得很明显，真实气泡并没有统一尺寸。"
+        },
+        {
+          "id": "fra-baguette-b3",
+          "title": "气体与面团结构",
+          "text": "面粉加水并经过揉合后，面团形成能够留住部分气体的结构。切开烤好的面包，可以看见大小不同的孔洞。这些孔洞提供观察线索，但只靠一张切面照片不能算出发酵用了多久；配方、温度与操作都会影响最后的结果。",
+          "mediaId": "fra-m31"
+        },
+        {
+          "id": "fra-baguette-b4",
+          "title": "进入烤炉之后",
+          "text": "烘烤让面团经历升温、结构固定和表面变化，最后成为我们熟悉的面包。制作过程需要控制条件，并不是把任何材料放进烤炉都会得到同样结果。本页只学习变化关系，不提供儿童独自使用烤炉的操作任务。观察切面就能开始提出科学问题。"
+        },
+        {
+          "id": "fra-baguette-b5",
+          "title": "技艺由人传递",
+          "text": "联合国教科文组织收录的是法棍制作的手工知识与文化，而不是说每一根面包都完全相同。制作技艺需要学习、练习和传承，也与面包店及日常生活相联系。完成练习时，记住帮助面团膨起的重要线索是发酵产生的气体。"
+        }
+      ],
+      "term": "发酵",
+      "definition": "微生物参与、使材料发生变化的过程。",
+      "glossary": [
+        {
+          "term": "发酵",
+          "definition": "微生物参与、使材料发生变化的过程。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.mnhn.fr/fr/comment-et-depuis-quand-fabrique-t-on-du-pain",
+        "https://ich.unesco.org/en/RL/artisanal-know-how-and-culture-of-baguette-bread-01883"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "diagram": "fra-fermentation",
+      "exerciseId": "fra-c05"
+    },
+    {
+      "id": "fra-cheese-label",
+      "countryId": "fra",
+      "sectionId": "food",
+      "title": "奶酪标签里藏着哪些线索？",
+      "summary": "法国有多种奶酪，不同产品的原料与制作方法并不相同。先看本页照片中的具体产品，再阅读包装或说明。不要因为表面白色就断定来自哪一种动物，也不要用一种奶酪的味道代表所有奶酪。名称是寻找资料的入口。",
+      "mediaId": "fra-m32",
+      "blocks": [
+        {
+          "id": "fra-cheese-label-b1",
+          "title": "一种食品很多做法",
+          "text": "法国有多种奶酪，不同产品的原料与制作方法并不相同。先看本页照片中的具体产品，再阅读包装或说明。不要因为表面白色就断定来自哪一种动物，也不要用一种奶酪的味道代表所有奶酪。名称是寻找资料的入口。"
+        },
+        {
+          "id": "fra-cheese-label-b2",
+          "title": "原料要看说明",
+          "text": "判断奶酪使用牛奶、羊奶或其他原料，可靠方法是查看配料与产品资料。这里的原创练习卡写“原料：牛奶”，只是学习读字段，不冒充照片中每件商品的真实标签。照片无法辨认的文字应保持未知，而不是根据外形补写。"
+        },
+        {
+          "id": "fra-cheese-label-b3",
+          "title": "制作还有后续",
+          "text": "奶酪制作涉及让奶中的成分凝结、排出部分液体等过程，不同产品的操作有差异。一些奶酪还需要熟成，随着时间改变质地和风味。认识这些过程时，可以寻找具体产品的规范；不能从一个颜色简单推算熟成天数。"
+        },
+        {
+          "id": "fra-cheese-label-b4",
+          "title": "让证据回答问题",
+          "text": "如果问题是“原料是什么”，应选配料说明；如果问题是“外形怎样”，照片就很有帮助。材料与问题要对应。一个漂亮包装能够吸引注意，却不一定回答所有问题。把标签看清楚，比凭图片猜动物来源更准确，也更容易让别人核对。"
+        },
+        {
+          "id": "fra-cheese-label-b5",
+          "title": "地区不等于统一口味",
+          "text": "食品与地方的农业、手艺和商业往来有关，但同一地区的人仍有不同喜好和饮食选择。有人喜欢某种奶酪，有人不吃，也有人因个人需要选择其他食物。百科介绍食品的线索与制作，不把任何一道食物当作所有居民必有的习惯。"
+        }
+      ],
+      "term": "配料",
+      "definition": "制作某种食品使用的原料。",
+      "glossary": [
+        {
+          "term": "配料",
+          "definition": "制作某种食品使用的原料。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/etiquetage-des-denrees-alimentaires-les-regles-connaitre"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-lyon-market",
+      "diagram": "fra-cheese",
+      "exerciseId": "fra-c06"
+    },
+    {
+      "id": "fra-season-market",
+      "countryId": "fra",
+      "sectionId": "food",
+      "title": "一篮蔬菜能告诉我们季节吗？",
+      "summary": "市场照片里可能出现不同蔬菜和水果。先辨认能够看清的种类、形状和摆放方式，再查看拍摄日期。看到一篮颜色鲜艳的食物，会让人想到某个季节，但印象还不是结论。照片记录的是摊位当时售卖什么，不自动解释它们在哪里长成。",
+      "mediaId": "fra-m23",
+      "blocks": [
+        {
+          "id": "fra-season-market-b1",
+          "title": "一篮蔬菜的线索",
+          "text": "市场照片里可能出现不同蔬菜和水果。先辨认能够看清的种类、形状和摆放方式，再查看拍摄日期。看到一篮颜色鲜艳的食物，会让人想到某个季节，但印象还不是结论。照片记录的是摊位当时售卖什么，不自动解释它们在哪里长成。"
+        },
+        {
+          "id": "fra-season-market-b2",
+          "title": "名字比颜色更具体",
+          "text": "如果不确定某种食物的名称，可以先描述可见特征，例如细长、圆形或成束摆放，再查可靠资料。不要为了填满笔记而猜一个名字。食物的颜色可能受品种、成熟程度与光线影响，同样颜色也可能出现在不同种类上。"
+        },
+        {
+          "id": "fra-season-market-b3",
+          "title": "生产与售卖地点",
+          "text": "市场位于里昂，不表示所有商品都在里昂附近种植。运输、储存和不同地区的生产季节，会影响摊位上出现的食品。想研究本地季节，需要核对产地与日期，而不只是看市场所在的城市。售卖地点和种植地点要分别记录。"
+        },
+        {
+          "id": "fra-season-market-b4",
+          "title": "还缺哪些信息",
+          "text": "一张没有清晰标签的照片，通常不足以判断食物是否本地产、什么时候采收或经过多远运输。这时可以写下“尚不知道”。承认资料有限，是继续研究的起点。我们可以寻找同日期的产地记录，或比较同一市场不同月份的可靠材料。"
+        },
+        {
+          "id": "fra-season-market-b5",
+          "title": "把问题留在笔记里",
+          "text": "在“我看见”里描述一种确实看见的食品；在“我猜想”里写它可能与什么季节有关；在“我还想知道”里提出产地或日期问题。三栏不必一次填满。保存自己的问题后，下次得到新标签或新照片，就能检查猜想是否需要修改。"
+        }
+      ],
+      "term": "季节",
+      "definition": "一年中具有一定自然特点的时段。",
+      "glossary": [
+        {
+          "term": "季节",
+          "definition": "一年中具有一定自然特点的时段。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/etiquetage-des-denrees-alimentaires-les-regles-connaitre"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-lyon-market",
+      "activity": {
+        "id": "fra-o03",
+        "type": "open",
+        "title": "市场与季节",
+        "prompt": "哪些食物看得清？还需要哪些产地和日期信息？",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "fra-m23",
+          "fra-m24"
+        ],
+        "suggestedArticleIds": [
+          "fra-season-market"
+        ]
+      }
+    },
+    {
+      "id": "fra-light-painting",
+      "countryId": "fra",
+      "sectionId": "culture",
+      "title": "一幅画怎样留下光？",
+      "summary": "看画之前，先读图注中的作品名、作者、年代与来源。本页采用有许可记录的莫奈作品数字图像，画作不是现场照片。作品里的色彩、形状和笔触经过画家的选择。它能帮助我们讨论画面表现，却不能当作某一天港口天气的测量记录。",
+      "mediaId": "fra-m33",
+      "blocks": [
+        {
+          "id": "fra-light-painting-b1",
+          "title": "先读作品资料",
+          "text": "看画之前，先读图注中的作品名、作者、年代与来源。本页采用有许可记录的莫奈作品数字图像，画作不是现场照片。作品里的色彩、形状和笔触经过画家的选择。它能帮助我们讨论画面表现，却不能当作某一天港口天气的测量记录。"
+        },
+        {
+          "id": "fra-light-painting-b2",
+          "title": "寻找冷暖颜色",
+          "text": "先不急着说画好不好看，找一找偏蓝、偏灰与偏橙的区域，再看它们怎样相邻。颜色之间的对照，会影响我们感受到的光和空间。不同屏幕可能呈现略有差异的颜色，因此不需要背诵一个精确色号，更适合描述相互关系。"
+        },
+        {
+          "id": "fra-light-painting-b3",
+          "title": "近看笔触",
+          "text": "把注意力放到水面或天空，看看色彩是怎样组成画面的。有的地方像短短的笔触，有的地方颜色相互接近。我们是在描述数字图像里可见的表现，不是触摸原作。放大图片能够帮助观察，但分辨率有限，模糊处不能随意补出细节。"
+        },
+        {
+          "id": "fra-light-painting-b4",
+          "title": "自己的解释",
+          "text": "你可能觉得画面安静，也可能觉得光正在变化。这样的感受可以写下来，并指出哪一处颜色或形状让你产生这个想法。不过，个人解释不等于画家亲口说过的话。若要了解作者的意图，应查书信、研究或博物馆的作品说明。"
+        },
+        {
+          "id": "fra-light-painting-b5",
+          "title": "用观察开启讨论",
+          "text": "尝试写一句“我看见”，只描述画面；再写一句“我猜想”，表达自己的理解。别人可能提出不同解释，只要说明依据，就可以一起讨论。艺术观察不要求所有人选同一个感受，重点是看得具体、说得清楚，并尊重作品资料的范围。"
+        }
+      ],
+      "term": "笔触",
+      "definition": "画笔留下的痕迹与表现方式。",
+      "glossary": [
+        {
+          "term": "笔触",
+          "definition": "画笔留下的痕迹与表现方式。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.marmottan.fr/collections/claude-monet/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-louvre",
+      "activity": {
+        "id": "fra-o04",
+        "type": "open",
+        "title": "光与颜色",
+        "prompt": "描述颜色与笔触，再写下自己的解释。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "fra-m33"
+        ],
+        "suggestedArticleIds": [
+          "fra-light-painting"
+        ]
+      }
+    },
+    {
+      "id": "fra-museum-object",
+      "countryId": "fra",
+      "sectionId": "culture",
+      "title": "博物馆里为什么要看说明牌？",
+      "summary": "在博物馆里，展品旁常有说明牌，介绍名称、年代、材料或作者等信息。卢浮宫的建筑很著名，但认识藏品不能只停在建筑外观。进入一件作品的故事之前，先确认自己看的是哪一件，避免把旁边另一件展品的资料套过来。",
+      "mediaId": "fra-m21",
+      "blocks": [
+        {
+          "id": "fra-museum-object-b1",
+          "title": "先找说明牌",
+          "text": "在博物馆里，展品旁常有说明牌，介绍名称、年代、材料或作者等信息。卢浮宫的建筑很著名，但认识藏品不能只停在建筑外观。进入一件作品的故事之前，先确认自己看的是哪一件，避免把旁边另一件展品的资料套过来。"
+        },
+        {
+          "id": "fra-museum-object-b2",
+          "title": "材料与年代",
+          "text": "石、木、金属、陶土或颜料，会让物品拥有不同外观与制作方式。照片有时能给出线索，却不一定能准确区分材料。年代也可能是估计范围，而不是某一天。说明牌和正式藏品资料能够帮助核对，并提醒我们哪些信息仍有不确定性。"
+        },
+        {
+          "id": "fra-museum-object-b3",
+          "title": "作者和来源",
+          "text": "有些作品知道作者，有些只知道时代或地区。收藏来源又是另一类问题：物品怎样进入博物馆，经历了什么流转？这些信息有时很复杂，也可能涉及争议。阅读时应分别记录，不把“在这里展出”误写成“最初就在这里制作”。",
+          "mediaId": "fra-m22"
+        },
+        {
+          "id": "fra-museum-object-b4",
+          "title": "收藏也有历史",
+          "text": "博物馆的陈列会随着研究和展示安排改变。一件物品的故事，可能包括使用、保存、交换、掠夺或归还等不同经历，必须依具体记录说明。不能因为展厅安静整齐，就认为所有收藏过程都没有问题。认真读资料，是理解历史的一部分。"
+        },
+        {
+          "id": "fra-museum-object-b5",
+          "title": "允许暂时不知道",
+          "text": "如果说明牌没有写出某项信息，可以写“资料未注明”，再寻找馆方藏品页面。练习问材料与年代时，应先看说明牌和藏品资料，而不是从作品大小或游客数量推测。清楚区分已知和未知，会让我们的参观笔记更可靠。"
+        }
+      ],
+      "term": "藏品",
+      "definition": "博物馆等机构收藏并保存研究的物品。",
+      "glossary": [
+        {
+          "term": "藏品",
+          "definition": "博物馆等机构收藏并保存研究的物品。"
+        }
+      ],
+      "sourceUrls": [
+        "https://collections.louvre.fr/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-louvre",
+      "exerciseId": "fra-c07"
+    },
+    {
+      "id": "fra-street-music",
+      "countryId": "fra",
+      "sectionId": "culture",
+      "title": "一段节奏怎样让人一起演奏？",
+      "summary": "法国的音乐节活动中，人们会在不同场所演奏和聆听音乐。文化部发起的音乐节始于一九八二年，通常在六月二十一日举行。本页的活动照片属于具体地点与时间，不表示法国每条街每天都有演出，也不代表所有人喜欢同一种音乐。",
+      "mediaId": "fra-m34",
+      "blocks": [
+        {
+          "id": "fra-street-music-b1",
+          "title": "从一场活动开始",
+          "text": "法国的音乐节活动中，人们会在不同场所演奏和聆听音乐。文化部发起的音乐节始于一九八二年，通常在六月二十一日举行。本页的活动照片属于具体地点与时间，不表示法国每条街每天都有演出，也不代表所有人喜欢同一种音乐。"
+        },
+        {
+          "id": "fra-street-music-b2",
+          "title": "一起感受拍子",
+          "text": "多人演奏时，共同的拍子可以帮助他们把动作和声音组织起来。拍子像有规律的时间格子，但音乐并不只有一种速度或节奏。这里先用最简单的四拍练习：一、二、三、四，每一拍之间间隔相同，不需要学习复杂乐谱。"
+        },
+        {
+          "id": "fra-street-music-b3",
+          "title": "轮流回应",
+          "text": "可以由一个人均匀数四拍，另一个人按照相同间隔回应四拍。回应不是越快越好，而是保持同样的拍数和间隔。原创图解把四拍画成四个编号，按钮可配合提示音；即使关闭声音，也能用视觉编号和文字理解练习。"
+        },
+        {
+          "id": "fra-street-music-b4",
+          "title": "看看哪里不同",
+          "text": "“一、二”只有两拍；“一、二——三、四”虽然有四个数字，中间间隔却改变了。练习要求同时比较数量与间隔，而不是只数数字。真实音乐可以有丰富变化，这里暂时固定条件，是为了清楚认识同样的四拍怎样对应。"
+        },
+        {
+          "id": "fra-street-music-b5",
+          "title": "活动与日常生活",
+          "text": "看见一场街头演出，可以询问演奏者、曲目和举办背景，却不能据此断定每位居民都会演奏。文化包含活动，也包含个人选择。完成练习后，你可以记录自己怎样保持拍子，或提出一个想问音乐家的问题，不必替整个国家总结统一爱好。"
+        }
+      ],
+      "term": "节拍",
+      "definition": "音乐中有规律的时间单位。",
+      "glossary": [
+        {
+          "term": "节拍",
+          "definition": "音乐中有规律的时间单位。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.culture.gouv.fr/evenements-nationaux/fete-de-la-musique"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "diagram": "fra-rhythm",
+      "exerciseId": "fra-p04"
+    },
+    {
+      "id": "fra-eiffel-structure",
+      "countryId": "fra",
+      "sectionId": "landmarks",
+      "title": "铁塔为什么有那么多空格？",
+      "summary": "埃菲尔铁塔的底部有四个向外展开的支脚，上方结构逐渐收窄。先看全景，辨认地面、支脚与塔身，再看杆件近景。照片的角度会改变我们看到的宽窄，不能只凭一张仰拍照片直接算出真实高度或每根构件的长度。",
+      "mediaId": "fra-m04",
+      "blocks": [
+        {
+          "id": "fra-eiffel-structure-b1",
+          "title": "从四个支脚看起",
+          "text": "埃菲尔铁塔的底部有四个向外展开的支脚，上方结构逐渐收窄。先看全景，辨认地面、支脚与塔身，再看杆件近景。照片的角度会改变我们看到的宽窄，不能只凭一张仰拍照片直接算出真实高度或每根构件的长度。"
+        },
+        {
+          "id": "fra-eiffel-structure-b2",
+          "title": "空格中的杆件",
+          "text": "铁塔不是一整块实心金属。许多杆件连接起来，形成开放的结构，杆件之间留有空隙。近景里可以看到斜向与横向构件相互交叉。把目光放在连接关系上，比把所有暗色部分看成同一片墙更容易理解它的组成。",
+          "mediaId": "fra-m05"
+        },
+        {
+          "id": "fra-eiffel-structure-b3",
+          "title": "反复出现的三角形",
+          "text": "在原创结构示意中，斜杆与其他杆件构成三角形。三角形经常用于帮助构架保持形状，但真实铁塔还涉及材料、连接、重量和风等复杂问题。练习只要求辨认图中反复出现的形状，并不声称画几个三角形就完成了工程设计。"
+        },
+        {
+          "id": "fra-eiffel-structure-b4",
+          "title": "结构与环境",
+          "text": "高大建筑需要考虑自身重量和外界作用，风是工程设计要考虑的因素之一。铁塔的外形与构架由设计和计算共同形成，不能只用“空格让风穿过”一句话解释全部安全性。看图时可以提出问题，完整结论则需要工程资料。"
+        },
+        {
+          "id": "fra-eiffel-structure-b5",
+          "title": "从照片到档案",
+          "text": "铁塔为一八八九年巴黎世界博览会建造，历史施工照片记录了逐步搭建的阶段。把今天的全貌与有日期的施工档案对照，可以观察哪些部分已经出现。先分清真实照片、历史资料和原创示意，再用它们回答各自适合的问题。"
+        }
+      ],
+      "term": "杆件",
+      "definition": "构架中一根根连接的结构部件。",
+      "glossary": [
+        {
+          "term": "杆件",
+          "definition": "构架中一根根连接的结构部件。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.toureiffel.paris/en/the-monument/universal-exhibition"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-eiffel",
+      "diagram": "fra-triangles",
+      "exerciseId": "fra-c08"
+    },
+    {
+      "id": "fra-loire-place",
+      "countryId": "fra",
+      "sectionId": "landmarks",
+      "title": "卢瓦尔河边的城堡在哪里？",
+      "summary": "昂布瓦斯位于法国欧洲部分的卢瓦尔河畔。地图上的地点标记选择河岸附近的一处代表位置，并不代表整座城镇的边界。先找到卢瓦尔河，再寻找昂布瓦斯，比只根据一张城堡照片猜位置更可靠，也能认识它与河流的联系。",
+      "mediaId": "fra-m27",
+      "blocks": [
+        {
+          "id": "fra-loire-place-b1",
+          "title": "先找到昂布瓦斯",
+          "text": "昂布瓦斯位于法国欧洲部分的卢瓦尔河畔。地图上的地点标记选择河岸附近的一处代表位置，并不代表整座城镇的边界。先找到卢瓦尔河，再寻找昂布瓦斯，比只根据一张城堡照片猜位置更可靠，也能认识它与河流的联系。"
+        },
+        {
+          "id": "fra-loire-place-b2",
+          "title": "河流经过城镇",
+          "text": "卢瓦尔河沿途经过许多地方，最终通向大西洋。河岸城市并不是孤立的点，它们与上游、下游和周边地区相联系。观察地图时可以顺着河线移动，但河线经过简化，不显示所有小支流，也不是用来安排航行的实时路线。"
+        },
+        {
+          "id": "fra-loire-place-b3",
+          "title": "城堡与聚落",
+          "text": "昂布瓦斯的城堡位于河边较高的位置，附近有街道和房屋。照片可以帮助比较建筑与河面的空间关系。若想知道某一部分何时建成、怎样使用，还应查遗产机构的资料。看上去古老的墙体，不一定全部属于同一个年代。"
+        },
+        {
+          "id": "fra-loire-place-b4",
+          "title": "高低需要不同证据",
+          "text": "从照片可以说某座建筑看起来高于河岸，却不能准确量出海拔。相机视角和距离会影响观感。地图中的地形背景提供区域线索，精确高度则需要测绘数据。把“看起来较高”和“测量高度是多少”分成两个问题，能避免混淆。"
+        },
+        {
+          "id": "fra-loire-place-b5",
+          "title": "回到地图复述",
+          "text": "在练习地图上找昂布瓦斯，另外两个候选地点分别位于不同环境。选择时依据名称、河流与所在范围，不用猜图钉颜色。完成后说一说：这是一处卢瓦尔河边的城镇，城堡与周围聚落共同构成河岸景观，而不是一座孤立建筑。"
+        }
+      ],
+      "term": "聚落",
+      "definition": "人们居住与活动形成的地方。",
+      "glossary": [
+        {
+          "term": "聚落",
+          "definition": "人们居住与活动形成的地方。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.chateau-amboise.com/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-loire-amboise",
+      "exerciseId": "fra-l04"
+    },
+    {
+      "id": "fra-corsica-mountains",
+      "countryId": "fra",
+      "sectionId": "landmarks",
+      "title": "科西嘉只有海滩吗？",
+      "summary": "科西嘉位于地中海，是法国欧洲部分的一座岛。它与欧洲大陆之间隔着海水，地图上应画出真实岛形，而不是用一个圆点代替整座岛。定位时先看大陆，再向东南寻找，注意不要把附近其他岛屿误当成科西嘉。",
+      "mediaId": "fra-m19",
+      "blocks": [
+        {
+          "id": "fra-corsica-mountains-b1",
+          "title": "地中海里的岛",
+          "text": "科西嘉位于地中海，是法国欧洲部分的一座岛。它与欧洲大陆之间隔着海水，地图上应画出真实岛形，而不是用一个圆点代替整座岛。定位时先看大陆，再向东南寻找，注意不要把附近其他岛屿误当成科西嘉。"
+        },
+        {
+          "id": "fra-corsica-mountains-b2",
+          "title": "岛内也有山",
+          "text": "一提到岛屿，人们容易只想到海滩。科西嘉内部有山地、河谷和聚落，海岸只是岛屿环境的一部分。地图上的地形背景和内陆照片可以帮助补充认识。岛小或岛大，并不能单独决定它是否有高山，实际地形才是证据。"
+        },
+        {
+          "id": "fra-corsica-mountains-b3",
+          "title": "来到科尔特附近",
+          "text": "科尔特位于岛屿内陆，附近山谷的照片展示岩坡、植被和谷地。地点标记是公开景观的代表锚点，不是每张照片的精确摄影位置。比较照片时，要阅读图注中的地点说明；不同角度的谷地不能自动当作同一处的变化记录。"
+        },
+        {
+          "id": "fra-corsica-mountains-b4",
+          "title": "海岸与内陆一起看",
+          "text": "沿着地图从岛边向内部移动，想一想看见的环境可能怎样变化。海岸线显示陆地与海相接的位置，山地背景显示地形线索，二者可以同时存在。不要用一张海滩照片概括整座岛，也不要用山谷照片否认岛屿周围的海洋。"
+        },
+        {
+          "id": "fra-corsica-mountains-b5",
+          "title": "选择实际范围",
+          "text": "练习会高亮科西嘉的实际岛面，以及法国欧洲大陆部分作为另一个候选。点击岛面与选择文字表达相同意思。选择后仍需确认答案。完成时可以说“这是岛屿的范围”，而不是把一个城市图钉当成整座岛，这也是学习读不同地图符号。"
+        }
+      ],
+      "term": "岛屿",
+      "definition": "四面被水围绕的陆地。",
+      "glossary": [
+        {
+          "term": "岛屿",
+          "definition": "四面被水围绕的陆地。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.pnr.corsica/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-corte",
+      "exerciseId": "fra-l05"
+    },
+    {
+      "id": "fra-moving-glacier",
+      "countryId": "fra",
+      "sectionId": "nature",
+      "title": "冰川是一动不动的吗？",
+      "summary": "在适合积雪保存的高山地区，雪经过不断积累、压实和变化，逐渐形成冰川冰。它不是一次下雪就立刻做成的大冰块。冰海冰川位于法国阿尔卑斯地区，是认识冰川的一个案例；名字中的“海”不表示它是一片海水。",
+      "mediaId": "fra-m10",
+      "blocks": [
+        {
+          "id": "fra-moving-glacier-b1",
+          "title": "雪怎样变成冰",
+          "text": "在适合积雪保存的高山地区，雪经过不断积累、压实和变化，逐渐形成冰川冰。它不是一次下雪就立刻做成的大冰块。冰海冰川位于法国阿尔卑斯地区，是认识冰川的一个案例；名字中的“海”不表示它是一片海水。"
+        },
+        {
+          "id": "fra-moving-glacier-b2",
+          "title": "冰也会缓慢移动",
+          "text": "冰川在重力作用下缓慢流动，速度因位置和条件而不同。站在远处看一会儿，可能看不出变化，不能因此认定它一动不动。原创图解用箭头表示总体关系，不是现场测速，也没有把所有冰川画成相同速度。"
+        },
+        {
+          "id": "fra-moving-glacier-b3",
+          "title": "冰与石屑",
+          "text": "冰川表面和边缘可能出现石屑，附近岩坡也能提供碎石。看照片时，先分辨冰、裸露岩石和碎屑覆盖区域。深色并不必然代表泥水，白色也不一定全是新雪。判断具体材料，需要结合清晰影像与现场研究，而不是只靠颜色。",
+          "mediaId": "fra-m11"
+        },
+        {
+          "id": "fra-moving-glacier-b4",
+          "title": "末端变化不等于倒流",
+          "text": "冰川末端的位置受到积累、消融和冰的流动等共同影响。末端后退，并不意味着整条冰川正在向山顶倒着流。图解把流动方向与末端变化区分开。理解这两个不同概念，能够避免把新闻里“退缩”的说法想成冰块整体向后滑。"
+        },
+        {
+          "id": "fra-moving-glacier-b5",
+          "title": "需要长期测量",
+          "text": "研究冰川怎样变化，应比较同地点、多次、有日期的测量和可比影像。相机位置、季节和积雪都会影响照片外观，单张图片不能算出流速。本页不把不同视角的历史照片当作定量对照。练习的关键证据，是可重复、可核对的长期记录。",
+          "mediaId": "fra-m12"
+        }
+      ],
+      "term": "冰川",
+      "definition": "由长期积雪形成、在重力作用下缓慢移动的大量冰。",
+      "glossary": [
+        {
+          "term": "冰川",
+          "definition": "由长期积雪形成、在重力作用下缓慢移动的大量冰。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.osug.fr/missions/observation/ocean-atmosphere-surfaces-continentales/glacioclim/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-mer-de-glace",
+      "diagram": "fra-glacier",
+      "exerciseId": "fra-c09"
+    },
+    {
+      "id": "fra-camargue-flamingo",
+      "countryId": "fra",
+      "sectionId": "nature",
+      "title": "火烈鸟为什么站在浅水里？",
+      "summary": "卡马格位于法国南部罗讷河口附近，湿地中有水面、浅滩和不同植被。湿地不是一块没有用途的空地，它提供多种生物生活的空间。照片只展示其中一处景观，不能据此判断整个地区的水深、水质或每个季节的样子。",
+      "mediaId": "fra-m14",
+      "blocks": [
+        {
+          "id": "fra-camargue-flamingo-b1",
+          "title": "先认识湿地",
+          "text": "卡马格位于法国南部罗讷河口附近，湿地中有水面、浅滩和不同植被。湿地不是一块没有用途的空地，它提供多种生物生活的空间。照片只展示其中一处景观，不能据此判断整个地区的水深、水质或每个季节的样子。"
+        },
+        {
+          "id": "fra-camargue-flamingo-b2",
+          "title": "浅水里寻找食物",
+          "text": "火烈鸟会在浅水中觅食，利用喙的结构过滤水中的小生物等食物。它们低头把喙放到水里，并不一定是在照镜子。关于行为的解释来自鸟类研究，照片帮助观察姿态；两种材料结合，才比只看一个动作更可靠。"
+        },
+        {
+          "id": "fra-camargue-flamingo-b3",
+          "title": "喙与身体姿态",
+          "text": "看觅食照片时，可以注意长腿、弯曲的颈部和靠近水面的喙。不要把照片里所有鸟都说成正在做同一件事：有的可能休息，有的移动，有的觅食。先描述每只鸟确实可见的姿态，再用资料解释某一种典型行为。"
+        },
+        {
+          "id": "fra-camargue-flamingo-b4",
+          "title": "环境会随季节变化",
+          "text": "湿地的水位、食物与鸟类活动会受到季节和其他条件影响。一张鸟很多的照片，不能证明全年数量都一样。研究者会通过连续观察认识变化，保护工作也要考虑栖息环境，而不是只关注一只颜色漂亮的鸟。"
+        },
+        {
+          "id": "fra-camargue-flamingo-b5",
+          "title": "远一点也能观察",
+          "text": "学习观察鸟类，可以使用公开照片与望远镜，不需要追赶或靠近巢穴。本应用只标记湿地代表区域，不提供巢址。练习询问浅水中的觅食活动时，要结合正文知识判断；开放笔记则可以记录你看见的姿态和还想了解的食物问题。"
+        }
+      ],
+      "term": "栖息地",
+      "definition": "生物生活、觅食与繁殖的环境。",
+      "glossary": [
+        {
+          "term": "栖息地",
+          "definition": "生物生活、觅食与繁殖的环境。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.parc-camargue.fr/oiseaux-camargue.html",
+        "https://www.bioparcfuengirola.es/fr/animal/flamant-rose/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-camargue",
+      "exerciseId": "fra-c10"
+    },
+    {
+      "id": "fra-reunion-volcano",
+      "countryId": "fra",
+      "sectionId": "nature",
+      "title": "火山留下的地面是什么样？",
+      "summary": "富尔奈斯火山位于留尼汪岛。先在世界位置图找到印度洋，再切到岛屿地图，才能看清火山与海岸的相对位置。它是一座受到持续观测的活火山，但本页照片属于有日期的历史材料，不表示此刻正在发生同样的活动。",
+      "mediaId": "fra-m16",
+      "blocks": [
+        {
+          "id": "fra-reunion-volcano-b1",
+          "title": "留尼汪的火山",
+          "text": "富尔奈斯火山位于留尼汪岛。先在世界位置图找到印度洋，再切到岛屿地图，才能看清火山与海岸的相对位置。它是一座受到持续观测的活火山，但本页照片属于有日期的历史材料，不表示此刻正在发生同样的活动。"
+        },
+        {
+          "id": "fra-reunion-volcano-b2",
+          "title": "从地下到地表",
+          "text": "地下的熔融岩石称为岩浆，到达地表后通常称为熔岩。熔岩流动、失去热量并凝固，可以形成新的岩石。原创过程图把这些关系分开画，真实火山活动则复杂得多，不是所有火山都以同样方式喷发，也不是每天都有熔岩流出。"
+        },
+        {
+          "id": "fra-reunion-volcano-b3",
+          "title": "看凝固后的纹理",
+          "text": "凝固熔岩的表面可能出现皱褶、绳状或粗糙的纹理。照片中的纹理可以观察，形成的确切年代和温度却不能靠颜色直接猜出。练习让你寻找岩面的形状线索，不要求凭一张图片预测喷发，也不把深色岩石都认作同一次事件。",
+          "mediaId": "fra-m17"
+        },
+        {
+          "id": "fra-reunion-volcano-b4",
+          "title": "日期和资料很重要",
+          "text": "对照火山照片时，要知道它拍摄于何时、何处，表现的是活动过程还是冷却后的地表。旧照片里的红色熔岩，不是当前安全状态。确认一次事件的经过，需要观测站的记录与解释。没有可靠日期时，应保留不确定，而不编造具体年份。",
+          "mediaId": "fra-m18"
+        },
+        {
+          "id": "fra-reunion-volcano-b5",
+          "title": "科学家怎样观察",
+          "text": "观测站使用不同仪器记录地震、地形变化和气体等线索，综合判断火山活动。我们在百科中先学习读照片与过程图，不把它们当成实时预报。完成练习后，可以记录一种可见纹理，再提出一个需要观测资料才能回答的问题。"
+        }
+      ],
+      "term": "熔岩",
+      "definition": "到达地表的熔融岩石。",
+      "glossary": [
+        {
+          "term": "熔岩",
+          "definition": "到达地表的熔融岩石。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ipgp.fr/observation/ovpf/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-fournaise",
+      "diagram": "fra-volcano",
+      "exerciseId": "fra-p05"
+    },
+    {
+      "id": "fra-rights-document",
+      "countryId": "fra",
+      "sectionId": "history",
+      "title": "一份旧文件怎样提出权利问题？",
+      "summary": "一七八九年法国的《人权和公民权宣言》提出了自由与权利等原则。档案图像展示历史文件或其相关呈现，阅读时应核对版本、日期和来源。它不是今天刚发布的新闻，也不能只看装饰画面就知道全部条文写了什么。",
+      "mediaId": "fra-m35",
+      "blocks": [
+        {
+          "id": "fra-rights-document-b1",
+          "title": "读一份旧文件",
+          "text": "一七八九年法国的《人权和公民权宣言》提出了自由与权利等原则。档案图像展示历史文件或其相关呈现，阅读时应核对版本、日期和来源。它不是今天刚发布的新闻，也不能只看装饰画面就知道全部条文写了什么。"
+        },
+        {
+          "id": "fra-rights-document-b2",
+          "title": "放回历史背景",
+          "text": "这份宣言形成于法国大革命时期，人们争论国家制度与个人权利。理解历史文件，需要同时看文字、当时的制度与实际生活。文件中的目标和现实之间可能有差距，因此不能从一句关于平等的表述，直接推断所有人的处境已经相同。"
+        },
+        {
+          "id": "fra-rights-document-b3",
+          "title": "当时并非人人平等参与",
+          "text": "女性等群体并没有因此立即获得与男性相同的全部政治权利。判断谁可以参与政治，要看当时具体规定与实践，而不能把后来取得的权利倒放回过去。历史学习需要保留时间顺序，也要注意那些没有被充分包含的人。"
+        },
+        {
+          "id": "fra-rights-document-b4",
+          "title": "殖民与奴隶制的矛盾",
+          "text": "当时法国的殖民体系和奴隶制，与自由平等的原则存在尖锐矛盾。被奴役者承受剥夺，也参与争取自由的斗争。这些经历不能在介绍漂亮档案时被省略。理解权利的历史，要同时看提出了什么原则，以及哪些人仍被排除。"
+        },
+        {
+          "id": "fra-rights-document-b5",
+          "title": "文字与现实分别查",
+          "text": "一份宣言可以证明某些原则被写了下来，却不能单独证明当时人人已经实际享有全部平等权利。练习正是区分这两件事。读历史时可以继续问：谁写下它，谁能使用这些权利，谁还在争取？这些问题需要不同资料一起回答。"
+        }
+      ],
+      "term": "宣言",
+      "definition": "公开表达原则、主张或立场的文件。",
+      "glossary": [
+        {
+          "term": "宣言",
+          "definition": "公开表达原则、主张或立场的文件。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/la-declaration-des-droits-de-l-homme-et-du-citoyen",
+        "https://www.musee-villele.re/fr/collections-thematiques"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "fra-c11"
+    },
+    {
+      "id": "fra-exhibition-1889",
+      "countryId": "fra",
+      "sectionId": "history",
+      "title": "铁塔怎样成为一段历史的线索？",
+      "summary": "埃菲尔铁塔为一八八九年巴黎世界博览会建造。今天它已经成为熟悉的地标，但当时是一项需要设计、制造和安装的大工程。认识一座建筑的历史，可以从建造目的和年代开始，再寻找能直接显示施工过程的材料。",
+      "mediaId": "fra-m06",
+      "blocks": [
+        {
+          "id": "fra-exhibition-1889-b1",
+          "title": "铁塔与博览会",
+          "text": "埃菲尔铁塔为一八八九年巴黎世界博览会建造。今天它已经成为熟悉的地标，但当时是一项需要设计、制造和安装的大工程。认识一座建筑的历史，可以从建造目的和年代开始，再寻找能直接显示施工过程的材料。"
+        },
+        {
+          "id": "fra-exhibition-1889-b2",
+          "title": "施工影像的线索",
+          "text": "有日期的施工照片能显示某个阶段已经安装了哪些部分，还有哪些尚未完成。图注中的日期和作品来源是判断的重要依据。今天的完整铁塔照片不能直接展示当年的施工阶段；概念插画也应说明是绘制材料，不能冒充现场记录。"
+        },
+        {
+          "id": "fra-exhibition-1889-b3",
+          "title": "许多人的劳动",
+          "text": "一座大型建筑背后有设计人员、工厂工人、现场工人和许多协作工作。只记住一个著名名字，会漏掉工程中的大量劳动。照片可以展示部分施工情景，但未必记录每个人的姓名与经历。进一步了解，需要施工档案、名册和研究资料。"
+        },
+        {
+          "id": "fra-exhibition-1889-b4",
+          "title": "博览会也有复杂背景",
+          "text": "博览会展示技术与商品，同时处于殖民扩张的时代，部分展示把殖民地及其居民放在不平等的框架中。不能把整个活动只说成没有争议的热闹庆典。看历史展览时，也要问谁拥有讲述权，以及谁被怎样呈现。"
+        },
+        {
+          "id": "fra-exhibition-1889-b5",
+          "title": "比较不同材料",
+          "text": "将施工影像、今天的照片和原创结构图放在一起，先分别写出材料类型。想看施工阶段，应选择有日期的施工影像；想认杆件形状，可以看近景和示意。把问题与证据配对，比用一张图片解释所有历史更严谨，也更容易发现资料缺口。",
+          "mediaId": "fra-m04"
+        }
+      ],
+      "term": "档案",
+      "definition": "保存下来、可用于查考过去活动的记录。",
+      "glossary": [
+        {
+          "term": "档案",
+          "definition": "保存下来、可用于查考过去活动的记录。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.toureiffel.paris/en/the-monument/universal-exhibition",
+        "https://www.histoire-immigration.fr/sites/default/files/musee-numerique/documents/ensdoc_figures_du_colonise.pdf"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-eiffel",
+      "exerciseId": "fra-p06"
+    },
+    {
+      "id": "fra-voting-change",
+      "countryId": "fra",
+      "sectionId": "history",
+      "title": "法律写下权利后，什么时候开始投票？",
+      "summary": "一九四四年的相关法规确立法国女性在与男性相同条件下享有选举与被选举权。读这条历史信息时，要区分法律写下的规定与后来实际参加选举的时刻。法规是制度变化的证据，但不能因此把所有历史问题都视为已经解决。",
+      "mediaId": "fra-m36",
+      "blocks": [
+        {
+          "id": "fra-voting-change-b1",
+          "title": "先看一九四四年",
+          "text": "一九四四年的相关法规确立法国女性在与男性相同条件下享有选举与被选举权。读这条历史信息时，要区分法律写下的规定与后来实际参加选举的时刻。法规是制度变化的证据，但不能因此把所有历史问题都视为已经解决。"
+        },
+        {
+          "id": "fra-voting-change-b2",
+          "title": "再看一九四五年",
+          "text": "一九四五年，法国女性开始在相关选举中实际投票。法律确立在前，参与选举在后，这两个年份表示不同事件。时间线把它们放在同一张卡片中，帮助理解联系，而不是说两件事发生在同一天，也不是所有地区情况都完全相同。"
+        },
+        {
+          "id": "fra-voting-change-b3",
+          "title": "两种材料回答不同问题",
+          "text": "法规文本适合查规定内容，选举档案与有说明的照片适合了解实际参与。如果没有核验到某张投票照片的身份与日期，就不能把它当成那次选举的证据。本页允许使用明确标注的原创时间关系卡，把史实与图像材料分开。"
+        },
+        {
+          "id": "fra-voting-change-b4",
+          "title": "改变经过长期争取",
+          "text": "权利的变化与长期社会行动、政治讨论和具体历史条件相关，不是凭空出现的一份礼物。认识参与者时，需要查看有来源的姓名与经历，不把不同年代的人混在一起。时间线只选择几个节点，并不表示中间没有其他重要事件。"
+        },
+        {
+          "id": "fra-voting-change-b5",
+          "title": "注意适用范围",
+          "text": "殖民体系中不同地区与人群的政治地位并不统一，不能把一项规定简单写成全球所有相关居民在同一时刻都获得同样实践条件。练习只要求区分法律确立和实际参与的先后。继续研究时，再查看具体地区、身份条件和选举种类。"
+        }
+      ],
+      "term": "选举",
+      "definition": "按一定规则通过投票选择代表或公职人员的过程。",
+      "glossary": [
+        {
+          "term": "选举",
+          "definition": "按一定规则通过投票选择代表或公职人员的过程。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.archives-nationales.culture.gouv.fr/evenements/ordonnance-instituant-le-droit-de-vote-des-femmes-1944",
+        "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "diagram": "fra-votes",
+      "exerciseId": "fra-c12"
+    },
+    {
+      "id": "fra-find-reunion",
+      "countryId": "fra",
+      "sectionId": "questions",
+      "title": "为什么地图要换一个范围？",
+      "summary": "在法国欧洲部分的地图中找不到留尼汪，并不表示它不存在，也不是地图一定坏了。这张图的范围只包含欧洲部分。先查看标题和当前地区，比反复放大同一张局部图更有效。不同问题需要选择不同的地图范围。",
+      "mediaId": "fra-m16",
+      "blocks": [
+        {
+          "id": "fra-find-reunion-b1",
+          "title": "欧洲图上找不到怎么办",
+          "text": "在法国欧洲部分的地图中找不到留尼汪，并不表示它不存在，也不是地图一定坏了。这张图的范围只包含欧洲部分。先查看标题和当前地区，比反复放大同一张局部图更有效。不同问题需要选择不同的地图范围。"
+        },
+        {
+          "id": "fra-find-reunion-b2",
+          "title": "先退回世界位置",
+          "text": "把目光移到世界位置图，找到非洲与印度洋，再看马达加斯加以东的留尼汪。世界图帮助认识相对位置，岛屿在这个尺度上很小，不适合查看内部地形。这里要先确定大范围，再进入局部，像读一本书先看目录再翻到页码。"
+        },
+        {
+          "id": "fra-find-reunion-b3",
+          "title": "选择印度洋地区",
+          "text": "地区入口把加勒比海、南美洲和印度洋的案例分别说明。留尼汪属于印度洋案例，不能因为名字陌生就随机选一个海域。文字选项与地图选择表达同样的位置关系，便于用不同方式操作。选择地区后，屏幕会显示对应的真实岛形。"
+        },
+        {
+          "id": "fra-find-reunion-b4",
+          "title": "进入留尼汪地图",
+          "text": "在岛屿图上，可以观察海岸轮廓，并寻找富尔奈斯火山的地点标记。岛面与地点图钉表示不同事物：前者是整个区域，后者是一个代表位置。练习要求先切换范围，再找到岛面，因此不能只点击任意图钉就当作完成。"
+        },
+        {
+          "id": "fra-find-reunion-b5",
+          "title": "每张图有自己的比例",
+          "text": "欧洲图与留尼汪图都可以铺满屏幕，但现实面积差别很大。它们使用各自的比例尺，不能拿屏幕上的同样长度当作同样距离，也不能跨两张插图量距离。选择范围后再看比例尺，是正确比较地图的一种习惯。"
+        }
+      ],
+      "term": "比例尺",
+      "definition": "地图距离与现实距离之间的比例关系。",
+      "glossary": [
+        {
+          "term": "比例尺",
+          "definition": "地图距离与现实距离之间的比例关系。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.insee.fr/fr/metadonnees/definition/c2316"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-fournaise",
+      "exerciseId": "fra-l06"
+    },
+    {
+      "id": "fra-seen-guessed",
+      "countryId": "fra",
+      "sectionId": "questions",
+      "title": "哪一句是看见，哪一句是猜想？",
+      "summary": "这次观察使用圣米歇尔山与海湾的照片。先确认地点、作者和拍摄信息，再看画面。图注可能告诉我们照片属于某个时间，但不会自动解释每个细节。把已注明的信息与自己观察到的内容分开，能让笔记的来源更加清楚。",
+      "mediaId": "fra-m07",
+      "blocks": [
+        {
+          "id": "fra-seen-guessed-b1",
+          "title": "先读图注",
+          "text": "这次观察使用圣米歇尔山与海湾的照片。先确认地点、作者和拍摄信息，再看画面。图注可能告诉我们照片属于某个时间，但不会自动解释每个细节。把已注明的信息与自己观察到的内容分开，能让笔记的来源更加清楚。"
+        },
+        {
+          "id": "fra-seen-guessed-b2",
+          "title": "一句直接看见的话",
+          "text": "可以描述建筑位于岩石高地、周围露出潮滩，或水面在画面的哪一部分。具体写什么，应以实际显示的照片为准。如果看不清，就用较宽泛但准确的描述。不要把画面外的桥、车辆或人物补进“我看见”一栏。"
+        },
+        {
+          "id": "fra-seen-guessed-b3",
+          "title": "一句需要验证的话",
+          "text": "“这里可能正在退潮”是一种解释，还需要拍摄时刻与潮汐资料验证；“画面中有一片露出的滩地”则是直接观察。猜想并非错误，只是证据还不充分。把它明确写成待验证的问题，比假装已经知道原因更有助于继续探索。"
+        },
+        {
+          "id": "fra-seen-guessed-b4",
+          "title": "想一想补什么证据",
+          "text": "要验证潮位变化，可以寻找同一地点、可比角度、有时间记录的影像或观测资料。要知道建筑年代，则需要历史来源。不同猜想需要不同证据，不能用一张图片万能地回答所有问题。先说清问题，才能知道下一步该找什么。"
+        },
+        {
+          "id": "fra-seen-guessed-b5",
+          "title": "保存自己的思考",
+          "text": "笔记有“我看见”“我猜想”“我还想知道”三个空白输入框，不会预填别人的答案。至少写下一项，就可以保存到本机。以后再次阅读时，可以补充或修改。学习不是一次把所有问题答完，而是让每次观察都留下可以继续查证的线索。"
+        }
+      ],
+      "term": "猜想",
+      "definition": "仍需证据检验的解释。",
+      "glossary": [
+        {
+          "term": "猜想",
+          "definition": "仍需证据检验的解释。"
+        }
+      ],
+      "sourceUrls": [
+        "https://refmar.shom.fr/faq"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-mont-saint-michel",
+      "activity": {
+        "id": "fra-o05",
+        "type": "open",
+        "title": "看见与猜想",
+        "prompt": "一条可见线索，一个待验证的猜想。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "fra-m07",
+          "fra-m09"
+        ],
+        "suggestedArticleIds": [
+          "fra-seen-guessed"
+        ]
+      }
+    },
+    {
+      "id": "fra-compare-shores",
+      "countryId": "fra",
+      "sectionId": "questions",
+      "title": "两处海岸，能只凭颜色判断吗？",
+      "summary": "一边是圣米歇尔山海湾的潮滩，另一边是留尼汪的火山地表与海岸案例。它们来自不同地点，不能当成同一地点的前后变化。先读每张照片的图注，确认取景范围，再比较能够直接看见的形状、纹理和水的位置。",
+      "mediaId": "fra-m17",
+      "blocks": [
+        {
+          "id": "fra-compare-shores-b1",
+          "title": "两处具体海岸",
+          "text": "一边是圣米歇尔山海湾的潮滩，另一边是留尼汪的火山地表与海岸案例。它们来自不同地点，不能当成同一地点的前后变化。先读每张照片的图注，确认取景范围，再比较能够直接看见的形状、纹理和水的位置。"
+        },
+        {
+          "id": "fra-compare-shores-b2",
+          "title": "潮滩的线索",
+          "text": "圣米歇尔海湾的照片可能显示较平展的滩地与水道。水位改变时，露出的范围也会变化。只看一张图，无法得知完整涨退潮过程；如果没有同视角对照，就不要把两张不同地点的照片拼成“潮水来了”的现场记录。",
+          "mediaId": "fra-m08"
+        },
+        {
+          "id": "fra-compare-shores-b3",
+          "title": "岩石的线索",
+          "text": "留尼汪的凝固熔岩可能有粗糙或褶皱纹理。照片能让我们观察表面，却不能单独确定岩石年龄、化学成分或全部形成过程。火山观测与地质资料补充了这些解释。把可见纹理和来源说明联系起来，比只说“这边颜色更黑”更有用。"
+        },
+        {
+          "id": "fra-compare-shores-b4",
+          "title": "颜色会受到光线影响",
+          "text": "阴天、晴天、太阳方向、湿润程度和相机处理都会改变画面颜色。两块同类材料也可能看起来深浅不同，所以不能只凭颜色判断地质差异。可以先比较边缘是否平滑、表面有没有条纹、水在哪里，再提出需要查资料的问题。"
+        },
+        {
+          "id": "fra-compare-shores-b5",
+          "title": "做一张比较笔记",
+          "text": "写下两处海岸的一项相同点和一项不同点，并说明依据是照片还是正文。把不确定的原因留在“我还想知道”里。开放观察没有唯一感受答案，但每句话都应对应材料。比较的目的，是学会提出更清楚的问题，而不是急着把所有差别解释完。"
+        }
+      ],
+      "term": "对照",
+      "definition": "把材料放在一起比较相同与不同之处。",
+      "glossary": [
+        {
+          "term": "对照",
+          "definition": "把材料放在一起比较相同与不同之处。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.ipgp.fr/observation/ovpf/"
+      ],
+      "readingMinutes": 4,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-10",
+      "reviewStatus": "sourceChecked",
+      "placeId": "fra-fournaise",
+      "activity": {
+        "id": "fra-o06",
+        "type": "open",
+        "title": "两处海岸",
+        "prompt": "除了颜色，比较形状、纹理和水的位置。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "fra-m08",
+          "fra-m17"
+        ],
+        "suggestedArticleIds": [
+          "fra-compare-shores"
+        ]
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "fra-seine-paris",
+      "countryId": "fra",
+      "name": "塞纳河 · 巴黎",
+      "category": "城市",
+      "latitude": 48.8584,
+      "longitude": 2.293,
+      "region": "欧洲部分 · 巴黎",
+      "summary": "沿河岸观察桥、步道与城市。",
+      "description": "这里以巴黎塞纳河岸为代表锚点。照片来自不同河段，摄影点不等于地图代表点。",
+      "observation": "先找水面，再找连接两岸的桥。",
+      "mediaIds": [
+        "fra-m01",
+        "fra-m02",
+        "fra-m03"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/600/",
+      "aliases": [
+        "Seine",
+        "Paris",
+        "巴黎",
+        "塞纳河"
+      ],
+      "articleIds": [
+        "fra-find-on-map",
+        "fra-capital-paris",
+        "fra-seine-city",
+        "fra-metro-transfer",
+        "fra-river-walk"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m01",
+          "x": 0.23,
+          "y": 0.38,
+          "label": "铁塔",
+          "explanation": "远处的铁塔位于河岸建筑之间。"
+        }
+      ]
+    },
+    {
+      "id": "fra-eiffel",
+      "countryId": "fra",
+      "name": "埃菲尔铁塔",
+      "category": "城市",
+      "latitude": 48.85826,
+      "longitude": 2.2945,
+      "region": "欧洲部分 · 巴黎",
+      "summary": "从杆件和施工档案认识地标。",
+      "description": "铁塔为1889年博览会建造。全貌、杆件近景与1888年施工档案，分别回答不同问题。",
+      "observation": "在近景里找三角构件。",
+      "mediaIds": [
+        "fra-m04",
+        "fra-m05",
+        "fra-m06"
+      ],
+      "sourceUrl": "https://www.toureiffel.paris/en/the-monument/universal-exhibition",
+      "aliases": [
+        "Eiffel Tower",
+        "Tour Eiffel",
+        "铁塔"
+      ],
+      "articleIds": [
+        "fra-eiffel-structure",
+        "fra-exhibition-1889"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m05",
+          "x": 0.55,
+          "y": 0.48,
+          "label": "交叉杆件",
+          "explanation": "斜向杆件组成开放构架。"
+        }
+      ]
+    },
+    {
+      "id": "fra-mont-saint-michel",
+      "countryId": "fra",
+      "name": "圣米歇尔山与海湾",
+      "category": "自然",
+      "latitude": 48.636,
+      "longitude": -1.5115,
+      "region": "欧洲部分 · 诺曼底海湾",
+      "summary": "岩岛与潮滩，随水位呈现不同关系。",
+      "description": "照片展示岩岛、建筑与潮滩；不同视角的照片不作为潮位定量对照。低潮与高潮关系见原创图解。",
+      "observation": "找岩岛，再看水与潮滩在哪里。",
+      "mediaIds": [
+        "fra-m07",
+        "fra-m08",
+        "fra-m09"
+      ],
+      "sourceUrl": "https://refmar.shom.fr/faq",
+      "aliases": [
+        "Mont Saint Michel",
+        "圣米歇尔"
+      ],
+      "articleIds": [
+        "fra-bay-tides",
+        "fra-seen-guessed"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m07",
+          "x": 0.45,
+          "y": 0.64,
+          "label": "岩石高地",
+          "explanation": "建筑下方可见岩石与植被。"
+        },
+        {
+          "mediaId": "fra-m07",
+          "x": 0.5,
+          "y": 0.91,
+          "label": "水道",
+          "explanation": "前方水道与滩地相接；单张照片不能判断涨退潮方向。"
+        }
+      ]
+    },
+    {
+      "id": "fra-mer-de-glace",
+      "countryId": "fra",
+      "name": "阿尔卑斯 · 冰海冰川",
+      "category": "自然",
+      "latitude": 45.932,
+      "longitude": 6.926,
+      "region": "欧洲部分 · 霞慕尼",
+      "summary": "冰、石屑与谷地共同留下线索。",
+      "description": "历史影像与当代照片视角不同，不能用它们直接计算退缩或流速。变化应依据同地点多次测量。",
+      "observation": "分辨冰与裸露岩石。",
+      "mediaIds": [
+        "fra-m10",
+        "fra-m11",
+        "fra-m12"
+      ],
+      "sourceUrl": "https://www.osug.fr/missions/observation/ocean-atmosphere-surfaces-continentales/glacioclim/",
+      "aliases": [
+        "Mer de Glace",
+        "Chamonix",
+        "阿尔卑斯",
+        "冰海"
+      ],
+      "articleIds": [
+        "fra-many-climates",
+        "fra-moving-glacier"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m11",
+          "x": 0.6,
+          "y": 0.54,
+          "label": "冰川谷地",
+          "explanation": "冰与石屑沿谷地延伸。"
+        }
+      ]
+    },
+    {
+      "id": "fra-camargue",
+      "countryId": "fra",
+      "name": "卡马格湿地",
+      "category": "自然",
+      "latitude": 43.504,
+      "longitude": 4.445,
+      "region": "欧洲部分 · 罗讷河口",
+      "summary": "在浅水与鸟类姿态中认识湿地。",
+      "description": "这是湿地公开景观的代表点，不标记巢穴。火烈鸟觅食解释结合鸟类资料，不单凭姿态猜测。",
+      "observation": "看看长腿、颈部和喙的位置。",
+      "mediaIds": [
+        "fra-m13",
+        "fra-m14",
+        "fra-m15"
+      ],
+      "sourceUrl": "https://www.parc-camargue.fr/oiseaux-camargue.html",
+      "aliases": [
+        "Camargue",
+        "火烈鸟"
+      ],
+      "articleIds": [
+        "fra-camargue-flamingo"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m14",
+          "x": 0.5,
+          "y": 0.72,
+          "label": "浅水",
+          "explanation": "鸟的腿部伸入浅水区域。"
+        }
+      ]
+    },
+    {
+      "id": "fra-fournaise",
+      "countryId": "fra",
+      "name": "留尼汪 · 富尔奈斯火山",
+      "category": "自然",
+      "latitude": -21.244,
+      "longitude": 55.708,
+      "region": "留尼汪 · 印度洋",
+      "summary": "火山地形与凝固熔岩的纹理。",
+      "description": "照片有各自日期；历史活动影像不代表当前状态。岩石年代、活动判断须查观测资料。",
+      "observation": "描述一种岩面纹理。",
+      "mediaIds": [
+        "fra-m16",
+        "fra-m17",
+        "fra-m18"
+      ],
+      "sourceUrl": "https://www.ipgp.fr/observation/ovpf/",
+      "aliases": [
+        "Piton de la Fournaise",
+        "Réunion",
+        "Reunion",
+        "留尼汪",
+        "富尔奈斯"
+      ],
+      "articleIds": [
+        "fra-europe-overseas",
+        "fra-island-voices",
+        "fra-reunion-volcano",
+        "fra-find-reunion",
+        "fra-compare-shores"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m17",
+          "x": 0.7,
+          "y": 0.43,
+          "label": "岩面褶皱",
+          "explanation": "凝固熔岩表面可见弯曲纹理。"
+        }
+      ]
+    },
+    {
+      "id": "fra-corte",
+      "countryId": "fra",
+      "name": "科西嘉 · 科尔特山地",
+      "category": "自然",
+      "latitude": 42.306,
+      "longitude": 9.15,
+      "region": "欧洲部分 · 科西嘉内陆",
+      "summary": "岛屿内部也有山地和谷地。",
+      "description": "锚点位于科尔特，周边山地照片来自不同视角。岛屿不仅有海岸，也有内陆环境。",
+      "observation": "沿山坡向谷地描一条线。",
+      "mediaIds": [
+        "fra-m19",
+        "fra-m20"
+      ],
+      "sourceUrl": "https://www.pnr.corsica/",
+      "aliases": [
+        "Corte",
+        "Corsica",
+        "Corse",
+        "科西嘉",
+        "科尔特"
+      ],
+      "articleIds": [
+        "fra-corsica-mountains"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m19",
+          "x": 0.5,
+          "y": 0.4,
+          "label": "山坡",
+          "explanation": "山体向两侧和谷地方向延伸。"
+        }
+      ]
+    },
+    {
+      "id": "fra-louvre",
+      "countryId": "fra",
+      "name": "卢浮宫",
+      "category": "城市",
+      "latitude": 48.8606,
+      "longitude": 2.3376,
+      "region": "欧洲部分 · 巴黎",
+      "summary": "从建筑走向藏品资料。",
+      "description": "外部庭院与内部建筑照片只是参观线索。学习藏品时，要另外核对名称、年代、材料及收藏来源。",
+      "observation": "区分建筑与展品资料。",
+      "mediaIds": [
+        "fra-m21",
+        "fra-m22"
+      ],
+      "sourceUrl": "https://collections.louvre.fr/",
+      "aliases": [
+        "Louvre",
+        "卢浮宫"
+      ],
+      "articleIds": [
+        "fra-light-painting",
+        "fra-museum-object"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m21",
+          "x": 0.52,
+          "y": 0.7,
+          "label": "庭院建筑",
+          "explanation": "庭院、金字塔与宫殿构成不同形状。"
+        }
+      ]
+    },
+    {
+      "id": "fra-lyon-market",
+      "countryId": "fra",
+      "name": "里昂 · 市场观察点",
+      "category": "城市",
+      "latitude": 45.762,
+      "longitude": 4.831,
+      "region": "欧洲部分 · 圣安托万河岸",
+      "summary": "观察摊位，再练习读标签。",
+      "description": "市场实拍与原创标签分开标注。练习标签不表示照片中某件商品的真实产地或现价。",
+      "observation": "名称、单位与产地分别在哪里？",
+      "mediaIds": [
+        "fra-m23",
+        "fra-m24"
+      ],
+      "sourceUrl": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/etiquetage-des-denrees-alimentaires-les-regles-connaitre",
+      "aliases": [
+        "Lyon",
+        "Saint Antoine",
+        "里昂",
+        "市场"
+      ],
+      "articleIds": [
+        "fra-market-labels",
+        "fra-cheese-label",
+        "fra-season-market"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m23",
+          "x": 0.35,
+          "y": 0.5,
+          "label": "市场摊位",
+          "explanation": "遮棚下有商品与通行空间。"
+        }
+      ]
+    },
+    {
+      "id": "fra-marseille-port",
+      "countryId": "fra",
+      "name": "马赛 · 老港公共区域",
+      "category": "城市",
+      "latitude": 43.2955,
+      "longitude": 5.374,
+      "region": "欧洲部分 · 地中海岸",
+      "summary": "水面、船与城市公共空间。",
+      "description": "港口照片是一处具体区域和一个时刻，无法概括所有居民的一天。",
+      "observation": "找一种直接看见的公共设施。",
+      "mediaIds": [
+        "fra-m25",
+        "fra-m26"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/600/",
+      "aliases": [
+        "Marseille",
+        "Vieux Port",
+        "马赛",
+        "老港"
+      ],
+      "articleIds": [
+        "fra-neighborhood"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m26",
+          "x": 0.5,
+          "y": 0.6,
+          "label": "港口水面",
+          "explanation": "水面与岸边公共空间相接。"
+        }
+      ]
+    },
+    {
+      "id": "fra-loire-amboise",
+      "countryId": "fra",
+      "name": "卢瓦尔河 · 昂布瓦斯",
+      "category": "城市",
+      "latitude": 47.414,
+      "longitude": 0.985,
+      "region": "欧洲部分 · 卢瓦尔河畔",
+      "summary": "河流、城堡与聚落的位置关系。",
+      "description": "代表点位于昂布瓦斯河岸附近。建筑年代需查具体资料，不能由照片颜色推断。",
+      "observation": "从河面向城堡描出视线。",
+      "mediaIds": [
+        "fra-m27",
+        "fra-m28"
+      ],
+      "sourceUrl": "https://www.chateau-amboise.com/",
+      "aliases": [
+        "Loire",
+        "Amboise",
+        "昂布瓦斯",
+        "卢瓦尔"
+      ],
+      "articleIds": [
+        "fra-loire-place"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m27",
+          "x": 0.4,
+          "y": 0.4,
+          "label": "河流",
+          "explanation": "河道延伸向远方，桥连接两岸。"
+        }
+      ]
+    },
+    {
+      "id": "fra-strasbourg",
+      "countryId": "fra",
+      "name": "斯特拉斯堡",
+      "category": "城市",
+      "latitude": 48.581,
+      "longitude": 7.744,
+      "region": "欧洲部分 · 阿尔萨斯",
+      "summary": "用地名认识语言与位置。",
+      "description": "名称卡是原创语言练习，法语 Strasbourg 与德语 Straßburg 指同一城市；德语不等于阿尔萨斯语。",
+      "observation": "先读语言标签，再核对地点。",
+      "mediaIds": [
+        "fra-m29",
+        "fra-m30"
+      ],
+      "sourceUrl": "https://www.visitstrasbourg.fr/de/",
+      "aliases": [
+        "Strasbourg",
+        "Straßburg",
+        "斯特拉斯堡"
+      ],
+      "articleIds": [
+        "fra-place-names"
+      ],
+      "coordinateSource": "WGS84 公共地点代表锚点；Natural Earth 与公开地点资料交叉定位；不等同摄影点",
+      "hotspots": [
+        {
+          "mediaId": "fra-m29",
+          "x": 0.5,
+          "y": 0.75,
+          "label": "水道",
+          "explanation": "水道穿过建筑之间。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "fra-l01",
+      "countryId": "fra",
+      "articleId": "fra-find-on-map",
+      "type": "location",
+      "question": "在世界地图找到法国欧洲部分。",
+      "hint": "再读「先找欧洲」，寻找对应的证据。",
+      "explanation": "把世界地图缩小，先辨认欧洲，再看它的西部。法国的欧洲大陆部分在这里，西边临大西洋，南边临地中海。地图上的国家形状是认识位置的线索，不能只记住一枚图钉。把海岸线和周围国家一起看，比单独背诵方向更容易找到它。",
+      "options": [
+        {
+          "id": "fra",
+          "text": "法国"
+        },
+        {
+          "id": "egypt",
+          "text": "埃及"
+        },
+        {
+          "id": "usa",
+          "text": "美国"
+        }
+      ],
+      "answerId": "fra",
+      "evidenceBlockIds": [
+        "fra-find-on-map-b1",
+        "fra-find-on-map-b2",
+        "fra-find-on-map-b3"
+      ],
+      "mapScope": "world"
+    },
+    {
+      "id": "fra-c01",
+      "countryId": "fra",
+      "articleId": "fra-europe-overseas",
+      "type": "choice",
+      "question": "只看欧洲部分的地图，能看到法国全部地区吗？",
+      "hint": "再读「散布在不同地方」，寻找对应的证据。",
+      "explanation": "瓜德罗普和马提尼克在加勒比海，法属圭亚那在南美洲，留尼汪和马约特在印度洋。这些地区与欧洲部分相隔很远。因此，想了解法国的地理，不能把全部注意力都放在巴黎周围，还要把目光移到世界地图的其他地方。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "不能，还有欧洲以外的地区"
+        },
+        {
+          "id": "option-2",
+          "text": "能，所有地区都在巴黎附近"
+        },
+        {
+          "id": "option-3",
+          "text": "能，海洋以外没有地区"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-europe-overseas-b2",
+        "fra-europe-overseas-b3",
+        "fra-europe-overseas-b4",
+        "fra-europe-overseas-b5"
+      ]
+    },
+    {
+      "id": "fra-l02",
+      "countryId": "fra",
+      "articleId": "fra-capital-paris",
+      "type": "location",
+      "question": "在地图上找到巴黎。",
+      "hint": "再读「首都是什么意思」，寻找对应的证据。",
+      "explanation": "巴黎是法国的首都，国家的许多中央机构在这里。首都是一座城市的角色，不是说全国每个人都住在那里，也不表示全国只有这一座重要城市。了解国家时，先找到首都，再看看其他城市和乡村，才能逐渐认识不同地方。",
+      "options": [
+        {
+          "id": "fra-lyon-market",
+          "text": "里昂"
+        },
+        {
+          "id": "fra-marseille-port",
+          "text": "马赛"
+        },
+        {
+          "id": "fra-seine-paris",
+          "text": "巴黎"
+        }
+      ],
+      "answerId": "fra-seine-paris",
+      "evidenceBlockIds": [
+        "fra-capital-paris-b1",
+        "fra-capital-paris-b2"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "fra-c02",
+      "countryId": "fra",
+      "articleId": "fra-seine-city",
+      "type": "choice",
+      "question": "图中的桥主要连接什么？",
+      "hint": "再读「桥连接两岸」，寻找对应的证据。",
+      "explanation": "桥的一端在一侧河岸，另一端到达另一侧，人们可以通过桥跨越河流。有的桥还连接河中岛屿。先在照片中找桥面，再顺着桥面找两端，就能看懂它连接了什么。桥不是把两个河口连接起来，也不是水流的终点。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "两片天空"
+        },
+        {
+          "id": "option-3",
+          "text": "两个河口"
+        },
+        {
+          "id": "option-1",
+          "text": "河流两岸"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-seine-city-b3"
+      ],
+      "diagram": "fra-river-city"
+    },
+    {
+      "id": "fra-p01",
+      "countryId": "fra",
+      "articleId": "fra-bay-tides",
+      "type": "observation",
+      "question": "哪种对照更可靠？",
+      "hint": "再读「同一座岩岛」，寻找对应的证据。",
+      "explanation": "圣米歇尔山坐落在海湾中的岩石高地上，建筑沿着坡面向上排列。照片里，岩岛周围可能露出大片潮滩，也可能被较多海水环绕。看见不同照片时，先核对地点和方向，不要立刻认定岩岛搬了位置或海水永久消失了。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "同一地点、可比视角的不同潮位"
+        },
+        {
+          "id": "option-2",
+          "text": "两个地点的不同天气"
+        },
+        {
+          "id": "option-3",
+          "text": "不同海岸的不同光线"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-bay-tides-b1",
+        "fra-bay-tides-b2",
+        "fra-bay-tides-b5"
+      ],
+      "mediaId": "fra-m07",
+      "diagram": "fra-tides"
+    },
+    {
+      "id": "fra-c03",
+      "countryId": "fra",
+      "articleId": "fra-many-climates",
+      "type": "choice",
+      "question": "比较两地气候，应选择什么材料？",
+      "hint": "再读「需要多年记录」，寻找对应的证据。",
+      "explanation": "研究气候，要把多年观测整理起来，比较季节与长期规律。为了公平，比较两个地方时应使用同一参考时期和相同指标。一个地方的多年平均值，与另一个地方今天的温度不是同一类信息，直接放在一起容易得到错误结论。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "一次天气预报"
+        },
+        {
+          "id": "option-1",
+          "text": "同一时期的多年记录"
+        },
+        {
+          "id": "option-2",
+          "text": "今天的一张照片"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-many-climates-b2",
+        "fra-many-climates-b5"
+      ]
+    },
+    {
+      "id": "fra-p02",
+      "countryId": "fra",
+      "articleId": "fra-place-names",
+      "type": "observation",
+      "question": "名称卡中的语言标签说明什么？",
+      "hint": "再读「看清语言标签」，寻找对应的证据。",
+      "explanation": "本页的原创名称卡并列显示 Strasbourg（法语）和 Straßburg（德语）。它们指向同一座城市，卡片明确标注语言，而不是假装一块现场路牌。德语名称不等同于阿尔萨斯语名称；当地语言另有自己的用法，不能把几种语言混称。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "两个不同国家的名字"
+        },
+        {
+          "id": "option-3",
+          "text": "两个人的身份"
+        },
+        {
+          "id": "option-1",
+          "text": "同一地点的不同语言名称"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-place-names-b2",
+        "fra-place-names-b3"
+      ],
+      "mediaId": "fra-m30",
+      "diagram": "fra-names"
+    },
+    {
+      "id": "fra-l03",
+      "countryId": "fra",
+      "articleId": "fra-island-voices",
+      "type": "location",
+      "question": "留尼汪位于哪个海洋区域？",
+      "hint": "再读「先找到印度洋」，寻找对应的证据。",
+      "explanation": "留尼汪位于印度洋，在马达加斯加以东。打开世界位置图，可以看见它与欧洲相隔很远；再切换地区图，才能清楚看见岛屿轮廓。这里的居民生活在一座有高山、海岸和城镇的岛上，不是住在地图上一个没有细节的圆点里。",
+      "options": [
+        {
+          "id": "fra-ocean-pacific",
+          "text": "太平洋"
+        },
+        {
+          "id": "fra-ocean-indian",
+          "text": "印度洋"
+        },
+        {
+          "id": "fra-ocean-atlantic",
+          "text": "大西洋"
+        }
+      ],
+      "answerId": "fra-ocean-indian",
+      "evidenceBlockIds": [
+        "fra-island-voices-b1"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "fra-c04",
+      "countryId": "fra",
+      "articleId": "fra-metro-transfer",
+      "type": "choice",
+      "question": "虚构线路在哪里换乘？",
+      "hint": "再读「两条练习线路」，寻找对应的证据。",
+      "explanation": "本页使用原创的虚构线路：蓝线连接甲站与乙站，橙线连接乙站与丙站。它们并不是巴黎真实运营线路，没有票价和时刻信息。把复杂交通暂时简化为三个站，可以专心练习理解“连接”和“换乘”这两个关系。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "两条线共同的乙站"
+        },
+        {
+          "id": "option-2",
+          "text": "只有蓝线的甲站"
+        },
+        {
+          "id": "option-3",
+          "text": "只有橙线的丙站"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-metro-transfer-b2",
+        "fra-metro-transfer-b3"
+      ],
+      "diagram": "fra-transfer"
+    },
+    {
+      "id": "fra-p03",
+      "countryId": "fra",
+      "articleId": "fra-market-labels",
+      "type": "observation",
+      "question": "练习标签中哪个字段说明产地？",
+      "hint": "再读「把字段分开」，寻找对应的证据。",
+      "explanation": "练习标签写着“①名称：苹果”“②单位：千克”“③产地：法国”。名称回答这是什么，单位告诉我们怎样计量，产地说明标签所声明的来源。编号只是帮助找位置，不是商品等级。读标签时，不能只看最醒目的一个数字就跳过其他文字。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "②单位：千克"
+        },
+        {
+          "id": "option-1",
+          "text": "③产地：法国"
+        },
+        {
+          "id": "option-2",
+          "text": "①名称：苹果"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-market-labels-b2",
+        "fra-market-labels-b3"
+      ],
+      "mediaId": "fra-m24",
+      "diagram": "fra-market"
+    },
+    {
+      "id": "fra-c05",
+      "countryId": "fra",
+      "articleId": "fra-baguette",
+      "type": "choice",
+      "question": "发酵中什么帮助面团膨起？",
+      "hint": "再读「发酵时发生什么」，寻找对应的证据。",
+      "explanation": "面团中的酵母利用可供它使用的糖，产生包括二氧化碳在内的物质。二氧化碳是一种气体，参与面团膨起的过程。它不是揉面时藏进去的小石头，也不是面粉自动长大。图解把气泡画得很明显，真实气泡并没有统一尺寸。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "藏进去的小石头"
+        },
+        {
+          "id": "option-3",
+          "text": "面粉变成金属"
+        },
+        {
+          "id": "option-1",
+          "text": "产生的气体"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-baguette-b2",
+        "fra-baguette-b3"
+      ],
+      "diagram": "fra-fermentation"
+    },
+    {
+      "id": "fra-c06",
+      "countryId": "fra",
+      "articleId": "fra-cheese-label",
+      "type": "choice",
+      "question": "判断奶酪原料应该看什么？",
+      "hint": "再读「原料要看说明」，寻找对应的证据。",
+      "explanation": "判断奶酪使用牛奶、羊奶或其他原料，可靠方法是查看配料与产品资料。这里的原创练习卡写“原料：牛奶”，只是学习读字段，不冒充照片中每件商品的真实标签。照片无法辨认的文字应保持未知，而不是根据外形补写。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "包装的形状"
+        },
+        {
+          "id": "option-1",
+          "text": "配料说明与产品资料"
+        },
+        {
+          "id": "option-2",
+          "text": "表面的颜色"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-cheese-label-b2",
+        "fra-cheese-label-b4"
+      ],
+      "diagram": "fra-cheese"
+    },
+    {
+      "id": "fra-c07",
+      "countryId": "fra",
+      "articleId": "fra-museum-object",
+      "type": "choice",
+      "question": "想了解展品材料与年代，应先看哪里？",
+      "hint": "再读「先找说明牌」，寻找对应的证据。",
+      "explanation": "在博物馆里，展品旁常有说明牌，介绍名称、年代、材料或作者等信息。卢浮宫的建筑很著名，但认识藏品不能只停在建筑外观。进入一件作品的故事之前，先确认自己看的是哪一件，避免把旁边另一件展品的资料套过来。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "说明牌与藏品资料"
+        },
+        {
+          "id": "option-2",
+          "text": "游客排队长度"
+        },
+        {
+          "id": "option-3",
+          "text": "展厅窗户大小"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-museum-object-b1",
+        "fra-museum-object-b2"
+      ]
+    },
+    {
+      "id": "fra-p04",
+      "countryId": "fra",
+      "articleId": "fra-street-music",
+      "type": "observation",
+      "question": "哪组回应与四拍示范相同？",
+      "hint": "再读「一起感受拍子」，寻找对应的证据。",
+      "explanation": "多人演奏时，共同的拍子可以帮助他们把动作和声音组织起来。拍子像有规律的时间格子，但音乐并不只有一种速度或节奏。这里先用最简单的四拍练习：一、二、三、四，每一拍之间间隔相同，不需要学习复杂乐谱。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "1—2—3—4，每拍等间隔"
+        },
+        {
+          "id": "option-2",
+          "text": "1—2，只有两拍"
+        },
+        {
+          "id": "option-3",
+          "text": "1—2——3—4，间隔不同"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-street-music-b2",
+        "fra-street-music-b3",
+        "fra-street-music-b4"
+      ],
+      "mediaId": "fra-m34",
+      "diagram": "fra-rhythm"
+    },
+    {
+      "id": "fra-c08",
+      "countryId": "fra",
+      "articleId": "fra-eiffel-structure",
+      "type": "choice",
+      "question": "结构示意中哪种形状反复出现？",
+      "hint": "再读「空格中的杆件」，寻找对应的证据。",
+      "explanation": "铁塔不是一整块实心金属。许多杆件连接起来，形成开放的结构，杆件之间留有空隙。近景里可以看到斜向与横向构件相互交叉。把目光放在连接关系上，比把所有暗色部分看成同一片墙更容易理解它的组成。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "圆形"
+        },
+        {
+          "id": "option-3",
+          "text": "五角星"
+        },
+        {
+          "id": "option-1",
+          "text": "三角形"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-eiffel-structure-b2",
+        "fra-eiffel-structure-b3"
+      ],
+      "diagram": "fra-triangles"
+    },
+    {
+      "id": "fra-l04",
+      "countryId": "fra",
+      "articleId": "fra-loire-place",
+      "type": "location",
+      "question": "在地图上找到昂布瓦斯。",
+      "hint": "再读「先找到昂布瓦斯」，寻找对应的证据。",
+      "explanation": "昂布瓦斯位于法国欧洲部分的卢瓦尔河畔。地图上的地点标记选择河岸附近的一处代表位置，并不代表整座城镇的边界。先找到卢瓦尔河，再寻找昂布瓦斯，比只根据一张城堡照片猜位置更可靠，也能认识它与河流的联系。",
+      "options": [
+        {
+          "id": "fra-loire-amboise",
+          "text": "昂布瓦斯"
+        },
+        {
+          "id": "fra-corte",
+          "text": "科尔特"
+        },
+        {
+          "id": "fra-mont-saint-michel",
+          "text": "圣米歇尔山"
+        }
+      ],
+      "answerId": "fra-loire-amboise",
+      "evidenceBlockIds": [
+        "fra-loire-place-b1",
+        "fra-loire-place-b5"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "fra-l05",
+      "countryId": "fra",
+      "articleId": "fra-corsica-mountains",
+      "type": "location",
+      "question": "哪一块真实岛面是科西嘉？",
+      "hint": "再读「地中海里的岛」，寻找对应的证据。",
+      "explanation": "科西嘉位于地中海，是法国欧洲部分的一座岛。它与欧洲大陆之间隔着海水，地图上应画出真实岛形，而不是用一个圆点代替整座岛。定位时先看大陆，再向东南寻找，注意不要把附近其他岛屿误当成科西嘉。",
+      "options": [
+        {
+          "id": "fra-part-corsica",
+          "text": "科西嘉"
+        },
+        {
+          "id": "fra-part-metropole",
+          "text": "欧洲大陆部分"
+        }
+      ],
+      "answerId": "fra-part-corsica",
+      "evidenceBlockIds": [
+        "fra-corsica-mountains-b1",
+        "fra-corsica-mountains-b5"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "fra-c09",
+      "countryId": "fra",
+      "articleId": "fra-moving-glacier",
+      "type": "choice",
+      "question": "研究冰川变化应看什么？",
+      "hint": "再读「末端变化不等于倒流」，寻找对应的证据。",
+      "explanation": "冰川末端的位置受到积累、消融和冰的流动等共同影响。末端后退，并不意味着整条冰川正在向山顶倒着流。图解把流动方向与末端变化区分开。理解这两个不同概念，能够避免把新闻里“退缩”的说法想成冰块整体向后滑。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "今天游客穿什么"
+        },
+        {
+          "id": "option-1",
+          "text": "同地点多次测量"
+        },
+        {
+          "id": "option-2",
+          "text": "一张没有日期的照片"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-moving-glacier-b4",
+        "fra-moving-glacier-b5"
+      ],
+      "diagram": "fra-glacier"
+    },
+    {
+      "id": "fra-c10",
+      "countryId": "fra",
+      "articleId": "fra-camargue-flamingo",
+      "type": "choice",
+      "question": "火烈鸟在浅水中常进行哪种活动？",
+      "hint": "再读「浅水里寻找食物」，寻找对应的证据。",
+      "explanation": "火烈鸟会在浅水中觅食，利用喙的结构过滤水中的小生物等食物。它们低头把喙放到水里，并不一定是在照镜子。关于行为的解释来自鸟类研究，照片帮助观察姿态；两种材料结合，才比只看一个动作更可靠。",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "寻找食物"
+        },
+        {
+          "id": "option-2",
+          "text": "种植树木"
+        },
+        {
+          "id": "option-3",
+          "text": "建造桥梁"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-camargue-flamingo-b2",
+        "fra-camargue-flamingo-b3"
+      ]
+    },
+    {
+      "id": "fra-p05",
+      "countryId": "fra",
+      "articleId": "fra-reunion-volcano",
+      "type": "observation",
+      "question": "哪个编号指向凝固熔岩表面的褶皱纹理？",
+      "hint": "再读「从地下到地表」，寻找对应的证据。",
+      "explanation": "地下的熔融岩石称为岩浆，到达地表后通常称为熔岩。熔岩流动、失去热量并凝固，可以形成新的岩石。原创过程图把这些关系分开画，真实火山活动则复杂得多，不是所有火山都以同样方式喷发，也不是每天都有熔岩流出。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "上方天空",
+          "x": 0.75,
+          "y": 0.05
+        },
+        {
+          "id": "option-3",
+          "text": "左侧树木",
+          "x": 0.18,
+          "y": 0.22
+        },
+        {
+          "id": "option-1",
+          "text": "岩面上的褶皱纹理",
+          "x": 0.7,
+          "y": 0.43
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-reunion-volcano-b2",
+        "fra-reunion-volcano-b3"
+      ],
+      "mediaId": "fra-m17",
+      "diagram": "fra-volcano",
+      "mediaIds": [
+        "fra-m17"
+      ]
+    },
+    {
+      "id": "fra-c11",
+      "countryId": "fra",
+      "articleId": "fra-rights-document",
+      "type": "choice",
+      "question": "一份宣言能证明当时人人已实际享有平等权利吗？",
+      "hint": "再读「当时并非人人平等参与」，寻找对应的证据。",
+      "explanation": "女性等群体并没有因此立即获得与男性相同的全部政治权利。判断谁可以参与政治，要看当时具体规定与实践，而不能把后来取得的权利倒放回过去。历史学习需要保留时间顺序，也要注意那些没有被充分包含的人。",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "能，文件出现就全部实现"
+        },
+        {
+          "id": "option-3",
+          "text": "能，不必了解任何背景"
+        },
+        {
+          "id": "option-1",
+          "text": "不能，还要查规定与现实"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-rights-document-b3",
+        "fra-rights-document-b4",
+        "fra-rights-document-b5"
+      ]
+    },
+    {
+      "id": "fra-p06",
+      "countryId": "fra",
+      "articleId": "fra-exhibition-1889",
+      "type": "observation",
+      "question": "哪件材料直接显示施工阶段？",
+      "hint": "再读「施工影像的线索」，寻找对应的证据。",
+      "explanation": "有日期的施工照片能显示某个阶段已经安装了哪些部分，还有哪些尚未完成。图注中的日期和作品来源是判断的重要依据。今天的完整铁塔照片不能直接展示当年的施工阶段；概念插画也应说明是绘制材料，不能冒充现场记录。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "原创结构示意图"
+        },
+        {
+          "id": "option-1",
+          "text": "有日期和来源的施工照片"
+        },
+        {
+          "id": "option-2",
+          "text": "今天完整的铁塔照片"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-exhibition-1889-b2",
+        "fra-exhibition-1889-b5"
+      ],
+      "mediaId": "fra-m06",
+      "mediaIds": [
+        "fra-m06",
+        "fra-m04"
+      ],
+      "diagram": "fra-triangles"
+    },
+    {
+      "id": "fra-c12",
+      "countryId": "fra",
+      "articleId": "fra-voting-change",
+      "type": "choice",
+      "question": "1944法规与1945选举说明什么？",
+      "hint": "再读「先看一九四四年」，寻找对应的证据。",
+      "explanation": "一九四四年的相关法规确立法国女性在与男性相同条件下享有选举与被选举权。读这条历史信息时，要区分法律写下的规定与后来实际参加选举的时刻。法规是制度变化的证据，但不能因此把所有历史问题都视为已经解决。",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "法规只是天气记录"
+        },
+        {
+          "id": "option-1",
+          "text": "法律确立与实际参与有先后"
+        },
+        {
+          "id": "option-2",
+          "text": "两件事发生在同一天"
+        }
+      ],
+      "answerId": "option-1",
+      "evidenceBlockIds": [
+        "fra-voting-change-b1",
+        "fra-voting-change-b2",
+        "fra-voting-change-b3"
+      ],
+      "diagram": "fra-votes"
+    },
+    {
+      "id": "fra-l06",
+      "countryId": "fra",
+      "articleId": "fra-find-reunion",
+      "type": "location",
+      "question": "选择正确地区，再找到留尼汪岛面。",
+      "hint": "再读「先退回世界位置」，寻找对应的证据。",
+      "explanation": "把目光移到世界位置图，找到非洲与印度洋，再看马达加斯加以东的留尼汪。世界图帮助认识相对位置，岛屿在这个尺度上很小，不适合查看内部地形。这里要先确定大范围，再进入局部，像读一本书先看目录再翻到页码。",
+      "options": [
+        {
+          "id": "fra-part-guiana",
+          "text": "法属圭亚那"
+        },
+        {
+          "id": "fra-part-reunion",
+          "text": "留尼汪"
+        },
+        {
+          "id": "fra-part-martinique",
+          "text": "马提尼克"
+        }
+      ],
+      "answerId": "fra-part-reunion",
+      "evidenceBlockIds": [
+        "fra-find-reunion-b2",
+        "fra-find-reunion-b3",
+        "fra-find-reunion-b4"
+      ],
+      "mapScope": "country"
+    }
+  ]
+}

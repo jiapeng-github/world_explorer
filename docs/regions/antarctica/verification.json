@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "type": "design-artifact-validation",
+  "status": "passed",
+  "counts": {
+    "boards": 8,
+    "coreStates": 16,
+    "sections": 8,
+    "articlesPlanned": 24,
+    "placesPlanned": 12,
+    "closedTasksPlanned": 18,
+    "openObservationsPlanned": 6,
+    "journeysPlanned": 3,
+    "diagramsPlanned": 8
+  },
+  "checks": [
+    "JSON and stable ID references",
+    "section membership and task counts",
+    "planned evidence block references",
+    "source IDs",
+    "selected image signatures, dimensions, SHA256",
+    "gallery local links and 8 images",
+    "documentation local links",
+    "visual inspection of all selected images"
+  ],
+  "limits": [
+    "Concept images only; scientific geometry, actual photos and full article editing remain implementation work",
+    "No Flutter/App tests run for documentation-only change",
+    "Gallery checked statically; local preview server unavailable in restricted sandbox"
+  ]
+}

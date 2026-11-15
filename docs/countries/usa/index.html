@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>从大峡谷出发 · 美国模块原稿</title>
+<style>
+:root {
+  color-scheme: light; --paper:#f4f7fb; --white:#fff; --ink:#12243a;
+  --navy:#12395b; --muted:#53677d; --line:#dde5ee; --orange:#ff9a3d;
+}
+* { box-sizing:border-box; }
+body { margin:0; color:var(--ink); background:var(--paper); font:16px/1.65 system-ui,"PingFang SC","Microsoft YaHei",sans-serif; }
+main { width:min(1180px,100%); margin:auto; padding:24px clamp(14px,4vw,36px) 54px; }
+h1,h2,h3,p,figure { margin:0; }
+a { color:var(--navy); }
+a:focus-visible,button:focus-visible { outline:3px solid #265f91; outline-offset:3px; }
+.eyebrow { font-size:14px; font-weight:750; color:var(--navy); letter-spacing:.06em; }
+.top { padding:26px clamp(18px,4vw,36px); border:1px solid var(--line); border-top:5px solid var(--orange); border-radius:20px; background:var(--white); }
+h1 { font-size:clamp(29px,5vw,48px); line-height:1.18; margin:7px 0 10px; }
+.intro { color:var(--muted); max-width:58ch; }
+.links,.jumps { display:flex; gap:9px; flex-wrap:wrap; }
+.links { margin-top:18px; }
+.links a,.jumps a,.toolbar a,.toolbar button { display:inline-flex; align-items:center; justify-content:center; padding:7px 13px; min-height:44px; border:1px solid var(--line); border-radius:11px; text-decoration:none; background:var(--white); color:var(--navy); font-weight:700; }
+.links .primary { color:var(--ink); background:var(--orange); border-color:var(--orange); }
+.jumps { margin:20px 0 18px; }
+.jumps a { background:#e9f0f8; font-size:14px; }
+h2 { margin:14px 0 14px; font-size:23px; }
+.boards { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }
+article { min-width:0; border-radius:16px; background:var(--white); border:1px solid var(--line); overflow:hidden; scroll-margin-top:14px; }
+.open-board { display:block; text-decoration:none; }
+.open-board:focus-visible { outline-offset:-4px; }
+.open-board img { display:block; width:100%; height:auto; aspect-ratio:1.26; object-fit:contain; background:#e7f0f7; }
+article:first-child img { aspect-ratio:1.06; }
+.caption { padding:13px 16px 15px; }
+.tag { color:var(--muted); font-size:13px; font-weight:750; }
+h3 { margin-top:4px; font-size:20px; line-height:1.35; }
+.caption p { color:var(--muted); margin-top:5px; font-size:14px; }
+footer { color:var(--muted); margin-top:23px; font-size:14px; }
+dialog { margin:auto; padding:0; border:1px solid var(--line); border-radius:15px; width:min(1100px,calc(100vw - 18px)); max-height:calc(100dvh - 18px); background:var(--white); color:var(--ink); }
+dialog::backdrop { background:rgba(18,36,58,.76); }
+.toolbar { display:flex; flex-wrap:wrap; gap:8px; align-items:center; justify-content:space-between; padding:8px 12px; border-bottom:1px solid var(--line); }
+.toolbar strong { flex:1 1 200px; }
+.controls { display:flex; flex-wrap:wrap; gap:7px; }
+.toolbar button { cursor:pointer; font:inherit; font-weight:700; min-height:44px; }
+.toolbar button:disabled { opacity:.55; cursor:default; }
+.viewer { display:flex; justify-content:center; align-items:center; background:#e8f0f7; }
+.viewer img { display:block; max-width:100%; max-height:calc(100dvh - 132px); object-fit:contain; }
+@media(max-width:700px) { .boards { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<main>
+<header class="top">
+  <div class="eyebrow">世界大百科 · 国家模块设计</div>
+  <h1>美国 · 从大峡谷出发</h1>
+  <p class="intro">先从岩层和谷底的河道找线索，再去看山河、城市和历史。7 张原稿覆盖手机和平板上的 14 个页面和状态。</p>
+  <nav class="links" aria-label="项目资料">
+    <a class="primary" href="#boards">看界面原稿</a>
+    <a href="DESIGN.md">详细设计</a>
+    <a href="CONTENT_PLAN.md">内容清单</a>
+    <a href="VISUAL_HANDOFF.md">视觉交接</a>
+    <a href="https://stitch.withgoogle.com/projects/18384215030197606402">Stitch 结构稿</a>
+  </nav>
+</header>
+<nav class="jumps" aria-label="跳到指定原稿">
+  <a href="#overview">概览与目录</a><a href="#map">探索地图</a><a href="#geography">大峡谷</a><a href="#culture">历史与爵士乐</a><a href="#nature">日常与黄石</a><a href="#tasks">任务与发现</a><a href="#journey">路线与观察</a>
+</nav>
+<h2 id="boards">界面原稿</h2>
+<section class="boards" aria-label="七张美国模块原稿">
+  <article id="overview"><a class="open-board" href="images/01-usa-overview.png"><figure>
+    <img src="images/01-usa-overview.png" alt="美国概览和探索目录，首图为大峡谷，右侧列出十栏目。">
+    <figcaption class="caption"><span class="tag">US01–02 · 两个手机页</span><h3>美国概览与十栏目目录</h3><p>三条探索路线和两个孩子可以先回答的问题。</p></figcaption>
+  </figure></a></article>
+  <article id="map"><a class="open-board" href="images/02-usa-map.png"><figure>
+    <img src="images/02-usa-map.png" alt="美国区域地图概念，平板右侧详情、手机半高面板，显示阿拉斯加和夏威夷的独立插图。" loading="lazy">
+    <figcaption class="caption"><span class="tag">US03–04 · 平板与手机</span><h3>美国探索地图</h3><p>三个地图视图，大峡谷选点及跨页面的定位入口。</p></figcaption>
+  </figure></a></article>
+  <article id="geography"><a class="open-board" href="images/03-usa-geography.png"><figure>
+    <img src="images/03-usa-geography.png" alt="左侧大峡谷侵蚀示意和读图题，右侧为编号照片热点与文字线索。" loading="lazy">
+    <figcaption class="caption"><span class="tag">US05–06 · 两个手机页</span><h3>读大峡谷，看照片找证据</h3><p>在剖面和照片里分别找谷底河道与岩层条带。</p></figcaption>
+  </figure></a></article>
+  <article id="culture"><a class="open-board" href="images/04-usa-history-culture.png"><figure>
+    <img src="images/04-usa-history-culture.png" alt="美国历史线索和爵士乐阅读，含年代卡与乐句回应示意。" loading="lazy">
+    <figcaption class="caption"><span class="tag">US07–08 · 两个手机页</span><h3>历史线索与爵士乐</h3><p>独立的原住民族阅读入口，以及可用图形读懂的节奏问答。</p></figcaption>
+  </figure></a></article>
+  <article id="nature"><a class="open-board" href="images/05-usa-daily-nature.png"><figure>
+    <img src="images/05-usa-daily-nature.png" alt="左侧纽约的地铁、市场和街区，右侧黄石间歇泉阅读及地下水示意。" loading="lazy">
+    <figcaption class="caption"><span class="tag">US09–10 · 两个手机页</span><h3>城市日常与黄石间歇泉</h3><p>从一段通勤和一次间歇泉喷发开始。</p></figcaption>
+  </figure></a></article>
+  <article id="tasks"><a class="open-board" href="images/06-usa-explore-discoveries.png"><figure>
+    <img src="images/06-usa-explore-discoveries.png" alt="探索任务列表和我的美国发现空态，显示读过、看过、记下的三类数字。" loading="lazy">
+    <figcaption class="caption"><span class="tag">US11–12 · 两个手机页</span><h3>探索任务与我的美国发现</h3><p>找地点、看照片、找证据，记录从零开始。</p></figcaption>
+  </figure></a></article>
+  <article id="journey"><a class="open-board" href="images/07-usa-journey-observation.png"><figure>
+    <img src="images/07-usa-journey-observation.png" alt="沿着山河走的三个站点，以及三栏都为空的观察表单。" loading="lazy">
+    <figcaption class="caption"><span class="tag">US13–14 · 两个手机页</span><h3>山河路线与开放观察</h3><p>三站自由选，观察可以只写一项，草稿自动保留。</p></figcaption>
+  </figure></a></article>
+</section>
+<footer>2026-11-08 · 视觉设计 1.0。点击卡片可放大，按 Esc 返回画廊。</footer>
+</main>
+<dialog id="lightbox" aria-labelledby="lightbox-title">
+  <div class="toolbar">
+    <strong id="lightbox-title"></strong>
+    <div class="controls">
+      <button id="previous" type="button" aria-label="上一张">‹</button>
+      <button id="next" type="button" aria-label="下一张">›</button>
+      <a id="original" target="_blank" rel="noopener">打开原图</a>
+      <button id="close" type="button">关闭</button>
+    </div>
+  </div>
+  <div class="viewer"><img id="large" alt=""></div>
+</dialog>
+<script>
+const dialog = document.querySelector("#lightbox");
+const boards = Array.from(document.querySelectorAll(".open-board"));
+const title = document.querySelector("#lightbox-title");
+const large = document.querySelector("#large");
+const original = document.querySelector("#original");
+const previous = document.querySelector("#previous");
+const next = document.querySelector("#next");
+const close = document.querySelector("#close");
+let current = 0;
+let opener = null;
+
+function showBoard(index) {
+  current = index;
+  const board = boards[index];
+  title.textContent = board.querySelector("h3").textContent;
+  large.src = board.href;
+  large.alt = board.querySelector("img").alt;
+  original.href = board.href;
+  previous.disabled = index === 0;
+  next.disabled = index === boards.length - 1;
+}
+
+for (const [index, board] of boards.entries()) {
+  board.addEventListener("click", (event) => {
+    if (typeof dialog.showModal !== "function" || event.metaKey || event.ctrlKey || event.shiftKey) return;
+    event.preventDefault();
+    opener = board;
+    showBoard(index);
+    dialog.showModal();
+    close.focus();
+  });
+}
+close.addEventListener("click", () => dialog.close());
+previous.addEventListener("click", () => showBoard(current - 1));
+next.addEventListener("click", () => showBoard(current + 1));
+dialog.addEventListener("close", () => opener?.focus());
+dialog.addEventListener("keydown", (event) => {
+  if (event.key === "ArrowLeft" && current > 0) showBoard(current - 1);
+  if (event.key === "ArrowRight" && current < boards.length - 1) showBoard(current + 1);
+});
+</script>
+</body>
+</html>

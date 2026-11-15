@@ -1,0 +1,3193 @@
+{
+  "country": {
+    "id": "zaf",
+    "name": "南非",
+    "code": "ZA",
+    "englishName": "South Africa",
+    "coverage": "editorial",
+    "revision": 1,
+    "capital": "比勒陀利亚、开普敦、布隆方丹",
+    "mediaId": "zaf-hero",
+    "intro": "在非洲大陆南端，沿着海岸认识企鹅，再走向高原、城市与多样的生活。",
+    "tagline": "从海岸走向高原",
+    "facts": [
+      {
+        "label": "位置",
+        "value": "非洲南部"
+      },
+      {
+        "label": "首都",
+        "value": "三城分工"
+      },
+      {
+        "label": "语言",
+        "value": "12种官方语言"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "zaf-time-mapungubwe-story",
+        "period": "约公元900—1300年",
+        "title": "聚落与远方联系",
+        "body": "遗址与器物共同记录南部非洲社会的发展。",
+        "mediaId": "zaf-mapungubwe",
+        "articleIds": [
+          "zaf-mapungubwe-story"
+        ]
+      },
+      {
+        "id": "zaf-time-robben-island",
+        "period": "20世纪后半叶",
+        "title": "为自由与平等努力",
+        "body": "罗本岛保存许多人反对种族隔离的历史线索。",
+        "mediaId": "zaf-robben",
+        "articleIds": [
+          "zaf-robben-island"
+        ]
+      },
+      {
+        "id": "zaf-time-voting-1994",
+        "period": "1994年4月",
+        "title": "共同参与民主选择",
+        "body": "首次不分种族的民主全国选举，是重要的变化节点。",
+        "mediaId": "zaf-robben",
+        "articleIds": [
+          "zaf-voting-1994"
+        ]
+      },
+      {
+        "id": "zaf-time-sign-language",
+        "period": "2023年",
+        "title": "让更多表达被看见",
+        "body": "南非手语成为第12种官方语言。",
+        "mediaId": "zaf-city",
+        "articleIds": [
+          "zaf-sign-language"
+        ]
+      }
+    ],
+    "takeaways": [
+      "南非有海岸、山地、高原与多样城市生活。",
+      "莱索托是独立国家；厄加勒斯角才是非洲大陆最南端。",
+      "从真实材料出发，把看见的线索与猜想分开。"
+    ],
+    "sources": [
+      {
+        "title": "南非政府 · 地理与气候",
+        "url": "https://www.gov.za/about-sa/geography-and-climate",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "南非政府 · 国家概况",
+        "url": "https://www.gov.za/about-sa/south-africa-glance",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "南非政府 · 官方语言",
+        "url": "https://www.gov.za/about-sa/south-africa-glance",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "南非社会发展部 · 手语与沟通",
+        "url": "https://www.dsd.gov.za/index.php/21-latest-news/639-deaf-awareness-month-it-is-time-deaf-stories-are-told-by-deaf-people",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "SANParks · 非洲大陆最南端",
+        "url": "https://www.sanparks.org/parks/agulhas/explore/heritage/southernmost-tip-of-africa",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "SANParks · 博尔德斯企鹅栖地",
+        "url": "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/boulders-penguin-colony",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "UNESCO · 马洛蒂—德拉肯斯山",
+        "url": "https://whc.unesco.org/en/list/985/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "UNESCO · 马蓬古布韦文化景观",
+        "url": "https://whc.unesco.org/en/list/1099/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "UNESCO · 伊西曼加利索与马普托跨境遗产",
+        "url": "https://whc.unesco.org/en/list/914/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "UNESCO · 罗本岛",
+        "url": "https://whc.unesco.org/en/list/916/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "南非议会 · 民主25周年回顾",
+        "url": "https://www.parliament.gov.za/index.php/press-releases/statement-presiding-officers-parliament-25-years-our-democracy",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "UNESCO · 跨越南非与莱索托的遗产",
+        "url": "https://whc.unesco.org/en/list/985/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "SANParks · 克鲁格国家公园",
+        "url": "https://www.sanparks.org/parks/kruger",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "SANParks · 桌山国家公园",
+        "url": "https://www.sanparks.org/parks/table-mountain",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "南非旅游局 · 玉米粉与饮食",
+        "url": "https://www.southafrica.net/na/en/travel/article/traditional-african-food-in-south-africa",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "Fruit SA · 南非水果行业",
+        "url": "https://fruitsa.co.za/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "南非学校膳食计划 · 食谱与原料",
+        "url": "https://www.education.fs.gov.za/files/programmes/Mnandi4%20Sure%20-%20A%20Recipe%20Book%20for%20the%20NSNP.pdf",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "牛津大学皮特里弗斯博物馆 · 南非珠饰",
+        "url": "https://web.prm.ox.ac.uk/LGweb/beads/1987_25_25.htm",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "南非政府 · 体育、艺术与文化",
+        "url": "https://www.gov.za/about-sa/sports-arts-and-culture",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "Gautrain · 铁路与换乘服务",
+        "url": "https://www.gautrain.co.za/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "约翰内斯堡市 · 图书馆",
+        "url": "https://www.joburg.org.za/",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "Transnet · 开普敦港",
+        "url": "https://www.transnetnationalportsauthority.net/OurPorts/Cape%20Town/Pages/Overview.aspx",
+        "checkedAt": "2026-11-11"
+      }
+    ],
+    "sections": {
+      "overview": [
+        "zaf-find-south-africa",
+        "zaf-three-capitals",
+        "zaf-country-region"
+      ],
+      "geography": [
+        "zaf-coast-plateau",
+        "zaf-two-capes",
+        "zaf-rainfall"
+      ],
+      "people": [
+        "zaf-languages",
+        "zaf-sign-language",
+        "zaf-photo-community"
+      ],
+      "daily": [
+        "zaf-city-transfer",
+        "zaf-market-label",
+        "zaf-shared-spaces"
+      ],
+      "food": [
+        "zaf-maize-food",
+        "zaf-recipe-diversity",
+        "zaf-fruit-journey"
+      ],
+      "culture": [
+        "zaf-bead-patterns",
+        "zaf-shared-rhythm",
+        "zaf-sports-rules"
+      ],
+      "landmarks": [
+        "zaf-table-mountain",
+        "zaf-two-cities",
+        "zaf-port-links"
+      ],
+      "nature": [
+        "zaf-african-penguins",
+        "zaf-grassland-links",
+        "zaf-wetland-water"
+      ],
+      "history": [
+        "zaf-mapungubwe-story",
+        "zaf-robben-island",
+        "zaf-voting-1994"
+      ],
+      "questions": [
+        "zaf-lesotho",
+        "zaf-tracks-evidence",
+        "zaf-seen-guessed"
+      ]
+    },
+    "editorial": {
+      "subtitle": "从海岸走向高原",
+      "introduction": "在非洲大陆南端，沿着海岸认识企鹅，再走向高原、城市与多样的生活。",
+      "startLabel": "从海岸开始",
+      "startJourneyId": "coast-life",
+      "questionArticleIds": [
+        "zaf-african-penguins",
+        "zaf-two-capes"
+      ],
+      "factOverrides": [
+        {
+          "label": "位置",
+          "value": "非洲南部"
+        },
+        {
+          "label": "首都",
+          "value": "三城分工"
+        },
+        {
+          "label": "语言",
+          "value": "12种官方语言"
+        }
+      ],
+      "directoryTitle": "南非 · 探索目录",
+      "directory": {
+        "mediaIds": [
+          "zaf-hero",
+          "zaf-penguins",
+          "zaf-mountains"
+        ]
+      },
+      "timelineTitle": "南非 · 历史线索",
+      "timeline": [
+        {
+          "id": "zaf-time-mapungubwe-story",
+          "period": "约公元900—1300年",
+          "title": "聚落与远方联系",
+          "body": "遗址与器物共同记录南部非洲社会的发展。",
+          "mediaId": "zaf-mapungubwe",
+          "articleIds": [
+            "zaf-mapungubwe-story"
+          ]
+        },
+        {
+          "id": "zaf-time-robben-island",
+          "period": "20世纪后半叶",
+          "title": "为自由与平等努力",
+          "body": "罗本岛保存许多人反对种族隔离的历史线索。",
+          "mediaId": "zaf-robben",
+          "articleIds": [
+            "zaf-robben-island"
+          ]
+        },
+        {
+          "id": "zaf-time-voting-1994",
+          "period": "1994年4月",
+          "title": "共同参与民主选择",
+          "body": "首次不分种族的民主全国选举，是重要的变化节点。",
+          "mediaId": "zaf-robben",
+          "articleIds": [
+            "zaf-voting-1994"
+          ]
+        },
+        {
+          "id": "zaf-time-sign-language",
+          "period": "2023年",
+          "title": "让更多表达被看见",
+          "body": "南非手语成为第12种官方语言。",
+          "mediaId": "zaf-city",
+          "articleIds": [
+            "zaf-sign-language"
+          ]
+        }
+      ],
+      "explore": {
+        "mediaId": "zaf-mountains",
+        "featuredTaskIds": [
+          "zaf-l02",
+          "zaf-p05",
+          "zaf-o06"
+        ],
+        "categories": [
+          {
+            "id": "location",
+            "title": "找地图",
+            "mediaId": "zaf-agulhas"
+          },
+          {
+            "id": "observation",
+            "title": "看照片",
+            "mediaId": "zaf-penguins"
+          },
+          {
+            "id": "choice",
+            "title": "找证据",
+            "mediaId": "zaf-mapungubwe"
+          },
+          {
+            "id": "open",
+            "title": "写观察",
+            "mediaId": "zaf-city"
+          }
+        ]
+      },
+      "discoveries": {
+        "mediaId": "zaf-hero",
+        "recommendedPlaceIds": [
+          "zaf-boulders",
+          "zaf-drakensberg"
+        ],
+        "recommendationTitles": [
+          "企鹅的海岸",
+          "山地跨越国界"
+        ]
+      },
+      "journeys": [
+        {
+          "id": "coast-life",
+          "title": "海岸与生命",
+          "subtitle": "沿着海岸，认识海角、企鹅与湿地。",
+          "coverTitle": "海岸与生命",
+          "mediaId": "zaf-penguin-close",
+          "articleIds": [
+            "zaf-two-capes",
+            "zaf-african-penguins",
+            "zaf-wetland-water"
+          ],
+          "stopTitles": [
+            "找到最南端",
+            "企鹅的家",
+            "湿地与水"
+          ]
+        },
+        {
+          "id": "mountains-grassland",
+          "title": "山地与草原",
+          "subtitle": "从起伏的地形，走向相互连接的生命。",
+          "coverTitle": "山地与草原",
+          "mediaId": "zaf-mountains",
+          "articleIds": [
+            "zaf-coast-plateau",
+            "zaf-lesotho",
+            "zaf-grassland-links"
+          ],
+          "stopTitles": [
+            "海岸到高原",
+            "山地跨国界",
+            "食物的联系"
+          ]
+        },
+        {
+          "id": "city-living",
+          "title": "城市里的生活",
+          "subtitle": "从两座城市，走向交流与日常观察。",
+          "coverTitle": "城市里的生活",
+          "mediaId": "zaf-street",
+          "articleIds": [
+            "zaf-two-cities",
+            "zaf-languages",
+            "zaf-city-transfer"
+          ],
+          "stopTitles": [
+            "海岸与内陆",
+            "不同的表达",
+            "共同站点换乘"
+          ]
+        }
+      ],
+      "sections": {
+        "overview": {
+          "title": "国家名片",
+          "summary": "先找大陆南端，再认识国家与区域。",
+          "mediaId": "zaf-hero"
+        },
+        "geography": {
+          "title": "地理与气候",
+          "summary": "从海岸、陡崖走向高原。",
+          "mediaId": "zaf-mountains"
+        },
+        "people": {
+          "title": "人们与语言",
+          "summary": "12种官方语言，不同的表达与生活。",
+          "mediaId": "zaf-city"
+        },
+        "daily": {
+          "title": "日常生活",
+          "summary": "乘车、读标签，也关心共同空间。",
+          "mediaId": "zaf-street",
+          "primaryMapPlaceId": "zaf-johannesburg",
+          "primaryLabel": "看看内陆城市的位置"
+        },
+        "food": {
+          "title": "饮食与物产",
+          "summary": "从原料到餐桌，追踪食物的旅程。",
+          "mediaId": "zaf-food"
+        },
+        "culture": {
+          "title": "艺术与节日",
+          "summary": "发现图案、节拍与共同参与的规则。",
+          "mediaId": "zaf-mountains"
+        },
+        "landmarks": {
+          "title": "城市与地标",
+          "summary": "在地图与照片中认识山城和港口。",
+          "mediaId": "zaf-hero"
+        },
+        "nature": {
+          "title": "动物与生态",
+          "summary": "看见动物，也看见它们的生活环境。",
+          "mediaId": "zaf-penguins"
+        },
+        "history": {
+          "title": "历史故事",
+          "summary": "让遗址、档案与时间彼此印证。",
+          "mediaId": "zaf-mapungubwe"
+        },
+        "questions": {
+          "title": "有趣问题",
+          "summary": "带着问号，把看见和猜想分开。",
+          "mediaId": "zaf-agulhas"
+        }
+      },
+      "featuredPlaceIds": [
+        "zaf-boulders",
+        "zaf-drakensberg",
+        "zaf-agulhas"
+      ]
+    }
+  },
+  "articles": [
+    {
+      "id": "zaf-find-south-africa",
+      "countryId": "zaf",
+      "sectionId": "overview",
+      "title": "在世界地图找到南非",
+      "summary": "把世界地图缩小，先找赤道穿过的非洲。",
+      "mediaId": "zaf-hero",
+      "blocks": [
+        {
+          "id": "zaf-find-south-africa-b1",
+          "title": "先找到非洲",
+          "text": "把世界地图缩小，先找赤道穿过的非洲。沿着这片大陆向南移动，靠近大陆南端的国家就是南非。它的英文名是 South Africa。名字中的“南”告诉我们大致方向，但要知道范围，仍然要看国界。"
+        },
+        {
+          "id": "zaf-find-south-africa-b2",
+          "title": "沿海岸走一圈",
+          "text": "南非的西侧面向大西洋，东侧面向印度洋。沿南部海岸移动，可以看见陆地伸向海洋的许多海角。海岸线弯弯曲曲，地图放大后才会出现较小的海湾；缩小时没有画出的细节，并不表示现实中不存在。"
+        },
+        {
+          "id": "zaf-find-south-africa-b3",
+          "title": "看看陆地邻居",
+          "text": "南非北面连接纳米比亚、博茨瓦纳和津巴布韦，东北方向邻接莫桑比克与埃斯瓦蒂尼。莱索托被南非陆地包围，却是独立国家。请沿国界看一圈：国界表示国家范围，不一定是高墙，也不一定沿河流。"
+        },
+        {
+          "id": "zaf-find-south-africa-b4",
+          "title": "从远到近地观察",
+          "text": "现在打开南非地图，找到西南海岸的开普敦，再向东北方向找约翰内斯堡。两个城市的位置不同，周围环境也不一样。地图上的圆点是帮助定位的代表点，不是城市的完整大小；点得一样大，也不表示人口相同。"
+        },
+        {
+          "id": "zaf-find-south-africa-b5",
+          "title": "带着问题出发",
+          "text": "这次先记住三件事：南非在非洲南部、海岸连接两个大洋方向、国界里面的莱索托不是南非的一部分。接下来选择一个地点，先读它的名称，再看照片。把地图、照片和文字放在一起，比只记一串地名更容易理解。"
+        }
+      ],
+      "term": "国界",
+      "definition": "地图上表示国家范围的边界。",
+      "glossary": [
+        {
+          "term": "国界",
+          "definition": "地图上表示国家范围的边界。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/geography-and-climate"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-cape-town",
+      "exerciseId": "zaf-l01"
+    },
+    {
+      "id": "zaf-three-capitals",
+      "countryId": "zaf",
+      "sectionId": "overview",
+      "title": "为什么会听到三个首都？",
+      "summary": "有些国家的重要国家机构集中在一座城市，南非的情况比较特别。",
+      "mediaId": "zaf-city",
+      "blocks": [
+        {
+          "id": "zaf-three-capitals-b1",
+          "title": "首都不只是一个名字",
+          "text": "有些国家的重要国家机构集中在一座城市，南非的情况比较特别。介绍南非时，常会听到比勒陀利亚、开普敦和布隆方丹三个名字。它们与不同的国家职能有关，不能简单理解成三座完全相同的城市。"
+        },
+        {
+          "id": "zaf-three-capitals-b2",
+          "title": "不同城市的分工",
+          "text": "比勒陀利亚通常被称为行政首都，开普敦是立法首都，布隆方丹常被称为司法首都。先把这三个名称和分工配起来。这里说的是常用的概括，不能由此推断每个部门、每所法院都只在这三座城市里。"
+        },
+        {
+          "id": "zaf-three-capitals-b3",
+          "title": "还有重要的例外",
+          "text": "南非宪法法院位于约翰内斯堡。它提醒我们：一张简短的国家名片，装不下所有机构的实际位置。遇到“全国所有法院都在布隆方丹”这样的说法，就要停一下，找具体机构的资料来核对。"
+        },
+        {
+          "id": "zaf-three-capitals-b4",
+          "title": "在地图上分开找",
+          "text": "先找海边的开普敦，再找内陆的比勒陀利亚。它们不是紧贴在一起的三个街区。地图上的方向和距离可以帮助你建立空间印象，但不要用屏幕上手指的长度直接当作现实中的公里数。"
+        },
+        {
+          "id": "zaf-three-capitals-b5",
+          "title": "用自己的话解释",
+          "text": "你可以这样介绍：“南非常被说成有三个首都，因为一些国家职能由不同城市承担；具体机构还要具体查询。”这样既记住了特别之处，也没有把简短口诀变成绝对规则。试着把分工讲给家人听。"
+        }
+      ],
+      "term": "职能",
+      "definition": "机构所承担的工作和作用。",
+      "glossary": [
+        {
+          "term": "职能",
+          "definition": "机构所承担的工作和作用。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/south-africa-glance"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-pretoria",
+      "exerciseId": "zaf-c01"
+    },
+    {
+      "id": "zaf-country-region",
+      "countryId": "zaf",
+      "sectionId": "overview",
+      "title": "南非和非洲南部一样吗？",
+      "summary": "“南非”通常指一个国家，“非洲南部”指非洲的一个地理区域。",
+      "mediaId": "zaf-hero",
+      "blocks": [
+        {
+          "id": "zaf-country-region-b1",
+          "title": "两个相近的说法",
+          "text": "“南非”通常指一个国家，“非洲南部”指非洲的一个地理区域。就像一个城市与它所在的地区不是同一个范围，两个说法虽然都含有“南”，也不能互相替换。读故事时先留意它说的是国家还是区域。"
+        },
+        {
+          "id": "zaf-country-region-b2",
+          "title": "国界帮我们辨认",
+          "text": "在国家地图上，南非有明确绘出的国界。非洲南部却包含多个国家，具体讨论的范围还可能随地理、统计或组织的用途而变化。因此，看见一张写着“南部非洲”的图片，不能立刻认定它拍摄于南非。"
+        },
+        {
+          "id": "zaf-country-region-b3",
+          "title": "给照片补上地点",
+          "text": "假如照片说明写着“纳米比亚海岸”，它就是来自南非邻国的例子。即使动物很相似，也不能把它改称南非实拍。国家名称、具体地点和拍摄日期，都是帮助我们理解照片的重要信息。"
+        },
+        {
+          "id": "zaf-country-region-b4",
+          "title": "学会缩放地图",
+          "text": "先把地图放大到南非，看清海岸和邻国；再缩小到整个非洲。屏幕上的范围变大了，但国家本身并没有移动。这种从局部到整体的观察方法，也可以用来认识中国与亚洲、法国与欧洲的关系。"
+        },
+        {
+          "id": "zaf-country-region-b5",
+          "title": "做一次名称检查",
+          "text": "选一篇你喜欢的动物或旅行故事，找出其中的地点词。用不同颜色标出国家和大区域。如果资料没有说明具体国家，就把“还不知道拍摄在哪里”写下来。承认信息不够，比猜一个听起来熟悉的地方更准确。"
+        }
+      ],
+      "term": "区域",
+      "definition": "按某种用途划分的一片地理范围。",
+      "glossary": [
+        {
+          "term": "区域",
+          "definition": "按某种用途划分的一片地理范围。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/geography-and-climate"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-cape-town",
+      "exerciseId": "zaf-c02"
+    },
+    {
+      "id": "zaf-coast-plateau",
+      "countryId": "zaf",
+      "sectionId": "geography",
+      "title": "从海岸走向高原",
+      "summary": "南非并不只有海滩和草原。",
+      "mediaId": "zaf-mountains",
+      "blocks": [
+        {
+          "id": "zaf-coast-plateau-b1",
+          "title": "海边以外还有什么",
+          "text": "南非并不只有海滩和草原。离开海岸向内陆观察，可以遇到起伏的山地、陡崖和广阔高原。高原是海拔较高、范围较大的地形；它的表面仍然有山丘、谷地和河流，并不是一张完全平整的桌面。"
+        },
+        {
+          "id": "zaf-coast-plateau-b2",
+          "title": "高低怎样连接",
+          "text": "大陡崖是认识南非地形的重要线索，把内陆高原和靠近海岸的地区联系起来。在东部，德拉肯斯山一带尤其醒目。地图用阴影帮助我们辨认起伏，深浅只是表达方式，不是地表真实涂着的颜色。"
+        },
+        {
+          "id": "zaf-coast-plateau-b3",
+          "title": "山地与水的关系",
+          "text": "雨水落到地面后，一部分渗入土壤，一部分汇入溪流。山坡和分水岭会影响水向哪里流。德拉肯斯山地区的水系与不同方向的河流相连，因此不能说南非所有河流都朝同一个方向流向海洋。"
+        },
+        {
+          "id": "zaf-coast-plateau-b4",
+          "title": "读懂概念剖面",
+          "text": "下方图解把海岸、山地和高原放在一起，表示它们可能的高低关系。它不是某条公路的精确剖面，也没有给出真实坡度。点击不同部分，先描述“较低”“升高”“内陆较高”，再回到真实地图找位置。"
+        },
+        {
+          "id": "zaf-coast-plateau-b5",
+          "title": "换一个视角",
+          "text": "照片能展示山峰的样子，地图能帮助定位，测量资料才能告诉我们确切高度。试着写下一句需要照片回答的问题，再写一句需要地图回答的问题。让每种材料做它最擅长的事，你会更容易读懂地形。"
+        }
+      ],
+      "term": "高原",
+      "definition": "海拔较高、范围较大的地形，表面也有起伏。",
+      "glossary": [
+        {
+          "term": "高原",
+          "definition": "海拔较高、范围较大的地形，表面也有起伏。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/geography-and-climate",
+        "https://whc.unesco.org/en/list/985/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-drakensberg",
+      "diagram": "zaf-coast-plateau",
+      "exerciseId": "zaf-c03"
+    },
+    {
+      "id": "zaf-two-capes",
+      "countryId": "zaf",
+      "sectionId": "geography",
+      "title": "好望角是最南端吗？",
+      "summary": "好望角很有名，但它不是非洲大陆的最南端。",
+      "mediaId": "zaf-agulhas",
+      "blocks": [
+        {
+          "id": "zaf-two-capes-b1",
+          "title": "两个海角先分开",
+          "text": "好望角很有名，但它不是非洲大陆的最南端。真正的大陆最南端是厄加勒斯角，位于好望角以东。两个地点都有岩石海岸和海风，照片看起来相似，名称和地图坐标却能帮助我们把它们分开。"
+        },
+        {
+          "id": "zaf-two-capes-b2",
+          "title": "怎样比较南北",
+          "text": "在北方朝上的地图里，可以先比较两个地点的上下位置。进一步查看纬度：好望角大约在南纬34.36度，厄加勒斯角大约在南纬34.83度。这里都在南半球，南纬数字更大的那个地点离赤道更远、更靠南。"
+        },
+        {
+          "id": "zaf-two-capes-b3",
+          "title": "两个大洋的称呼",
+          "text": "厄加勒斯角还是认识大西洋与印度洋地理分界的常用地点。这个分界是一种地理约定，不是海上永远固定、肉眼可见的双色直线。海水颜色还会受到光照、泥沙、深度和海况等因素影响。"
+        },
+        {
+          "id": "zaf-two-capes-b4",
+          "title": "别把概念当实景",
+          "text": "下方图解只帮助比较地点与纬度，不是航海图。海角之间的真实海岸线要到专属地图上查看。面对一张海水颜色不同的照片，先问它拍摄在哪里、何时拍摄，再考虑还能查到什么证据。"
+        },
+        {
+          "id": "zaf-two-capes-b5",
+          "title": "亲手找到答案",
+          "text": "在地图中依次找到好望角和厄加勒斯角，放大后读清名称。最后用一句话完成判断：“厄加勒斯角比好望角更靠南，是非洲大陆最南端。”记住位置关系，比只背一个听起来熟悉的名字更可靠。"
+        }
+      ],
+      "term": "纬度",
+      "definition": "表示一个地方在赤道以北或以南的位置。",
+      "glossary": [
+        {
+          "term": "纬度",
+          "definition": "表示一个地方在赤道以北或以南的位置。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sanparks.org/parks/agulhas/explore/heritage/southernmost-tip-of-africa"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-agulhas",
+      "diagram": "zaf-two-capes",
+      "exerciseId": "zaf-l02"
+    },
+    {
+      "id": "zaf-rainfall",
+      "countryId": "zaf",
+      "sectionId": "geography",
+      "title": "为什么有的地方冬天下雨？",
+      "summary": "南非不同地区的雨季并不完全一样。",
+      "mediaId": "zaf-mountains",
+      "blocks": [
+        {
+          "id": "zaf-rainfall-b1",
+          "title": "同一国家不同雨季",
+          "text": "南非不同地区的雨季并不完全一样。西南部的西开普地区以冬季降雨为重要特点，而全国许多其他地区主要在夏季降雨。说“南非今天下雨”，还没有告诉我们具体在哪里，也没有说明全国都在下雨。"
+        },
+        {
+          "id": "zaf-rainfall-b2",
+          "title": "天气与气候",
+          "text": "天气描述某个地方较短时间内的情况，例如今天下午有阵雨。气候则需要观察较长时期的规律。一次旅行碰上晴天，不能证明这个地方永远干燥；一场大雨，也不能单独证明整个地区的气候已经改变。"
+        },
+        {
+          "id": "zaf-rainfall-b3",
+          "title": "位置和高度都有关",
+          "text": "海洋会影响沿岸环境，高度也会影响温度。内陆高原与低处海岸可能有不同的感受。因此，“在非洲就一定一直很热”并不准确。认识一个地方，应同时看看纬度、海陆位置、地形和多年记录。"
+        },
+        {
+          "id": "zaf-rainfall-b4",
+          "title": "怎样公平地比较",
+          "text": "假设我们想比较开普敦和约翰内斯堡的雨季，可以查同一时期的逐月降水记录。先读月份，再看降水量的单位；如果两张图纵轴不同，柱子看起来一样高，也未必表示雨量一样。比较前先检查图例。"
+        },
+        {
+          "id": "zaf-rainfall-b5",
+          "title": "做一本小天气簿",
+          "text": "你可以连续记录自己城市一周的天气，练习观察日期、云量和下雨时段。记得在封面写“一周天气观察”，不要称它为完整气候结论。再提出一个长期问题：更多年份的记录，会不会显示相似的季节变化？"
+        }
+      ],
+      "term": "气候",
+      "definition": "一个地区较长时期的天气规律。",
+      "glossary": [
+        {
+          "term": "气候",
+          "definition": "一个地区较长时期的天气规律。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/geography-and-climate"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-drakensberg",
+      "exerciseId": "zaf-c04"
+    },
+    {
+      "id": "zaf-languages",
+      "countryId": "zaf",
+      "sectionId": "people",
+      "title": "一块路牌能写几种语言？",
+      "summary": "南非有12种官方语言，包括南非手语。",
+      "mediaId": "zaf-city",
+      "blocks": [
+        {
+          "id": "zaf-languages-b1",
+          "title": "走近文字的世界",
+          "text": "南非有12种官方语言，包括南非手语。不同家庭、学校和地区的语言使用情况并不相同。知道国家有多种语言，不等于知道每个人会说哪几种，更不能只看一个人的外貌就替他判断母语。"
+        },
+        {
+          "id": "zaf-languages-b2",
+          "title": "同一个意思不同表达",
+          "text": "下方语言卡是原创学习材料，把英语的“Welcome”和南非荷兰语的“Welkom”并排，帮助我们观察拼写。它不是某条街上实拍的路牌。两种文字都可以表达欢迎，但真实场合还要看完整语境。"
+        },
+        {
+          "id": "zaf-languages-b3",
+          "title": "名称为什么要保留",
+          "text": "在地图和来源中，你可能遇到中文译名与原文名称。保留原文可以帮助查找资料，中文则帮助我们理解。例如 Cape Town 与开普敦指同一座城市；不能因为文字不同，就以为它们是两个地方。"
+        },
+        {
+          "id": "zaf-languages-b4",
+          "title": "问比猜更合适",
+          "text": "想知道一个人喜欢使用哪种语言，可以礼貌地询问；如果对方不想回答，也应尊重。语言可能与家庭经历、学习和工作有关，一个人也可能在不同场合使用不同语言。语言不是给人分高低的尺子。"
+        },
+        {
+          "id": "zaf-languages-b5",
+          "title": "开始一次文字观察",
+          "text": "先读语言卡上的语言标签，再比较字母相同与不同的地方。完成练习后，找一件身边带有两种文字的物品，记录名称和用途。只写你看得清的字，不认识的部分留待查证，不必急着编出一个解释。"
+        }
+      ],
+      "term": "官方语言",
+      "definition": "在国家制度中获得官方地位的语言。",
+      "glossary": [
+        {
+          "term": "官方语言",
+          "definition": "在国家制度中获得官方地位的语言。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/south-africa-glance"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-johannesburg",
+      "diagram": "zaf-languages",
+      "exerciseId": "zaf-p01"
+    },
+    {
+      "id": "zaf-sign-language",
+      "countryId": "zaf",
+      "sectionId": "people",
+      "title": "手语也是完整的语言",
+      "summary": "语言不只通过声音传递。",
+      "mediaId": "zaf-city",
+      "blocks": [
+        {
+          "id": "zaf-sign-language-b1",
+          "title": "用眼睛也能交谈",
+          "text": "语言不只通过声音传递。南非手语通过手形、动作、身体姿态和面部表情等表达意思，是一种完整的语言。它不是把每个口语词随意比划一下，也不是所有地方都通用的一套“万能手势”。"
+        },
+        {
+          "id": "zaf-sign-language-b2",
+          "title": "成为官方语言",
+          "text": "2023年，南非手语成为南非第12种官方语言。这个变化让我们注意到：不同的人需要不同的沟通方式。看到旧资料写着11种时，要检查资料日期，不能把旧数字原封不动地当作今天的介绍。"
+        },
+        {
+          "id": "zaf-sign-language-b3",
+          "title": "一张照片还不够",
+          "text": "手语常包含动作和表情的变化。只截取一张手部照片，可能缺少开始、结束或身体方向的信息。因此，本应用没有把装饰性的手势图冒充南非手语教学。真正学习时，应跟随可靠的手语教师或完整示范。"
+        },
+        {
+          "id": "zaf-sign-language-b4",
+          "title": "怎样帮助理解",
+          "text": "清晰的字幕、合适的手语服务和良好的交流环境，可以让更多人获得信息。与使用手语的人交流时，要关注对方提供的方式；不要假定所有听障人士的习惯都相同，也不要在未了解时替别人回答。"
+        },
+        {
+          "id": "zaf-sign-language-b5",
+          "title": "带回生活的发现",
+          "text": "看看你常用的视频有没有字幕，公共信息是否只用声音播报。记录一处已经方便理解的设计，再提出一个可以改进的小想法。认识语言的多样性，也是在学习怎样让身边更多人参与交流。"
+        }
+      ],
+      "term": "手语",
+      "definition": "利用手形、动作、表情等表达的完整语言。",
+      "glossary": [
+        {
+          "term": "手语",
+          "definition": "利用手形、动作、表情等表达的完整语言。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.dsd.gov.za/index.php/21-latest-news/639-deaf-awareness-month-it-is-time-deaf-stories-are-told-by-deaf-people"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-johannesburg",
+      "exerciseId": "zaf-c05"
+    },
+    {
+      "id": "zaf-photo-community",
+      "countryId": "zaf",
+      "sectionId": "people",
+      "title": "一张照片能代表所有人吗？",
+      "summary": "这张约翰内斯堡天际线照片拍摄于2006年12月。",
+      "mediaId": "zaf-city",
+      "blocks": [
+        {
+          "id": "zaf-photo-community-b1",
+          "title": "先看拍摄说明",
+          "text": "这张约翰内斯堡天际线照片拍摄于2006年12月。它记录一处视角中的建筑和当时的光线，不是整座城市今天的实时样貌。照片的地点与日期就像书的页码，让我们知道自己正在看哪一段材料。"
+        },
+        {
+          "id": "zaf-photo-community-b2",
+          "title": "能直接看见什么",
+          "text": "你可以描述高楼、天空、明暗和建筑之间的距离感。如果某个细节太小，就写“看不清”。只凭远处天际线，我们无法听见居民说什么，也不能知道每个家庭的职业、兴趣和日常安排。"
+        },
+        {
+          "id": "zaf-photo-community-b3",
+          "title": "生活不只有一种",
+          "text": "一座城市里有不同社区，人们的年龄、工作、家庭与经历各不相同。城市照片不能代表南非所有乡村；一个人的故事，也不能代表全国所有孩子。具体例子很有价值，但它的范围需要说清楚。"
+        },
+        {
+          "id": "zaf-photo-community-b4",
+          "title": "让问题更具体",
+          "text": "把“南非人都怎样生活”改成“这条街上的人怎样乘车”“这个图书馆提供哪些服务”，问题就更容易寻找证据。接下来可以看标明日期的街区照片、服务资料或当事人的讲述，而不是只靠想象补全。"
+        },
+        {
+          "id": "zaf-photo-community-b5",
+          "title": "写下一条观察",
+          "text": "在观察本第一栏写一个可见细节，第二栏写一个可能的解释，第三栏写一个仍需查证的问题。例如，建筑密集是观察；“所有人都住在高楼里”则不是照片能证明的事实。把两者分开，就是研究的开始。"
+        }
+      ],
+      "term": "证据",
+      "definition": "能够支持或检验一个判断的材料。",
+      "glossary": [
+        {
+          "term": "证据",
+          "definition": "能够支持或检验一个判断的材料。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/south-africa-glance"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-johannesburg",
+      "activity": {
+        "id": "zaf-o01",
+        "type": "open",
+        "title": "一张照片能代表所有人吗？",
+        "prompt": "在观察本第一栏写一个可见细节，第二栏写一个可能的解释，第三栏写一个仍需查证的问题。例如，建筑密集是观察；“所有人都住在高楼里”则不是照片能证明的事实。把两者分开，就是研究的开始。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "zaf-city"
+        ],
+        "suggestedArticleIds": [
+          "zaf-photo-community"
+        ]
+      }
+    },
+    {
+      "id": "zaf-city-transfer",
+      "countryId": "zaf",
+      "sectionId": "daily",
+      "title": "城市里怎样换乘？",
+      "summary": "在南非的大城市，人们可能步行、乘公交、铁路或其他交通工具出行。",
+      "mediaId": "zaf-street",
+      "blocks": [
+        {
+          "id": "zaf-city-transfer-b1",
+          "title": "从一条线到另一条",
+          "text": "在南非的大城市，人们可能步行、乘公交、铁路或其他交通工具出行。不同地区的服务各不相同。今天先不背真实站名，而是用一张虚构线路图，练习读懂换乘这件日常的小事。"
+        },
+        {
+          "id": "zaf-city-transfer-b2",
+          "title": "读图先认图例",
+          "text": "图中蓝线连接甲站和乙站，橙线连接乙站和丙站。线的颜色用来区分线路，圆点表示车站。甲、乙、丙是为练习设计的名称，不是约翰内斯堡真实车站，也不能拿这张图去现场乘车。"
+        },
+        {
+          "id": "zaf-city-transfer-b3",
+          "title": "共同车站是关键",
+          "text": "从甲站去丙站，可以先沿蓝线到乙站，再在乙站换到橙线。乙站同时出现在两条线路中，是这道题的换乘点。线路图通常强调连接关系，站点之间画得一样远，不表示实际距离或车程相同。"
+        },
+        {
+          "id": "zaf-city-transfer-b4",
+          "title": "真实出行还看什么",
+          "text": "真实旅行还需要查看运营方最新路线、方向、时刻和无障碍信息。即使两条线在图上相交，也要核实那里是否真的能换乘。儿童应与照顾自己的成人一起安排路线，练习图只负责帮助理解符号。"
+        },
+        {
+          "id": "zaf-city-transfer-b5",
+          "title": "试着反向讲述",
+          "text": "如果从丙站回甲站，要先乘哪条线，在哪里换乘？用手指顺着线路移动，再用完整一句话讲出来。你学到的不只是一个答案，而是一种方法：先认图例，再找起点、终点和共同站点。"
+        }
+      ],
+      "term": "换乘",
+      "definition": "由一条交通线路转到另一条。",
+      "glossary": [
+        {
+          "term": "换乘",
+          "definition": "由一条交通线路转到另一条。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gautrain.co.za/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-johannesburg",
+      "diagram": "zaf-transfer",
+      "exerciseId": "zaf-c06"
+    },
+    {
+      "id": "zaf-market-label",
+      "countryId": "zaf",
+      "sectionId": "daily",
+      "title": "在市场里读懂一张标签",
+      "summary": "市场里会出现许多水果和其他食物。",
+      "mediaId": "zaf-city",
+      "blocks": [
+        {
+          "id": "zaf-market-label-b1",
+          "title": "信息比颜色更可靠",
+          "text": "市场里会出现许多水果和其他食物。只看颜色，通常不能知道产地、重量或价格单位。今天使用一张原创练习标签：“名称：苹果；单位：千克；产地：南非”。它不是某件实拍商品的真实标签。"
+        },
+        {
+          "id": "zaf-market-label-b2",
+          "title": "三个字段各管什么",
+          "text": "名称告诉我们商品是什么；单位告诉我们按什么方式计量；产地说明这里声明的生产地点。一个字段不能代替另一个。例如，“苹果”没有告诉我们产地，“千克”也不是一座城市的名称。"
+        },
+        {
+          "id": "zaf-market-label-b3",
+          "title": "数字要和单位一起读",
+          "text": "如果真实标签出现价格，必须把数字与货币、计量单位一起阅读。每千克的价格和每盒的价格不能直接比较，还要知道每盒重量。本练习不提供实时价格，也不把照片里模糊的数字当成确定事实。"
+        },
+        {
+          "id": "zaf-market-label-b4",
+          "title": "产地与卖出地点",
+          "text": "在南非的商店买到一件商品，并不自动证明它产自南非。商品可能经过不同地方运输。要判断来源，需要看明确标签或可核查的资料；如果没有标注，就把这项信息记成未知，而不是替商家猜测。"
+        },
+        {
+          "id": "zaf-market-label-b5",
+          "title": "把方法带回家",
+          "text": "和家人挑选一张家中食品包装，找出名称、净含量和产地等字段。把它们分别抄在不同格子里，再提出一个包装没有回答的问题。你会发现，认真读一张小标签，也能把厨房和远方的世界联系起来。"
+        }
+      ],
+      "term": "产地",
+      "definition": "标签所声明的产品生产或收获地点。",
+      "glossary": [
+        {
+          "term": "产地",
+          "definition": "标签所声明的产品生产或收获地点。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.education.fs.gov.za/files/programmes/Mnandi4%20Sure%20-%20A%20Recipe%20Book%20for%20the%20NSNP.pdf"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-cape-town",
+      "diagram": "zaf-market",
+      "exerciseId": "zaf-p02"
+    },
+    {
+      "id": "zaf-shared-spaces",
+      "countryId": "zaf",
+      "sectionId": "daily",
+      "title": "公园、图书馆与共同空间",
+      "summary": "认识城市时，可以把目光从天际线移到人们共同使用的地方。",
+      "mediaId": "zaf-street",
+      "blocks": [
+        {
+          "id": "zaf-shared-spaces-b1",
+          "title": "城市里不只有高楼",
+          "text": "认识城市时，可以把目光从天际线移到人们共同使用的地方。公园让人休息活动，图书馆提供阅读和学习空间。南非城市中的具体设施各有自己的服务与规则，不能只靠一张远景照片知道内部情况。"
+        },
+        {
+          "id": "zaf-shared-spaces-b2",
+          "title": "先问它为谁服务",
+          "text": "看一处公共空间，可以先找入口、道路、座椅和信息牌。如果有清楚的服务说明，再读开放对象和使用方式。我们看到“有台阶”，不等于知道所有入口都没有坡道；照片之外可能还有其他路线。"
+        },
+        {
+          "id": "zaf-shared-spaces-b3",
+          "title": "不同使用者的需要",
+          "text": "年幼的孩子、推婴儿车的成人、老年人和使用轮椅的人，可能需要不同帮助。良好的公共空间会考虑多种使用方式。讨论这些需要时，不必把某一类人都想成完全一样，而应留意具体情境。"
+        },
+        {
+          "id": "zaf-shared-spaces-b4",
+          "title": "把观察变成建议",
+          "text": "假设图片中能看到一段步道，你可以记录路面、遮阴和方向标志。如果想知道是否方便轮椅通行，还需要坡度、宽度和连续路线的信息。把建议建立在证据上，比只说“这里很好”或“这里不好”更有用。"
+        },
+        {
+          "id": "zaf-shared-spaces-b5",
+          "title": "画一个小改进",
+          "text": "选择自己熟悉的公园或图书馆，画出一项希望增加的设施，并说明它帮助谁、解决什么问题。再把这个问题带到南非的城市资料中比较。比较的目的不是给城市排名，而是理解人们怎样共同生活。"
+        }
+      ],
+      "term": "公共空间",
+      "definition": "供人们共同使用的场所。",
+      "glossary": [
+        {
+          "term": "公共空间",
+          "definition": "供人们共同使用的场所。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.joburg.org.za/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-johannesburg",
+      "activity": {
+        "id": "zaf-o02",
+        "type": "open",
+        "title": "公园、图书馆与共同空间",
+        "prompt": "选择自己熟悉的公园或图书馆，画出一项希望增加的设施，并说明它帮助谁、解决什么问题。再把这个问题带到南非的城市资料中比较。比较的目的不是给城市排名，而是理解人们怎样共同生活。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "zaf-city"
+        ],
+        "suggestedArticleIds": [
+          "zaf-shared-spaces"
+        ]
+      }
+    },
+    {
+      "id": "zaf-maize-food",
+      "countryId": "zaf",
+      "sectionId": "food",
+      "title": "玉米怎样变成一顿饭？",
+      "summary": "玉米可以经过研磨成为玉米粉，再与水一起烹调。",
+      "mediaId": "zaf-food",
+      "blocks": [
+        {
+          "id": "zaf-maize-food-b1",
+          "title": "从颗粒到餐桌",
+          "text": "玉米可以经过研磨成为玉米粉，再与水一起烹调。在南非，pap 是常见的玉米粉食物名称之一，做法和稠度可以不同。它可能搭配蔬菜、豆类、肉或其他食物，但不是每个人每顿饭都吃同一种组合。"
+        },
+        {
+          "id": "zaf-maize-food-b2",
+          "title": "研磨改变了什么",
+          "text": "把玉米粒磨成粉，会改变它的颗粒大小。我们在厨房中看到的白色粉末，不能仅靠颜色判断原料；包装说明和可靠制作资料能提供更多线索。相似外观的面粉，也可能来自不同作物。"
+        },
+        {
+          "id": "zaf-maize-food-b3",
+          "title": "烹调还有许多选择",
+          "text": "加水多少、搅拌和加热方式会影响食物的口感。学习时可以比较食谱里的步骤，不必把一种做法宣布成唯一正确版本。真实烹调应由成人负责热水与炉火，儿童可以帮助读配料或排列步骤卡。"
+        },
+        {
+          "id": "zaf-maize-food-b4",
+          "title": "看见食物背后的人",
+          "text": "一顿饭到达餐桌前，可能经过种植、收获、加工、运输和售卖。想象把这些工作画成一条链：田里的作物与城市商店并不分离，许多人的劳动把它们连接起来。食物也让我们认识城乡之间的联系。"
+        },
+        {
+          "id": "zaf-maize-food-b5",
+          "title": "留一道自己的问题",
+          "text": "请把“玉米粒—玉米粉—烹调后的食物”按顺序讲出来，再问一个新问题：为什么不同家庭会用不同搭配？回答需要具体食谱或当事人的介绍。一个常见食物可以打开一扇窗，却装不下整个国家的饮食。"
+        }
+      ],
+      "term": "研磨",
+      "definition": "把较大的颗粒磨成较小颗粒的过程。",
+      "glossary": [
+        {
+          "term": "研磨",
+          "definition": "把较大的颗粒磨成较小颗粒的过程。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.southafrica.net/na/en/travel/article/traditional-african-food-in-south-africa"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "zaf-c07"
+    },
+    {
+      "id": "zaf-recipe-diversity",
+      "countryId": "zaf",
+      "sectionId": "food",
+      "title": "一道菜能代表整个国家吗？",
+      "summary": "旅行介绍常用一道菜吸引我们，但一个国家有很多家庭、地区和饮食习惯。",
+      "mediaId": "zaf-food",
+      "blocks": [
+        {
+          "id": "zaf-recipe-diversity-b1",
+          "title": "认识一个例子",
+          "text": "旅行介绍常用一道菜吸引我们，但一个国家有很多家庭、地区和饮食习惯。介绍南非的玉米粉食物时，可以说“这是常见食物之一”；如果说“所有南非人每天只吃这一种”，范围就被夸大了。"
+        },
+        {
+          "id": "zaf-recipe-diversity-b2",
+          "title": "食谱写了哪些信息",
+          "text": "一份清楚的食谱会说明名称、原料、分量和步骤，有时还会介绍作者与家庭背景。今天的文字练习给出三个字段：“名称：玉米粉粥；原料：玉米粉、水；说明：一种练习配方”。这里没有声称它是全国统一食谱。"
+        },
+        {
+          "id": "zaf-recipe-diversity-b3",
+          "title": "观察和推断分开",
+          "text": "从这张配方卡，可以直接读出使用了玉米粉与水，却不能推出每个家庭都会这样做。照片也一样：一桌饭菜能帮助认识这顿饭，但无法证明其他家庭的菜单。结论要和材料能够支持的范围相称。"
+        },
+        {
+          "id": "zaf-recipe-diversity-b4",
+          "title": "相同名称也会变化",
+          "text": "同名食物可能因家庭偏好、材料获得方式或场合而不同。了解变化时，先问是谁、在哪里、什么时候制作，再比较做法。不要把差别当成谁“不正宗”的证据，也不要用食物偏好给人分等级。"
+        },
+        {
+          "id": "zaf-recipe-diversity-b5",
+          "title": "收集两份介绍",
+          "text": "找两份来源明确的食物介绍，列出一个相同点和一个不同点。再检查自己的话：是在描述两份资料，还是偷偷把它们说成整个国家？把范围说清楚，既能看见共同之处，也能尊重具体生活的丰富变化。"
+        }
+      ],
+      "term": "配方",
+      "definition": "说明原料及搭配方法的资料。",
+      "glossary": [
+        {
+          "term": "配方",
+          "definition": "说明原料及搭配方法的资料。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.southafrica.net/na/en/travel/article/traditional-african-food-in-south-africa"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "diagram": "zaf-recipe",
+      "exerciseId": "zaf-p03"
+    },
+    {
+      "id": "zaf-fruit-journey",
+      "countryId": "zaf",
+      "sectionId": "food",
+      "title": "一颗水果从哪里来？",
+      "summary": "南非种植多种水果，一些进入当地市场，一些运往其他地区。",
+      "mediaId": "zaf-hero",
+      "blocks": [
+        {
+          "id": "zaf-fruit-journey-b1",
+          "title": "水果也会旅行",
+          "text": "南非种植多种水果，一些进入当地市场，一些运往其他地区。你在商店看见一颗水果时，它已经经过一段旅程。果园到货架之间，可能有采摘、分级、包装、储存和运输等环节，而不只是一次搬运。"
+        },
+        {
+          "id": "zaf-fruit-journey-b2",
+          "title": "先看标签再猜路线",
+          "text": "产地标签可以提供一个起点，但通常不会画出完整运输路线。写着南非产，并不能告诉你它来自哪座果园，也不能证明一定乘过某一艘船。要了解更细的路线，需要批次、供应商或物流资料。"
+        },
+        {
+          "id": "zaf-fruit-journey-b3",
+          "title": "季节影响什么",
+          "text": "水果生长和收获与品种、地区及季节有关。南非位于南半球，季节时间与北半球许多地方不同。可是“南半球”本身仍不能告诉我们每一种水果哪一天成熟，还要看具体地区和种植条件。"
+        },
+        {
+          "id": "zaf-fruit-journey-b4",
+          "title": "保存也是旅程的一部分",
+          "text": "采下来的水果仍会发生变化。适当的包装、温度与运输安排，可以影响到达时的状态。观察外观能发现颜色或损伤，却不能单凭一张照片判断全部运输过程，更不能据此断定食品质量的所有方面。"
+        },
+        {
+          "id": "zaf-fruit-journey-b5",
+          "title": "画一条有问号的路线",
+          "text": "在观察本里画“果园—包装—运输—商店”，给有证据的环节写上来源，没有证据的地方标问号。最后写一个想继续查的问题。这条路线不必一次填满；知道缺少什么资料，本身就是一次有价值的发现。"
+        }
+      ],
+      "term": "供应链",
+      "definition": "从生产到送达使用者的一系列环节。",
+      "glossary": [
+        {
+          "term": "供应链",
+          "definition": "从生产到送达使用者的一系列环节。"
+        }
+      ],
+      "sourceUrls": [
+        "https://fruitsa.co.za/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "activity": {
+        "id": "zaf-o03",
+        "type": "open",
+        "title": "一颗水果从哪里来？",
+        "prompt": "在观察本里画“果园—包装—运输—商店”，给有证据的环节写上来源，没有证据的地方标问号。最后写一个想继续查的问题。这条路线不必一次填满；知道缺少什么资料，本身就是一次有价值的发现。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "zaf-hero"
+        ],
+        "suggestedArticleIds": [
+          "zaf-fruit-journey"
+        ]
+      }
+    },
+    {
+      "id": "zaf-bead-patterns",
+      "countryId": "zaf",
+      "sectionId": "culture",
+      "title": "小珠子怎样排出图案？",
+      "summary": "南非的珠饰作品可以呈现丰富的颜色、排列和手艺。",
+      "mediaId": "zaf-mountains",
+      "blocks": [
+        {
+          "id": "zaf-bead-patterns-b1",
+          "title": "先看重复和变化",
+          "text": "南非的珠饰作品可以呈现丰富的颜色、排列和手艺。认识一件具体作品时，需要查看制作社区、作者、年代和用途。不要把所有珠饰都归成一种，也不能只凭一个颜色就断定它在每个地方都有相同含义。"
+        },
+        {
+          "id": "zaf-bead-patterns-b2",
+          "title": "用原创图练习",
+          "text": "下方的蓝、橙、蓝、橙排列，是专门为学习“重复单元”设计的图案，不是复制某个社区的传统符号。最短的一组是蓝、橙；把这组接着排，就能预测后面应该出现什么颜色。"
+        },
+        {
+          "id": "zaf-bead-patterns-b3",
+          "title": "从形状走向资料",
+          "text": "如果在博物馆遇到真实珠饰，可以先描述看得见的形状和排列，再读说明牌。作品的意义需要结合具体资料与制作者的解释。我们自己的联想可以记录下来，但不能把它直接宣布成作品原本的意思。"
+        },
+        {
+          "id": "zaf-bead-patterns-b4",
+          "title": "试着改变规则",
+          "text": "保持蓝、橙交替是一种规则；改成蓝、蓝、橙，又是另一种规则。你可以用纸片设计两条不同的序列，让家人找规律。记得把自己的作品标作原创练习，不给它随意冠上某个民族的传统名称。"
+        },
+        {
+          "id": "zaf-bead-patterns-b5",
+          "title": "为作品补一张卡",
+          "text": "写下作品名称、材料、作者和制作日期，再加一句“我采用的重复规则”。这张小卡会让别人更容易理解你的设计。以后看真实工艺品时，你也会知道：除了漂亮与否，还有许多值得认真询问的信息。"
+        }
+      ],
+      "term": "重复单元",
+      "definition": "一个图案中反复出现的最小一组。",
+      "glossary": [
+        {
+          "term": "重复单元",
+          "definition": "一个图案中反复出现的最小一组。"
+        }
+      ],
+      "sourceUrls": [
+        "https://web.prm.ox.ac.uk/LGweb/beads/1987_25_25.htm"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "diagram": "zaf-patterns",
+      "exerciseId": "zaf-p04"
+    },
+    {
+      "id": "zaf-shared-rhythm",
+      "countryId": "zaf",
+      "sectionId": "culture",
+      "title": "一起拍出四个节拍",
+      "summary": "南非的音乐世界包含多种风格与创作者，不能用一个节奏概括全国。",
+      "mediaId": "zaf-city",
+      "blocks": [
+        {
+          "id": "zaf-shared-rhythm-b1",
+          "title": "声音有很多样子",
+          "text": "南非的音乐世界包含多种风格与创作者，不能用一个节奏概括全国。今天不模仿某种传统仪式，而是做一个原创的四拍回应练习，体验人们怎样倾听、等待和一起完成有规律的声音。"
+        },
+        {
+          "id": "zaf-shared-rhythm-b2",
+          "title": "先保持相同间隔",
+          "text": "轻轻数“一、二、三、四”，让四个数字之间的间隔相同。你可以拍手，也可以只用手指点桌面。节拍像共同的时间框架，帮助大家知道什么时候开始、什么时候轮到下一位；它不要求声音很大。"
+        },
+        {
+          "id": "zaf-shared-rhythm-b3",
+          "title": "轮流而不是抢先",
+          "text": "请一位家人先拍四下，你等待，再用相同间隔回应。接着交换顺序。如果有人停顿，不必嘲笑，可以一起重新数拍。合作不是每个人永远做完全相同的事，而是注意到彼此，知道自己怎样参与。"
+        },
+        {
+          "id": "zaf-shared-rhythm-b4",
+          "title": "图案与节拍的联系",
+          "text": "蓝、橙交替的图案是在空间里重复，均匀的四拍是在时间里重复。两者都可以帮助我们发现规则，但它们不是同一种材料。你可以把拍手记为一个符号，把休息记为另一个，再清楚写出图例。"
+        },
+        {
+          "id": "zaf-shared-rhythm-b5",
+          "title": "记录你的尝试",
+          "text": "在观察本里记下用了哪种声音、每轮几拍、什么时候最容易一起开始。也可以写“我只用视觉提示参与”。如果以后学习具体南非音乐作品，再查作者、场合和来源，让真正的作品拥有自己的名字与背景。"
+        }
+      ],
+      "term": "节拍",
+      "definition": "音乐中有规律的时间单位。",
+      "glossary": [
+        {
+          "term": "节拍",
+          "definition": "音乐中有规律的时间单位。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/sports-arts-and-culture"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "diagram": "zaf-patterns",
+      "activity": {
+        "id": "zaf-o04",
+        "type": "open",
+        "title": "一起拍出四个节拍",
+        "prompt": "在观察本里记下用了哪种声音、每轮几拍、什么时候最容易一起开始。也可以写“我只用视觉提示参与”。如果以后学习具体南非音乐作品，再查作者、场合和来源，让真正的作品拥有自己的名字与背景。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "zaf-city"
+        ],
+        "suggestedArticleIds": [
+          "zaf-shared-rhythm"
+        ]
+      }
+    },
+    {
+      "id": "zaf-sports-rules",
+      "countryId": "zaf",
+      "sectionId": "culture",
+      "title": "一起玩，也要一起懂规则",
+      "summary": "南非有足球、橄榄球、板球等体育活动，也有人喜欢其他运动。",
+      "mediaId": "zaf-city",
+      "blocks": [
+        {
+          "id": "zaf-sports-rules-b1",
+          "title": "比赛先约定什么",
+          "text": "南非有足球、橄榄球、板球等体育活动，也有人喜欢其他运动。不同项目的规则不同，同一项目也可能有适合儿童的练习形式。喜欢哪种运动是个人选择，不能因为国籍就替每个人决定兴趣。"
+        },
+        {
+          "id": "zaf-sports-rules-b2",
+          "title": "公平需要可理解的规则",
+          "text": "开始一个游戏前，先说明目标、边界、轮流顺序和怎样计分。如果一部分人根本没有听清规则，直接开始很容易产生误会。可以用清楚的文字、示范动作或其他合适方式，让参与者知道怎样加入。"
+        },
+        {
+          "id": "zaf-sports-rules-b3",
+          "title": "合作和竞争都重要",
+          "text": "团队活动既可能有输赢，也需要配合。有人传球、有人接应，有人负责提醒时间。没有得分不等于没有贡献；观察一场活动时，可以寻找不同角色怎样帮助团队，而不只盯着最后的数字。"
+        },
+        {
+          "id": "zaf-sports-rules-b4",
+          "title": "规则可以一起改进",
+          "text": "在原创课堂游戏里，如果场地太小或参与者需要不同帮助，可以先讨论再调整规则。重要的是让变化公开、让所有人理解，而不是比赛中偷偷只给一个人特殊标准。正式赛事则要遵守相应组织公布的规则。"
+        },
+        {
+          "id": "zaf-sports-rules-b5",
+          "title": "带走一个判断方法",
+          "text": "比较两种安排：一种在开始前清楚说明轮流方法，另一种随时由某个人改变得分。哪种更容易让大家理解和参与？说出理由，比只选“赢的一方”更有意思。体育也能成为学习沟通与公平的机会。"
+        }
+      ],
+      "term": "规则",
+      "definition": "大家共同遵守的活动约定。",
+      "glossary": [
+        {
+          "term": "规则",
+          "definition": "大家共同遵守的活动约定。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/sports-arts-and-culture"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "zaf-c08"
+    },
+    {
+      "id": "zaf-table-mountain",
+      "countryId": "zaf",
+      "sectionId": "landmarks",
+      "title": "桌山真的像一张桌子吗？",
+      "summary": "从开普敦的一些方向看，桌山的山顶轮廓较平，因而有了让人联想到桌面的名字。",
+      "mediaId": "zaf-hero",
+      "blocks": [
+        {
+          "id": "zaf-table-mountain-b1",
+          "title": "一条特别的山顶线",
+          "text": "从开普敦的一些方向看，桌山的山顶轮廓较平，因而有了让人联想到桌面的名字。先看照片里的远处轮廓，再找山坡、城市和海水。名字可以帮助记忆，但山当然不是人工造出的一张大桌子。"
+        },
+        {
+          "id": "zaf-table-mountain-b2",
+          "title": "视角会改变形状",
+          "text": "换一个拍摄地点，山的轮廓、前景和遮挡都会变化。照片中看起来相邻的建筑与山坡，也可能相隔很远。要知道位置关系，可以回到地图；要了解实际高度和地质，则需要测量或专业资料。"
+        },
+        {
+          "id": "zaf-table-mountain-b3",
+          "title": "山与城市相伴",
+          "text": "桌山紧邻开普敦的城市环境。这里提醒我们，自然景观与城市生活并不总是分成两块互不相干的世界。照片中可以同时出现山体、道路、建筑和海岸，我们可以分别观察，再研究它们怎样联系。"
+        },
+        {
+          "id": "zaf-table-mountain-b4",
+          "title": "云不是固定桌布",
+          "text": "有时山顶会被云覆盖，人们会用“桌布”作形象比喻。但云会随着天气变化，不是每天都固定在同一位置。单张照片没有云，并不能证明山顶从不会有云；有云的照片，也不能说明全年天气一样。"
+        },
+        {
+          "id": "zaf-table-mountain-b5",
+          "title": "给照片写准确说明",
+          "text": "你可以写“从海湾方向望向桌山，山前可见城市”，再检查照片来源是否支持你的描述。如果画面中没有某个细节，就不要加进去。把形象的名字、可见的景象与需要查证的知识分开，会让介绍更清楚。"
+        }
+      ],
+      "term": "轮廓",
+      "definition": "从某个方向看到的外部边缘。",
+      "glossary": [
+        {
+          "term": "轮廓",
+          "definition": "从某个方向看到的外部边缘。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sanparks.org/parks/table-mountain"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-table-mountain",
+      "exerciseId": "zaf-l03"
+    },
+    {
+      "id": "zaf-two-cities",
+      "countryId": "zaf",
+      "sectionId": "landmarks",
+      "title": "约翰内斯堡和开普敦在哪里？",
+      "summary": "开普敦位于南非西南部海岸附近，约翰内斯堡位于东北方向的内陆高原。",
+      "mediaId": "zaf-city",
+      "blocks": [
+        {
+          "id": "zaf-two-cities-b1",
+          "title": "两座城市两种位置",
+          "text": "开普敦位于南非西南部海岸附近，约翰内斯堡位于东北方向的内陆高原。先在地图上找到两座城市，再看它们周围有没有海岸。即使两张照片都有高楼，地理位置也不会因此变得一样。"
+        },
+        {
+          "id": "zaf-two-cities-b2",
+          "title": "远景提供哪些线索",
+          "text": "开普敦照片里可以看见海湾与山体；本页约翰内斯堡照片记录了2006年的城市天际线。两张图片的拍摄时间、方向和光线都不同，不能用它们直接比较今天两座城市的繁忙程度或居民生活水平。"
+        },
+        {
+          "id": "zaf-two-cities-b3",
+          "title": "城市内部也很多样",
+          "text": "每座城市都有不同区域，住宅、商业、交通与公共空间可能呈现不同样子。天际线只记录远处的建筑轮廓。想了解街道上的生活，还需要具体街区的资料，而不能把远景想象成每个人的日常。"
+        },
+        {
+          "id": "zaf-two-cities-b4",
+          "title": "距离不只看屏幕",
+          "text": "地图缩放会改变两座城市在屏幕上看起来的间距，但真实位置没有改变。交通路线也未必沿两点之间的直线。学习地图时，先回答“在什么方向”“沿海还是内陆”，再用合适资料研究距离与交通。"
+        },
+        {
+          "id": "zaf-two-cities-b5",
+          "title": "完成一张比较卡",
+          "text": "给两座城市各写一条地图能支持的信息，再各写一个照片没有回答的问题。比如“开普敦靠近海岸”是位置判断；“所有居民每天看海”却不是。这样的比较卡，比把城市简单分成好坏更有帮助。"
+        }
+      ],
+      "term": "内陆",
+      "definition": "远离海岸的陆地区域。",
+      "glossary": [
+        {
+          "term": "内陆",
+          "definition": "远离海岸的陆地区域。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/south-africa-glance"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-johannesburg",
+      "exerciseId": "zaf-l04"
+    },
+    {
+      "id": "zaf-port-links",
+      "countryId": "zaf",
+      "sectionId": "landmarks",
+      "title": "港口怎样连接陆地和海洋？",
+      "summary": "开普敦是一座海港城市。",
+      "mediaId": "zaf-hero",
+      "blocks": [
+        {
+          "id": "zaf-port-links-b1",
+          "title": "沿着海岸看城市",
+          "text": "开普敦是一座海港城市。港口把陆上的运输与海上的运输连接起来，船、码头、仓储与道路可能共同完成不同工作。照片若只显示远处海湾，就不能据此点出每一处具体设施；先看清画面实际包含什么。"
+        },
+        {
+          "id": "zaf-port-links-b2",
+          "title": "货物不是自己移动的",
+          "text": "一件货物可能先由陆路送到港区，再经过检查、装卸和船运，到另一处港口继续旅程。实际步骤因货物和路线而异。学习时可以把环节画成概念流程，但不要把自己画的箭头当作一艘真实船的航迹。"
+        },
+        {
+          "id": "zaf-port-links-b3",
+          "title": "船的用途各不相同",
+          "text": "港口附近可能出现货船、客船或其他船只。远景里一个小白点不够清楚时，我们无法可靠判断船型，更不能猜出它运载什么。需要近景、船舶资料或明确说明，才能把观察推进一步。"
+        },
+        {
+          "id": "zaf-port-links-b4",
+          "title": "交通也连接工作",
+          "text": "港口的活动涉及许多岗位与规则，例如装卸、维修、调度和运输。认识地标时，不只看建筑漂亮与否，也可以问它怎样服务城市。港口与居民生活有联系，但不是每位城市居民都在港口工作。"
+        },
+        {
+          "id": "zaf-port-links-b5",
+          "title": "画出一段联系",
+          "text": "在观察本写“我看见的海岸线索”，再画一条从陆地到海上的概念路线。给不确定的环节标问号。如果你想知道某件商品是否经过开普敦港，下一步应找具体运输资料，而不是只凭产地名称猜测。"
+        }
+      ],
+      "term": "港口",
+      "definition": "连接水上与陆上运输的场所。",
+      "glossary": [
+        {
+          "term": "港口",
+          "definition": "连接水上与陆上运输的场所。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.transnetnationalportsauthority.net/OurPorts/Cape%20Town/Pages/Overview.aspx"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-cape-town",
+      "activity": {
+        "id": "zaf-o05",
+        "type": "open",
+        "title": "港口怎样连接陆地和海洋？",
+        "prompt": "在观察本写“我看见的海岸线索”，再画一条从陆地到海上的概念路线。给不确定的环节标问号。如果你想知道某件商品是否经过开普敦港，下一步应找具体运输资料，而不是只凭产地名称猜测。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "zaf-hero"
+        ],
+        "suggestedArticleIds": [
+          "zaf-port-links"
+        ]
+      }
+    },
+    {
+      "id": "zaf-african-penguins",
+      "countryId": "zaf",
+      "sectionId": "nature",
+      "title": "企鹅为什么住在南非海边？",
+      "summary": "看到企鹅，你也许先想到南极。",
+      "mediaId": "zaf-penguin-close",
+      "blocks": [
+        {
+          "id": "zaf-african-penguins-b1",
+          "title": "企鹅不只住冰雪世界",
+          "text": "看到企鹅，你也许先想到南极。其实不同企鹅生活在不同地区。南非海岸能见到非洲企鹅，博尔德斯一带是认识它们的公开观察地点。这里有海水、沙滩和花岗岩巨石，并不是一片常年冰雪世界。",
+          "mediaId": "zaf-penguins"
+        },
+        {
+          "id": "zaf-african-penguins-b2",
+          "title": "海里寻找食物",
+          "text": "非洲企鹅在海中游泳，捕食鱼类等食物。翅膀在水中帮助它们运动。照片记录它们某一刻的姿态，但不能仅凭站立的位置判断刚吃了多少鱼。要了解食性，应把照片和可靠的动物资料放在一起。"
+        },
+        {
+          "id": "zaf-african-penguins-b3",
+          "title": "岸上也很重要",
+          "text": "企鹅会回到陆地休息、换羽和繁殖。适合的岸边空间与海里的食物都属于生活条件，保护企鹅不能只看动物本身。图解用“海中觅食—岸上活动—减少干扰”帮助理解联系，不标出具体巢穴位置。"
+        },
+        {
+          "id": "zaf-african-penguins-b4",
+          "title": "隔着步道观察",
+          "text": "博尔德斯的观察步道帮助人们观看企鹅并减少干扰。不要触碰、投喂或追赶它们，也不要为拍照挡住通道。动物没有靠近我们，不代表它“不友好”；给它保留活动空间，才更容易看到自然行为。"
+        },
+        {
+          "id": "zaf-african-penguins-b5",
+          "title": "从可见细节开始",
+          "text": "请在照片中找黑白羽毛、岩石与沙地，再完成观察题。你可以描述这些细节，却不能从一张照片数出整个地区的企鹅数量。最后写一个新问题：如果海里食物变少，岸上的保护为什么仍然不够？"
+        }
+      ],
+      "term": "栖息地",
+      "definition": "动物生活、觅食和繁殖所需的环境。",
+      "glossary": [
+        {
+          "term": "栖息地",
+          "definition": "动物生活、觅食和繁殖所需的环境。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/boulders-penguin-colony"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-boulders",
+      "diagram": "zaf-penguin-home",
+      "exerciseId": "zaf-p05"
+    },
+    {
+      "id": "zaf-grassland-links",
+      "countryId": "zaf",
+      "sectionId": "nature",
+      "title": "草原上的食物怎样连接？",
+      "summary": "在草原照片里，大动物很容易吸引注意，草和其他植物却同样重要。",
+      "mediaId": "zaf-kruger",
+      "blocks": [
+        {
+          "id": "zaf-grassland-links-b1",
+          "title": "先把植物放进画面",
+          "text": "在草原照片里，大动物很容易吸引注意，草和其他植物却同样重要。植物通过光合作用生长，一些动物以植物为食，另一些动物捕食动物。认识生态时，不能只记住几个名字，还要观察它们之间的联系。"
+        },
+        {
+          "id": "zaf-grassland-links-b2",
+          "title": "箭头是什么意思",
+          "text": "下方简化图使用“草→食草动物→捕食者”，箭头表示食物与能量传递的大致方向。它不是动物行走路线，也不是说每一只动物在每一天都发生同一件事。先读图例，才能读懂箭头在讲什么。"
+        },
+        {
+          "id": "zaf-grassland-links-b3",
+          "title": "真实联系更复杂",
+          "text": "一种动物可能吃多种食物，也可能被不止一种动物捕食。植物与动物死亡后，分解过程还会参与物质循环。因此，三格示意只是入门，真实生态更像一张有许多连接的网，而不是一条孤零零的线。"
+        },
+        {
+          "id": "zaf-grassland-links-b4",
+          "title": "水和环境也参与",
+          "text": "动物除了食物，还需要水和适合的活动空间。雨季、旱季和栖息地变化都可能影响它们。单张照片中草色偏黄，不能直接证明发生了长期灾害；还需要拍摄日期、季节和其他记录。"
+        },
+        {
+          "id": "zaf-grassland-links-b5",
+          "title": "用问题继续观察",
+          "text": "在克鲁格公开游览区域的资料里，先找植物，再找动物及其环境。不要把地图点当作某只动物的实时位置。完成练习后，试着提出“如果一种食物减少，哪些连接可能受影响”，并说明还需要什么资料。"
+        }
+      ],
+      "term": "食物网",
+      "definition": "生物之间多种食物关系组成的网络。",
+      "glossary": [
+        {
+          "term": "食物网",
+          "definition": "生物之间多种食物关系组成的网络。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sanparks.org/parks/kruger"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-kruger",
+      "diagram": "zaf-food-web",
+      "exerciseId": "zaf-c09"
+    },
+    {
+      "id": "zaf-wetland-water",
+      "countryId": "zaf",
+      "sectionId": "nature",
+      "title": "湿地为什么不只是一个水坑？",
+      "summary": "伊西曼加利索湿地公园位于南非东部沿海。",
+      "mediaId": "zaf-wetland",
+      "blocks": [
+        {
+          "id": "zaf-wetland-water-b1",
+          "title": "水和陆地交错",
+          "text": "伊西曼加利索湿地公园位于南非东部沿海。这里有湖泊、湿地、沙丘与海岸等不同环境。湿地不是只有一块毫无变化的水面，它与周围陆地、河流和海洋之间存在许多联系，能为不同生物提供生活空间。"
+        },
+        {
+          "id": "zaf-wetland-water-b2",
+          "title": "水会从哪里来",
+          "text": "降雨、河流和地下水等可能参与湿地的水分补给；与海相连的地方还会受到海洋影响。具体湖泊的盐度与水位需要查当地记录。不能看到水面就认定全部是淡水，也不能因为靠海就说所有水都一样咸。"
+        },
+        {
+          "id": "zaf-wetland-water-b3",
+          "title": "环境变化影响生命",
+          "text": "植物、鱼类和鸟类对环境有不同需要。有的在浅水活动，有的利用岸边植被。观察时可以先记录水、植物与动物的位置关系，再提出它们怎样联系的问题，不必急着给每一种生物都起一个不确定的名字。"
+        },
+        {
+          "id": "zaf-wetland-water-b4",
+          "title": "读懂关系图",
+          "text": "图解把降雨、河流与湿地联系起来，帮助我们追踪水的来去。箭头不是某一天的实测流量。水位和盐度会变化，若想比较两个时期，就应使用有日期、地点和方法说明的记录，而不是只凭照片颜色。"
+        },
+        {
+          "id": "zaf-wetland-water-b5",
+          "title": "去地图东侧寻找",
+          "text": "在南非地图中找靠近印度洋的一侧，再找到伊西曼加利索的公开代表点。本页重点介绍南非境内的湿地；相关世界遗产也涉及与莫桑比克的跨境保护联系。保护自然，有时需要邻国一起合作。"
+        }
+      ],
+      "term": "湿地",
+      "definition": "水与陆地环境相互作用的重要生态区域。",
+      "glossary": [
+        {
+          "term": "湿地",
+          "definition": "水与陆地环境相互作用的重要生态区域。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/914/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-isimangaliso",
+      "diagram": "zaf-wetland",
+      "exerciseId": "zaf-l05"
+    },
+    {
+      "id": "zaf-mapungubwe-story",
+      "countryId": "zaf",
+      "sectionId": "history",
+      "title": "小物件怎样讲述古老联系？",
+      "summary": "马蓬古布韦位于南非北部，靠近林波波河与沙舍河相汇的地区。",
+      "mediaId": "zaf-mapungubwe",
+      "blocks": [
+        {
+          "id": "zaf-mapungubwe-story-b1",
+          "title": "北部的一片文化景观",
+          "text": "马蓬古布韦位于南非北部，靠近林波波河与沙舍河相汇的地区。这里的遗址帮助我们认识大约公元900年至1300年间南部非洲社会的发展。它提醒我们，南非的历史并不是从近代城市建成才开始。"
+        },
+        {
+          "id": "zaf-mapungubwe-story-b2",
+          "title": "遗址不只是一件宝物",
+          "text": "研究者会关注聚落位置、居住遗迹、器物以及它们的出土关系。一个物件很吸引人，但如果不知道发现地点和周围材料，就容易失去重要线索。历史研究需要把多个证据放在一起，而不是只挑最闪亮的一件。"
+        },
+        {
+          "id": "zaf-mapungubwe-story-b3",
+          "title": "交换让远方相连",
+          "text": "马蓬古布韦的考古材料显示当地与更广阔的贸易网络存在联系。理解这种联系，需要研究器物材料、制作方式与来源。不能仅凭一种颜色或形状，就宣布某件物品一定来自某个遥远国家。"
+        },
+        {
+          "id": "zaf-mapungubwe-story-b4",
+          "title": "地图和时间一起用",
+          "text": "在地图上先找北部河流附近的位置，再把这段历史放到时间线上。地图回答“在哪里”，时间线帮助区分“先后”。这两种工具互相补充，但时间线上的简短文字仍然只是进入故事的入口。"
+        },
+        {
+          "id": "zaf-mapungubwe-story-b5",
+          "title": "像研究者一样提问",
+          "text": "如果博物馆展出一件小器物，你想知道什么？可以问它在哪里出土、用什么材料制成、年代怎样判断。不要编造没有来源的人物对话来替代证据。真实历史即使留有空白，也值得我们耐心了解。"
+        }
+      ],
+      "term": "考古",
+      "definition": "通过遗存及其关系研究过去的人类活动。",
+      "glossary": [
+        {
+          "term": "考古",
+          "definition": "通过遗存及其关系研究过去的人类活动。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1099/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-mapungubwe",
+      "diagram": "zaf-history",
+      "exerciseId": "zaf-c10"
+    },
+    {
+      "id": "zaf-robben-island",
+      "countryId": "zaf",
+      "sectionId": "history",
+      "title": "罗本岛为什么值得记住？",
+      "summary": "罗本岛位于开普敦外海。",
+      "mediaId": "zaf-robben",
+      "blocks": [
+        {
+          "id": "zaf-robben-island-b1",
+          "title": "从海上看一座岛",
+          "text": "罗本岛位于开普敦外海。它在不同历史时期有过多种用途，其中作为监禁政治犯的地方尤其重要。今天认识这里，不能只把它看成一处海景，也要了解建筑背后的人和他们经历的制度。"
+        },
+        {
+          "id": "zaf-robben-island-b2",
+          "title": "一种不公平的制度",
+          "text": "南非曾实行种族隔离制度，人们因被划分的种族类别而受到不平等对待，居住、行动和参与政治等权利受到限制。这样的制度是不公平的。讲述这段历史，不需要让孩子扮演被歧视者来感受伤害。"
+        },
+        {
+          "id": "zaf-robben-island-b3",
+          "title": "许多人争取改变",
+          "text": "纳尔逊·曼德拉和许多其他人参与反对种族隔离的努力。一些人因此被囚禁在罗本岛。改变来自许多人的长期行动与协商，不能把复杂历史简化成一个人独自完成的奇迹，也不能忽略普通人的经历。"
+        },
+        {
+          "id": "zaf-robben-island-b4",
+          "title": "建筑需要资料解释",
+          "text": "照片可能让我们看见墙、门和庭院，却不能单独说明每一个人的故事。博物馆记录、历史文件与当事人的讲述能够补充背景。阅读时留意谁在讲述、记录于何时，以及哪些部分已有证据支持。"
+        },
+        {
+          "id": "zaf-robben-island-b5",
+          "title": "记住尊重与权利",
+          "text": "在地图上找到罗本岛，再想一想：为什么一个国家会保存令人难过的历史地点？保存是为了理解过去、尊重经历并继续维护人的权利。你可以写下一个关于平等的问题，与家人一起讨论，不把苦难当成游戏。"
+        }
+      ],
+      "term": "平等权利",
+      "definition": "人应得到尊重，不因种族等身份遭受不平等对待。",
+      "glossary": [
+        {
+          "term": "平等权利",
+          "definition": "人应得到尊重，不因种族等身份遭受不平等对待。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/916/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-robben-island",
+      "diagram": "zaf-history",
+      "exerciseId": "zaf-l06"
+    },
+    {
+      "id": "zaf-voting-1994",
+      "countryId": "zaf",
+      "sectionId": "history",
+      "title": "1994年，投票带来什么变化？",
+      "summary": "1994年4月，南非举行首次不分种族的民主全国选举。",
+      "mediaId": "zaf-robben",
+      "blocks": [
+        {
+          "id": "zaf-voting-1994-b1",
+          "title": "把时间拨到1994年",
+          "text": "1994年4月，南非举行首次不分种族的民主全国选举。这是走出种族隔离制度的重要节点。此前，许多人因为不平等制度而无法平等参与国家政治；这次选举扩大了共同决定国家未来的参与。"
+        },
+        {
+          "id": "zaf-voting-1994-b2",
+          "title": "一张选票表达选择",
+          "text": "投票是按照规则表达选择的一种方式。它不是比谁声音大，也不是由旁人替每个人决定。认识选举时，可以先理解“合资格选民”“选择”和“计票”这些基本概念，而不必把复杂程序都一次记下来。"
+        },
+        {
+          "id": "zaf-voting-1994-b3",
+          "title": "改变有一段过程",
+          "text": "选举不是凭空出现的。长期争取、社会行动和谈判共同推动了变化。阅读时间线时，要注意事件之间的先后，也要知道简短节点省略了很多人的劳动。一个日期能帮助记忆，却不能代替全部历史。"
+        },
+        {
+          "id": "zaf-voting-1994-b4",
+          "title": "权利需要继续维护",
+          "text": "一次重要选举并不意味着所有生活困难马上消失。法律、公共服务与社会参与仍需要持续建设。介绍历史时，可以肯定重要进步，同时避免说成“从那天起每个人的一切问题都自动解决了”。"
+        },
+        {
+          "id": "zaf-voting-1994-b5",
+          "title": "从班级的小事思考",
+          "text": "在班级选择活动时，你可以练习先说明规则、听取意见，再按约定作决定。这不是复制国家选举，而是理解参与和尊重的入门活动。最后说出1994年的关键变化：更多人能够不受种族排除地参与民主选择。"
+        }
+      ],
+      "term": "选举",
+      "definition": "按规则通过投票作出公共选择的过程。",
+      "glossary": [
+        {
+          "term": "选举",
+          "definition": "按规则通过投票作出公共选择的过程。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.parliament.gov.za/index.php/press-releases/statement-presiding-officers-parliament-25-years-our-democracy"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "zaf-c11"
+    },
+    {
+      "id": "zaf-lesotho",
+      "countryId": "zaf",
+      "sectionId": "questions",
+      "title": "为什么南非地图里有另一个国家？",
+      "summary": "放大南非地图，你会发现东部内陆有一块单独标出的地区，那是莱索托。",
+      "mediaId": "zaf-mountains",
+      "blocks": [
+        {
+          "id": "zaf-lesotho-b1",
+          "title": "看见地图里的空白",
+          "text": "放大南非地图，你会发现东部内陆有一块单独标出的地区，那是莱索托。它的陆地边界被南非包围，却是一个独立国家。地图把它画成不同区域，是在表达国界，不是绘图时漏填了一块颜色。"
+        },
+        {
+          "id": "zaf-lesotho-b2",
+          "title": "包围不等于属于",
+          "text": "判断国家范围，要看正式国界与国家名称，不能只看它是不是被另一个国家围着。莱索托有自己的国家身份。南非东北部附近的埃斯瓦蒂尼也独立存在，但它还与莫桑比克相邻，位置关系并不相同。"
+        },
+        {
+          "id": "zaf-lesotho-b3",
+          "title": "自然环境跨过国界",
+          "text": "山脉和河流不会因为画了一条国界就突然停止。马洛蒂—德拉肯斯山世界遗产跨越南非与莱索托，两国可以一起保护相连的自然与文化景观。这说明自然范围和国家范围常常不是同一条线。"
+        },
+        {
+          "id": "zaf-lesotho-b4",
+          "title": "检查地图的画法",
+          "text": "切换地图图层时，国界应继续清楚可辨。地形阴影可以跨越国界，代表山地连续；南非的国家填色却不应把莱索托吞进去。观察这两个不同图层，可以练习分清自然信息与行政信息。"
+        },
+        {
+          "id": "zaf-lesotho-b5",
+          "title": "用一句话讲明白",
+          "text": "试着向家人说明：“莱索托被南非陆地包围，但不是南非的一部分。”接着再补一句山脉可以跨越国界。把两层意思都说清楚，你就掌握了一个很有用的地图方法：相邻、包围和归属不是一回事。"
+        }
+      ],
+      "term": "独立国家",
+      "definition": "拥有自己国家身份的政治实体。",
+      "glossary": [
+        {
+          "term": "独立国家",
+          "definition": "拥有自己国家身份的政治实体。"
+        }
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/985/"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "exerciseId": "zaf-c12"
+    },
+    {
+      "id": "zaf-tracks-evidence",
+      "countryId": "zaf",
+      "sectionId": "questions",
+      "title": "看到脚印，就知道是谁来了吗？",
+      "summary": "在自然观察中，脚印可能提供动物经过的线索，但不是看到一个模糊印子就能确定动物名称。",
+      "mediaId": "zaf-kruger",
+      "blocks": [
+        {
+          "id": "zaf-tracks-evidence-b1",
+          "title": "线索和答案有距离",
+          "text": "在自然观察中，脚印可能提供动物经过的线索，但不是看到一个模糊印子就能确定动物名称。形状、大小、排列、地面条件和地点都可能影响判断。可靠识别往往需要多条线索共同支持。"
+        },
+        {
+          "id": "zaf-tracks-evidence-b2",
+          "title": "先描述再命名",
+          "text": "可以先写“看见几个凹痕”“间隔大约怎样”“边缘是否清楚”。没有尺度参照时，不要把照片上的大小直接当作现实尺寸。光线和拍摄角度也会改变视觉印象，模糊处应明确标为不确定。"
+        },
+        {
+          "id": "zaf-tracks-evidence-b3",
+          "title": "本页照片告诉什么",
+          "text": "本页使用克鲁格景观照片提供环境背景，并没有声称画面中存在可辨认的动物脚印。练习的目标是选择可靠的调查方法，而不是从一张没有足够细节的图片里猜出动物。材料缺少线索时，可以暂时不下结论。"
+        },
+        {
+          "id": "zaf-tracks-evidence-b4",
+          "title": "怎样增加证据",
+          "text": "若在允许观察的地方发现痕迹，可以在成人或专业人员陪同下记录位置、尺度与连续足迹，并查询可靠识别资料。不要为了追踪而离开规定区域，也不要把学习地图当成动物的实时定位工具。"
+        },
+        {
+          "id": "zaf-tracks-evidence-b5",
+          "title": "保留一个问号",
+          "text": "比较两种做法：一种只看模糊照片就宣布答案；另一种补充尺度、地点与更多痕迹后再判断。第二种可能慢一点，却更能解释理由。观察本里的问号不是失败，它标记着下一次可以继续寻找的证据。"
+        }
+      ],
+      "term": "线索",
+      "definition": "帮助进一步调查、还需结合其他材料的信息。",
+      "glossary": [
+        {
+          "term": "线索",
+          "definition": "帮助进一步调查、还需结合其他材料的信息。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sanparks.org/parks/kruger"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-kruger",
+      "exerciseId": "zaf-p06"
+    },
+    {
+      "id": "zaf-seen-guessed",
+      "countryId": "zaf",
+      "sectionId": "questions",
+      "title": "我看见的，和我猜的是一回事吗？",
+      "summary": "再看一次博尔德斯的企鹅照片。",
+      "mediaId": "zaf-penguin-close",
+      "blocks": [
+        {
+          "id": "zaf-seen-guessed-b1",
+          "title": "从一张照片开始",
+          "text": "再看一次博尔德斯的企鹅照片。岩石、沙地和黑白羽毛是画面里可以寻找的细节；企鹅此刻在想什么、接下来会去哪里，则不能直接从静止照片中读出。把两类信息分开，会让我们的观察更清楚。",
+          "mediaId": "zaf-penguins"
+        },
+        {
+          "id": "zaf-seen-guessed-b2",
+          "title": "第一栏写看见",
+          "text": "在“我看见”里，尽量写可以指给别人看的内容。例如“几只企鹅站在岩石旁”，比“企鹅今天很开心”更容易被共同检查。如果数量或位置看不清，就说明限制，不必为了让句子完整而补出细节。"
+        },
+        {
+          "id": "zaf-seen-guessed-b3",
+          "title": "第二栏写猜想",
+          "text": "在“我猜想”里，可以提出一个可能解释，并写出依据。例如“它们也许在岸上休息，因为现在站在陆地上”。猜想不等于事实；同一姿态可能有别的解释，所以句子里可以保留“也许”和“还需观察”。"
+        },
+        {
+          "id": "zaf-seen-guessed-b4",
+          "title": "第三栏写问题",
+          "text": "在“我还想知道”里，问一个能够继续找证据的问题，例如“观察更长时间后，它们会不会走向海里”。然后想想该使用连续观察、动物资料还是其他材料。问题越具体，下一步就越容易安排。"
+        },
+        {
+          "id": "zaf-seen-guessed-b5",
+          "title": "把发现保存下来",
+          "text": "写好后保存观察记录。以后读到新资料，可以回来补充或修改。学习不是让第一次猜想永远正确，而是愿意根据证据更新理解。现在选一个你最感兴趣的南非地点，把这种方法带到下一次探索中。"
+        }
+      ],
+      "term": "猜想",
+      "definition": "需要用证据检验的一种可能解释。",
+      "glossary": [
+        {
+          "term": "猜想",
+          "definition": "需要用证据检验的一种可能解释。"
+        }
+      ],
+      "sourceUrls": [
+        "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/boulders-penguin-colony"
+      ],
+      "readingMinutes": 3,
+      "revision": 1,
+      "schemaVersion": 1,
+      "locale": "zh-CN",
+      "updatedAt": "2026-11-11",
+      "reviewStatus": "sourceChecked",
+      "placeId": "zaf-boulders",
+      "activity": {
+        "id": "zaf-o06",
+        "type": "open",
+        "title": "我看见的，和我猜的是一回事吗？",
+        "prompt": "写好后保存观察记录。以后读到新资料，可以回来补充或修改。学习不是让第一次猜想永远正确，而是愿意根据证据更新理解。现在选一个你最感兴趣的南非地点，把这种方法带到下一次探索中。",
+        "fields": [
+          "我看见",
+          "我猜想",
+          "我还想知道"
+        ],
+        "mediaIds": [
+          "zaf-penguin-close",
+          "zaf-penguins"
+        ],
+        "suggestedArticleIds": [
+          "zaf-seen-guessed"
+        ]
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "zaf-cape-town",
+      "countryId": "zaf",
+      "name": "开普敦",
+      "category": "人文",
+      "latitude": -33.925,
+      "longitude": 18.424,
+      "region": "西南海岸",
+      "summary": "海湾、城市与山体相伴。",
+      "description": "把海岸与城市放在同一幅地图上，找一条连接陆地和海洋的线索。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-hero"
+      ],
+      "sourceUrl": "https://www.transnetnationalportsauthority.net/OurPorts/Cape%20Town/Pages/Overview.aspx",
+      "aliases": [
+        "Cape Town",
+        "开普敦"
+      ],
+      "articleIds": [
+        "zaf-find-south-africa",
+        "zaf-country-region",
+        "zaf-market-label",
+        "zaf-port-links"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-table-mountain",
+      "countryId": "zaf",
+      "name": "桌山",
+      "category": "人文",
+      "latitude": -33.962,
+      "longitude": 18.41,
+      "region": "开普敦",
+      "summary": "从城市方向观察平顶轮廓。",
+      "description": "山顶轮廓随视角变化；山体不是完全平整的桌面。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-hero"
+      ],
+      "sourceUrl": "https://www.sanparks.org/parks/table-mountain",
+      "aliases": [
+        "Table Mountain",
+        "Tafelberg",
+        "桌山"
+      ],
+      "articleIds": [
+        "zaf-table-mountain"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-boulders",
+      "countryId": "zaf",
+      "name": "博尔德斯企鹅观察区",
+      "category": "自然",
+      "latitude": -34.197,
+      "longitude": 18.451,
+      "region": "开普半岛",
+      "summary": "花岗岩巨石与非洲企鹅。",
+      "description": "点位为公开观赏区域的概略位置，不提供具体巢穴。沿规定步道观察，不投喂、不触碰。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-penguin-close",
+        "zaf-penguins"
+      ],
+      "sourceUrl": "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/boulders-penguin-colony",
+      "aliases": [
+        "Boulders",
+        "Foxy Beach",
+        "企鹅"
+      ],
+      "articleIds": [
+        "zaf-african-penguins",
+        "zaf-seen-guessed"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-good-hope",
+      "countryId": "zaf",
+      "name": "好望角",
+      "category": "自然",
+      "latitude": -34.357,
+      "longitude": 18.497,
+      "region": "开普半岛",
+      "summary": "著名海角，位于厄加勒斯角以西。",
+      "description": "沿真实海岸比较位置：这里不是非洲大陆最南端。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-good-hope"
+      ],
+      "sourceUrl": "https://www.sanparks.org/parks/table-mountain",
+      "aliases": [
+        "Cape of Good Hope",
+        "好望角"
+      ],
+      "articleIds": [
+        "zaf-two-capes"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-agulhas",
+      "countryId": "zaf",
+      "name": "厄加勒斯角",
+      "category": "自然",
+      "latitude": -34.833,
+      "longitude": 20.0,
+      "region": "南部海岸",
+      "summary": "非洲大陆的最南端。",
+      "description": "大洋地理分界不等于固定可见的海水双色线。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-agulhas"
+      ],
+      "sourceUrl": "https://www.sanparks.org/parks/agulhas/explore/heritage/southernmost-tip-of-africa",
+      "aliases": [
+        "Cape Agulhas",
+        "阿古拉斯",
+        "厄加勒斯"
+      ],
+      "articleIds": [
+        "zaf-two-capes"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-drakensberg",
+      "countryId": "zaf",
+      "name": "德拉肯斯山",
+      "category": "自然",
+      "latitude": -28.752,
+      "longitude": 28.895,
+      "region": "东部山地",
+      "summary": "山地、谷地与水系。",
+      "description": "这是南非一侧公开山景的代表点；相关世界遗产跨南非与莱索托。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-mountains"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/985/",
+      "aliases": [
+        "Drakensberg",
+        "德拉肯斯",
+        "龙山"
+      ],
+      "articleIds": [
+        "zaf-coast-plateau",
+        "zaf-rainfall"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-kruger",
+      "countryId": "zaf",
+      "name": "克鲁格 · 斯库库扎公共区域",
+      "category": "自然",
+      "latitude": -24.995,
+      "longitude": 31.592,
+      "region": "东北部",
+      "summary": "从植物开始认识草原生态。",
+      "description": "代表点是公开访客区域，不是野生动物实时位置或巢穴位置。照片来自公园其他公开景观视角。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-kruger"
+      ],
+      "sourceUrl": "https://www.sanparks.org/parks/kruger",
+      "aliases": [
+        "Kruger",
+        "Skukuza",
+        "克鲁格"
+      ],
+      "articleIds": [
+        "zaf-grassland-links",
+        "zaf-tracks-evidence"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-isimangaliso",
+      "countryId": "zaf",
+      "name": "伊西曼加利索 · 圣卢西亚",
+      "category": "自然",
+      "latitude": -28.377,
+      "longitude": 32.414,
+      "region": "印度洋沿岸",
+      "summary": "河口、湿地与海岸环境相连。",
+      "description": "代表点位于公开河口区域；不表示保护区边界，也不标出动物繁殖地点。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-wetland"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/914/",
+      "aliases": [
+        "iSimangaliso",
+        "St Lucia",
+        "圣卢西亚",
+        "湿地"
+      ],
+      "articleIds": [
+        "zaf-wetland-water"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-johannesburg",
+      "countryId": "zaf",
+      "name": "约翰内斯堡",
+      "category": "人文",
+      "latitude": -26.204,
+      "longitude": 28.047,
+      "region": "内陆高原",
+      "summary": "内陆城市的天际线。",
+      "description": "照片拍摄于2006年，只记录当时的一个视角；不是今天全市生活的缩影。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-city"
+      ],
+      "sourceUrl": "https://www.gov.za/about-sa/south-africa-glance",
+      "aliases": [
+        "Johannesburg",
+        "Joburg",
+        "约堡"
+      ],
+      "articleIds": [
+        "zaf-languages",
+        "zaf-sign-language",
+        "zaf-photo-community",
+        "zaf-city-transfer",
+        "zaf-shared-spaces",
+        "zaf-two-cities"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-pretoria",
+      "countryId": "zaf",
+      "name": "比勒陀利亚",
+      "category": "人文",
+      "latitude": -25.74,
+      "longitude": 28.212,
+      "region": "豪登省",
+      "summary": "南非常用名片中的行政首都。",
+      "description": "代表点位于联合大厦一带；不要据此推断全部国家机构都集中于此。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-pretoria"
+      ],
+      "sourceUrl": "https://www.gov.za/about-sa/south-africa-glance",
+      "aliases": [
+        "Pretoria",
+        "Tshwane",
+        "比勒陀利亚"
+      ],
+      "articleIds": [
+        "zaf-three-capitals"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-mapungubwe",
+      "countryId": "zaf",
+      "name": "马蓬古布韦文化景观",
+      "category": "人文",
+      "latitude": -22.212,
+      "longitude": 29.388,
+      "region": "北部边境",
+      "summary": "古老聚落与远方联系的线索。",
+      "description": "位置、器物与出土关系共同帮助研究历史；不是只看一件珍宝。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-mapungubwe"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/1099/",
+      "aliases": [
+        "Mapungubwe",
+        "马蓬古布韦",
+        "马蓬古布韦"
+      ],
+      "articleIds": [
+        "zaf-mapungubwe-story"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    },
+    {
+      "id": "zaf-robben-island",
+      "countryId": "zaf",
+      "name": "罗本岛",
+      "category": "人文",
+      "latitude": -33.806,
+      "longitude": 18.368,
+      "region": "开普敦外海",
+      "summary": "保存关于自由与权利的历史。",
+      "description": "建筑、历史文件与当事人讲述互相补充；不是苦难角色扮演的场所。",
+      "observation": "先描述一条看得见的线索，再提出一个仍需查证的问题。",
+      "mediaIds": [
+        "zaf-robben"
+      ],
+      "sourceUrl": "https://whc.unesco.org/en/list/916/",
+      "aliases": [
+        "Robben Island",
+        "罗本岛",
+        "罗布恩岛"
+      ],
+      "articleIds": [
+        "zaf-robben-island"
+      ],
+      "coordinateSource": "WGS84 公开地点概略代表点，非范围边界、摄影机位或现场导航坐标。",
+      "hotspots": []
+    }
+  ],
+  "exercises": [
+    {
+      "id": "zaf-l01",
+      "countryId": "zaf",
+      "articleId": "zaf-find-south-africa",
+      "type": "location",
+      "question": "在世界地图上找到南非。",
+      "options": [
+        {
+          "id": "egypt",
+          "text": "埃及"
+        },
+        {
+          "id": "china",
+          "text": "中国"
+        },
+        {
+          "id": "zaf",
+          "text": "南非"
+        }
+      ],
+      "answerId": "zaf",
+      "hint": "再读「先找到非洲」，找一条证据。",
+      "explanation": "把世界地图缩小，先找赤道穿过的非洲。沿着这片大陆向南移动，靠近大陆南端的国家就是南非。它的英文名是 South Africa。名字中的“南”告诉我们大致方向，但要知道范围，仍然要看国界。",
+      "evidenceBlockIds": [
+        "zaf-find-south-africa-b1"
+      ],
+      "mapScope": "world"
+    },
+    {
+      "id": "zaf-c01",
+      "countryId": "zaf",
+      "articleId": "zaf-three-capitals",
+      "type": "choice",
+      "question": "哪句话与国家名片相符？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "全部法院都在布隆方丹"
+        },
+        {
+          "id": "option-3",
+          "text": "三个名称指同一座城市"
+        },
+        {
+          "id": "option-1",
+          "text": "不同国家职能由不同城市承担"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「还有重要的例外」，找一条证据。",
+      "explanation": "南非宪法法院位于约翰内斯堡。它提醒我们：一张简短的国家名片，装不下所有机构的实际位置。遇到“全国所有法院都在布隆方丹”这样的说法，就要停一下，找具体机构的资料来核对。",
+      "evidenceBlockIds": [
+        "zaf-three-capitals-b3"
+      ]
+    },
+    {
+      "id": "zaf-c02",
+      "countryId": "zaf",
+      "articleId": "zaf-country-region",
+      "type": "choice",
+      "question": "“南非”和“非洲南部”有什么区别？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "后者只指开普敦"
+        },
+        {
+          "id": "option-1",
+          "text": "前者是国家，后者是区域"
+        },
+        {
+          "id": "option-2",
+          "text": "两个词的范围始终完全相同"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「国界帮我们辨认」，找一条证据。",
+      "explanation": "在国家地图上，南非有明确绘出的国界。非洲南部却包含多个国家，具体讨论的范围还可能随地理、统计或组织的用途而变化。因此，看见一张写着“南部非洲”的图片，不能立刻认定它拍摄于南非。",
+      "evidenceBlockIds": [
+        "zaf-country-region-b2"
+      ]
+    },
+    {
+      "id": "zaf-c03",
+      "countryId": "zaf",
+      "articleId": "zaf-coast-plateau",
+      "type": "choice",
+      "question": "高原一定像桌面一样完全平吗？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "不，高原也有山丘和谷地"
+        },
+        {
+          "id": "option-2",
+          "text": "是，不能出现河谷"
+        },
+        {
+          "id": "option-3",
+          "text": "是，所有地方一样高"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「海边以外还有什么」，找一条证据。",
+      "explanation": "南非并不只有海滩和草原。离开海岸向内陆观察，可以遇到起伏的山地、陡崖和广阔高原。高原是海拔较高、范围较大的地形；它的表面仍然有山丘、谷地和河流，并不是一张完全平整的桌面。",
+      "evidenceBlockIds": [
+        "zaf-coast-plateau-b1"
+      ],
+      "diagram": "zaf-coast-plateau"
+    },
+    {
+      "id": "zaf-l02",
+      "countryId": "zaf",
+      "articleId": "zaf-two-capes",
+      "type": "location",
+      "question": "在地图上找到非洲大陆最南端。",
+      "options": [
+        {
+          "id": "zaf-cape-town",
+          "text": "开普敦"
+        },
+        {
+          "id": "zaf-agulhas",
+          "text": "厄加勒斯角"
+        },
+        {
+          "id": "zaf-good-hope",
+          "text": "好望角"
+        }
+      ],
+      "answerId": "zaf-agulhas",
+      "hint": "再读「两个海角先分开」，找一条证据。",
+      "explanation": "好望角很有名，但它不是非洲大陆的最南端。真正的大陆最南端是厄加勒斯角，位于好望角以东。两个地点都有岩石海岸和海风，照片看起来相似，名称和地图坐标却能帮助我们把它们分开。",
+      "evidenceBlockIds": [
+        "zaf-two-capes-b1"
+      ],
+      "mapScope": "country",
+      "diagram": "zaf-two-capes"
+    },
+    {
+      "id": "zaf-c04",
+      "countryId": "zaf",
+      "articleId": "zaf-rainfall",
+      "type": "choice",
+      "question": "比较两座城市的雨季，哪份材料更合适？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "今天的一张晴天照片"
+        },
+        {
+          "id": "option-3",
+          "text": "某位游客一次旅行的衣服"
+        },
+        {
+          "id": "option-1",
+          "text": "同一时期的逐月多年记录"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「怎样公平地比较」，找一条证据。",
+      "explanation": "假设我们想比较开普敦和约翰内斯堡的雨季，可以查同一时期的逐月降水记录。先读月份，再看降水量的单位；如果两张图纵轴不同，柱子看起来一样高，也未必表示雨量一样。比较前先检查图例。",
+      "evidenceBlockIds": [
+        "zaf-rainfall-b4"
+      ]
+    },
+    {
+      "id": "zaf-p01",
+      "countryId": "zaf",
+      "articleId": "zaf-languages",
+      "type": "observation",
+      "question": "两张语言卡表达什么？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "两座不同城市"
+        },
+        {
+          "id": "option-3",
+          "text": "两个人的国籍"
+        },
+        {
+          "id": "option-1",
+          "text": "同一个欢迎意思的不同语言表达"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「同一个意思不同表达」，找一条证据。",
+      "explanation": "下方语言卡是原创学习材料，把英语的“Welcome”和南非荷兰语的“Welkom”并排，帮助我们观察拼写。它不是某条街上实拍的路牌。两种文字都可以表达欢迎，但真实场合还要看完整语境。",
+      "evidenceBlockIds": [
+        "zaf-languages-b2"
+      ],
+      "mediaId": "zaf-city",
+      "diagram": "zaf-languages"
+    },
+    {
+      "id": "zaf-c05",
+      "countryId": "zaf",
+      "articleId": "zaf-sign-language",
+      "type": "choice",
+      "question": "南非第12种官方语言是？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "所有口语的简单逐字比划"
+        },
+        {
+          "id": "option-1",
+          "text": "南非手语"
+        },
+        {
+          "id": "option-2",
+          "text": "一种世界通用手势"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「成为官方语言」，找一条证据。",
+      "explanation": "2023年，南非手语成为南非第12种官方语言。这个变化让我们注意到：不同的人需要不同的沟通方式。看到旧资料写着11种时，要检查资料日期，不能把旧数字原封不动地当作今天的介绍。",
+      "evidenceBlockIds": [
+        "zaf-sign-language-b2"
+      ]
+    },
+    {
+      "id": "zaf-c06",
+      "countryId": "zaf",
+      "articleId": "zaf-city-transfer",
+      "type": "choice",
+      "question": "从虚构甲站去丙站，在哪站换乘？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "乙站"
+        },
+        {
+          "id": "option-2",
+          "text": "甲站"
+        },
+        {
+          "id": "option-3",
+          "text": "丙站"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「共同车站是关键」，找一条证据。",
+      "explanation": "从甲站去丙站，可以先沿蓝线到乙站，再在乙站换到橙线。乙站同时出现在两条线路中，是这道题的换乘点。线路图通常强调连接关系，站点之间画得一样远，不表示实际距离或车程相同。",
+      "evidenceBlockIds": [
+        "zaf-city-transfer-b3"
+      ],
+      "diagram": "zaf-transfer"
+    },
+    {
+      "id": "zaf-p02",
+      "countryId": "zaf",
+      "articleId": "zaf-market-label",
+      "type": "observation",
+      "question": "哪一个字段声明产地？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "②单位：千克"
+        },
+        {
+          "id": "option-1",
+          "text": "③产地：南非"
+        },
+        {
+          "id": "option-2",
+          "text": "①名称：苹果"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「三个字段各管什么」，找一条证据。",
+      "explanation": "名称告诉我们商品是什么；单位告诉我们按什么方式计量；产地说明这里声明的生产地点。一个字段不能代替另一个。例如，“苹果”没有告诉我们产地，“千克”也不是一座城市的名称。",
+      "evidenceBlockIds": [
+        "zaf-market-label-b2"
+      ],
+      "mediaId": "zaf-city",
+      "diagram": "zaf-market"
+    },
+    {
+      "id": "zaf-c07",
+      "countryId": "zaf",
+      "articleId": "zaf-maize-food",
+      "type": "choice",
+      "question": "哪组顺序符合玉米粉食物的制作过程？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "烹调→长出玉米→研磨"
+        },
+        {
+          "id": "option-3",
+          "text": "玉米粒→直接变成包装"
+        },
+        {
+          "id": "option-1",
+          "text": "玉米粒→研磨成粉→烹调"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「研磨改变了什么」，找一条证据。",
+      "explanation": "把玉米粒磨成粉，会改变它的颗粒大小。我们在厨房中看到的白色粉末，不能仅靠颜色判断原料；包装说明和可靠制作资料能提供更多线索。相似外观的面粉，也可能来自不同作物。",
+      "evidenceBlockIds": [
+        "zaf-maize-food-b2"
+      ]
+    },
+    {
+      "id": "zaf-p03",
+      "countryId": "zaf",
+      "articleId": "zaf-recipe-diversity",
+      "type": "observation",
+      "question": "从练习配方能直接读出什么？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "它使用玉米粉与水"
+        },
+        {
+          "id": "option-2",
+          "text": "全国每个家庭都用它"
+        },
+        {
+          "id": "option-3",
+          "text": "全国只有这一种食物"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「食谱写了哪些信息」，找一条证据。",
+      "explanation": "一份清楚的食谱会说明名称、原料、分量和步骤，有时还会介绍作者与家庭背景。今天的文字练习给出三个字段：“名称：玉米粉粥；原料：玉米粉、水；说明：一种练习配方”。这里没有声称它是全国统一食谱。",
+      "evidenceBlockIds": [
+        "zaf-recipe-diversity-b2"
+      ],
+      "mediaId": "zaf-food",
+      "diagram": "zaf-recipe"
+    },
+    {
+      "id": "zaf-p04",
+      "countryId": "zaf",
+      "articleId": "zaf-bead-patterns",
+      "type": "observation",
+      "question": "蓝、橙、蓝、橙之后，按同一规律是哪种颜色？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "绿色"
+        },
+        {
+          "id": "option-3",
+          "text": "橙色"
+        },
+        {
+          "id": "option-1",
+          "text": "蓝色"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「用原创图练习」，找一条证据。",
+      "explanation": "下方的蓝、橙、蓝、橙排列，是专门为学习“重复单元”设计的图案，不是复制某个社区的传统符号。最短的一组是蓝、橙；把这组接着排，就能预测后面应该出现什么颜色。",
+      "evidenceBlockIds": [
+        "zaf-bead-patterns-b2"
+      ],
+      "mediaId": "zaf-mountains",
+      "diagram": "zaf-patterns"
+    },
+    {
+      "id": "zaf-c08",
+      "countryId": "zaf",
+      "articleId": "zaf-sports-rules",
+      "type": "choice",
+      "question": "哪种安排更利于大家公平参与？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "只让声音最大的人决定"
+        },
+        {
+          "id": "option-1",
+          "text": "开始前说明并确认共同规则"
+        },
+        {
+          "id": "option-2",
+          "text": "比赛中偷偷改变计分"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「公平需要可理解的规则」，找一条证据。",
+      "explanation": "开始一个游戏前，先说明目标、边界、轮流顺序和怎样计分。如果一部分人根本没有听清规则，直接开始很容易产生误会。可以用清楚的文字、示范动作或其他合适方式，让参与者知道怎样加入。",
+      "evidenceBlockIds": [
+        "zaf-sports-rules-b2"
+      ]
+    },
+    {
+      "id": "zaf-l03",
+      "countryId": "zaf",
+      "articleId": "zaf-table-mountain",
+      "type": "location",
+      "question": "哪一个地点是开普敦附近的桌山？",
+      "options": [
+        {
+          "id": "zaf-table-mountain",
+          "text": "桌山"
+        },
+        {
+          "id": "zaf-drakensberg",
+          "text": "德拉肯斯山"
+        },
+        {
+          "id": "zaf-mapungubwe",
+          "text": "马蓬古布韦"
+        }
+      ],
+      "answerId": "zaf-table-mountain",
+      "hint": "再读「一条特别的山顶线」，找一条证据。",
+      "explanation": "从开普敦的一些方向看，桌山的山顶轮廓较平，因而有了让人联想到桌面的名字。先看照片里的远处轮廓，再找山坡、城市和海水。名字可以帮助记忆，但山当然不是人工造出的一张大桌子。",
+      "evidenceBlockIds": [
+        "zaf-table-mountain-b1"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "zaf-l04",
+      "countryId": "zaf",
+      "articleId": "zaf-two-cities",
+      "type": "location",
+      "question": "找到位于内陆高原的约翰内斯堡。",
+      "options": [
+        {
+          "id": "zaf-cape-town",
+          "text": "开普敦"
+        },
+        {
+          "id": "zaf-agulhas",
+          "text": "厄加勒斯角"
+        },
+        {
+          "id": "zaf-johannesburg",
+          "text": "约翰内斯堡"
+        }
+      ],
+      "answerId": "zaf-johannesburg",
+      "hint": "再读「两座城市两种位置」，找一条证据。",
+      "explanation": "开普敦位于南非西南部海岸附近，约翰内斯堡位于东北方向的内陆高原。先在地图上找到两座城市，再看它们周围有没有海岸。即使两张照片都有高楼，地理位置也不会因此变得一样。",
+      "evidenceBlockIds": [
+        "zaf-two-cities-b1"
+      ],
+      "mapScope": "country"
+    },
+    {
+      "id": "zaf-p05",
+      "countryId": "zaf",
+      "articleId": "zaf-african-penguins",
+      "type": "observation",
+      "question": "照片里可以直接观察哪种细节？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "整个地区的企鹅总数"
+        },
+        {
+          "id": "option-1",
+          "text": "黑白羽毛与周围岩石"
+        },
+        {
+          "id": "option-2",
+          "text": "每只企鹅刚吃了多少鱼"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「从可见细节开始」，找一条证据。",
+      "explanation": "请在照片中找黑白羽毛、岩石与沙地，再完成观察题。你可以描述这些细节，却不能从一张照片数出整个地区的企鹅数量。最后写一个新问题：如果海里食物变少，岸上的保护为什么仍然不够？",
+      "evidenceBlockIds": [
+        "zaf-african-penguins-b5"
+      ],
+      "mediaId": "zaf-penguin-close",
+      "diagram": "zaf-penguin-home"
+    },
+    {
+      "id": "zaf-c09",
+      "countryId": "zaf",
+      "articleId": "zaf-grassland-links",
+      "type": "choice",
+      "question": "图解“草→食草动物”的箭头表示什么？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "食物与能量传递方向"
+        },
+        {
+          "id": "option-2",
+          "text": "动物一定向右走"
+        },
+        {
+          "id": "option-3",
+          "text": "地图上唯一的道路"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「箭头是什么意思」，找一条证据。",
+      "explanation": "下方简化图使用“草→食草动物→捕食者”，箭头表示食物与能量传递的大致方向。它不是动物行走路线，也不是说每一只动物在每一天都发生同一件事。先读图例，才能读懂箭头在讲什么。",
+      "evidenceBlockIds": [
+        "zaf-grassland-links-b2"
+      ],
+      "diagram": "zaf-food-web"
+    },
+    {
+      "id": "zaf-l05",
+      "countryId": "zaf",
+      "articleId": "zaf-wetland-water",
+      "type": "location",
+      "question": "找到南非东部沿海的伊西曼加利索湿地。",
+      "options": [
+        {
+          "id": "zaf-mapungubwe",
+          "text": "马蓬古布韦"
+        },
+        {
+          "id": "zaf-isimangaliso",
+          "text": "伊西曼加利索"
+        },
+        {
+          "id": "zaf-robben-island",
+          "text": "罗本岛"
+        }
+      ],
+      "answerId": "zaf-isimangaliso",
+      "hint": "再读「水和陆地交错」，找一条证据。",
+      "explanation": "伊西曼加利索湿地公园位于南非东部沿海。这里有湖泊、湿地、沙丘与海岸等不同环境。湿地不是只有一块毫无变化的水面，它与周围陆地、河流和海洋之间存在许多联系，能为不同生物提供生活空间。",
+      "evidenceBlockIds": [
+        "zaf-wetland-water-b1"
+      ],
+      "mapScope": "country",
+      "diagram": "zaf-wetland"
+    },
+    {
+      "id": "zaf-c10",
+      "countryId": "zaf",
+      "articleId": "zaf-mapungubwe-story",
+      "type": "choice",
+      "question": "研究古物时，哪种做法更可靠？",
+      "options": [
+        {
+          "id": "option-2",
+          "text": "只看颜色猜来自哪里"
+        },
+        {
+          "id": "option-3",
+          "text": "编一个故事就当作历史"
+        },
+        {
+          "id": "option-1",
+          "text": "结合出土位置和多种证据"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「遗址不只是一件宝物」，找一条证据。",
+      "explanation": "研究者会关注聚落位置、居住遗迹、器物以及它们的出土关系。一个物件很吸引人，但如果不知道发现地点和周围材料，就容易失去重要线索。历史研究需要把多个证据放在一起，而不是只挑最闪亮的一件。",
+      "evidenceBlockIds": [
+        "zaf-mapungubwe-story-b2"
+      ],
+      "diagram": "zaf-history"
+    },
+    {
+      "id": "zaf-l06",
+      "countryId": "zaf",
+      "articleId": "zaf-robben-island",
+      "type": "location",
+      "question": "找到开普敦外海的罗本岛。",
+      "options": [
+        {
+          "id": "zaf-robben-island",
+          "text": "罗本岛"
+        },
+        {
+          "id": "zaf-boulders",
+          "text": "博尔德斯"
+        },
+        {
+          "id": "zaf-pretoria",
+          "text": "比勒陀利亚"
+        }
+      ],
+      "answerId": "zaf-robben-island",
+      "hint": "再读「从海上看一座岛」，找一条证据。",
+      "explanation": "罗本岛位于开普敦外海。它在不同历史时期有过多种用途，其中作为监禁政治犯的地方尤其重要。今天认识这里，不能只把它看成一处海景，也要了解建筑背后的人和他们经历的制度。",
+      "evidenceBlockIds": [
+        "zaf-robben-island-b1"
+      ],
+      "mapScope": "country",
+      "diagram": "zaf-history"
+    },
+    {
+      "id": "zaf-c11",
+      "countryId": "zaf",
+      "articleId": "zaf-voting-1994",
+      "type": "choice",
+      "question": "1994年选举的重要变化是什么？",
+      "options": [
+        {
+          "id": "option-3",
+          "text": "所有人只能选择同一个答案"
+        },
+        {
+          "id": "option-1",
+          "text": "不受种族排除地参与民主选择"
+        },
+        {
+          "id": "option-2",
+          "text": "所有生活困难当日自动消失"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「把时间拨到1994年」，找一条证据。",
+      "explanation": "1994年4月，南非举行首次不分种族的民主全国选举。这是走出种族隔离制度的重要节点。此前，许多人因为不平等制度而无法平等参与国家政治；这次选举扩大了共同决定国家未来的参与。",
+      "evidenceBlockIds": [
+        "zaf-voting-1994-b1"
+      ]
+    },
+    {
+      "id": "zaf-c12",
+      "countryId": "zaf",
+      "articleId": "zaf-lesotho",
+      "type": "choice",
+      "question": "莱索托与南非是什么关系？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "被南非陆地包围的独立国家"
+        },
+        {
+          "id": "option-2",
+          "text": "南非的一座城市"
+        },
+        {
+          "id": "option-3",
+          "text": "南非海岸的一处海湾"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「看见地图里的空白」，找一条证据。",
+      "explanation": "放大南非地图，你会发现东部内陆有一块单独标出的地区，那是莱索托。它的陆地边界被南非包围，却是一个独立国家。地图把它画成不同区域，是在表达国界，不是绘图时漏填了一块颜色。",
+      "evidenceBlockIds": [
+        "zaf-lesotho-b1"
+      ]
+    },
+    {
+      "id": "zaf-p06",
+      "countryId": "zaf",
+      "articleId": "zaf-tracks-evidence",
+      "type": "observation",
+      "question": "调查模糊脚印时，应怎样增加证据？",
+      "options": [
+        {
+          "id": "option-1",
+          "text": "补充尺度、地点和连续痕迹"
+        },
+        {
+          "id": "option-2",
+          "text": "只凭模糊照片立即猜名称"
+        },
+        {
+          "id": "option-3",
+          "text": "从远景照片编一个动物故事"
+        }
+      ],
+      "answerId": "option-1",
+      "hint": "再读「怎样增加证据」，找一条证据。",
+      "explanation": "若在允许观察的地方发现痕迹，可以在成人或专业人员陪同下记录位置、尺度与连续足迹，并查询可靠识别资料。不要为了追踪而离开规定区域，也不要把学习地图当成动物的实时定位工具。",
+      "evidenceBlockIds": [
+        "zaf-tracks-evidence-b4"
+      ],
+      "mediaId": "zaf-kruger"
+    }
+  ]
+}

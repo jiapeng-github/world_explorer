@@ -1,0 +1,564 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 5,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "119894339": {
+        "pageid": 119894339,
+        "ns": 6,
+        "title": "File:Murray River scenery, Yarrawonga, Victoria, Australia.jpg",
+        "index": 4,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 2690543,
+            "width": 4000,
+            "height": 3000,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg/1280px-Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 900,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg/3840px-Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg/1280px-Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 900,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg/3840px-Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Murray_River_scenery%2C_Yarrawonga%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Murray_River_scenery,_Yarrawonga,_Victoria,_Australia.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=119894339",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-06-29 13:17:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Murray River scenery, Yarrawonga, Victoria, Australia",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Murray River|Yarrawonga Regional Park|Yarrawonga, Victoria|Self-published work|Files with coordinates missing SDC location of creation|WLE2022 AU Final round|April 2022 in Victoria, Australia|Images from Wiki Loves Earth 2022 in Australia|Images from Wiki Loves Earth 2022|Images from Wiki Loves Earth missing SDC location of creation|Uploaded via Campaign:wle-au|Images from Wiki Loves Earth missing SDC inception|WLE2022 AU First round|WLE2022 AU VIC",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-35.984920",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "145.952257",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Murray River scenery, Yarrawonga, Victoria, Australia",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-04-28 17:40:42",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dancar79&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dancar79 (page does not exist)\">Dancar79</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "79640853": {
+        "pageid": 79640853,
+        "ns": 6,
+        "title": "File:Paddle steamers at Milang jetty on River Murray ca 1900 (SLSA B 59282).jpg",
+        "index": 3,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 652032,
+            "width": 1024,
+            "height": 712,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Paddle_steamers_at_Milang_jetty_on_River_Murray_ca_1900_%28SLSA_B_59282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1200,
+            "thumbheight": 834,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Paddle_steamers_at_Milang_jetty_on_River_Murray_ca_1900_%28SLSA_B_59282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 834
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Paddle_steamers_at_Milang_jetty_on_River_Murray_ca_1900_%28SLSA_B_59282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paddle_steamers_at_Milang_jetty_on_River_Murray_ca_1900_(SLSA_B_59282).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=79640853",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-06-12 03:29:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Paddle steamers at Milang jetty on River Murray ca 1900 (SLSA B 59282)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Lake Alexandrina, South Australia|CC-Zero|Murray River|Paddle steamers of Australia|Riverboats|Transport in South Australia|Template Unknown (author)|1900 in South Australia|Black and white photographs of South Australia|Files with coordinates missing SDC location of creation|Files from the State Library of South Australia|Milang, South Australia",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-35.408600",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "138.976800",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Paddle steamers (\"Queen\" and \"Tarella\", and another in the background) are moored at the jetty at Milang, on the River Murray, South Australia. A double-track, 1067 mm (3ft 6ins) gauge railway is on the jetty; a horse stands between the rails and two men nearby rest on a railway wagon. Buildings of Milang's riverfront street, Daranda Terrace, including a flour mill, hotel and butter factory, are in the background.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1900<div style=\"display: none;\">date QS:P,+1900-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "State Library of South Australia -- <a rel=\"nofollow\" class=\"external free\" href=\"https://collections.slsa.sa.gov.au/resource/B+59282\">https://collections.slsa.sa.gov.au/resource/B+59282</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "86861248": {
+        "pageid": 86861248,
+        "ns": 6,
+        "title": "File:River Murray(GN05748).jpg",
+        "index": 2,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1017531,
+            "width": 2448,
+            "height": 3264,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/River_Murray%28GN05748%29.jpg/1280px-River_Murray%28GN05748%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 1600,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/3/3d/River_Murray%28GN05748%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/River_Murray%28GN05748%29.jpg/1280px-River_Murray%28GN05748%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 1600,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/3d/River_Murray%28GN05748%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/River_Murray%28GN05748%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:River_Murray(GN05748).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86861248",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-02-10 05:55:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nRiver Murray</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "CC-Zero|Murray River|Uploaded by Htsa",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nCaptain Frank Hurley</div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "<div class=\"description\">\nA man stands at Lock Five, Renmark in the River Murray, South Australia. This image is a part of a series of photographs taken by Captain Frank Hurley in 1935.</div>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "circa 1935<div style=\"display: none;\">date QS:P571,+1935-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "The History Trust of South Australian,  South Australian Government <br> Photo <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://data.history.sa.gov.au/sagpc/media/preview/5087?maxsize=1000\">[1]</a> <br> Object record <a rel=\"nofollow\" class=\"external autonumber\" href=\"http://data.history.sa.gov.au/sagpc/getitem/5087\">[2]</a>",
+                "source": "commons-desc-page"
+              },
+              "Permission": {
+                "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border: 2px solid var(--border-color-subtle, #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "CC0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Zero, Public Domain Dedication",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "106497076": {
+        "pageid": 106497076,
+        "ns": 6,
+        "title": "File:Sunset over Rilli island north of Loxton,river Murray, South Australia.jpg",
+        "index": 1,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 213400,
+            "width": 720,
+            "height": 960,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sunset_over_Rilli_island_north_of_Loxton%2Criver_Murray%2C_South_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1200,
+            "thumbheight": 1600,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sunset_over_Rilli_island_north_of_Loxton%2Criver_Murray%2C_South_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 1600
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sunset_over_Rilli_island_north_of_Loxton%2Criver_Murray%2C_South_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sunset_over_Rilli_island_north_of_Loxton,river_Murray,_South_Australia.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106497076",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-06-12 00:14:24",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Sunset over Rilli island north of Loxton,river Murray, South Australia",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Murray River|Loxton, South Australia|Self-published work|Images from Wiki Loves Earth 2021 in Australia outside the competition|Uploaded via Campaign:wle-au",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Australia’s largest natural river system. Protecting the flora and fauna of this sensitive area.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-10-12",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Pythonoz&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Pythonoz (page does not exist)\">Pythonoz</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "105301509": {
+        "pageid": 105301509,
+        "ns": 6,
+        "title": "File:Town on the banks of the Murray River.jpg",
+        "index": 5,
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 250310,
+            "width": 1901,
+            "height": 900,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Town_on_the_banks_of_the_Murray_River.jpg/1280px-Town_on_the_banks_of_the_Murray_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 568,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/96/Town_on_the_banks_of_the_Murray_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Town_on_the_banks_of_the_Murray_River.jpg/1280px-Town_on_the_banks_of_the_Murray_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 568,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/96/Town_on_the_banks_of_the_Murray_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Town_on_the_banks_of_the_Murray_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Town_on_the_banks_of_the_Murray_River.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105301509",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2021-05-14 20:49:33",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Town on the banks of the Murray River",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Murray River|Self-published work|Images from Wiki Loves Earth 2021 in Australia outside the competition|Uploaded via Campaign:wle-au",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "very small lovely  town on the banks / cliffs of the Murray River. Outside competition: image too small",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "07/04/2021",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Andyr333&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Andyr333 (page does not exist)\">Andyr333</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
